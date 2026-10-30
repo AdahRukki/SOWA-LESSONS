@@ -245,3 +245,12 @@
 .curriculum-backup input[type=file]{display:block;margin-top:8px;max-width:100%;font-weight:400}
 .curriculum-backup button{padding:10px 14px;margin:5px 8px 5px 0;border:1px solid #1c527d;border-radius:7px;background:#1c527d;color:white;cursor:pointer}
 .curriculum-backup small{display:block;color:#5f7588;line-height:1.55}
+
+/* Legacy lesson migration — reviewed non-destructive copy */
+.legacy-migration{margin:18px 0;padding:20px;border:1px solid #d4dfe8;border-radius:12px;background:#fff}
+.legacy-migration h2{margin:0 0 10px}.legacy-migration p{font-size:13px;line-height:1.55}
+.legacy-migration-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:15px 0}
+.legacy-migration-grid label{font-size:13px;font-weight:600;display:flex;flex-direction:column;gap:7px}
+.legacy-migration-grid select{padding:10px;border:1px solid #c8d4e0;border-radius:7px;background:#fff;max-width:100%}
+.legacy-migration>button{padding:10px 14px;background:#14537e;border:1px solid #14537e;border-radius:7px;color:#fff}
+.legacy-migration>button:disabled{opacity:.5}.legacy-migration small{color:#687d8f}
