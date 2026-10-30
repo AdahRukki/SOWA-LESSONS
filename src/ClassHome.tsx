@@ -1,14 +1,15 @@
 import React,{useState} from 'react';
 import SchemeEditor from './SchemeEditor';
+import AcademicLessons from './AcademicLessons';
 import type {SchemeOfWork,AcademicSubject} from './academic';
 import SessionManager from './SessionManager';
 import CurriculumBackup from './CurriculumBackup';
 import LegacyMigration,{type LegacyProject} from './LegacyMigration';
 import SubjectManager from './SubjectManager';
 import {ACADEMIC_CLASSES,type ClassId,type AcademicLibrary} from './academic';
-type Props={library:AcademicLibrary;selected:ClassId|null;onSelect:(id:ClassId)=>void;onBack:()=>void;onOpenLegacy:()=>void;legacyCount:number;onLibraryChange:(next:AcademicLibrary)=>void;saved:boolean;saveError:string;onGenerate:(scheme:SchemeOfWork,subject:AcademicSubject)=>void;legacyProjects:LegacyProject[];onMigrate:(projectId:string,classId:ClassId,subjectId:string,term:import('./academic').Term,sessionId:string)=>void};
+type Props={library:AcademicLibrary;selected:ClassId|null;onSelect:(id:ClassId)=>void;onBack:()=>void;onOpenLegacy:()=>void;legacyCount:number;onLibraryChange:(next:AcademicLibrary)=>void;saved:boolean;saveError:string;onGenerate:(scheme:SchemeOfWork,subject:AcademicSubject)=>void;legacyProjects:LegacyProject[];onOpenLesson:(id:string)=>void;onMigrate:(projectId:string,classId:ClassId,subjectId:string,term:import('./academic').Term,sessionId:string)=>void};
 const groups=['Nursery','Primary','Junior Secondary','Senior Secondary'] as const;
-export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy,legacyCount,onLibraryChange,saved,saveError,onGenerate,legacyProjects,onMigrate}:Props){
+export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy,legacyCount,onLibraryChange,saved,saveError,onGenerate,legacyProjects,onMigrate,onOpenLesson}:Props){
  const [openedSubject,setOpenedSubject]=useState<string|null>(null);
  const [showSessions,setShowSessions]=useState(false);
  const [showBackups,setShowBackups]=useState(false);
@@ -21,6 +22,6 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
  {showBackups&&<CurriculumBackup library={library} onChange={onLibraryChange} legacyCount={legacyCount}/>}
  {showSessions&&<SessionManager library={library} onChange={onLibraryChange} classId={selected}/>}
  {!selected?<><div className="academic-intro"><h1>Select a Class</h1><p>Choose a class to view its subjects, three-term schemes of work and lesson notes.</p></div>{groups.map(group=><section key={group} className="class-group"><h2>{group}</h2><div className="class-card-grid">{ACADEMIC_CLASSES.filter(c=>c.stage===group).map(c=><button type="button" key={c.id} className="academic-class-card" onClick={()=>onSelect(c.id)}><span>{c.name}</span><small>Open class →</small></button>)}</div></section>)}</>:
- <><button className="academic-back" type="button" onClick={onBack}>← All classes</button><div className="academic-intro"><h1>{classInfo?.name}</h1><p>{session?.label||'Academic session'} · Subjects and schemes of work</p></div>{chosenSubject?<SchemeEditor library={library} subject={chosenSubject} onGenerate={onGenerate} onChange={onLibraryChange} onBack={()=>setOpenedSubject(null)}/>:<><SubjectManager library={library} classId={selected} onChange={onLibraryChange}/><section className="class-group"><h2>Scheme of Work</h2>{library.subjects.filter(x=>x.classId===selected&&x.active).map(x=><button key={x.id} type="button" onClick={()=>setOpenedSubject(x.id)}>{x.name} — Open schemes</button>)}</section></>}</>}
+ <><button className="academic-back" type="button" onClick={onBack}>← All classes</button><div className="academic-intro"><h1>{classInfo?.name}</h1><p>{session?.label||'Academic session'} · Subjects and schemes of work</p></div>{chosenSubject?<><AcademicLessons library={library} classId={chosenSubject.classId} subjectId={chosenSubject.id} lessons={legacyProjects} onOpen={onOpenLesson}/><SchemeEditor library={library} subject={chosenSubject} onGenerate={onGenerate} onChange={onLibraryChange} onBack={()=>setOpenedSubject(null)}/></>:<><SubjectManager library={library} classId={selected} onChange={onLibraryChange}/><section className="class-group"><h2>Scheme of Work</h2>{library.subjects.filter(x=>x.classId===selected&&x.active).map(x=><button key={x.id} type="button" onClick={()=>setOpenedSubject(x.id)}>{x.name} — Open schemes</button>)}</section></>}</>}
  </div>
 }
