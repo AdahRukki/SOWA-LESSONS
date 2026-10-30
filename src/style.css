@@ -133,9 +133,9 @@
 .sowa-figure img{max-width:100%;height:auto}
 .sowa-figure figcaption{text-align:center;font-size:.9em;color:#333;line-height:1.35;margin-top:6px}
 @media print{
- .print-week{counter-reset:sowafigure;break-before:page;page-break-before:always}
+ .print-only{counter-reset:sowaweek}.print-week{counter-increment:sowaweek;counter-reset:sowafigure;break-before:page;page-break-before:always}
  .print-lesson-body .sowa-figure{counter-increment:sowafigure;break-inside:avoid;page-break-inside:avoid}
- .print-lesson-body .sowa-figure figcaption::before{content:"Figure " attr(data-week) "." counter(sowafigure) ": ";font-weight:bold}
+ .print-lesson-body .sowa-figure figcaption::before{content:"Figure " counter(sowaweek) "." counter(sowafigure) ": ";font-weight:bold}
  .print-guide table,.print-lesson-body table{table-layout:auto}
  .print-guide thead,.print-lesson-body thead{display:table-header-group}
  .print-guide td,.print-guide th,.print-lesson-body td,.print-lesson-body th{overflow-wrap:anywhere}
