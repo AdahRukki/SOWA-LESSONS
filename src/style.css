@@ -117,3 +117,13 @@
 .export-actions{display:flex;gap:10px;flex-wrap:wrap}
 .export-actions button:disabled{opacity:.6;cursor:wait}
 .export-message{padding:10px 12px;background:#fff8e5;border:1px solid #ecd7a9;border-radius:7px;font-size:12px}
+
+/* Module 13 — image layout controls */
+.image-layout-controls{background:#fff;border:1px solid #e1ded6;border-radius:10px;padding:12px;display:flex;align-items:center;gap:13px;flex-wrap:wrap;margin:10px 0}
+.image-layout-controls strong{font-size:12px;color:#24415b}.image-layout-controls>span{font-size:11px;color:#798491}
+.image-layout-controls label{display:flex;align-items:center;gap:8px;font-size:12px}
+.image-align{display:flex;gap:4px}.image-align button{padding:6px 10px;border:1px solid #d1dce7;border-radius:5px;background:#f6f9fc;font-size:12px;text-transform:capitalize}
+.image-align button[aria-pressed="true"]{background:#d8ecff;color:#045a9a;border-color:#94c6ee}
+.lesson-body img{max-width:100%;height:auto;cursor:pointer}
+.lesson-body img.ProseMirror-selectednode{outline:3px solid #e1aa29;outline-offset:3px}
+@media print{.print-lesson-body img{max-width:100%!important;object-fit:contain;break-inside:avoid}}
