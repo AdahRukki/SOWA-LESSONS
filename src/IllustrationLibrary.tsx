@@ -1,0 +1,14 @@
+import React,{useState} from 'react';
+export type Illustration={id:string;description:string;caption:string;status:'pending'|'approved'|'rejected';image?:string};
+type Props={items:Illustration[];onChange:(items:Illustration[])=>void;onInsert:(image:string,caption:string)=>void};
+export default function IllustrationLibrary({items,onChange,onInsert}:Props){
+ const [description,setDescription]=useState('');
+ const [caption,setCaption]=useState('');
+ const add=()=>{if(!description.trim())return;onChange([...items,{id:crypto.randomUUID(),description:description.trim(),caption:caption.trim(),status:'pending'}]);setDescription('');setCaption('')};
+ const update=(id:string,patch:Partial<Illustration>)=>onChange(items.map(item=>item.id===id?{...item,...patch}:item));
+ const upload=(id:string,file?:File)=>{if(!file)return;if(!file.type.startsWith('image/')){alert('Select an image.');return}if(file.size>1200000){alert('For this early version, choose an image smaller than 1.2 MB.');return}const reader=new FileReader();reader.onload=()=>update(id,{image:String(reader.result)});reader.readAsDataURL(file)};
+ return <section className="illustration-library"><div className="illustration-header"><div><strong>Illustration Approval Library</strong><p>Suggestions stay pending until you approve them.</p></div><span>{items.filter(x=>x.status==='pending').length} pending</span></div>
+ <div className="illustration-compose"><label>Illustration description<textarea rows={2} value={description} placeholder="Example: Three examples of art — drawing, painting and beadwork" onChange={e=>setDescription(e.target.value)}/></label><label>Caption<input value={caption} placeholder="Figure 1.1: Forms of Art" onChange={e=>setCaption(e.target.value)}/></label><button type="button" onClick={add}>Add suggestion</button></div>
+ {items.map(item=><article className="illustration-item" key={item.id}><div className="illustration-summary"><strong>{item.description}</strong><span className={'illustration-status '+item.status}>{item.status}</span></div><label>Caption<input value={item.caption} onChange={e=>update(item.id,{caption:e.target.value})}/></label>{item.image&&<img alt={item.description} src={item.image}/>}<div className="illustration-controls"><label className="illustration-upload">Upload image<input type="file" accept="image/*" hidden onChange={e=>{upload(item.id,e.target.files?.[0]);e.target.value=''}}/></label><button onClick={()=>update(item.id,{status:'approved'})}>Approve</button><button onClick={()=>update(item.id,{status:'rejected'})}>Reject</button><button disabled={item.status!=='approved'||!item.image} onClick={()=>onInsert(item.image!,item.caption)}>Insert into lesson</button><button onClick={()=>onChange(items.filter(x=>x.id!==item.id))}>Remove</button></div></article>)}
+ <p className="illustration-note">Images are user-uploaded. Suggestions do not generate images automatically. Insertion requires approval.</p></section>;
+}
