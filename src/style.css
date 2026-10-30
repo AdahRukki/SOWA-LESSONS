@@ -210,3 +210,13 @@
 .session-table-wrap{overflow-x:auto}.session-table{width:100%;border-collapse:collapse;font-size:13px}
 .session-table td,.session-table th{padding:10px;text-align:left;border-bottom:1px solid #e2e6ec;white-space:nowrap}
 .session-table th{background:#f5f7fa}
+
+/* Module 6 — scheme import with human review */
+.scheme-import{margin:18px 0;border:1px solid #ccd9e4;border-radius:10px;padding:18px;background:#f8fafc}
+.scheme-import h3{margin:0 0 8px}.scheme-import p{font-size:13px;line-height:1.5}
+.scheme-import textarea{display:block;width:100%;box-sizing:border-box;margin:12px 0;padding:12px;border:1px solid #c8d5e0;border-radius:7px;font:inherit;resize:vertical}
+.scheme-import input[type=file]{display:block;margin:12px 0;max-width:100%}
+.scheme-import button{margin:8px 8px 8px 0;padding:10px 14px;border:1px solid #164c76;background:#164c76;color:white;border-radius:7px;cursor:pointer}
+.scheme-import button:disabled{opacity:.45;cursor:not-allowed}
+.scheme-import .session-table input{min-width:100px;width:100%;box-sizing:border-box;padding:7px;border:1px solid #cbd6e1;border-radius:5px}
+.scheme-import small{display:block;color:#677e8f;line-height:1.5}
