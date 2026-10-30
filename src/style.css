@@ -31,3 +31,9 @@
 .plan-add{background:#edf5fd;color:#07599e;border:1px solid #bdd7ec;border-radius:6px;padding:9px 12px;margin-top:9px}
 .plan-footer{font-size:11px;color:#798491;border-top:1px solid #ecebea;padding-top:11px}
 @media(max-width:760px){.plan-grid{grid-template-columns:1fr}.plan-panel{padding:12px}.plan-heading{flex-wrap:wrap}.guide-toggle{flex-wrap:wrap}}
+
+/* Module 6: offline-storage status and backup controls */
+.storage-warning{background:#fff0e9;border:1px solid #c65029;color:#883118;border-radius:8px;padding:12px 14px;margin-bottom:12px;font-size:13px}
+.import-backup{cursor:pointer;display:inline-flex;align-items:center}
+.meta .backup{white-space:nowrap}
+@media(max-width:750px){.meta{align-items:stretch}.meta .backup{margin-left:0}.import-backup{justify-content:center}}
