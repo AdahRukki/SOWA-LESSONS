@@ -37,3 +37,19 @@
 .import-backup{cursor:pointer;display:inline-flex;align-items:center}
 .meta .backup{white-space:nowrap}
 @media(max-width:750px){.meta{align-items:stretch}.meta .backup{margin-left:0}.import-backup{justify-content:center}}
+
+/* Module 7 — ChatGPT handoff */
+.ai-launch{display:flex;align-items:center;gap:14px;margin-bottom:12px;flex-wrap:wrap}
+.ai-launch button,.ai-actions button,.ai-bridge>button,.ai-preview button{background:#0a69ac;color:#fff;border:0;border-radius:7px;padding:10px 14px;font-weight:650}
+.ai-launch span{font-size:12px;color:#667487}
+.ai-bridge{background:#fff;border:1px solid #c8d8e8;border-radius:12px;padding:18px;margin-bottom:15px;display:grid;gap:12px}
+.ai-top{display:flex;justify-content:space-between;align-items:start;gap:12px}.ai-top strong{font-size:17px}.ai-top p{font-size:12px;color:#647385;margin:5px 0}
+.ai-top button{background:#f4f5f7;border:1px solid #ddd;border-radius:6px;padding:7px 11px}
+.ai-bridge label{display:grid;gap:6px;font-size:12px;font-weight:700}
+.ai-bridge textarea,.ai-bridge select{width:100%;border:1px solid #cfd8e2;border-radius:7px;padding:10px;font:13px/1.6 inherit;background:#fff}
+.ai-bridge textarea{font-family:system-ui,sans-serif;resize:vertical}
+.ai-actions{display:flex;gap:10px;flex-wrap:wrap}.ai-actions button:nth-child(2){background:#e4eef8;color:#0a5d9e}
+.ai-divider{border-top:1px solid #e6e9ee;padding-top:14px;color:#657488;letter-spacing:.6px;font-size:11px;font-weight:800}
+.ai-preview{background:#fff9e9;border:1px solid #e7c985;border-radius:8px;padding:14px}.ai-preview h3{margin:0 0 8px;font-size:15px}.ai-preview p,.ai-bridge small{font-size:12px;color:#667487}
+.ai-preview-text{white-space:pre-wrap;background:white;border:1px solid #e5dfcb;padding:12px;margin:10px 0;max-height:280px;overflow:auto;font-size:13px}
+.ai-bridge button:disabled{opacity:.45;cursor:not-allowed}
