@@ -6,7 +6,7 @@ export type PrintableWeek={id:string;title:string;content:string;plan?:LessonPla
 type Props={settings:PageSettings;onChange:(value:PageSettings)=>void;project:{name:string;className:string;subject:string;term:string;weeks:PrintableWeek[]}};
 export function DocumentSettings({settings,onChange,project}:Props){
  const [showPreview,setShowPreview]=useState(false);
- const set=<K extends keyof PageSettings>(key:K,value:PageSettings[K])=>onChange({...settings,[key]:value});
+ function set<K extends keyof PageSettings>(key:K,value:PageSettings[K]){onChange({...settings,[key]:value})}
  return <section className="print-settings"><div className="print-settings-title"><div><strong>Document-wide Formatting</strong><p>These settings apply to every week when printing. Original lesson text stays unchanged.</p></div><button onClick={()=>setShowPreview(v=>!v)}>{showPreview?'Hide':'Show'} contents preview</button></div>
  <div className="print-settings-grid">
  <label>Paper size<select value={settings.paper} onChange={e=>set('paper',e.target.value as PageSettings['paper'])}>{['A4','A5','Letter','Legal'].map(v=><option key={v}>{v}</option>)}</select></label>
