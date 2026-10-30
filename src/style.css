@@ -140,3 +140,9 @@
  .print-guide thead,.print-lesson-body thead{display:table-header-group}
  .print-guide td,.print-guide th,.print-lesson-body td,.print-lesson-body th{overflow-wrap:anywhere}
 }
+
+/* Module 15 — export validation */
+.preflight-button{justify-self:start;border:1px solid #aec8dd;border-radius:7px;padding:9px 13px;background:#eff6fc;color:#125987;font-weight:650}
+.preflight-results{background:#f8f8f8;border:1px solid #e0e3e7;border-radius:8px;padding:10px 14px;max-height:240px;overflow:auto}
+.preflight-results p{font-size:12px;line-height:1.6;margin:7px 0}
+.preflight-results strong{color:#8a4f20}
