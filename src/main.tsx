@@ -26,9 +26,11 @@ function App(){
  const [font,setFont]=useState(12);
  const [search,setSearch]=useState('');
  const imageInput=useRef<HTMLInputElement>(null);
+ const selectionRef=useRef({pid:'',wid:''});
  const project=projects.find(p=>p.id===pid)??projects[0];
  const week=project?.weeks.find(w=>w.id===wid)??project?.weeks[0];
- const editor=useEditor({extensions:[StarterKit.configure({heading:{levels:[1,2,3,4]}}),Image.configure({allowBase64:true}),Table.configure({resizable:true}),TableRow,TableHeader,TableCell],content:week?.content??'',editorProps:{attributes:{class:'lesson-body'}},onUpdate:({editor})=>{const html=editor.getHTML();setProjects(prev=>prev.map(p=>p.id!==project?.id?p:{...p,weeks:p.weeks.map(w=>w.id!==week?.id?w:{...w,content:html})}))}});
+ selectionRef.current={pid:project?.id??'',wid:week?.id??''};
+ const editor=useEditor({extensions:[StarterKit.configure({heading:{levels:[1,2,3,4]}}),Image.configure({allowBase64:true}),Table.configure({resizable:true}),TableRow,TableHeader,TableCell],content:week?.content??'',editorProps:{attributes:{class:'lesson-body'}},onUpdate:({editor})=>{const html=editor.getHTML();setProjects(prev=>prev.map(p=>p.id!==selectionRef.current.pid?p:{...p,weeks:p.weeks.map(w=>w.id!==selectionRef.current.wid?w:{...w,content:html})}))}});
  useEffect(()=>{if(editor && week && editor.getHTML()!==week.content)editor.commands.setContent(week.content,false)},[editor,week?.id,project?.id]);
  useEffect(()=>{setSaved(false);const t=setTimeout(()=>{try{localStorage.setItem(KEY,JSON.stringify(projects));localStorage.setItem(selectedKey,pid);setSaved(true)}catch{alert('Storage is full. Export a backup before adding more images.')}},500);return()=>clearTimeout(t)},[projects,pid]);
  useEffect(()=>{const on=()=>setOnline(navigator.onLine);addEventListener('online',on);addEventListener('offline',on);return()=>{removeEventListener('online',on);removeEventListener('offline',on)}},[]);
