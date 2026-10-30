@@ -220,3 +220,11 @@
 .scheme-import button:disabled{opacity:.45;cursor:not-allowed}
 .scheme-import .session-table input{min-width:100px;width:100%;box-sizing:border-box;padding:7px;border:1px solid #cbd6e1;border-radius:5px}
 .scheme-import small{display:block;color:#677e8f;line-height:1.5}
+
+/* Module 7 — scheme review and approval */
+.scheme-review{margin:14px 0;padding:14px;background:#f7fafc;border:1px solid #d2e0eb;border-radius:9px;display:flex;flex-wrap:wrap;gap:9px}
+.scheme-review>button{padding:9px 13px;border:1px solid #2b5f83;border-radius:7px;background:#fff;color:#174b6e;cursor:pointer}
+.scheme-review>button:last-of-type{background:#174b6e;color:#fff}
+.scheme-review>button:disabled{opacity:.45;cursor:not-allowed}
+.scheme-findings{width:100%;max-height:290px;overflow:auto;border-top:1px solid #dbe4ec;padding-top:8px}
+.scheme-findings p{font-size:13px;margin:7px 0;line-height:1.5}
