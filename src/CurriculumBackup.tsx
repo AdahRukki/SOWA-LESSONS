@@ -1,0 +1,14 @@
+import {useState,type ChangeEvent} from 'react';
+import type {AcademicLibrary} from './academic';
+import {makeCurriculumBackup,parseCurriculumBackup,mergeCurriculum} from './curriculumBackup';
+type Props={library:AcademicLibrary;onChange:(next:AcademicLibrary)=>void;legacyCount:number};
+export default function CurriculumBackup({library,onChange,legacyCount}:Props){
+ const [candidate,setCandidate]=useState<AcademicLibrary|null>(null);
+ const [filename,setFilename]=useState('');
+ const [message,setMessage]=useState('');
+ function download(){const blob=new Blob([makeCurriculumBackup(library)],{type:'application/json'});const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download='SOWA-Curriculum-Backup-'+new Date().toISOString().slice(0,10)+'.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),2000)}
+ async function load(e:ChangeEvent<HTMLInputElement>){const f=e.target.files?.[0];e.target.value='';setCandidate(null);if(!f)return;if(f.size>10*1024*1024){setMessage('Backup exceeds 10 MB.');return}try{const parsed=parseCurriculumBackup(await f.text());setCandidate(parsed);setFilename(f.name);setMessage('Backup validated. Review the counts before merging.')}catch(err){setMessage('Cannot read backup: '+(err instanceof Error?err.message:String(err)))}}
+ const preview=candidate?mergeCurriculum(library,candidate):null;
+ function restore(){if(!preview)return;if(!confirm('Add missing curriculum records from '+filename+'? Existing records will not be overwritten.'))return;onChange(preview.library);setCandidate(null);setMessage('Import queued for offline save. Added '+preview.added.sessions+' sessions, '+preview.added.subjects+' subjects, and '+preview.added.schemes+' schemes. Check the save status above.')}
+ return <section className="curriculum-backup"><h2>Curriculum backups and recovery</h2><p>Save an independent copy of all academic sessions, subjects and schemes. Existing lesson-note projects are stored separately.</p><button type="button" onClick={download}>Download curriculum backup (.json)</button><label>Restore curriculum from backup <input type="file" accept=".json,application/json" onChange={load}/></label>{candidate&&preview&&<div className="academic-empty"><p>{filename}: {candidate.sessions.length} sessions, {candidate.subjects.length} subjects, {candidate.schemes.length} schemes.</p><p>New records available: {preview.added.sessions} sessions, {preview.added.subjects} subjects, {preview.added.schemes} schemes.</p><button type="button" onClick={restore}>Merge missing records</button><button type="button" onClick={()=>setCandidate(null)}>Cancel</button></div>}<p role="status">{message}</p><small>Legacy lesson documents ({legacyCount}) are not altered or automatically linked. Use the existing editor to export their individual backups. Automatic mapping of old projects to class, subject and term is pending.</small></section>
+}
