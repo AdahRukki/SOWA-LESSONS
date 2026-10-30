@@ -112,3 +112,8 @@
  .print-lesson-body img{max-width:100%;height:auto;break-inside:avoid}
  .print-week p{orphans:2;widows:2}
 }
+
+/* Module 10 export controls */
+.export-actions{display:flex;gap:10px;flex-wrap:wrap}
+.export-actions button:disabled{opacity:.6;cursor:wait}
+.export-message{padding:10px 12px;background:#fff8e5;border:1px solid #ecd7a9;border-radius:7px;font-size:12px}
