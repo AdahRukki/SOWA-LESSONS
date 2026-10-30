@@ -127,3 +127,16 @@
 .lesson-body img{max-width:100%;height:auto;cursor:pointer}
 .lesson-body img.ProseMirror-selectednode{outline:3px solid #e1aa29;outline-offset:3px}
 @media print{.print-lesson-body img{max-width:100%!important;object-fit:contain;break-inside:avoid}}
+
+/* Module 14 — print figure labels and stable page sections */
+.sowa-figure{margin:16px 0;break-inside:avoid;page-break-inside:avoid}
+.sowa-figure img{max-width:100%;height:auto}
+.sowa-figure figcaption{text-align:center;font-size:.9em;color:#333;line-height:1.35;margin-top:6px}
+@media print{
+ .print-week{counter-reset:sowafigure;break-before:page;page-break-before:always}
+ .print-lesson-body .sowa-figure{counter-increment:sowafigure;break-inside:avoid;page-break-inside:avoid}
+ .print-lesson-body .sowa-figure figcaption::before{content:"Figure " attr(data-week) "." counter(sowafigure) ": ";font-weight:bold}
+ .print-guide table,.print-lesson-body table{table-layout:auto}
+ .print-guide thead,.print-lesson-body thead{display:table-header-group}
+ .print-guide td,.print-guide th,.print-lesson-body td,.print-lesson-body th{overflow-wrap:anywhere}
+}
