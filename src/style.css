@@ -236,3 +236,12 @@
 .coverage-panel .coverage-note{font-size:12px;color:#5c7184}
 .coverage-panel summary{cursor:pointer;font-weight:600;font-size:13px}
 .coverage-panel li{font-size:13px;margin:5px 0}
+
+/* Module 10 — curriculum backup and recovery */
+.curriculum-backup{margin:20px 0;padding:22px;background:#fff;border:1px solid #dce4eb;border-radius:12px}
+.curriculum-backup h2{font-size:19px;margin:0 0 10px}
+.curriculum-backup p{font-size:13px;line-height:1.55}
+.curriculum-backup>label{display:block;margin:15px 0;font-size:13px;font-weight:600}
+.curriculum-backup input[type=file]{display:block;margin-top:8px;max-width:100%;font-weight:400}
+.curriculum-backup button{padding:10px 14px;margin:5px 8px 5px 0;border:1px solid #1c527d;border-radius:7px;background:#1c527d;color:white;cursor:pointer}
+.curriculum-backup small{display:block;color:#5f7588;line-height:1.55}
