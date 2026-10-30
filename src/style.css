@@ -198,3 +198,15 @@
 .scheme-add-topic{display:flex;gap:9px;align-items:end}.scheme-add-topic input{margin-top:0;flex:1}
 .scheme-progress{font-size:13px;color:#61798d}
 @media(max-width:600px){.scheme-week-head,.scheme-topic-top,.scheme-add-topic{flex-direction:column;align-items:stretch}}
+
+/* Academic rebuild Module 5 — sessions and coverage */
+.session-manager{margin:18px 0;padding:20px;background:#fff;border:1px solid #dce4eb;border-radius:12px}
+.session-manager h2{margin:0 0 15px}.session-manager h3{font-size:16px;margin:22px 0 10px}
+.session-controls{display:flex;gap:12px;flex-wrap:wrap;align-items:end}
+.session-controls label{display:flex;flex-direction:column;gap:6px;font-size:13px;flex:1;min-width:160px}
+.session-controls select,.session-controls input{width:100%;box-sizing:border-box;padding:10px;border:1px solid #c7d3dd;border-radius:7px;background:white}
+.session-controls button{border:1px solid #124c79;border-radius:7px;padding:10px 14px;background:#124c79;color:#fff;cursor:pointer}
+.session-controls button:disabled{opacity:.45;cursor:not-allowed}
+.session-table-wrap{overflow-x:auto}.session-table{width:100%;border-collapse:collapse;font-size:13px}
+.session-table td,.session-table th{padding:10px;text-align:left;border-bottom:1px solid #e2e6ec;white-space:nowrap}
+.session-table th{background:#f5f7fa}
