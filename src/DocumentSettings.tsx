@@ -1,6 +1,7 @@
 import React,{useState} from 'react';
 import type {LessonPlan} from './TeacherGuide';
 import {downloadDocx} from './docxExport';
+import {inspectProject} from './exportPreflight';
 export type PageSettings={paper:'A4'|'A5'|'Letter'|'Legal';orientation:'portrait'|'landscape';fontFamily:string;fontSize:number;lineSpacing:number;marginMm:number;showGuide:boolean;showTOC:boolean};
 export const DEFAULT_SETTINGS:PageSettings={paper:'A4',orientation:'portrait',fontFamily:'Georgia',fontSize:12,lineSpacing:1.4,marginMm:18,showGuide:true,showTOC:true};
 export type PrintableWeek={id:string;title:string;content:string;plan?:LessonPlan};
@@ -9,7 +10,9 @@ export function DocumentSettings({settings,onChange,project}:Props){
  const [showPreview,setShowPreview]=useState(false);
  const [exporting,setExporting]=useState(false);
  const [exportMessage,setExportMessage]=useState('');
- async function exportWord(){setExporting(true);setExportMessage('');try{const result=await downloadDocx(project,settings);setExportMessage(result.warnings.length?result.warnings.join(' '):'Word document generated.')}catch(e){setExportMessage('Word export failed: '+(e instanceof Error?e.message:String(e)))}finally{setExporting(false)}}
+ const [showChecks,setShowChecks]=useState(false);
+ const issues=inspectProject(project,settings);
+ async function exportWord(){const errors=issues.filter(x=>x.severity==='error');if(errors.length){setShowChecks(true);setExportMessage('Fix required export errors before downloading.');return}setExporting(true);setExportMessage('');try{const result=await downloadDocx(project,settings);setExportMessage(result.warnings.length?result.warnings.join(' '):'Word document generated.')}catch(e){setExportMessage('Word export failed: '+(e instanceof Error?e.message:String(e)))}finally{setExporting(false)}}
  function set<K extends keyof PageSettings>(key:K,value:PageSettings[K]){onChange({...settings,[key]:value})}
  return <section className="print-settings"><div className="print-settings-title"><div><strong>Document-wide Formatting</strong><p>These settings apply to every week when printing. Original lesson text stays unchanged.</p></div><button onClick={()=>setShowPreview(v=>!v)}>{showPreview?'Hide':'Show'} contents preview</button></div>
  <div className="print-settings-grid">
@@ -22,7 +25,7 @@ export function DocumentSettings({settings,onChange,project}:Props){
  </div>
  <div className="print-checks"><label><input type="checkbox" checked={settings.showGuide} onChange={e=>set('showGuide',e.target.checked)}/> Include teacher's guide</label><label><input type="checkbox" checked={settings.showTOC} onChange={e=>set('showTOC',e.target.checked)}/> Include contents page</label></div>
  {showPreview&&<div className="toc-preview"><strong>Contents (structure preview)</strong>{project.weeks.map((w,i)=><div key={w.id}>Week {i+1}: {w.title}</div>)}<small>This is a structural preview, not a paginated TOC. Word export uses a TOC field that calculates page numbers when updated in Word.</small></div>}
- <div className="export-actions"><button className="print-action" type="button" onClick={exportWord} disabled={exporting}>{exporting?"Creating Word file…":"Download Word (.docx)"}</button><button className="print-action" type="button" onClick={()=>window.print()}>Print / Save as PDF</button></div>{exportMessage&&<p role="status" className="export-message">{exportMessage}</p>}
+ <button type="button" className="preflight-button" onClick={()=>setShowChecks(v=>!v)}>{showChecks?'Hide':'Run'} export checks ({issues.length})</button>{showChecks&&<div className="preflight-results">{issues.length===0?<p>No export issues detected by basic checks. Inspect the finished Word/PDF manually.</p>:issues.map((issue,i)=><p key={i}><strong>{issue.severity.toUpperCase()}{issue.week?' · Week '+issue.week:''}</strong> — {issue.message}</p>)}</div>}<div className="export-actions"><button className="print-action" type="button" onClick={exportWord} disabled={exporting}>{exporting?"Creating Word file…":"Download Word (.docx)"}</button><button className="print-action" type="button" onClick={()=>window.print()}>Print / Save as PDF</button></div>{exportMessage&&<p role="status" className="export-message">{exportMessage}</p>}
  <p className="print-disclaimer">Use your browser's Print dialog and choose “Save as PDF”. Select the same paper size and orientation there; browser printing can vary. Word export preserves editable text, headings and tables, but image sizing and layout may need adjustment. For Word TOC page numbers, open the DOCX in Microsoft Word and update the table of contents. Browser PDF page numbers are not calculated automatically.</p>
  </section>
 }
