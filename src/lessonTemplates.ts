@@ -8,3 +8,14 @@ export const LESSON_TEMPLATES:LessonTemplate[]=[
 ];
 export const htmlEscape=(s:string)=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 export function templateHtml(template:LessonTemplate):string{return template.sections.map(section=>'<h3>'+htmlEscape(section)+'</h3><p></p>').join('')}
+
+export const CUSTOM_TEMPLATES_KEY='sowa-lessons-custom-templates-v1';
+export function readCustomTemplates():LessonTemplate[]{
+ try{const raw=localStorage.getItem(CUSTOM_TEMPLATES_KEY);const value=raw?JSON.parse(raw):[];if(!Array.isArray(value))return [];
+ return value.filter((t):t is LessonTemplate=>Boolean(t&&typeof t.id==='string'&&typeof t.name==='string'&&typeof t.description==='string'&&Array.isArray(t.sections)&&t.sections.length>0&&t.sections.every((s:unknown)=>typeof s==='string')));}
+ catch{return []}
+}
+export function saveCustomTemplates(templates:LessonTemplate[]):void{
+ localStorage.setItem(CUSTOM_TEMPLATES_KEY,JSON.stringify(templates));
+ window.dispatchEvent(new Event('sowa-lesson-templates-updated'));
+}
