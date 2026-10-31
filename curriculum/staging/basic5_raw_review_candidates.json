@@ -1,0 +1,3129 @@
+{
+  "format": "sowa-preloaded-review-library-v1",
+  "review_status": "needs_review",
+  "schemes": [
+    {
+      "class_id": "basic-5",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 845,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Phonics I (Reading)",
+          "content": "Consonant blends and digraphs (bl, br, cl, cr, dr, fl, fr, gl, gr, pl, pr, sc, sk, sl, sm, sn, sp, st, sw, tr, tw). Recognition and pronunciation of initial and final blends in words.",
+          "source_page": 845
+        },
+        {
+          "week": "2",
+          "topic": "Structured Dialogues (Listening & Speaking)",
+          "content": "Expression of ideas with appropriate stress and intonation patterns. Practice greetings, introductions, and simple conversations. Emphasis on word stress in multi-syllable words and sentence intonation.",
+          "source_page": 845
+        },
+        {
+          "week": "3",
+          "topic": "Comprehension I (Reading)",
+          "content": "Reading and understanding narrative texts. Identifying main ideas, characters, setting, and plot. Answering literal questions (who, what, when, where).",
+          "source_page": 845
+        },
+        {
+          "week": "4",
+          "topic": "Guided Formal Letter Writing (Writing)",
+          "content": "Introduction to formal letter format: sender's address, date, recipient's address, salutation, body, closing, and signature. Writing formal letters to the school principal or class teacher.",
+          "source_page": 845
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 845
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 845
+        },
+        {
+          "week": "7",
+          "topic": "Phonics II (Reading)",
+          "content": "Vowel combinations and diphthongs (ai, ay, ee, ea, ie, oa, ow, oo, ou, oi, oy, au, aw). Silent letters (kn, gn, wr, mb). Applying phonics rules to decode unfamiliar words.",
+          "source_page": 845
+        },
+        {
+          "week": "8",
+          "topic": "Using the Telephone (Listening & Speaking)",
+          "content": "Telephone etiquette: making calls, receiving calls, taking messages, appropriate greetings and closings. Role-play telephone conversations. Practice clarity and politeness in phone communication.",
+          "source_page": 845
+        },
+        {
+          "week": "9",
+          "topic": "Comprehension II (Reading)",
+          "content": "Reading factual/informative texts. Identifying topic sentences, supporting details, and conclusions. Answering inferential questions and making predictions.",
+          "source_page": 845
+        },
+        {
+          "week": "10",
+          "topic": "Guided Narrative Composition (Writing)",
+          "content": "Writing narrative composition on \"The Day I Met the Federal Road Safety Corps Officials on the Road\". Story structure: introduction, rising action, climax, resolution. Using descriptive language and dialogue.",
+          "source_page": 845
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in First Term",
+          "source_page": 845
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of First Term Examination",
+          "source_page": 845
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 845
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 846,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Vocabulary Development (Reading)",
+          "content": "Word formation: prefixes (un-, re-, dis-, pre-, mis-) and suffixes (-ful, -less, -ness, -ment, -ly). Synonyms, antonyms, and homophones. Context clues for determining word meanings.",
+          "source_page": 846
+        },
+        {
+          "week": "2",
+          "topic": "Oral Composition (Listening & Speaking)",
+          "content": "Talking about self and family. Describing personal experiences, family members, hobbies, and daily routines. Using appropriate vocabulary and complete sentences. Building confidence in public speaking.",
+          "source_page": 846
+        },
+        {
+          "week": "3",
+          "topic": "Comprehension III (Reading)",
+          "content": "Reading instructional/procedural texts (recipes, directions, rules). Following sequential steps and understanding imperative sentences. Identifying key words and transition words (first, next, then, finally).",
+          "source_page": 846
+        },
+        {
+          "week": "4",
+          "topic": "Descriptive Composition (Writing)",
+          "content": "Writing descriptive composition on \"Elements of Soil\". Using sensory details (sight, touch, smell). Descriptive vocabulary and adjectives. Organizing information in logical paragraphs.",
+          "source_page": 846
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 846
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 846
+        },
+        {
+          "week": "7",
+          "topic": "Debates on Simple Topics (Listening & Speaking)",
+          "content": "Introduction to debate format. Simple debate topics (e.g., \"Reading books is better than watching TV\", \"School uniforms should be compulsory\"). Expressing opinions with supporting reasons. Listening to opposing views respectfully.",
+          "source_page": 846
+        },
+        {
+          "week": "8",
+          "topic": "Comprehension IV (Reading)",
+          "content": "Reading poetry and understanding literary devices (rhyme, rhythm, repetition, alliteration). Interpreting figurative language (similes, personification). Identifying themes and messages in poems.",
+          "source_page": 846
+        },
+        {
+          "week": "9",
+          "topic": "Writing and Responding to Formal Invitations (Writing)",
+          "content": "Format and language of formal invitations (wedding, graduation, official events). Writing formal invitations with proper details (date, time, venue, dress code, RSVP).",
+          "source_page": 846
+        },
+        {
+          "week": "10",
+          "topic": "Responding to Formal Invitations (Writing)",
+          "content": "Writing formal acceptance and regret responses. Appropriate tone and language for formal replies. Timing and etiquette in responding to invitations.",
+          "source_page": 846
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in Second Term",
+          "source_page": 846
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Second Term Examination",
+          "source_page": 846
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 846
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 847,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Writing Letters of Congratulations (Writing)",
+          "content": "Purpose and format of congratulatory letters. Appropriate expressions for different occasions (academic achievement, promotion, new baby, wedding). Warm and sincere tone in writing.",
+          "source_page": 847
+        },
+        {
+          "week": "2",
+          "topic": "Writing Letters of Sympathy (Writing)",
+          "content": "Purpose and format of sympathy letters. Expressing condolences with sensitivity and care. Appropriate vocabulary and phrases for difficult situations.",
+          "source_page": 847
+        },
+        {
+          "week": "3",
+          "topic": "Responding to Letters of Congratulations (Writing)",
+          "content": "Acknowledging congratulations with gratitude. Appropriate responses to congratulatory messages. Expressing appreciation for kind words.",
+          "source_page": 847
+        },
+        {
+          "week": "4",
+          "topic": "Responding to Letters of Sympathy (Writing)",
+          "content": "Acknowledging sympathy messages with grace. Expressing gratitude for support during difficult times. Appropriate tone and brevity.",
+          "source_page": 847
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 847
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 847
+        },
+        {
+          "week": "7",
+          "topic": "Writing and Responding to Informal Invitations (Writing)",
+          "content": "Difference between formal and informal invitations. Casual language for birthday parties, playdates, casual gatherings. Friendly and personal tone. Writing informal acceptance and regret responses.",
+          "source_page": 847
+        },
+        {
+          "week": "8",
+          "topic": "Advanced Reading Comprehension (Reading)",
+          "content": "Integrating all comprehension skills: main idea, details, inference, prediction, cause and effect, author's purpose. Reading longer and more complex passages.",
+          "source_page": 847
+        },
+        {
+          "week": "9",
+          "topic": "Advanced Speaking Skills (Listening & Speaking)",
+          "content": "Oral presentations on chosen topics. Storytelling with expression and gestures. Impromptu speaking exercises. Active listening and asking relevant questions.",
+          "source_page": 847
+        },
+        {
+          "week": "10",
+          "topic": "Creative Writing and Language Review (Writing/Reading)",
+          "content": "Creative story writing combining all learned skills. Review of grammar, punctuation, and spelling. Editing and proofreading practice. Vocabulary enrichment activities.",
+          "source_page": 847
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of all topics covered throughout the year",
+          "source_page": 847
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Third Term/Annual Examination",
+          "source_page": 847
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and long vacation",
+          "source_page": 847
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "MATHEMATICS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 848,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Whole Numbers I (Numbers & Numeration)",
+          "content": "Place value up to millions (reading, writing, and identifying place values). Comparing and ordering whole numbers up to 7 digits. Roman numerals (I-1000). Number patterns and sequences.",
+          "source_page": 848
+        },
+        {
+          "week": "2",
+          "topic": "Addition and Subtraction I (Basic Operations)",
+          "content": "Addition of whole numbers up to 5-6 digits without and with carrying. Subtraction of whole numbers up to 5-6 digits without and with borrowing. Word problems involving addition and subtraction. Estimation and approximation.",
+          "source_page": 848
+        },
+        {
+          "week": "3",
+          "topic": "Use of Number Line (Basic Operations)",
+          "content": "Representing numbers on a number line. Addition using number line (moving forward). Subtraction using number line (moving backward). Understanding positive and negative movements on number line.",
+          "source_page": 848
+        },
+        {
+          "week": "4",
+          "topic": "Money I (Mensuration & Geometry)",
+          "content": "Nigerian currency: Naira and Kobo conversion. Addition and subtraction of money in decimal notation. Shopping calculations and giving change. Profit and loss (simple problems).",
+          "source_page": 848
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 848
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 848
+        },
+        {
+          "week": "7",
+          "topic": "Length (Mensuration & Geometry)",
+          "content": "Standard units of length (mm, cm, m, km). Converting between units of length. Measuring lengths using rulers and tape measures. Perimeter of rectangles, squares, and triangles. Word problems involving length.",
+          "source_page": 848
+        },
+        {
+          "week": "8",
+          "topic": "Weight (Mensuration & Geometry)",
+          "content": "Standard units of weight/mass (g, kg, tonne). Converting between units of weight. Weighing objects using scales. Addition and subtraction of weights. Word problems involving weight.",
+          "source_page": 848
+        },
+        {
+          "week": "9",
+          "topic": "(Mensuration & Time I Geometry)",
+          "content": "Reading time on analog and digital clocks (12-hour and 24-hour). Converting between 12-hour and 24-hour formats. Calculating duration and elapsed time. Calendar work: days, weeks, months, years.",
+          "source_page": 848
+        },
+        {
+          "week": "10",
+          "topic": "Plane Shapes I (Mensuration & Geometry)",
+          "content": "Properties of 2D shapes (triangle, square, rectangle, parallelogram, trapezium, rhombus). Identifying and classifying shapes. Drawing shapes with correct measurements. Symmetry in plane shapes.",
+          "source_page": 848
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in First Term",
+          "source_page": 848
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of First Term Examination",
+          "source_page": 848
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 848
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "MATHEMATICS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 849,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Fractions I (Numbers & Numeration)",
+          "content": "Understanding fractions: numerator and denominator. Types of fractions (proper, improper, mixed numbers). Equivalent fractions. Comparing and ordering fractions. Converting between improper fractions and mixed numbers.",
+          "source_page": 849
+        },
+        {
+          "week": "2",
+          "topic": "Fractions II (Numbers & Numeration)",
+          "content": "Addition of fractions with same denominators. Subtraction of fractions with same denominators. Introduction to addition and subtraction of fractions with different denominators (simple cases). Word problems involving fractions.",
+          "source_page": 849
+        },
+        {
+          "week": "3",
+          "topic": "Multiplication I (Numbers & Numeration)",
+          "content": "Multiplication tables (revision up to 12 × 12). Multiplication of 2-digit by 2-digit numbers. Multiplication of 3-digit by 1-digit and 2-digit numbers. Properties of multiplication (commutative, associative, distributive). Word problems involving multiplication.",
+          "source_page": 849
+        },
+        {
+          "week": "4",
+          "topic": "Division I (Numbers & Numeration)",
+          "content": "Division as inverse of multiplication. Division of 2-digit and 3-digit numbers by 1-digit numbers. Division with remainders. Checking division using multiplication. Word problems involving division.",
+          "source_page": 849
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 849
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 849
+        },
+        {
+          "week": "7",
+          "topic": "Temperature (Mensuration & Geometry)",
+          "content": "Understanding temperature and thermometers. Reading temperatures in degrees Celsius (°C). Comparing temperatures (hotter, colder, warmer, cooler). Temperature in daily life (weather, body temperature, cooking). Addition and subtraction of temperatures.",
+          "source_page": 849
+        },
+        {
+          "week": "8",
+          "topic": "Area I (Mensuration & Geometry)",
+          "content": "Understanding area as the space covered by a surface. Standard units of area (cm², m², km²). Finding area of rectangles and squares (length × width). Finding area of triangles (½ × base × height). Word problems involving area.",
+          "source_page": 849
+        },
+        {
+          "week": "9",
+          "topic": "Volume I (Mensuration & Geometry)",
+          "content": "Understanding volume as space occupied by an object. Standard units of volume (cm³, m³). Finding volume of cubes and cuboids (length × width × height). Estimating and comparing volumes.",
+          "source_page": 849
+        },
+        {
+          "week": "10",
+          "topic": "Capacity (Mensuration & Geometry)",
+          "content": "Understanding capacity as the amount a container can hold. Standard units of capacity (ml, cl, l). Converting between units of capacity. Measuring capacity using measuring cylinders and containers. Word problems involving capacity.",
+          "source_page": 849
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in Second Term",
+          "source_page": 850
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Second Term Examination",
+          "source_page": 850
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 850
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "MATHEMATICS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 851,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Multiplication II (Numbers & Numeration)",
+          "content": "Multiplication of 3-digit by 2-digit numbers. Multiplication of 4-digit by 1-digit numbers. Multiplication involving money and measurements. Multiple-step word problems involving multiplication.",
+          "source_page": 851
+        },
+        {
+          "week": "2",
+          "topic": "Division II (Numbers & Numeration)",
+          "content": "Division of 3-digit and 4-digit numbers by 2-digit numbers. Long division method. Division involving money and measurements. Multiple-step word problems involving division. Relationship between multiplication and division.",
+          "source_page": 851
+        },
+        {
+          "week": "3",
+          "topic": "Fractions III (Numbers & Numeration)",
+          "content": "Multiplication of fractions by whole numbers. Division of fractions by whole numbers (simple cases). Fractions of ⅓, ⅕of quantities (finding ½, ¼, amounts). Real-life applications of fractions.",
+          "source_page": 851
+        },
+        {
+          "week": "4",
+          "topic": "Open Sentences (Algebraic Processes)",
+          "content": "Introduction to open sentences and unknowns. Using letters to represent unknown numbers. Simple equations: finding the value of unknowns (e.g., n + 5 = 12, 3 × a = 15). Number patterns and sequences using algebra. Word problems leading to open sentences.",
+          "source_page": 851
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 851
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 851
+        },
+        {
+          "week": "7",
+          "topic": "Circle (Mensuration & Geometry)",
+          "content": "Parts of a circle (center, radius, diameter, circumference, arc, chord, sector, segment). Relationship between radius and diameter (d = 2r). Drawing circles using compasses. Introduction to π (pi) and finding circumference. Practical applications of circles.",
+          "source_page": 851
+        },
+        {
+          "week": "8",
+          "topic": "3-Dimensional Shapes (Mensuration & Geometry)",
+          "content": "Properties of 3D shapes (cube, cuboid, cylinder, cone, sphere, pyramid, prism). Identifying faces, edges, and vertices. Drawing and constructing 3D shapes. Nets of 3D shapes. Real-life examples of 3D shapes.",
+          "source_page": 851
+        },
+        {
+          "week": "9",
+          "topic": "Structure of Earth (Mensuration & Geometry)",
+          "content": "Understanding Earth's spherical shape. Introduction to latitude and longitude. Cardinal points (North, South, East, West) and intermediate directions. Using simple maps and compass directions. Distance and location on Earth's surface.",
+          "source_page": 851
+        },
+        {
+          "week": "10",
+          "topic": "Integrated Problem Solving (All Themes)",
+          "content": "Mixed word problems combining multiple operations. Money problems with multiple steps. Measurement problems involving different units. Real-life mathematical investigations. Mathematical games and puzzles.",
+          "source_page": 851
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of all topics covered throughout the year",
+          "source_page": 851
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Third Term/Annual Examination",
+          "source_page": 852
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and long vacation",
+          "source_page": 852
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "BASIC SCIENCE AND TECHNOLOGY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 853,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Living Things and Their Environment",
+          "content": "Habitats and adaptations; Relationships between organisms; Food chains and food webs; Interdependence in nature",
+          "source_page": 853
+        },
+        {
+          "week": "2",
+          "topic": "Plant Structure and Functions",
+          "content": "Detailed study of roots, stems, leaves, flowers and fruits; Photosynthesis process; Transport in plants; Reproduction in flowering plants",
+          "source_page": 853
+        },
+        {
+          "week": "3",
+          "topic": "Animal Classification",
+          "content": "Vertebrates and invertebrates; Major animal groups; Characteristics of each group; Local examples of animals in each class",
+          "source_page": 853
+        },
+        {
+          "week": "4",
+          "topic": "Human Body: The Circulatory System",
+          "content": "The heart and blood vessels; Functions of blood; The circulation process; Keeping the heart healthy; Blood groups",
+          "source_page": 853
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 853
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 853
+        },
+        {
+          "week": "7",
+          "topic": "Human Body: The Digestive System",
+          "content": "The alimentary canal; Digestion process; Functions of digestive organs; Absorption of nutrients; Digestive health",
+          "source_page": 853
+        },
+        {
+          "week": "8",
+          "topic": "Human Body: The Skeletal System",
+          "content": "Major bones in the body; Functions of the skeleton; Joints and movement; Bone health and care; Common bone problems",
+          "source_page": 853
+        },
+        {
+          "week": "9",
+          "topic": "Matter and Materials",
+          "content": "States of matter - solid, liquid, gas; Properties of materials; Changing states; Materials around us",
+          "source_page": 853
+        },
+        {
+          "week": "10",
+          "topic": "Mixtures and Separation",
+          "content": "Types of mixtures; Methods of separation - filtration, evaporation, sedimentation; Practical applications; Pure substances",
+          "source_page": 853
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 853
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 853
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 853
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "BASIC SCIENCE AND TECHNOLOGY",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 854,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Energy and Its Forms",
+          "content": "Forms of energy; Energy transformation; Conservation of energy; Renewable and non-renewable energy sources",
+          "source_page": 854
+        },
+        {
+          "week": "2",
+          "topic": "Electricity and Magnetism",
+          "content": "Electric circuits - series and parallel; Electrical symbols; Magnetic materials; Uses of magnets; Electromagnets",
+          "source_page": 854
+        },
+        {
+          "week": "3",
+          "topic": "Force and Motion",
+          "content": "Types of forces; Effects of force; Friction; Speed and velocity; Measuring motion",
+          "source_page": 854
+        },
+        {
+          "week": "4",
+          "topic": "Work, Energy and Power",
+          "content": "Concept of work; Relationship between work and energy; Simple calculations; Efficiency of machines",
+          "source_page": 854
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 854
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 854
+        },
+        {
+          "week": "7",
+          "topic": "The Earth and Its Resources",
+          "content": "Structure of the earth; Natural resources; Minerals and mining; Conservation of resources; Sustainable use",
+          "source_page": 854
+        },
+        {
+          "week": "8",
+          "topic": "Water Cycle and Conservation",
+          "content": "The water cycle process; Importance of water; Water treatment; Water pollution; Conservation methods",
+          "source_page": 854
+        },
+        {
+          "week": "9",
+          "topic": "Air Composition and Quality",
+          "content": "Gases in the air; Importance of each gas; Air pollution causes and effects; Improving air quality",
+          "source_page": 854
+        },
+        {
+          "week": "10",
+          "topic": "Weather and Climate Change",
+          "content": "Weather recording and instruments; Climate zones; Climate change causes; Effects of climate change; What we can do",
+          "source_page": 854
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 854
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 854
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 854
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "BASIC SCIENCE AND TECHNOLOGY",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 855,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Machines in Our Lives",
+          "content": "Complex machines; Mechanical advantage; Efficiency; Applications of machines in industry and agriculture",
+          "source_page": 855
+        },
+        {
+          "week": "2",
+          "topic": "Technology and Innovation",
+          "content": "History of technology; Modern inventions; Computer basics; Internet and communication; Coding fundamentals",
+          "source_page": 855
+        },
+        {
+          "week": "3",
+          "topic": "Biotechnology and Agriculture",
+          "content": "Modern farming methods; Crop improvement; Pest control; Organic farming; Food security",
+          "source_page": 855
+        },
+        {
+          "week": "4",
+          "topic": "Space Exploration",
+          "content": "Planets and their characteristics; Space technology; Satellites and their uses; Famous space missions; Astronomy",
+          "source_page": 855
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 855
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 855
+        },
+        {
+          "week": "7",
+          "topic": "Health and Disease",
+          "content": "Microorganisms - bacteria, viruses, fungi; Infectious diseases; Disease prevention; Vaccination; Antibiotics",
+          "source_page": 855
+        },
+        {
+          "week": "8",
+          "topic": "Nutrition and Fitness",
+          "content": "Detailed study of nutrients; Deficiency diseases; Balanced meal planning; Exercise and fitness; Healthy lifestyle",
+          "source_page": 855
+        },
+        {
+          "week": "9",
+          "topic": "Reproduction in Living Things",
+          "content": "Asexual and sexual reproduction; Human reproduction system; Growth and development; Puberty changes; Family life education",
+          "source_page": 855
+        },
+        {
+          "week": "10",
+          "topic": "Environmental Conservation",
+          "content": "Ecosystems and biodiversity; Endangered species; Conservation methods; National parks; Individual responsibility",
+          "source_page": 855
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 855
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 855
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 855
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 856,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Creative Rhythmic Activities I",
+          "content": "Meaning of creative rhythmic activities; Elements of rhythm - beat, tempo, pattern; Body movements to music; Simple dance steps; Coordination exercises",
+          "source_page": 856
+        },
+        {
+          "week": "2",
+          "topic": "Creative Rhythmic Activities II",
+          "content": "Traditional Nigerian dances; Cultural rhythms; Creating simple dance routines; Group formations; Expression through movement; Music and dance integration",
+          "source_page": 856
+        },
+        {
+          "week": "3",
+          "topic": "Creative Rhythmic Activities III",
+          "content": "Aerobic dance movements; Rhythmic games; Using props - ribbons, balls, hoops; Freestyle creative movements; Rhythmic sequences; Performance skills",
+          "source_page": 856
+        },
+        {
+          "week": "4",
+          "topic": "Ball Games I - Introduction",
+          "content": "Types of ball games - football, basketball, volleyball, handball; Basic rules of each game; Equipment needed; Choosing appropriate games",
+          "source_page": 856
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 856
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 856
+        },
+        {
+          "week": "7",
+          "topic": "Ball Games II - Football Basics",
+          "content": "Football field and markings; Positions in football; Basic skills - dribbling, passing, shooting; Ball control techniques; Simple football drills",
+          "source_page": 856
+        },
+        {
+          "week": "8",
+          "topic": "Ball Games III - Basketball Basics",
+          "content": "Basketball court layout; Basic rules of basketball; Dribbling techniques; Passing - chest pass, bounce pass; Shooting basics; Defensive stance",
+          "source_page": 856
+        },
+        {
+          "week": "9",
+          "topic": "Nutrition I",
+          "content": "Meaning of nutrition; Classes of food - carbohydrates, proteins, fats, vitamins, minerals, water; Sources of each nutrient; Functions in the body",
+          "source_page": 856
+        },
+        {
+          "week": "10",
+          "topic": "Nutrition II",
+          "content": "Balanced diet and meal planning; Food groups; Malnutrition - undernutrition and overnutrition; Nutritional deficiency diseases; Importance of eating breakfast; Healthy eating habits for children",
+          "source_page": 856
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions; Practical demonstrations",
+          "source_page": 856
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - theory and practical",
+          "source_page": 856
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 856
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 857,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Measuring Physical Fitness - Endurance I",
+          "content": "Meaning of physical fitness; Components of physical fitness; Cardiovascular endurance; Activities for building endurance - running, jogging, swimming, cycling",
+          "source_page": 857
+        },
+        {
+          "week": "2",
+          "topic": "Measuring Physical Fitness - Endurance II",
+          "content": "Testing endurance - 12-minute run/walk test, step test; Heart rate and pulse measurement; Recovery time; Improving endurance; Benefits of good endurance",
+          "source_page": 857
+        },
+        {
+          "week": "3",
+          "topic": "Measuring Physical Fitness - Strength",
+          "content": "Meaning of muscular strength; Types of strength; Strength training exercises - push-ups, sit-ups, squats, pull-ups; Testing strength; Building strength safely",
+          "source_page": 857
+        },
+        {
+          "week": "4",
+          "topic": "Measuring Physical Fitness - Speed",
+          "content": "Meaning of speed; Factors affecting speed; Sprint techniques; Reaction time; Speed tests - 50m dash, shuttle run; Improving speed through drills",
+          "source_page": 857
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 857
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 857
+        },
+        {
+          "week": "7",
+          "topic": "Field Events I - Jumping Events",
+          "content": "High jump - techniques and rules; Long jump - approach, take-off, landing; Triple jump basics; Safety in jumping events; Measuring distances",
+          "source_page": 857
+        },
+        {
+          "week": "8",
+          "topic": "Field Events II - Throwing Events",
+          "content": "Shot put - grip, stance, throwing technique; Discus throw basics; Javelin throw introduction; Safety rules in throwing; Measuring distances and scoring",
+          "source_page": 857
+        },
+        {
+          "week": "9",
+          "topic": "Drug Education I",
+          "content": "Meaning of drugs; Types of drugs - medicinal and harmful; Prescription vs over-the-counter drugs; Drug abuse and misuse; Common abused drugs - alcohol, tobacco, cannabis",
+          "source_page": 857
+        },
+        {
+          "week": "10",
+          "topic": "Drug Education II",
+          "content": "Effects of drug abuse - physical, psychological, social; Reasons people abuse drugs; Consequences of drug abuse; Saying no to drugs; Drug-free lifestyle; Getting help",
+          "source_page": 857
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions; Practical demonstrations",
+          "source_page": 857
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - theory and practical",
+          "source_page": 857
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 857
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 858,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Ball Games IV - Volleyball",
+          "content": "Volleyball court and net; Basic rules; Serving techniques; Passing - bump and set; Rotation system; Simple game play",
+          "source_page": 858
+        },
+        {
+          "week": "2",
+          "topic": "Ball Games V - Handball",
+          "content": "Handball court markings; Basic rules and positions; Dribbling and passing; Shooting techniques; Goalkeeping basics; Playing handball",
+          "source_page": 858
+        },
+        {
+          "week": "3",
+          "topic": "Ball Games VI - Game Strategies and Sportsmanship",
+          "content": "Teamwork in ball games; Basic tactics and strategies; Fair play and sportsmanship; Rules and officiating; Organizing mini-tournaments",
+          "source_page": 858
+        },
+        {
+          "week": "4",
+          "topic": "Pathogens and Diseases I",
+          "content": "Meaning of pathogens; Types of pathogens - bacteria, viruses, fungi, protozoa; How pathogens cause diseases; How diseases spread - airborne, waterborne, contact, vectors",
+          "source_page": 858
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 858
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 858
+        },
+        {
+          "week": "7",
+          "topic": "Diseases II - Common Communicable Diseases",
+          "content": "Malaria - causes, symptoms, prevention; Typhoid fever; Cholera; Common cold and flu; Tuberculosis; Measles and chickenpox",
+          "source_page": 858
+        },
+        {
+          "week": "8",
+          "topic": "Diseases III - Non- Communicable Diseases",
+          "content": "Meaning of non-communicable diseases; Diabetes; Hypertension; Asthma; Sickle cell disease; Lifestyle diseases; Prevention strategies",
+          "source_page": 858
+        },
+        {
+          "week": "9",
+          "topic": "Disease Prevention and Control",
+          "content": "Personal hygiene and disease prevention; Environmental sanitation; Immunization and vaccination; Use of mosquito nets; Water treatment; Food hygiene; Hand washing importance",
+          "source_page": 858
+        },
+        {
+          "week": "10",
+          "topic": "Physical Activity, Health and Wellness",
+          "content": "Benefits of regular physical activity; Exercise and disease prevention; Mental health and physical activity; Creating a personal fitness plan; Active lifestyle choices; Lifelong fitness habits",
+          "source_page": 858
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review; Practice examinations; Practical demonstrations; Clarification of concepts",
+          "source_page": 858
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - theory and practical",
+          "source_page": 858
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 858
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 859,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "God Supplies Our Needs I",
+          "content": "God as our provider; The story of God providing manna in the wilderness (Exodus 16:1-36); God's provision for the Israelites; Trusting God for our needs; Matthew 6:25-34 - Do not worry",
+          "source_page": 859
+        },
+        {
+          "week": "2",
+          "topic": "God Supplies Our Needs II",
+          "content": "The story of Elijah and the widow of Zarephath (1 Kings 17:8-16); God's miraculous provision; Faith in God's provision; Our daily needs and God's faithfulness; Prayer and thanksgiving for provision",
+          "source_page": 859
+        },
+        {
+          "week": "3",
+          "topic": "God Supplies Our Needs III",
+          "content": "Jesus feeds the 5,000 (John 6:1-15); The boy's offering; Multiplication of resources; Sharing what we have; God uses what we offer; Philippians 4:19 - God will supply all our needs",
+          "source_page": 859
+        },
+        {
+          "week": "4",
+          "topic": "God Supplies Our Needs IV",
+          "content": "God provides for nature - Matthew 6:26-30 (birds and lilies); God's care for all creation; We are valuable to God; Contentment and gratitude; Avoiding greed and materialism",
+          "source_page": 859
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 859
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 859
+        },
+        {
+          "week": "7",
+          "topic": "God Wants Us To Work I",
+          "content": "Work in God's plan; God worked in creation (Genesis 1-2); Adam and Eve given work in the Garden (Genesis 2:15); Work is honorable; Diligence and responsibility",
+          "source_page": 859
+        },
+        {
+          "week": "8",
+          "topic": "God Wants Us To Work II",
+          "content": "The parable of the talents (Matthew 25:14-30); Using our gifts and abilities; Being faithful stewards; Consequences of laziness; Rewards for hard work; Excellence in all we do",
+          "source_page": 859
+        },
+        {
+          "week": "9",
+          "topic": "God Wants Us To Work III",
+          "content": "The example of Jesus as a carpenter; Paul the tentmaker (Acts 18:1-3); Working with our hands; Earning an honest living; 2 Thessalonians 3:10-12 - If anyone will not work, neither shall he eat",
+          "source_page": 859
+        },
+        {
+          "week": "10",
+          "topic": "God Wants Us To Work IV",
+          "content": "Different types of work and occupations; All work is valuable to God; Working unto the Lord (Colossians 3:23- 24); Dignity of labor; Balancing work, rest and worship; Avoiding idleness",
+          "source_page": 859
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Scripture memorization; Discussion of key lessons; Question and answer sessions",
+          "source_page": 859
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 859
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Memory verses",
+          "source_page": 859
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 860,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "God Saves Us From Danger I",
+          "content": "God as our protector; Daniel in the lions' den (Daniel 6:1- 23); Faith in times of danger; God's deliverance; Praying for protection",
+          "source_page": 860
+        },
+        {
+          "week": "2",
+          "topic": "God Saves Us From Danger II",
+          "content": "The three Hebrew boys in the fiery furnace (Daniel 3:1-30); Standing firm in faith; God's presence in trials; Courage to obey God; God fights for us",
+          "source_page": 860
+        },
+        {
+          "week": "3",
+          "topic": "God Saves Us From Danger III",
+          "content": "God saves the Israelites at the Red Sea (Exodus 14:1-31); Deliverance from enemies; God's power over impossible situations; Trusting God in difficult times; Psalm 46:1 - God is our refuge",
+          "source_page": 860
+        },
+        {
+          "week": "4",
+          "topic": "God Saves Us From Danger IV",
+          "content": "Peter's miraculous escape from prison (Acts 12:1-19); The power of prayer; Angels as God's messengers; Community prayer; God answers prayer; Modern examples of God's protection",
+          "source_page": 860
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 860
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 860
+        },
+        {
+          "week": "7",
+          "topic": "God Shows Mercy To Us I",
+          "content": "Understanding God's mercy; The prodigal son (Luke 15:11- 32); God's forgiveness and love; Repentance and return; The father's compassion; We are all in need of mercy",
+          "source_page": 860
+        },
+        {
+          "week": "8",
+          "topic": "God Shows Mercy To Us II",
+          "content": "The woman caught in adultery (John 8:1-11); Jesus shows mercy instead of condemnation; Sin and forgiveness; Going and sinning no more; God gives second chances",
+          "source_page": 860
+        },
+        {
+          "week": "9",
+          "topic": "God Shows Mercy To Us III",
+          "content": "Jonah and God's mercy to Nineveh (Jonah 1-4); God's compassion for all people; Obedience to God's call; Repentance of Nineveh; Learning from Jonah's attitude; Showing mercy to others",
+          "source_page": 860
+        },
+        {
+          "week": "10",
+          "topic": "God Shows Mercy To Us IV",
+          "content": "The unmerciful servant (Matthew 18:21-35); Forgiveness - 70 times 7; We must show mercy to others; God's mercy toward us requires us to be merciful; Practicing forgiveness in daily life",
+          "source_page": 860
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Scripture memorization; Discussion of key lessons; Question and answer sessions",
+          "source_page": 860
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 860
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Memory verses",
+          "source_page": 860
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 861,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "The Pentecost I",
+          "content": "Promise of the Holy Spirit (John 14:15-17, 26); Jesus' ascension (Acts 1:6-11); The command to wait in Jerusalem; The disciples in the upper room; Prayer and unity while waiting",
+          "source_page": 861
+        },
+        {
+          "week": "2",
+          "topic": "The Pentecost II",
+          "content": "The Day of Pentecost (Acts 2:1-13); The coming of the Holy Spirit; Speaking in tongues; The crowd's reaction; Fulfillment of prophecy (Joel 2:28-32); The birthday of the Church",
+          "source_page": 861
+        },
+        {
+          "week": "3",
+          "topic": "The Pentecost III",
+          "content": "Peter's sermon at Pentecost (Acts 2:14-41); Bold preaching; 3,000 people saved; Repentance and baptism; Receiving the Holy Spirit; The power of the Spirit; The early church fellowship (Acts 2:42-47)",
+          "source_page": 861
+        },
+        {
+          "week": "4",
+          "topic": "The Holy Spirit Keeps Us Faithful I",
+          "content": "The Holy Spirit as our helper and guide; Fruit of the Spirit (Galatians 5:22-23) - love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control; Growing in faithfulness",
+          "source_page": 861
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 861
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 861
+        },
+        {
+          "week": "7",
+          "topic": "The Holy Spirit Keeps Us Faithful II",
+          "content": "Stephen's faithfulness unto death (Acts 6:8-15, 7:54-60); Being filled with the Holy Spirit; Courage to witness; Forgiving enemies; Faithful in persecution; Standing for Jesus",
+          "source_page": 861
+        },
+        {
+          "week": "8",
+          "topic": "The Holy Spirit Keeps Us Faithful III",
+          "content": "Philip and the Ethiopian Eunuch (Acts 8:26- 40); Following the Holy Spirit's guidance; Witnessing for Christ; Explaining the scriptures; Baptism and joy; Obedience to the Spirit's leading",
+          "source_page": 861
+        },
+        {
+          "week": "9",
+          "topic": "The Rewards Of Working In The Holy Spirit I",
+          "content": "Power to witness (Acts 1:8); The apostles' miracles; Peter heals the lame beggar (Acts 3:1- 10); Boldness in preaching; Growth of the church; God working through believers",
+          "source_page": 861
+        },
+        {
+          "week": "10",
+          "topic": "The Rewards Of Working In The Holy Spirit II",
+          "content": "Spiritual gifts (1 Corinthians 12:4-11); Different gifts, one Spirit; Using our gifts for God's glory; Unity in diversity; Building up the church; Eternal rewards (1 Corinthians 3:11-15); Crown of life (James 1:12)",
+          "source_page": 861
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review; Scripture memorization; Discussion of key lessons; Preparation for transition to Primary 6",
+          "source_page": 861
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 862
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Memory verses; Preparation for Primary 6",
+          "source_page": 862
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "ISLAMIC STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 863,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Suratul-Alaq (Al-Qur'an) I",
+          "content": "Introduction to Suratul-Alaq (Chapter 96); Circumstances of revelation; Arabic text reading (verses 1-5); Transliteration and pronunciation practice; The first revelation to Prophet Muhammad (SAW)",
+          "source_page": 863
+        },
+        {
+          "week": "2",
+          "topic": "Suratul-Alaq (Al-Qur'an) II",
+          "content": "Continuation of Suratul-Alaq; Complete Arabic text (verses 1-19); Translation and meaning in English; Emphasis on \"Read in the name of your Lord\"; The importance of knowledge and learning in Islam",
+          "source_page": 863
+        },
+        {
+          "week": "3",
+          "topic": "Suratul-Alaq (Al-Qur'an) III",
+          "content": "Memorization of Suratul-Alaq; Tafsir (explanation) of key verses; The significance of the pen and writing; Lessons from the Surah - seeking knowledge, reading, and learning; Application in daily life",
+          "source_page": 863
+        },
+        {
+          "week": "4",
+          "topic": "Suratul-Qariat (Al-Qur'an) I",
+          "content": "Introduction to Suratul-Qariat (Chapter 101); Meaning of \"Al-Qariat\" (The Striking Hour); Arabic text reading and pronunciation; The Day of Judgment description; Fear and preparation for the Hereafter",
+          "source_page": 863
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 863
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 863
+        },
+        {
+          "week": "7",
+          "topic": "Suratul-Qariat (Al-Qur'an) II",
+          "content": "Complete Arabic text of Suratul-Qariat; Translation and meaning; Memorization of the Surah; The weighing of deeds; Those whose scales are heavy vs light; Lessons on good deeds",
+          "source_page": 863
+        },
+        {
+          "week": "8",
+          "topic": "Ayat 12-19 of Suratul Luqman (Al-Qur'an) I",
+          "content": "Introduction to Suratul Luqman (Chapter 31); Focus on verses 12-19; Arabic text reading; Transliteration; Luqman's advice to his son - wisdom and gratitude to Allah",
+          "source_page": 863
+        },
+        {
+          "week": "9",
+          "topic": "Ayat 12-19 of Suratul Luqman (Al-Qur'an) II",
+          "content": "Translation and explanation of verses 12-19; Lessons from Luqman's advice: prohibition of shirk, kindness to parents, accountability, establishing prayer, commanding good, forbidding evil, patience, humility in walking, moderation in speech",
+          "source_page": 863
+        },
+        {
+          "week": "10",
+          "topic": "Ayat 12-19 of Suratul Luqman (Al-Qur'an) III",
+          "content": "Memorization of verses 12-19; Practical application of Luqman's wisdom; Character building; Relationship with Allah and parents; Social etiquette from Islamic perspective; Tafsir and life lessons",
+          "source_page": 863
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all Surahs and verses covered; Recitation practice; Memorization check; Translation and meaning review; Question and answer sessions",
+          "source_page": 864
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - recitation, memorization, translation, and understanding",
+          "source_page": 864
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Encouragement for daily Qur'an reading",
+          "source_page": 864
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 865,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Suratul-Tin (Al-Qur'an) I",
+          "content": "Introduction to Suratul-Tin (Chapter 95); Meaning of \"At-Tin\" (The Fig); Arabic text reading; Transliteration and pronunciation; Allah's oaths by the fig, olive, Mount Sinai, and Makkah",
+          "source_page": 865
+        },
+        {
+          "week": "2",
+          "topic": "Suratul-Tin (Al-Qur'an) II",
+          "content": "Complete Arabic text of Suratul-Tin; Translation and meaning; Man created in the best form; Those who believe vs those who don't; The concept of human dignity; Memorization of the Surah",
+          "source_page": 865
+        },
+        {
+          "week": "3",
+          "topic": "Suratul Ad-Duha (Al- Qur'an) I",
+          "content": "Introduction to Suratul Ad-Duha (Chapter 93); Background - when revelation paused; Arabic text reading and transliteration; Allah's consolation to Prophet Muhammad (SAW); The morning brightness and the night",
+          "source_page": 865
+        },
+        {
+          "week": "4",
+          "topic": "Suratul Ad-Duha (Al- Qur'an) II",
+          "content": "Complete Arabic text and memorization; Translation and detailed meaning; Assurance of Allah's care; From orphan to honored; From poor to enriched; Being kind to orphans and beggars; Gratitude for Allah's blessings",
+          "source_page": 865
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 865
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 865
+        },
+        {
+          "week": "7",
+          "topic": "Significance of Belief in Life After Death (Tawhid) I",
+          "content": "Concept of Yaumul-Qiyamah (Day of Resurrection); Yaum-Al-Akhirah (The Hereafter); Belief in the Last Day as an article of faith; Signs of the Day of Judgment; Physical and spiritual resurrection",
+          "source_page": 865
+        },
+        {
+          "week": "8",
+          "topic": "Significance of Belief in Life After Death (Tawhid) II",
+          "content": "The events of the Day of Judgment - the trumpet, gathering, accountability, scales of justice; Al-Jannah (Paradise) and An-Naar (Hellfire); How belief in the Hereafter affects our behavior; Living with purpose and accountability",
+          "source_page": 865
+        },
+        {
+          "week": "9",
+          "topic": "As-Sawm (Fasting) and its Importance (Fiqh) I",
+          "content": "Meaning of As-Sawm (fasting); Fasting as the fourth pillar of Islam; The obligation of Ramadan fasting; Who must fast and who is exempt; Pre-dawn meal (Suhoor) and breaking fast (Iftar)",
+          "source_page": 865
+        },
+        {
+          "week": "10",
+          "topic": "As-Sawm (Fasting) and its Importance (Fiqh) II",
+          "content": "Spiritual benefits of fasting - taqwa, self-discipline, empathy for the poor; Physical and social benefits; Things that break the fast; Fasting etiquette; Laylatul- Qadr (Night of Power); Eid-ul-Fitr celebration",
+          "source_page": 865
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Qur'an recitation; Understanding of Tawhid and Fiqh concepts; Question and answer sessions",
+          "source_page": 865
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - recitation, memorization, and understanding of Islamic teachings",
+          "source_page": 865
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Preparation for Ramadan practice",
+          "source_page": 866
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 867,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Zakat (Almsgiving) and its Significance (Fiqh) I",
+          "content": "Meaning of Zakat; Zakat as the third pillar of Islam; Difference between Zakat and Sadaqah; Types of wealth subject to Zakat; Nisab (minimum threshold); Recipients of Zakat (eight categories in Q9:60)",
+          "source_page": 867
+        },
+        {
+          "week": "2",
+          "topic": "Zakat (Almsgiving) and its Significance (Fiqh) II",
+          "content": "Spiritual significance of Zakat - purification of wealth, gratitude to Allah, social justice; Economic impact - wealth circulation, helping the poor; Building a caring community; Importance of giving; Blessings of generosity",
+          "source_page": 867
+        },
+        {
+          "week": "3",
+          "topic": "Khulafau Rashidun - Uthman ibn Affan (Sirah) I",
+          "content": "Introduction to the Rightly Guided Caliphs; Uthman's early life and acceptance of Islam; His generosity and service to Islam; Marriage to Prophet's daughters (Ruqayyah and Umm Kulthum); Title \"Dhun-Nurayn\" (Possessor of Two Lights)",
+          "source_page": 867
+        },
+        {
+          "week": "4",
+          "topic": "Khulafau Rashidun - Uthman ibn Affan (Sirah) II",
+          "content": "Uthman's caliphate (644-656 CE); Compilation and standardization of the Qur'an; Expansion of the Islamic state; Administrative reforms; His piety and humility; His martyrdom; Lessons from his life - generosity, patience, service",
+          "source_page": 867
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 867
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 867
+        },
+        {
+          "week": "7",
+          "topic": "Khulafau Rashidun - Ali ibn Abi-Talib (Sirah) I",
+          "content": "Ali's early life; First male to accept Islam; His relationship with Prophet Muhammad (SAW); Marriage to Fatimah (Prophet's daughter); His knowledge and wisdom; His courage in battles - Badr, Uhud, Khaybar",
+          "source_page": 867
+        },
+        {
+          "week": "8",
+          "topic": "Khulafau Rashidun - Ali ibn Abi-Talib (Sirah) II",
+          "content": "Ali's caliphate (656-661 CE); Challenges during his leadership; His justice and piety; His knowledge and sayings; His assassination; Legacy and lessons - knowledge, courage, justice, devotion to Islam, family values",
+          "source_page": 867
+        },
+        {
+          "week": "9",
+          "topic": "Women in the Qur'an - Lessons (Q66:10-12) (Sirah/Tahdib)",
+          "content": "Introduction to righteous women in the Qur'an; Wife of Nuh (Noah) - example of disbelief despite close relationship with a prophet; Wife of Lut (Lot) - example of betrayal; Asiyah (wife of Pharaoh) - example of faith and courage; Maryam (Mary) - example of purity and devotion; Lessons on faith, character, and individual accountability",
+          "source_page": 867
+        },
+        {
+          "week": "10",
+          "topic": "Islamic Rules of Conduct I (Tahdib)",
+          "content": "Adab (Islamic etiquette) with Allah - proper worship, prayer etiquette, remembrance (dhikr); Adab with parents - obedience, respect, kindness (Q17:23-24); Adab with teachers and elders - respect, listening, learning; Good manners in speech - truthfulness, avoiding gossip and backbiting",
+          "source_page": 867
+        },
+        {
+          "week": "11",
+          "topic": "Islamic Rules of Conduct II (Tahdib)",
+          "content": "Adab with friends and peers - choosing good company, loyalty, forgiveness; Islamic greetings - \"As-salamu alaykum\"; Table manners - eating with right hand, saying Bismillah, not wasting food; Cleanliness and personal hygiene; Visiting the sick; Respecting neighbors; General Islamic character and behavior",
+          "source_page": 868
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term and comprehensive assessment",
+          "source_page": 868
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Encouragement for continuous Islamic practice; Preparation for Primary 6",
+          "source_page": 868
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "NIGERIAN HISTORY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 869,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Origins and Peopling of Nigeria",
+          "content": "Migration theories; How different groups settled in Nigeria; Archaeological evidence of early settlement; The Nok Culture",
+          "source_page": 869
+        },
+        {
+          "week": "2",
+          "topic": "Pre-Colonial Political Systems I",
+          "content": "Centralized systems - Benin, Oyo, Kanem-Bornu; Structure of government in kingdoms; Role of kings and chiefs",
+          "source_page": 869
+        },
+        {
+          "week": "3",
+          "topic": "Pre-Colonial Political Systems II",
+          "content": "Non-centralized systems - Igbo, Tiv, Ibibio; Age grades and village councils; Decision-making in traditional societies",
+          "source_page": 869
+        },
+        {
+          "week": "4",
+          "topic": "The British Exploration of Nigeria",
+          "content": "Mungo Park and River Niger; Hugh Clapperton; Richard and John Lander; Impact of exploration",
+          "source_page": 869
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 869
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 869
+        },
+        {
+          "week": "7",
+          "topic": "Colonial Administrative Headquarters of the British Protectorate",
+          "content": "Lagos Colony (1861-1906); Protectorate of Southern Nigeria; Protectorate of Northern Nigeria; Lord Lugard and the colonial administration",
+          "source_page": 869
+        },
+        {
+          "week": "8",
+          "topic": "The Amalgamation of Nigeria (1914)",
+          "content": "Meaning of amalgamation; Reasons for amalgamation; Sir Frederick Lugard; Effects of amalgamation; Formation of one Nigeria",
+          "source_page": 869
+        },
+        {
+          "week": "9",
+          "topic": "Colonial Rule in Nigeria",
+          "content": "Indirect rule system; Native authorities; Warrant chiefs; Resistance to colonial rule; Effects of colonial rule",
+          "source_page": 869
+        },
+        {
+          "week": "10",
+          "topic": "The Early Regions in Nigeria",
+          "content": "Creation of regional structure; Northern Region, Western Region, Eastern Region; Capital cities of regions; Regional governments",
+          "source_page": 869
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 869
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 869
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 869
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 870,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Nationalism and Independence Movement",
+          "content": "Rise of nationalism; Early nationalist leaders - Herbert Macaulay, Nnamdi Azikiwe, Obafemi Awolowo, Ahmadu Bello; Political parties",
+          "source_page": 870
+        },
+        {
+          "week": "2",
+          "topic": "The Road to Independence",
+          "content": "Constitutional conferences; 1954, 1957, 1959 elections; Self-governance; October 1st, 1960 - Independence Day",
+          "source_page": 870
+        },
+        {
+          "week": "3",
+          "topic": "Nigeria as an Independent Nation",
+          "content": "First government; Prime Minister Tawafawa Balewa; Governor-General Dr. Nnamdi Azikiwe; Independence challenges; The Nigerian flag and anthem",
+          "source_page": 870
+        },
+        {
+          "week": "4",
+          "topic": "Political Developments in Nigeria I",
+          "content": "First Republic (1963-1966); Republican constitution; Regional politics; Political crises of the First Republic",
+          "source_page": 870
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 870
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 870
+        },
+        {
+          "week": "7",
+          "topic": "Political Developments in Nigeria II",
+          "content": "Military rule in Nigeria; Major military coups; Military administrators; Effects of military rule",
+          "source_page": 870
+        },
+        {
+          "week": "8",
+          "topic": "The Nigerian Civil War (1967-1970)",
+          "content": "Causes of the civil war; Biafra secession; Major events of the war; Effects and reconciliation; Lessons learned",
+          "source_page": 870
+        },
+        {
+          "week": "9",
+          "topic": "Return to Democracy",
+          "content": "Transition programs; Second Republic (1979-1983); Third Republic attempts; Fourth Republic (1999- present); Democratic values",
+          "source_page": 870
+        },
+        {
+          "week": "10",
+          "topic": "States Creation in Nigeria I",
+          "content": "The 12 states (1967); 19 states (1976); 21 states (1987); Reasons for creating states; Benefits of states creation",
+          "source_page": 870
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 870
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 870
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 870
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 871,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "States Creation in Nigeria II",
+          "content": "30 states (1991); 36 states (1996); Current states and their capitals; Memorizing states and capitals; Local government creation",
+          "source_page": 871
+        },
+        {
+          "week": "2",
+          "topic": "Federal Capital in Nigeria",
+          "content": "Lagos as Federal Capital (1914-1991); Reasons for moving the capital; Selection of Abuja; Development of Abuja; Abuja as FCT",
+          "source_page": 871
+        },
+        {
+          "week": "3",
+          "topic": "The Structure of Nigerian Government",
+          "content": "Federal system of government; Executive, Legislature, Judiciary; Three tiers of government; Separation of powers",
+          "source_page": 871
+        },
+        {
+          "week": "4",
+          "topic": "Local Government System",
+          "content": "Functions of local government; Local government chairman; Councillors; Services provided; Grassroots development",
+          "source_page": 871
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 871
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 871
+        },
+        {
+          "week": "7",
+          "topic": "Historical Features and Sites in Nigeria I",
+          "content": "Sukur Cultural Landscape, Adamawa; Kano City Walls; Gidan Rumfa, Kano; National War Museum, Umuahia; Importance of preservation",
+          "source_page": 871
+        },
+        {
+          "week": "8",
+          "topic": "Historical Features and Sites in Nigeria II",
+          "content": "Idanre Hills, Ondo; Zuma Rock, Niger State; Yankari National Park; Calabar Slave History Museum; Tourism and heritage",
+          "source_page": 871
+        },
+        {
+          "week": "9",
+          "topic": "Nigerian Symbols and Identity",
+          "content": "The National Flag; The National Anthem; The National Pledge; The Coat of Arms; Nigerian Currency",
+          "source_page": 871
+        },
+        {
+          "week": "10",
+          "topic": "Famous Nigerians in History",
+          "content": "Queen Amina of Zaria; King Jaja of Opobo; Oba Ovonramwen; Mary Slessor; Funmilayo Ransome-Kuti; Their contributions",
+          "source_page": 871
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 871
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 871
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 871
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 872,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Leadership I",
+          "content": "Meaning of leadership; Qualities of a good leader; Types of leaders; Leaders at home, school and community; Leadership by example",
+          "source_page": 872
+        },
+        {
+          "week": "2",
+          "topic": "Leadership II",
+          "content": "Leadership positions in school; Class prefects and their duties; School captain/head boy/girl; Leading group activities; Responsible leadership",
+          "source_page": 872
+        },
+        {
+          "week": "3",
+          "topic": "Responsibilities and Social Justice I",
+          "content": "Meaning of responsibility; Personal responsibilities; Responsibilities to family, school and community; Being accountable; Fulfilling duties",
+          "source_page": 872
+        },
+        {
+          "week": "4",
+          "topic": "Responsibilities and Social Justice II",
+          "content": "What is social justice; Fairness and equality; Treating everyone with respect; Standing against discrimination; Justice for all",
+          "source_page": 872
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 872
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 872
+        },
+        {
+          "week": "7",
+          "topic": "Community Mobilization I",
+          "content": "Meaning of community mobilization; Bringing people together for development; Community projects; Working together for progress",
+          "source_page": 872
+        },
+        {
+          "week": "8",
+          "topic": "Community Mobilization II",
+          "content": "Youth participation in community development; Community town hall meetings; Fundraising for community projects; Benefits of mobilization",
+          "source_page": 872
+        },
+        {
+          "week": "9",
+          "topic": "Effects of Family Values on Relationships I",
+          "content": "Family values and their importance; How family values shape behavior; Integrity and honesty from family; Respect learned at home",
+          "source_page": 872
+        },
+        {
+          "week": "10",
+          "topic": "Effects of Family Values on Relationships II",
+          "content": "Personal values and relationships; Values in friendship; Values in school relationships; Maintaining good values; Conflict resolution through values",
+          "source_page": 872
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 872
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 872
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 872
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 873,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Meaning and Importance of Good Governance",
+          "content": "What is governance; Elements of good governance - transparency, accountability, rule of law; Why good governance matters; Effects of bad governance",
+          "source_page": 873
+        },
+        {
+          "week": "2",
+          "topic": "Types of Government I",
+          "content": "Democracy - government by the people; Features of democratic government; Monarchy; Military government; Differences between government types",
+          "source_page": 873
+        },
+        {
+          "week": "3",
+          "topic": "Types of Government II",
+          "content": "Federal system of government; Unitary system; Three tiers of government in Nigeria; Separation of powers; Checks and balances",
+          "source_page": 873
+        },
+        {
+          "week": "4",
+          "topic": "Electoral Process I",
+          "content": "Meaning of election; Importance of elections in democracy; Types of elections; Free and fair elections; Electoral offences",
+          "source_page": 873
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 873
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 873
+        },
+        {
+          "week": "7",
+          "topic": "Components of the Electoral Process",
+          "content": "Voter registration; Electoral campaigns; Voting procedures; Vote counting; Announcing results; Electoral tribunal",
+          "source_page": 873
+        },
+        {
+          "week": "8",
+          "topic": "Party Systems and Political Parties",
+          "content": "What is a political party; Functions of political parties; Major political parties in Nigeria; Party symbols and logos; Multi-party system",
+          "source_page": 873
+        },
+        {
+          "week": "9",
+          "topic": "Political Parties and Pressure Groups",
+          "content": "Differences between political parties and pressure groups; Examples of pressure groups; How pressure groups influence government; Rights to association",
+          "source_page": 873
+        },
+        {
+          "week": "10",
+          "topic": "Introduction to Financial System",
+          "content": "What is the financial system; Banks and their functions; Savings accounts; Different types of banks; Central Bank of Nigeria",
+          "source_page": 873
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 873
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 873
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 873
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 874,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Advanced Money Management",
+          "content": "Earning, saving and spending; Banking services for young people; ATM and online banking basics; Protecting your money; Financial planning",
+          "source_page": 874
+        },
+        {
+          "week": "2",
+          "topic": "Characteristics of Drug Abusers I",
+          "content": "Physical signs of drug abuse; Behavioral changes; Health deterioration; Social problems; Academic decline",
+          "source_page": 874
+        },
+        {
+          "week": "3",
+          "topic": "Characteristics of Drug Abusers II",
+          "content": "Psychological effects; Why early detection matters; Helping someone with drug problems; Treatment and rehabilitation centers",
+          "source_page": 874
+        },
+        {
+          "week": "4",
+          "topic": "Prevention of Drug Abuse - Life Coping Skills I",
+          "content": "Self-awareness and self-esteem; Managing emotions; Stress management; Problem-solving skills; Decision- making skills",
+          "source_page": 874
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 874
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 874
+        },
+        {
+          "week": "7",
+          "topic": "Prevention of Drug Abuse - Life Coping Skills II",
+          "content": "Communication skills; Assertiveness; Peer resistance skills; Goal setting; Seeking help when needed",
+          "source_page": 874
+        },
+        {
+          "week": "8",
+          "topic": "Neighbourhood Security - Advanced",
+          "content": "Community policing; Reporting crimes; Security awareness; Vigilance; Cyber security basics",
+          "source_page": 874
+        },
+        {
+          "week": "9",
+          "topic": "Child Rights and Protection",
+          "content": "Rights of the child; Right to protection from abuse; Child helpline numbers; Speaking up about abuse; Organizations that protect children",
+          "source_page": 874
+        },
+        {
+          "week": "10",
+          "topic": "Introduction to Human Trafficking",
+          "content": "What is human trafficking; Difference between trafficking and migration; Forms of trafficking; Warning signs; How to stay safe",
+          "source_page": 874
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 874
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 874
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 874
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 875,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Types of Drawings I",
+          "content": "Classification of drawings - life drawing, still life, imaginative drawing, nature drawing; Materials for drawing - pencils (grades), paper types, erasers; Basic drawing techniques; Observation skills",
+          "source_page": 875
+        },
+        {
+          "week": "2",
+          "topic": "Types of Drawings II",
+          "content": "Drawing from observation; Proportions and measurements; Shading techniques - hatching, cross-hatching, stippling, blending; Light and shadow; Perspective basics; Practice exercises",
+          "source_page": 875
+        },
+        {
+          "week": "3",
+          "topic": "Card Making and Decoration I",
+          "content": "Types of cards - greeting cards, birthday cards, festive cards, invitation cards; Materials needed - cardboard, colored paper, glue, scissors, ribbons, decorative items; Design principles - balance, color harmony",
+          "source_page": 875
+        },
+        {
+          "week": "4",
+          "topic": "Card Making and Decoration II",
+          "content": "Techniques in card decoration - paper folding, pop-up cards, collage, embossing; Creating original card designs; Adding messages and sentiments; Making cards for different occasions; Presentation and display",
+          "source_page": 875
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 875
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 875
+        },
+        {
+          "week": "7",
+          "topic": "Introduction to Weaving using Paper I",
+          "content": "Meaning of weaving; History of weaving in Nigeria; Materials for paper weaving - colored paper strips, mat, glue; Basic weaving patterns - plain weave (over-under); Preparing paper strips",
+          "source_page": 875
+        },
+        {
+          "week": "8",
+          "topic": "Introduction to Weaving using Paper II",
+          "content": "Different weaving patterns - twill weave, basket weave; Creating woven mats, bookmarks, and placemats; Color combinations; Finishing techniques; Mounting and displaying woven projects",
+          "source_page": 875
+        },
+        {
+          "week": "9",
+          "topic": "Songs/Music with Nigerian Identity I",
+          "content": "Nigerian traditional songs from different ethnic groups; Patriotic songs - National Anthem, Pledge; Children's folk songs; Call and response songs; Learning and performing Nigerian songs",
+          "source_page": 875
+        },
+        {
+          "week": "10",
+          "topic": "Songs/Music with Nigerian Identity II",
+          "content": "Creating simple Nigerian songs; Understanding song structure - verse, chorus, bridge; Incorporating Nigerian languages and themes; Group singing and harmony; Using traditional rhythms; Performance practice",
+          "source_page": 875
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice sessions; Completion of projects; Preparation of portfolios; Question and answer sessions",
+          "source_page": 875
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - theory and practical",
+          "source_page": 876
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Exhibition of student works",
+          "source_page": 876
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 877,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Mosaics I",
+          "content": "Meaning and history of mosaics; Types of materials for mosaics - paper, seeds, beans, stones, broken tiles, bottle caps; Tools needed; Planning mosaic designs; Sketching the base design",
+          "source_page": 877
+        },
+        {
+          "week": "2",
+          "topic": "Mosaics II",
+          "content": "Creating mosaic art pieces; Cutting and arranging materials; Gluing techniques; Color schemes and patterns; Grouting basics; Finishing and sealing; Displaying mosaic artworks",
+          "source_page": 877
+        },
+        {
+          "week": "3",
+          "topic": "Calabash/Wood Painting and Decoration I",
+          "content": "Traditional uses of calabash and wood in Nigerian culture; Materials for painting - acrylic paints, brushes, varnish; Preparing surfaces - cleaning, sanding; Design planning - traditional motifs and patterns",
+          "source_page": 877
+        },
+        {
+          "week": "4",
+          "topic": "Calabash/Wood Painting and Decoration II",
+          "content": "Painting techniques on curved surfaces; Nigerian traditional patterns and symbols; Color application and layering; Decoration with beads, cowries, and other materials; Finishing and preservation; Functional and decorative uses",
+          "source_page": 877
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 877
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 877
+        },
+        {
+          "week": "7",
+          "topic": "Nigerian Traditional Architecture I",
+          "content": "Traditional Nigerian building styles - Hausa (Tubali), Yoruba (Compound system), Igbo (Red earth/mud houses), Tiv (Circular huts); Materials used - mud, thatch, wood, bamboo; Climate adaptation in designs",
+          "source_page": 877
+        },
+        {
+          "week": "8",
+          "topic": "Nigerian Traditional Architecture II",
+          "content": "Features of traditional architecture - courtyards, decorative patterns, ventilation; Creating models of traditional houses; Comparing traditional and modern architecture; Preservation of architectural heritage; Drawing traditional buildings",
+          "source_page": 877
+        },
+        {
+          "week": "9",
+          "topic": "Music Notes and Their Values I",
+          "content": "Introduction to musical notation; The staff (stave) and clef; Treble clef basics; Whole note (semibreve), half note (minim), quarter note (crotchet); Time values and counting",
+          "source_page": 877
+        },
+        {
+          "week": "10",
+          "topic": "Music Notes and Their Values II",
+          "content": "Eighth notes (quavers) and sixteenth notes (semiquavers); Rests and their values; Time signatures - 2/4, 3/4, 4/4; Reading simple rhythms; Clapping and performing rhythmic patterns; Writing musical notation",
+          "source_page": 877
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice sessions; Completion of projects; Preparation of portfolios; Question and answer sessions",
+          "source_page": 877
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - theory and practical",
+          "source_page": 878
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Exhibition of student works",
+          "source_page": 878
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 879,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Creating Music with Solfa Notation I",
+          "content": "Introduction to solfa notation (Tonic Sol-fa); The solfa syllables - doh, ray, me, fah, soh, lah, te, doh'; Hand signs for solfa; Singing simple melodies using solfa; Relationship between solfa and staff notation",
+          "source_page": 879
+        },
+        {
+          "week": "2",
+          "topic": "Creating Music with Solfa Notation II",
+          "content": "Creating simple melodies using solfa; Writing melodies in solfa notation; Singing in parts; Harmony basics; Composing short songs; Performing solfa compositions",
+          "source_page": 879
+        },
+        {
+          "week": "3",
+          "topic": "Dance Motifs",
+          "content": "Meaning of dance motifs; Basic movement motifs in Nigerian dances; Creating simple dance motifs; Repetition and variation; Combining motifs into sequences; Cultural significance of movement patterns",
+          "source_page": 879
+        },
+        {
+          "week": "4",
+          "topic": "Components of Dance",
+          "content": "Body awareness - shapes, levels, directions; Space - personal and general space, pathways; Time - fast, slow, rhythm, tempo; Energy - strong, light, smooth, sharp; Relationships - solo, partner, group",
+          "source_page": 879
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 879
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 879
+        },
+        {
+          "week": "7",
+          "topic": "Techniques in Dance",
+          "content": "Warm-up and stretching exercises; Balance and coordination; Turns and jumps; Floor work; Partnering techniques; Cultural dance techniques from Nigerian ethnic groups; Choreography basics",
+          "source_page": 879
+        },
+        {
+          "week": "8",
+          "topic": "Creating a Play - Honesty/Integrity/Right Attitude to Work I",
+          "content": "Understanding themes - honesty, integrity, right attitude to work; Story development; Plot structure - beginning, middle, end; Character creation; Setting and conflict; Writing dialogue; Script format",
+          "source_page": 879
+        },
+        {
+          "week": "9",
+          "topic": "Creating a Play - Honesty/Integrity/Right Attitude to Work II",
+          "content": "Completing the script; Rehearsal techniques; Stage directions; Costume and props planning; Teamwork in production; Performing the play; Reflection and critique",
+          "source_page": 879
+        },
+        {
+          "week": "10",
+          "topic": "Acting, Impersonation, and Role Play I",
+          "content": "Difference between acting, impersonation, and role play; Voice control and projection; Facial expressions and body language; Character development; Emotions and motivations; Improvisation exercises",
+          "source_page": 879
+        },
+        {
+          "week": "11",
+          "topic": "Acting, Impersonation, and Role Play II & Developing Character",
+          "content": "Deep character analysis; Backstory creation; Physicality of characters; Character relationships; Sustaining character throughout performance; Transforming into different characters; Performance practice",
+          "source_page": 879
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment - theory and practical performance",
+          "source_page": 880
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment; Final performance showcase",
+          "source_page": 880
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "BASIC DIGITAL LITERACY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 881,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Advanced Computer Parts",
+          "content": "Detailed study of CPU: processor speed, cores, brands (Intel, AMD). RAM: types, capacity (GB), importance for multitasking. Storage: HDD vs SSD, capacity, speed differences. Graphics card for gaming and design.",
+          "source_page": 881
+        },
+        {
+          "week": "2",
+          "topic": "Operating Systems",
+          "content": "Understanding operating systems: software that runs computer. Types: Windows, macOS, Linux, Android, iOS. Functions: managing hardware, running programs, file management. Desktop vs mobile operating systems. Booting process: turning on to ready state.",
+          "source_page": 881
+        },
+        {
+          "week": "3",
+          "topic": "Advanced File Management",
+          "content": "File extensions: .doc, .pdf, .jpg, .mp3, .mp4. Compressing files: ZIP files. Cloud storage introduction: Google Drive, OneDrive. Downloading and uploading files. File security: read-only, hidden files. Organizing files efficiently.",
+          "source_page": 881
+        },
+        {
+          "week": "4",
+          "topic": "Word Processing I",
+          "content": "Advanced Microsoft Word skills. Document formatting: alignment, line spacing, margins. Insert features: pictures, tables, shapes. Page layout: orientation, page breaks, headers/footers. Spell check and grammar tools.",
+          "source_page": 881
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 881
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 881
+        },
+        {
+          "week": "7",
+          "topic": "Word Processing II",
+          "content": "Creating multi-page documents. Table of contents basics. Bullet points and numbering. Inserting page numbers. Copy, cut, paste. Undo and redo. Printing documents: print preview, selecting printer. Saving in different formats.",
+          "source_page": 881
+        },
+        {
+          "week": "8",
+          "topic": "Presentation Software I",
+          "content": "Introduction to PowerPoint or similar software. Creating new presentation. Adding slides: title slide, content slides. Slide layouts. Adding text and formatting. Choosing themes and designs.",
+          "source_page": 881
+        },
+        {
+          "week": "9",
+          "topic": "Presentation Software II",
+          "content": "Inserting images and shapes. Adding transitions between slides. Basic animations. Presenting: slideshow mode, using presenter view. Tips for good presentations. Saving and sharing presentations.",
+          "source_page": 881
+        },
+        {
+          "week": "10",
+          "topic": "Spreadsheet Basics",
+          "content": "Introduction to Excel or Google Sheets. Understanding rows, columns, cells. Entering data: numbers, text. Basic formulas: SUM, AVERAGE. Creating simple tables. Formatting cells.",
+          "source_page": 881
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics. Complete practical projects in Word, PowerPoint, Excel.",
+          "source_page": 881
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of First Term Examination (Theory and Practical)",
+          "source_page": 882
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 882
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "BASIC DIGITAL LITERACY",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 883,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Internet Safety Review and Email",
+          "content": "Review of internet safety rules. Introduction to email. Email structure: address, subject, body, attachments. Creating email account (supervised). Sending and receiving emails. Email etiquette: polite language, clear subjects.",
+          "source_page": 883
+        },
+        {
+          "week": "2",
+          "topic": "Advanced Phishing and Scams",
+          "content": "Types of online scams: fake prizes, impersonation, tech support scams. Recognizing scam tactics: too good to be true, urgency, fear tactics. Verifying information sources. Reporting scams. Protecting personal and family information.",
+          "source_page": 883
+        },
+        {
+          "week": "3",
+          "topic": "Digital Footprint)",
+          "content": "Understanding digital footprint: information left online. Permanent nature of online posts. Thinking before posting or sharing. Privacy settings on platforms. Reputation management basics. Being responsible digital citizens.",
+          "source_page": 883
+        },
+        {
+          "week": "4",
+          "topic": "Copyright and Digital Ethics",
+          "content": "Understanding copyright: ownership of creative work. Respecting others' work: not copying without permission. Citing sources. Creative Commons basics. Plagiarism awareness. Fair use for education. Creating original work.",
+          "source_page": 883
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 883
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 883
+        },
+        {
+          "week": "7",
+          "topic": "Block Coding with Scratch I",
+          "content": "Review of Scratch basics. Advanced motion: gliding, bouncing, following mouse. Costume changes for animation. Creating interactive stories. Using backdrops effectively.",
+          "source_page": 883
+        },
+        {
+          "week": "8",
+          "topic": "Block Coding with Scratch II",
+          "content": "Variables: storing and changing values. Using operators: math operations, comparisons, logic. Creating simple games: score keeping, timers. User input: asking questions, responding.",
+          "source_page": 883
+        },
+        {
+          "week": "9",
+          "topic": "Programming a Game Environment",
+          "content": "Game design basics: characters, objectives, rules. Creating game sprites. Designing game backgrounds. Adding movement controls. Collision detection introduction. Game testing and improving.",
+          "source_page": 883
+        },
+        {
+          "week": "10",
+          "topic": "Debugging and Problem Solving",
+          "content": "Understanding bugs: errors in code. Types of errors: syntax, logic. Debugging strategies: testing step-by- step, checking logic, asking for help. Problem decomposition: breaking problems into smaller parts. Testing thoroughly.",
+          "source_page": 883
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics. Complete Scratch game projects. Testing and presenting games.",
+          "source_page": 883
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Second Term Examination (Theory and Practical)",
+          "source_page": 884
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 884
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "BASIC DIGITAL LITERACY",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 885,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Sequence in Programming",
+          "content": "Deep dive into sequencing. Order importance in code. Sequential thinking exercises. Creating multi-step programs. Planning sequences before coding. Documenting steps.",
+          "source_page": 885
+        },
+        {
+          "week": "2",
+          "topic": "Loops and Repetition",
+          "content": "Understanding loops: repeating actions. Types of loops in Scratch: repeat, forever, repeat until. When to use loops. Efficiency: using loops vs repeating code. Nested loops introduction.",
+          "source_page": 885
+        },
+        {
+          "week": "3",
+          "topic": "Conditionals (If- Then)",
+          "content": "Understanding conditions: making decisions in code. If-then blocks in Scratch. If-then-else blocks. Comparison operators: equal, greater, less than. Creating responsive programs.",
+          "source_page": 885
+        },
+        {
+          "week": "4",
+          "topic": "Basics of Robotics",
+          "content": "Introduction to robotics. What are robots: machines that can be programmed to do tasks. Types of robots: industrial, service, entertainment, educational. Robot components: sensors, actuators, processors. Robots in daily life: vacuum cleaners, assembly lines, drones.",
+          "source_page": 885
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment covering Weeks 1-4",
+          "source_page": 885
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Holiday",
+          "source_page": 885
+        },
+        {
+          "week": "7",
+          "topic": "Robotics Applications",
+          "content": "Robots in different fields: manufacturing, healthcare, space exploration, agriculture, education. How robots help humans: dangerous tasks, repetitive work, precision tasks. Educational robots: examples like Lego Mindstorms, simple robot kits. Robot programming basics.",
+          "source_page": 885
+        },
+        {
+          "week": "8",
+          "topic": "Game Development with Pictoblox",
+          "content": "Introduction to Pictoblox: Scratch-based platform with AI features. Setting up Pictoblox environment. Creating sprites and backdrops. Basic game mechanics: player control, obstacles, scoring. Adding sounds and effects.",
+          "source_page": 885
+        },
+        {
+          "week": "9",
+          "topic": "Introduction to Artificial Intelligence",
+          "content": "What is AI: machines that can learn and make decisions. AI vs human intelligence. AI in daily life: voice assistants (Siri, Alexa), recommendations (YouTube, Netflix), face recognition. Machine learning basics: computers learning from examples.",
+          "source_page": 885
+        },
+        {
+          "week": "10",
+          "topic": "AI Applications and Ethics",
+          "content": "AI applications: self-driving cars, language translation, medical diagnosis, games. Benefits of AI: efficiency, accuracy, solving complex problems. Concerns: privacy, job displacement, bias. Responsible AI use. Future of AI and robotics.",
+          "source_page": 885
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of all topics. Complete final projects combining programming, robotics concepts, and creativity.",
+          "source_page": 885
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Third Term/Annual Examination (Theory and Practical)",
+          "source_page": 885
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report distribution and vacation",
+          "source_page": 886
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "PREVOCATIONAL STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 887,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Soil Classification I",
+          "content": "Types of soil - sandy, clay, loamy; Characteristics of each soil type; Identifying different soils; Soil texture and feel",
+          "source_page": 887
+        },
+        {
+          "week": "2",
+          "topic": "Soil Classification II",
+          "content": "Soil structure and composition; Soil color and what it indicates; Topsoil and subsoil; Soil profile; Soil testing",
+          "source_page": 887
+        },
+        {
+          "week": "3",
+          "topic": "Soil Enrichment I",
+          "content": "Meaning of soil enrichment; Why soil needs enrichment; Organic matter and humus; Composting basics; Animal manure",
+          "source_page": 887
+        },
+        {
+          "week": "4",
+          "topic": "Soil Enrichment II",
+          "content": "Fertilizers - organic and inorganic; Green manuring; Crop rotation; Cover crops; Improving soil fertility",
+          "source_page": 887
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 887
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 887
+        },
+        {
+          "week": "7",
+          "topic": "Agricultural Tools and Equipment I",
+          "content": "Hand tools - hoes, cutlasses, rakes, spades, shovels; Functions of each tool; Differences and similarities; Selection of appropriate tools",
+          "source_page": 887
+        },
+        {
+          "week": "8",
+          "topic": "Agricultural Tools and Equipment II",
+          "content": "Simple machines in agriculture - wheelbarrow, irrigation equipment, sprayers; Watering cans and hose pipes; Measuring tools; Modern vs traditional tools",
+          "source_page": 887
+        },
+        {
+          "week": "9",
+          "topic": "Safety Measures in Agriculture I",
+          "content": "Personal protective equipment (PPE) - gloves, boots, hats, overalls; Importance of PPE; When to use protective gear",
+          "source_page": 887
+        },
+        {
+          "week": "10",
+          "topic": "Safety Measures in Agriculture II",
+          "content": "Safety precautions when using tools; Preventing accidents; First aid on the farm; Safe storage of tools and chemicals; Farm safety rules",
+          "source_page": 887
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 887
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 887
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 887
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "PREVOCATIONAL STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 888,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Maintenance of Agricultural Tools and Equipment I",
+          "content": "Meaning of maintenance; Importance of tool maintenance; Cleaning tools after use; Removing dirt and rust",
+          "source_page": 888
+        },
+        {
+          "week": "2",
+          "topic": "Maintenance of Agricultural Tools and Equipment II",
+          "content": "Sharpening tools; Oiling metal parts; Replacing broken handles; Proper storage to prevent damage; Regular inspection",
+          "source_page": 888
+        },
+        {
+          "week": "3",
+          "topic": "Vocational Skills in Agriculture I",
+          "content": "Meaning of vocational skills; Crop production skills - land preparation, planting, weeding, harvesting; Practical skills development",
+          "source_page": 888
+        },
+        {
+          "week": "4",
+          "topic": "Vocational Skills in Agriculture II",
+          "content": "Animal rearing skills; Processing agricultural products; Record keeping; Marketing farm produce; Farm management basics",
+          "source_page": 888
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 888
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 888
+        },
+        {
+          "week": "7",
+          "topic": "Food Classification and Functions I",
+          "content": "Classification of food - carbohydrates, proteins, fats and oils; Sources of each food class; Functions in the body",
+          "source_page": 888
+        },
+        {
+          "week": "8",
+          "topic": "Food Classification and Functions II",
+          "content": "Vitamins and minerals; Water and roughage; Balanced diet; Food groups; Planning balanced meals",
+          "source_page": 888
+        },
+        {
+          "week": "9",
+          "topic": "Basic Principles in Home Economics I",
+          "content": "Principles of cooking - boiling, frying, roasting, steaming; Safety in food preparation; Hygiene in the kitchen",
+          "source_page": 888
+        },
+        {
+          "week": "10",
+          "topic": "Basic Principles in Home Economics II",
+          "content": "Principles of sewing - stitches, seams, hems; Basic hand stitching; Principles of cleaning; Home management principles",
+          "source_page": 888
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 888
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 888
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING 5 PREVOCATIONAL STUDIES TERM Topic Content",
+          "content": "Report card distribution; Vacation assignment SCHEME OF WORK",
+          "source_page": 888
+        },
+        {
+          "week": "1",
+          "topic": "Home Economics Tools Kitchen and Equipment I measuring scissors,",
+          "content": "equipment - pots, pans, knives, cutting boards, cups; Sewing equipment - needles, thread, measuring tape",
+          "source_page": 888
+        },
+        {
+          "week": "2",
+          "topic": "Home Economics Tools Cleaning and Equipment II dusters; drying",
+          "content": "equipment - brooms, mops, vacuum cleaners, Laundry equipment - washing machine, iron, rack; Uses of each equipment",
+          "source_page": 888
+        },
+        {
+          "week": "3",
+          "topic": "Safety in Handling Home Kitchen Economics Tools I appliances;",
+          "content": "safety - knife handling, hot surfaces, electrical Prevention of cuts and burns; Fire safety",
+          "source_page": 889
+        },
+        {
+          "week": "4",
+          "topic": "Safety in Handling Home Sewing Economics Tools II Electrical cleaning",
+          "content": "safety - needle and scissors safety, iron safety; safety; Chemical safety - detergents and agents",
+          "source_page": 889
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM Assessment EXAMINATION",
+          "content": "of topics covered in weeks 1-4",
+          "source_page": 889
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK Rest",
+          "content": "and relaxation period",
+          "source_page": 889
+        },
+        {
+          "week": "7",
+          "topic": "Maintenance of Home Cleaning Economics Tools Caring Regular",
+          "content": "kitchen equipment; Sharpening knives safely; for sewing equipment; Storing tools properly; checks",
+          "source_page": 889
+        },
+        {
+          "week": "8",
+          "topic": "Personal Grooming and Advanced Use of Basic Cosmetics I care;",
+          "content": "personal grooming; Skin care basics; Hair Nail care; Age-appropriate grooming",
+          "source_page": 889
+        },
+        {
+          "week": "9",
+          "topic": "Personal Grooming and Safe Use of Basic Cosmetics II Personal Self-esteem",
+          "content": "use of simple cosmetics; Natural beauty products; hygiene products; Making informed choices; and appearance",
+          "source_page": 889
+        },
+        {
+          "week": "10",
+          "topic": "Introduction to Meaning Entrepreneurship Turning Economics",
+          "content": "of entrepreneurship; Young entrepreneurs; skills into business; Agriculture and Home businesses; Creativity and innovation",
+          "source_page": 889
+        },
+        {
+          "week": "11",
+          "topic": "REVISION Review Question",
+          "content": "of all topics covered; Practice exercises; and answer sessions",
+          "source_page": 889
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION End",
+          "content": "of term assessment",
+          "source_page": 889
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING Report",
+          "content": "card distribution; Vacation assignment",
+          "source_page": 889
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "FRENCH LANGUAGE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 890,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Révision - Les Salutations et l'Alphabet",
+          "content": "Review of greetings - Bonjour, Bonsoir, Salut, Au revoir; French alphabet pronunciation; Review of numbers 1-20; Simple introductions - Je m'appelle..., J'ai... ans",
+          "source_page": 890
+        },
+        {
+          "week": "2",
+          "topic": "Compter de 21 – 60 (I)",
+          "content": "Numbers 21-30 in French; Pronunciation practice; Writing numbers in words; Simple addition and subtraction in French; Asking \"Combien?\" (How many?); Counting objects",
+          "source_page": 890
+        },
+        {
+          "week": "3",
+          "topic": "Compter de 21 – 60 (II)",
+          "content": "Numbers 31-50 in French; Pronunciation and spelling; Age expressions - J'ai... ans; Telephone numbers; Prices and money expressions; Practice exercises",
+          "source_page": 890
+        },
+        {
+          "week": "4",
+          "topic": "Compter de 21 – 60 (III)",
+          "content": "Numbers 51-60 in French; Counting in tens; Complete mastery of 21-60; Games and activities with numbers; Dictation exercises; Mathematical operations in French",
+          "source_page": 890
+        },
+        {
+          "week": "5",
+          "topic": "EXAMEN DE MI- TRIMESTRE",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 890
+        },
+        {
+          "week": "6",
+          "topic": "CONGÉ DE MI- TRIMESTRE",
+          "content": "Rest and relaxation period",
+          "source_page": 890
+        },
+        {
+          "week": "7",
+          "topic": "Présenter les Autres (I)",
+          "content": "Introducing others - Voici..., C'est..., Il/Elle s'appelle...; Using third person pronouns - il, elle; Stating relationships - mon ami(e), mon frère, ma sœur; Describing people - Il/Elle est gentil(le)",
+          "source_page": 890
+        },
+        {
+          "week": "8",
+          "topic": "Présenter les Autres (II)",
+          "content": "Making formal introductions; Age and nationality of others - Il/Elle a... ans, Il/Elle est nigérian(e); Describing physical appearance - Il/Elle est grand(e), petit(e); Practice dialogues",
+          "source_page": 890
+        },
+        {
+          "week": "9",
+          "topic": "Identifier les Parties du Corps Humain (I)",
+          "content": "Parts of the head - la tête, les cheveux, les yeux, le nez, la bouche, les oreilles, les dents; Singular and plural forms; Basic sentences - J'ai deux yeux; Pronunciation practice",
+          "source_page": 890
+        },
+        {
+          "week": "10",
+          "topic": "Identifier les Parties du Corps Humain (II)",
+          "content": "Parts of the body - le corps, les bras, les mains, les doigts, les jambes, les pieds, le ventre, le dos; Describing pain - J'ai mal à la tête/au ventre; Simple body-related expressions",
+          "source_page": 890
+        },
+        {
+          "week": "11",
+          "topic": "RÉVISION",
+          "content": "Review of all topics covered; Number drills; Presentation practice; Body parts games; Question and answer sessions; Oral and written exercises",
+          "source_page": 890
+        },
+        {
+          "week": "12",
+          "topic": "EXAMEN",
+          "content": "End of term assessment - oral and written",
+          "source_page": 890
+        },
+        {
+          "week": "13",
+          "topic": "CLÔTURE",
+          "content": "Report card distribution; Vacation assignment; French songs and cultural activities",
+          "source_page": 890
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "FRENCH LANGUAGE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 891,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Parler de la Grande Famille (I)",
+          "content": "Extended family vocabulary - les grands-parents (le grand-père, la grand-mère), l'oncle, la tante, le cousin, la cousine; Possessive adjectives - mon, ma, mes; Family tree introduction",
+          "source_page": 891
+        },
+        {
+          "week": "2",
+          "topic": "Parler de la Grande Famille (II)",
+          "content": "More family members - le neveu, la nièce, le petit- fils, la petite-fille; Describing family members - Il/Elle est âgé(e), jeune; Talking about family size - J'ai une grande/petite famille; Creating a family tree in French",
+          "source_page": 891
+        },
+        {
+          "week": "3",
+          "topic": "Parler de la Grande Famille (III)",
+          "content": "Family relationships and activities; Visiting relatives - Nous visitons nos grands-parents; Family gatherings - la réunion de famille; Cultural aspects of Nigerian families; Comparing families",
+          "source_page": 891
+        },
+        {
+          "week": "4",
+          "topic": "Parler des Voisins (I)",
+          "content": "Neighborhood vocabulary - le/la voisin(e), les voisins, la maison voisine, le quartier; Introducing neighbors - Voici mon voisin; Describing neighbors - Il/Elle est sympathique, aimable",
+          "source_page": 891
+        },
+        {
+          "week": "5",
+          "topic": "EXAMEN DE MI- TRIMESTRE",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 891
+        },
+        {
+          "week": "6",
+          "topic": "CONGÉ DE MI- TRIMESTRE",
+          "content": "Rest and relaxation period",
+          "source_page": 891
+        },
+        {
+          "week": "7",
+          "topic": "Parler des Voisins (II)",
+          "content": "Good neighbor qualities; Neighborly activities - aider, partager, visiter; Describing the neighborhood - Mon quartier est calme/bruyant; Simple conversations with neighbors",
+          "source_page": 891
+        },
+        {
+          "week": "8",
+          "topic": "Exprimer la Gratitude (I)",
+          "content": "Expressing thanks - Merci, Merci beaucoup, Merci bien; Responding to thanks - De rien, Je vous en prie, Pas de quoi; Situations requiring gratitude; Polite expressions",
+          "source_page": 891
+        },
+        {
+          "week": "9",
+          "topic": "Exprimer la Gratitude (II)",
+          "content": "Formal and informal gratitude expressions; Written thank you notes; Appreciation phrases - C'est gentil, C'est très aimable; Cultural aspects of gratitude; Practice dialogues and role plays",
+          "source_page": 891
+        },
+        {
+          "week": "10",
+          "topic": "Nommer les Jours de la Semaine",
+          "content": "Days of the week - lundi, mardi, mercredi, jeudi, vendredi, samedi, dimanche; Using days in sentences - Aujourd'hui, c'est...; Quel jour sommes- nous?; Daily activities linked to days; Weekend vocabulary",
+          "source_page": 891
+        },
+        {
+          "week": "11",
+          "topic": "RÉVISION",
+          "content": "Review of all topics covered; Family vocabulary practice; Gratitude expressions; Days of the week exercises; Question and answer sessions; Oral and written practice",
+          "source_page": 891
+        },
+        {
+          "week": "12",
+          "topic": "EXAMEN",
+          "content": "End of term assessment - oral and written",
+          "source_page": 892
+        },
+        {
+          "week": "13",
+          "topic": "CLÔTURE",
+          "content": "Report card distribution; Vacation assignment; French cultural celebrations",
+          "source_page": 892
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "FRENCH LANGUAGE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 893,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Les Activités Quotidiennes (I)",
+          "content": "Daily routine vocabulary - se réveiller, se lever, se laver, s'habiller, prendre le petit déjeuner; Reflexive verbs introduction; Time expressions - le matin, l'après-midi, le soir",
+          "source_page": 893
+        },
+        {
+          "week": "2",
+          "topic": "Les Activités Quotidiennes (II)",
+          "content": "More daily activities - aller à l'école, étudier, déjeuner, dîner, se coucher; Describing routines - Je me réveille à...; Telling time basics; Practice with daily schedules",
+          "source_page": 893
+        },
+        {
+          "week": "3",
+          "topic": "Les Sports et Les Loisirs (I)",
+          "content": "Sports vocabulary - le football, le basketball, la natation, le tennis, la course; Expressing preferences - J'aime..., Je n'aime pas...; Playing sports - Je joue au football",
+          "source_page": 893
+        },
+        {
+          "week": "4",
+          "topic": "Les Sports et Les Loisirs (II)",
+          "content": "Hobbies and leisure activities - lire, regarder la télévision, jouer aux jeux, écouter de la musique, danser; Expressing ability - Je peux...; Inviting friends - Veux-tu jouer avec moi?",
+          "source_page": 893
+        },
+        {
+          "week": "5",
+          "topic": "EXAMEN DE MI-TRIMESTRE",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 893
+        },
+        {
+          "week": "6",
+          "topic": "CONGÉ DE MI- TRIMESTRE",
+          "content": "Rest and relaxation period",
+          "source_page": 893
+        },
+        {
+          "week": "7",
+          "topic": "Les Activités à l'École (I)",
+          "content": "School activities - étudier, écrire, lire, dessiner, chanter; School subjects - le français, les mathématiques, les sciences, l'anglais; Classroom expressions - Ouvrez vos livres, Écoutez",
+          "source_page": 893
+        },
+        {
+          "week": "8",
+          "topic": "Les Activités à l'École (II)",
+          "content": "School objects - le livre, le cahier, le stylo, le crayon, la gomme, la règle, le sac; Possession - C'est mon/ma...; Asking for items - Prête-moi ton stylo, s'il te plaît",
+          "source_page": 893
+        },
+        {
+          "week": "9",
+          "topic": "Les Métiers et Professions",
+          "content": "Common professions - le médecin, l'enseignant(e), l'infirmier/l'infirmière, le fermier, le chauffeur, le commerçant(e); Asking about professions - Quelle est ta profession?; Future aspirations - Je veux être...",
+          "source_page": 893
+        },
+        {
+          "week": "10",
+          "topic": "Les Aliments et Les Repas",
+          "content": "Food vocabulary - le pain, le riz, les fruits, les légumes, la viande, le poisson, l'eau, le jus; Meals - le petit déjeuner, le déjeuner, le dîner; Expressing hunger and thirst - J'ai faim, J'ai soif; Likes and dislikes",
+          "source_page": 893
+        },
+        {
+          "week": "11",
+          "topic": "RÉVISION",
+          "content": "Comprehensive review; Practice of all activities vocabulary; Oral presentations; Written exercises; Cultural activities; Preparation for transition to Primary 6",
+          "source_page": 893
+        },
+        {
+          "week": "12",
+          "topic": "EXAMEN",
+          "content": "End of term and comprehensive assessment - oral and written",
+          "source_page": 893
+        },
+        {
+          "week": "13",
+          "topic": "CLÔTURE PRIMARY Studies Science and Technology and Health Education Religious Studies Studies History and Citizenship and Creative Digital Literacy Studies",
+          "content": "Report card distribution; Vacation assignment; French culture celebration; Preparation for Primary 6 6 SCHEME OF WORK TABLE OF CONTENT Studies Arts (CCA)",
+          "source_page": 893
+        }
+      ]
+    }
+  ]
+}
