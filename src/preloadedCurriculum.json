@@ -7135,6 +7135,267 @@
           "source_page": 616
         }
       ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "BASIC SCIENCE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 623,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Exploring Our Environment (Part 1)",
+          "content": "Understanding environment; immediate surroundings (home, school, classroom); things we see; using senses (see, hear, smell, touch, taste); nature walk around school.",
+          "source_page": 623
+        },
+        {
+          "week": "2",
+          "topic": "Exploring Our Environment (Part 2)",
+          "content": "School: classrooms, playground, toilets, staff room; home: bedroom, kitchen, living room, bathroom, compound; family, teachers, friends, neighbours; safety; cleanliness.",
+          "source_page": 623
+        },
+        {
+          "week": "3",
+          "topic": "Exploring Other Parts of the Surrounding: Roads",
+          "content": "Community roads; tarred and untarred roads, pathways; vehicles, walking, bicycles; safe crossing and traffic lights; drivers and road workers.",
+          "source_page": 623
+        },
+        {
+          "week": "4",
+          "topic": "Colour Identification",
+          "content": "Primary colours red, blue, yellow; secondary colours green, orange, purple; black, white, brown, pink, grey; colours in nature; sorting; mixing colours.",
+          "source_page": 623
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4.",
+          "source_page": 623
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 623
+        },
+        {
+          "week": "7",
+          "topic": "Shapes (Part 1)",
+          "content": "Circle, square, triangle, rectangle; sides and corners; objects in surroundings; drawing/tracing; sorting shapes.",
+          "source_page": 624
+        },
+        {
+          "week": "8",
+          "topic": "Shapes (Part 2)",
+          "content": "Oval, diamond, star, heart; big/small, same/different; shape patterns and pictures; sphere, cube, cylinder.",
+          "source_page": 624
+        },
+        {
+          "week": "9",
+          "topic": "Living Things (Part 1)",
+          "content": "Meaning and characteristics of living things: move, eat, grow, breathe, reproduce; people, animals, plants; examples and differences.",
+          "source_page": 624
+        },
+        {
+          "week": "10",
+          "topic": "Living Things (Part 2)",
+          "content": "Pets, farm and wild animals; trees, flowers, grasses, vegetables; roots, stem, leaves, flowers, fruits; food, water, air, shelter; care.",
+          "source_page": 624
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Environment, roads, colours, shapes and living things.",
+          "source_page": 624
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment.",
+          "source_page": 624
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 624
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "BASIC SCIENCE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 625,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Non-Living Things (Part 1)",
+          "content": "Meaning and characteristics of non-living things; stones, water, air, chairs, tables, books; identify and compare with living things.",
+          "source_page": 625
+        },
+        {
+          "week": "2",
+          "topic": "Non-Living Things (Part 2)",
+          "content": "Natural examples: rocks, water, soil, air, sand, mountains; man-made examples: cars, houses, furniture, toys, clothes; uses and classification.",
+          "source_page": 625
+        },
+        {
+          "week": "3",
+          "topic": "Exploring Other Parts of the Surroundings: Air",
+          "content": "Air is everywhere and can be felt; blowing, waving, fanning; breathing, drying clothes, kites, balloons; wind; clean and polluted air.",
+          "source_page": 625
+        },
+        {
+          "week": "4",
+          "topic": "Exploring Other Parts of the Surroundings: Soil",
+          "content": "Where soil is found; sandy, clay and loamy soil; soil colours; growing plants, pottery, mud houses; caring for soil.",
+          "source_page": 625
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4.",
+          "source_page": 625
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 625
+        },
+        {
+          "week": "7",
+          "topic": "Exploring Other Parts of the Surroundings: Water",
+          "content": "Rain, river, stream, well, borehole, tap; liquid water, ice and steam; drinking, cooking, bathing, washing, cleaning, plants; clean and dirty water.",
+          "source_page": 626
+        },
+        {
+          "week": "8",
+          "topic": "Water (Continued) & Water Safety",
+          "content": "Keeping water clean; covering containers, avoiding contamination; safety around deep water; saving water; simple water-cycle introduction.",
+          "source_page": 626
+        },
+        {
+          "week": "9",
+          "topic": "Energy (Part 1)",
+          "content": "Energy makes things work, move or change; sun, food, batteries and electricity; sun provides heat/light, helps plants, dries clothes; food supports activity.",
+          "source_page": 626
+        },
+        {
+          "week": "10",
+          "topic": "Energy (Part 2)",
+          "content": "Batteries in toys, torches, clocks; electricity in lights, televisions, chargers and fans; electrical safety; saving energy; sun, wind and water as renewable sources.",
+          "source_page": 626
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Non-living things, air, soil, water and energy.",
+          "source_page": 626
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment.",
+          "source_page": 626
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 626
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "BASIC SCIENCE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 627,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Technology (Part 1: Understanding Technology)",
+          "content": "Tools and machines make work easier; television, radio, telephone, electric iron, refrigerator, fan; saves time and makes life comfortable; simple versus complex; communication.",
+          "source_page": 627
+        },
+        {
+          "week": "2",
+          "topic": "Technology (Part 2: Technology Around Us)",
+          "content": "Technology at school, in transport, hospitals and farms; old and new technologies; phones and smartphones, letters and email.",
+          "source_page": 627
+        },
+        {
+          "week": "3",
+          "topic": "Measuring Things (Part 1: Length and Size)",
+          "content": "Meaning of measurement; length and size comparisons; long, short, tall; longer/shorter/longest/shortest; hand span, foot, pencil, stick; measuring familiar objects.",
+          "source_page": 627
+        },
+        {
+          "week": "4",
+          "topic": "Measuring Things (Part 2: Weight and Capacity)",
+          "content": "Heavy and light; comparing weight; simple balance scales; full, half-full and empty; holds more or less.",
+          "source_page": 627
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4.",
+          "source_page": 627
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 627
+        },
+        {
+          "week": "7",
+          "topic": "Measuring Things (Part 3: Time and Temperature)",
+          "content": "Morning, afternoon, evening; fast and slow; days and months; clocks and o'clock; hot/cold and warm/cool.",
+          "source_page": 628
+        },
+        {
+          "week": "8",
+          "topic": "Simple Machines (Part 1: Introduction)",
+          "content": "Simple machines make lifting, moving, cutting or holding easier; lever, wheel and axle, inclined plane, pulley, wedge, screw; home and school examples.",
+          "source_page": 628
+        },
+        {
+          "week": "9",
+          "topic": "Simple Machines (Part 2: Types)",
+          "content": "Lever: seesaw, opener, scissors, broom; wheel and axle: bicycle, wheels, door knob, wheelbarrow; inclined plane: ramp, slope, slide, stairs; demonstrations.",
+          "source_page": 628
+        },
+        {
+          "week": "10",
+          "topic": "Simple Machines (Part 3: More Types and Uses)",
+          "content": "Wedge: knife, axe, needle, stopper; pulley: flag pole, well bucket, curtain rod, crane; screw: bottle cap, jar lid, wood screw, bulb; combined machines; ruler-and-eraser lever.",
+          "source_page": 628
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Technology, measurement and simple machines.",
+          "source_page": 628
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment.",
+          "source_page": 628
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 628
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
