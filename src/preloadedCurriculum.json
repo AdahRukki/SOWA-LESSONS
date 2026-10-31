@@ -1060,6 +1060,267 @@
           "source_page": 24
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "First Term",
+      "source_page": 25,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Citizenship",
+          "content": "Meaning of citizenship; Ways of becoming a citizen; Importance of being a good citizen; Qualities of a responsible citizen",
+          "source_page": 25
+        },
+        {
+          "week": "2",
+          "topic": "Rights and Duties of Citizens",
+          "content": "Fundamental human rights; Duties and obligations of citizens; Relationship between rights and duties; Consequences of neglecting civic duties",
+          "source_page": 25
+        },
+        {
+          "week": "3",
+          "topic": "Family as a Primary Social Group",
+          "content": "Meaning and types of family; Roles and responsibilities of family members; Importance of family in social development; Respect and cooperation within the family",
+          "source_page": 25
+        },
+        {
+          "week": "4",
+          "topic": "Culture and Identity",
+          "content": "Meaning of culture and identity; Elements of culture (language, food, dressing, religion, values); Cultural similarities and differences; Promoting unity in diversity",
+          "source_page": 25
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 25
+        },
+        {
+          "week": "6",
+          "topic": "Socialization",
+          "content": "Meaning and agents of socialization; Family, school, religion, peer group, media as agents; Importance of socialization; Effects of poor socialization",
+          "source_page": 25
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 25
+        },
+        {
+          "week": "8",
+          "topic": "Social Conflict",
+          "content": "Meaning and causes of social conflict; Effects of conflict on individuals and society; Ways of resolving conflicts; Importance of tolerance and forgiveness",
+          "source_page": 25
+        },
+        {
+          "week": "9",
+          "topic": "Peace Education",
+          "content": "Meaning and importance of peace; Values that promote peace: honesty, fairness, respect; Peaceful coexistence in the community; Activities that promote peace in schools and society",
+          "source_page": 25
+        },
+        {
+          "week": "10",
+          "topic": "Conflict Prevention and Resolution",
+          "content": "Meaning of conflict prevention; Strategies for preventing conflict; Steps in conflict resolution; Role of government and community leaders",
+          "source_page": 25
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Citizenship, culture, peace, and conflict resolution",
+          "source_page": 25
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 25
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 25
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "source_page": 26,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Environment and Sustainability",
+          "content": "Meaning of environment; Importance of caring for the environment; Environmental problems (pollution, deforestation, erosion); Ways to ensure environmental sustainability",
+          "source_page": 26
+        },
+        {
+          "week": "2",
+          "topic": "Climate Change",
+          "content": "Meaning of climate change; Causes and effects of climate change; Role of individuals in reducing climate change; Adaptation and mitigation measures",
+          "source_page": 26
+        },
+        {
+          "week": "3",
+          "topic": "Disaster Risk Reduction",
+          "content": "Meaning of disaster and risk reduction; Types of disasters: flood, fire, epidemic; Prevention and preparedness; Role of government and agencies",
+          "source_page": 26
+        },
+        {
+          "week": "4",
+          "topic": "Disaster Forecasting and Early Warning Signs",
+          "content": "Meaning of forecasting; Importance of early warning systems; Identifying early signs of disasters; Actions to take during warnings",
+          "source_page": 26
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 26
+        },
+        {
+          "week": "6",
+          "topic": "Environmental Protection",
+          "content": "Meaning and importance of protecting the environment; Simple environmental protection practices; Government and NGOs involved in environmental protection; Community involvement in environmental sanitation",
+          "source_page": 26
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 26
+        },
+        {
+          "week": "8",
+          "topic": "Response to Epidemics",
+          "content": "Meaning of epidemic and pandemic; Examples of epidemics (cholera, COVID-19, malaria); Causes and prevention; Personal and public health measures",
+          "source_page": 26
+        },
+        {
+          "week": "9",
+          "topic": "Promoting Safety in Our Community",
+          "content": "Meaning and importance of safety; Safety rules at home, school, and road; Community safety initiatives; Reporting unsafe situations",
+          "source_page": 26
+        },
+        {
+          "week": "10",
+          "topic": "Harmful Traditional Practices",
+          "content": "Meaning and examples: FGM, child marriage, preference for male children; Effects on health and society; Laws against harmful practices; Promoting positive cultural practices",
+          "source_page": 26
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Environment, safety, disaster, and harmful traditions",
+          "source_page": 26
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 26
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 26
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Third Term",
+      "source_page": 27,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Digital Technologies",
+          "content": "Meaning of digital technology; Examples of digital tools: phone, computer, internet; Importance of technology in learning and work; Responsible use of digital devices",
+          "source_page": 27
+        },
+        {
+          "week": "2",
+          "topic": "Cyber and Digital Security",
+          "content": "Meaning of cyber security; Common online risks: scams, cyberbullying, identity theft; Safe online practices; Importance of passwords and privacy",
+          "source_page": 27
+        },
+        {
+          "week": "3",
+          "topic": "Benefits and Ideals of Money",
+          "content": "Meaning and importance of money; Characteristics and functions of money; Right and wrong ways of acquiring money; Dangers of greed and corruption",
+          "source_page": 27
+        },
+        {
+          "week": "4",
+          "topic": "Financial Risks and Rewards",
+          "content": "Meaning of financial risks and rewards; Examples: savings, investment, loans; Importance of saving and budgeting; Avoiding financial scams and bad habits",
+          "source_page": 27
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 27
+        },
+        {
+          "week": "6",
+          "topic": "Migration",
+          "content": "Meaning and types of migration; Causes and effects of migration; Internal and international migration; How migration affects society",
+          "source_page": 27
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 27
+        },
+        {
+          "week": "8",
+          "topic": "Smuggling of Migrants and Irregular Migration",
+          "content": "Meaning of smuggling and irregular migration; Dangers of irregular migration; Legal ways of traveling abroad; Government efforts to curb irregular migration",
+          "source_page": 27
+        },
+        {
+          "week": "9",
+          "topic": "Human Trafficking",
+          "content": "Meaning, causes, and effects of human trafficking; Forms of trafficking: labor, sexual, organ harvesting; Laws and agencies fighting trafficking (NAPTIP); Ways of preventing trafficking and supporting victims",
+          "source_page": 27
+        },
+        {
+          "week": "10",
+          "topic": "International Relations",
+          "content": "Meaning of international relations; Importance of international cooperation; Role of Nigeria in global affairs; Promoting peace and mutual respect among nations",
+          "source_page": 27
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Digital literacy, money, migration, trafficking, and international relations",
+          "source_page": 28
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 28
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 28
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
