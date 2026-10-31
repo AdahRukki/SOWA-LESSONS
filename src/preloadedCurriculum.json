@@ -2068,6 +2068,267 @@
           "source_page": 38
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "DIGITAL TECHNOLOGIES",
+      "term": "First Term",
+      "source_page": 39,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Digital Technology",
+          "content": "Meaning of digital technology; Importance in modern life; Examples of digital devices",
+          "source_page": 39
+        },
+        {
+          "week": "2",
+          "topic": "Historical Development of Digital Devices",
+          "content": "Early calculating tools (Abacus, Napier’s Bones); Generations of computers; Evolution from analog to digital devices; Modern digital trends",
+          "source_page": 39
+        },
+        {
+          "week": "3",
+          "topic": "Career Opportunities in Information Technology",
+          "content": "Careers in ICT: software, hardware, networking, data; Emerging digital careers (AI, cybersecurity, robotics); Skills needed for IT careers",
+          "source_page": 39
+        },
+        {
+          "week": "4",
+          "topic": "Basic Computer Hardware Components I",
+          "content": "Meaning of hardware; Input and output devices; Functions and identification of devices; Simple maintenance practices",
+          "source_page": 39
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM TEST",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 39
+        },
+        {
+          "week": "6",
+          "topic": "Basic Computer Hardware Components II: Storage Units",
+          "content": "Primary and secondary storage; Examples: RAM, ROM, hard disk, flash drive; Storage measurements (bit, byte, MB, GB, TB); Importance of data storage",
+          "source_page": 39
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 40
+        },
+        {
+          "week": "8",
+          "topic": "Basic Software Concepts",
+          "content": "Meaning of software; System software and application software; Examples: OS, Word processors, browsers; Functions of an operating system",
+          "source_page": 40
+        },
+        {
+          "week": "9",
+          "topic": "Computer Booting and Shutdown Processes",
+          "content": "Meaning of booting; Steps in booting and shutting down; Safe handling of devices",
+          "source_page": 40
+        },
+        {
+          "week": "10",
+          "topic": "MS Word (Introduction)",
+          "content": "Opening, saving, and editing documents; Formatting text and inserting pictures; Page setup and printing basics",
+          "source_page": 40
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered",
+          "source_page": 40
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 40
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 40
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "DIGITAL TECHNOLOGIES",
+      "term": "Second Term",
+      "source_page": 41,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "MS PowerPoint (Introduction)",
+          "content": "Meaning and uses of presentation software; Creating and saving slides; Adding text, images, transitions",
+          "source_page": 41
+        },
+        {
+          "week": "2",
+          "topic": "3D Modelling with Paint 3D",
+          "content": "Introduction to Paint 3D; Drawing basic shapes and models; Saving and exporting 3D projects",
+          "source_page": 41
+        },
+        {
+          "week": "3",
+          "topic": "Data Processing",
+          "content": "Meaning and stages of data processing; Manual vs. electronic data processing; Importance in real-life applications",
+          "source_page": 41
+        },
+        {
+          "week": "4",
+          "topic": "Basic Computer Communication",
+          "content": "Meaning and importance of communication; Types: wired and wireless; Introduction to the Internet",
+          "source_page": 41
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM TEST",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 41
+        },
+        {
+          "week": "6",
+          "topic": "Introduction to Computer Networks",
+          "content": "Definition of a network; Components: computers, cables, routers; Benefits of networking",
+          "source_page": 41
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 41
+        },
+        {
+          "week": "8",
+          "topic": "Basic Internet Concepts",
+          "content": "Meaning of Internet; Common terms: website, URL, browser, search engine; Responsible Internet use",
+          "source_page": 41
+        },
+        {
+          "week": "9",
+          "topic": "Online Safety Rules",
+          "content": "Dangers of the Internet; Safe browsing habits; Responsible use of digital devices",
+          "source_page": 42
+        },
+        {
+          "week": "10",
+          "topic": "Online Privacy and Security",
+          "content": "Meaning of online privacy; Password creation and management; Avoiding scams and phishing",
+          "source_page": 42
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of term’s topics",
+          "source_page": 42
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 42
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 42
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "DIGITAL TECHNOLOGIES",
+      "term": "Third Term",
+      "source_page": 43,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Internet Communication Practices",
+          "content": "Meaning of Internet communication; Email, instant messaging, video conferencing; Netiquette",
+          "source_page": 43
+        },
+        {
+          "week": "2",
+          "topic": "Spam and Online Threats",
+          "content": "Meaning of spam; Common online scams; Preventive measures",
+          "source_page": 43
+        },
+        {
+          "week": "3",
+          "topic": "Intellectual Property",
+          "content": "Meaning of intellectual property; Copyright, trademark, and plagiarism; Respecting digital content ownership",
+          "source_page": 43
+        },
+        {
+          "week": "4",
+          "topic": "Safety and Security Features on Digital Devices",
+          "content": "Antivirus software; Screen locks, firewalls, parental controls; Device maintenance",
+          "source_page": 43
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM TEST",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 43
+        },
+        {
+          "week": "6",
+          "topic": "Introduction to Graphic Design",
+          "content": "Meaning and importance of graphic design; Elements of design: color, shape, typography",
+          "source_page": 43
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 43
+        },
+        {
+          "week": "8",
+          "topic": "Introduction to Canva",
+          "content": "Getting started with Canva; Creating and editing designs; Templates and customization",
+          "source_page": 43
+        },
+        {
+          "week": "9",
+          "topic": "Digital Media",
+          "content": "Meaning and types of digital media; Ethics and responsible use; Sharing and collaboration tools",
+          "source_page": 43
+        },
+        {
+          "week": "10",
+          "topic": "Computer Waste Management",
+          "content": "Meaning of e-waste; Safe disposal methods; Recycling practices",
+          "source_page": 44
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics",
+          "source_page": 44
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 44
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 44
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
