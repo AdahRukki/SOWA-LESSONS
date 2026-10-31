@@ -1,0 +1,35 @@
+{
+  "format": "sowa-primary-merged-extraction-audit-v1",
+  "source": "THE COMPLETE SCHEME OF WORK FOR PRE-PRIMARY & PRIMARY SCHOOLS-1.pdf",
+  "review_status": "needs_review",
+  "merged_window_files": [
+    "primary1-staging.json",
+    "primary2-3-661-755.json",
+    "primary3-4.json",
+    "primary5.json",
+    "primary5-6.json"
+  ],
+  "candidate_schemes": 182,
+  "weekly_rows": 2466,
+  "class_counts": {
+    "nursery-3": 2,
+    "basic-1": 23,
+    "basic-2": 26,
+    "basic-3": 25,
+    "basic-4": 35,
+    "basic-5": 35,
+    "basic-6": 36
+  },
+  "flags_count": 18,
+  "important_caveats": [
+    "Nursery 1 and Nursery 2 are not covered by these page windows.",
+    "Several schemes contain fewer than the expected 13 week rows; continuation detection and source accuracy require review.",
+    "Subject names and aliases have not been reconciled with the installed academic library.",
+    "These are unreviewed extraction candidates and must not be auto-installed."
+  ],
+  "next_steps": [
+    "Review source-page boundaries and each nonstandard-week candidate.",
+    "Extract and verify Nursery 1–3 separately.",
+    "Review topic and content text against PDF pages before installing as draft seed."
+  ]
+}
