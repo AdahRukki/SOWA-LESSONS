@@ -23,7 +23,7 @@ import CoveragePanel from './CoveragePanel';
 import {checkSchemeCoverage} from './schemeCoverage';
 import {readAcademicLibrary,writeAcademicLibrary} from './academicStorage';
 type Week={id:string;title:string;content:string;plan?:LessonPlan;illustrations?:Illustration[];sourceWeekId?:string;sourceSchemeId?:string};
-type Project={id:string;name:string;className:string;subject:string;term:string;weeks:Week[];sessionId?:string;sourceSchemeId?:string};
+type Project={id:string;name:string;className:string;subject:string;term:string;weeks:Week[];sessionId?:string;sourceSchemeId?:string;schemeSnapshot?:{week:number;topic:string;content:string}[]};
 const KEY='sowa-lessons-module3-projects';
 const selectedKey='sowa-lessons-module3-selected';
 const uid=()=>crypto.randomUUID();
