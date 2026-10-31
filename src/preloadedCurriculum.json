@@ -3337,6 +3337,267 @@
           "source_page": 60
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "BEAUTY AND COSMETOLOGY",
+      "term": "First Term",
+      "source_page": 61,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Beauty and Cosmetology",
+          "content": "Meaning, origin, and importance of beauty and cosmetology.",
+          "source_page": 61
+        },
+        {
+          "week": "2",
+          "topic": "Tools and Equipment",
+          "content": "Identification and uses of comb, brush, mirror, apron, towel, and hair dryer.",
+          "source_page": 61
+        },
+        {
+          "week": "3",
+          "topic": "Personal Hygiene and Grooming",
+          "content": "Importance of cleanliness and daily grooming routines.",
+          "source_page": 61
+        },
+        {
+          "week": "4",
+          "topic": "Safety Precautions in the Salon",
+          "content": "Safety measures in handling tools and electrical appliances.",
+          "source_page": 61
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 61
+        },
+        {
+          "week": "6",
+          "topic": "Basic Hair Care Practices",
+          "content": "Brushing, washing, and simple styling of natural hair.",
+          "source_page": 61
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 61
+        },
+        {
+          "week": "8",
+          "topic": "Skin Care and Cleansing",
+          "content": "Steps in facial cleansing and types of skin.",
+          "source_page": 61
+        },
+        {
+          "week": "9",
+          "topic": "Nail Care",
+          "content": "Simple manicure and pedicure procedures.",
+          "source_page": 61
+        },
+        {
+          "week": "10",
+          "topic": "Introduction to Makeup",
+          "content": "Meaning and types of makeup; makeup tools.",
+          "source_page": 61
+        },
+        {
+          "week": "11",
+          "topic": "Simple Makeup Techniques",
+          "content": "Application of facial powder, lip gloss, eyebrow shaping (theory only).",
+          "source_page": 61
+        },
+        {
+          "week": "12",
+          "topic": "Revision",
+          "content": "Review of major topics.",
+          "source_page": 61
+        },
+        {
+          "week": "13",
+          "topic": "Examination / Closing",
+          "content": "—",
+          "source_page": 61
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "BEAUTY AND COSMETOLOGY",
+      "term": "Second Term",
+      "source_page": 62,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Review of First Term’s Work",
+          "content": "Recap of basic beauty concepts and hygiene.",
+          "source_page": 62
+        },
+        {
+          "week": "2",
+          "topic": "Hair Structure and Function",
+          "content": "Parts of the hair and their functions.",
+          "source_page": 62
+        },
+        {
+          "week": "3",
+          "topic": "Hair Types",
+          "content": "Identification of straight, curly, and kinky hair.",
+          "source_page": 62
+        },
+        {
+          "week": "4",
+          "topic": "Hair Treatment",
+          "content": "Washing, conditioning, and natural treatment.",
+          "source_page": 62
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 62
+        },
+        {
+          "week": "6",
+          "topic": "Simple Hair Styling",
+          "content": "Tools and techniques for plaiting and weaving.",
+          "source_page": 62
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 62
+        },
+        {
+          "week": "8",
+          "topic": "Introduction to Skin Care Products",
+          "content": "Soaps, creams, and lotions and their proper use.",
+          "source_page": 62
+        },
+        {
+          "week": "9",
+          "topic": "Facial Treatment",
+          "content": "Steps: cleansing, steaming, exfoliation, and toning.",
+          "source_page": 62
+        },
+        {
+          "week": "10",
+          "topic": "Nail Care Tools and Safety",
+          "content": "Proper use and cleaning of manicure/pedicure tools.",
+          "source_page": 62
+        },
+        {
+          "week": "11",
+          "topic": "Customer Care in Beauty Services",
+          "content": "Attitude, communication, and courtesy with clients.",
+          "source_page": 62
+        },
+        {
+          "week": "12",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 62
+        },
+        {
+          "week": "13",
+          "topic": "Examination / Closing",
+          "content": "—",
+          "source_page": 62
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "BEAUTY AND COSMETOLOGY",
+      "term": "Third Term",
+      "source_page": 63,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Review of Second Term Work",
+          "content": "Overview of hair and skin care.",
+          "source_page": 63
+        },
+        {
+          "week": "2",
+          "topic": "Advanced Hair Styling",
+          "content": "Weaving, threading, and cornrow patterns.",
+          "source_page": 63
+        },
+        {
+          "week": "3",
+          "topic": "Introduction to Beauty Products",
+          "content": "Identifying safe and harmful ingredients.",
+          "source_page": 63
+        },
+        {
+          "week": "4",
+          "topic": "Daily Skin Care Routine",
+          "content": "Cleansing, toning, and moisturizing.",
+          "source_page": 63
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 63
+        },
+        {
+          "week": "6",
+          "topic": "Nail Art",
+          "content": "Simple decoration and color combination.",
+          "source_page": 63
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 63
+        },
+        {
+          "week": "8",
+          "topic": "Salon Hygiene and Sanitation",
+          "content": "Keeping the salon clean and free of infection.",
+          "source_page": 63
+        },
+        {
+          "week": "9",
+          "topic": "Professional Conduct",
+          "content": "Courtesy, honesty, and confidentiality with clients.",
+          "source_page": 63
+        },
+        {
+          "week": "10",
+          "topic": "Entrepreneurship in Beauty Care",
+          "content": "Simple business ideas and record keeping.",
+          "source_page": 63
+        },
+        {
+          "week": "11",
+          "topic": "Revision Project",
+          "content": "Group or practical revision.",
+          "source_page": 63
+        },
+        {
+          "week": "12",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 63
+        },
+        {
+          "week": "13",
+          "topic": "Examination / Closing",
+          "content": "—",
+          "source_page": 63
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
