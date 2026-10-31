@@ -1,6 +1,6 @@
 import {useState,type ChangeEvent} from 'react';
 import type {AcademicLibrary} from './academic';
-import {makeCurriculumBackup,parseCurriculumBackup,mergeCurriculum} from './curriculumBackup';
+import {makeCurriculumBackup,parseCurriculumBackup,mergeCurriculum} from './academicBackupUtils';
 type Props={library:AcademicLibrary;onChange:(next:AcademicLibrary)=>void;legacyCount:number};
 export default function CurriculumBackup({library,onChange,legacyCount}:Props){
  const [candidate,setCandidate]=useState<AcademicLibrary|null>(null);
