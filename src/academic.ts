@@ -35,13 +35,13 @@ export function createAcademicLibrary(startYear=2026):AcademicLibrary{
  return {version:1,sessions:[{...makeAcademicSession(startYear),active:true}],subjects:[],schemes:[],classes:ACADEMIC_CLASSES.map(c=>({...c,active:true}))}
 }
 export function classById(id:string,library?:AcademicLibrary){return library?getClasses(library).find(c=>c.id===id):ACADEMIC_CLASSES.find(c=>c.id===id)}
-export function createSubject(classId:ClassId,name:string,order:number):AcademicSubject{
- if(!classById(classId))throw Error('Unknown class');
+export function createSubject(classId:ClassId,name:string,order:number,library?:AcademicLibrary):AcademicSubject{
+ if(!classById(classId,library))throw Error('Unknown class');
  const title=name.trim();if(!title)throw Error('Subject name is required');
  return {id:crypto.randomUUID(),classId,name:title,order,active:true}
 }
-export function createScheme(sessionId:string,classId:ClassId,subjectId:string,term:Term,weeks=12):SchemeOfWork{
- if(!classById(classId))throw Error('Unknown class');
+export function createScheme(sessionId:string,classId:ClassId,subjectId:string,term:Term,weeks=12,library?:AcademicLibrary):SchemeOfWork{
+ if(!classById(classId,library))throw Error('Unknown class');
  if(!TERMS.includes(term))throw Error('Unknown term');
  if(!Number.isInteger(weeks)||weeks<1||weeks>24)throw Error('Weeks must be between 1 and 24');
  return {id:crypto.randomUUID(),sessionId,classId,subjectId,term,status:'draft',version:1,updatedAt:new Date().toISOString(),weeks:Array.from({length:weeks},(_,i)=>({id:crypto.randomUUID(),number:i+1,topics:[],notes:''}))}
