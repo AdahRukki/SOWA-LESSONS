@@ -320,3 +320,11 @@
 .curriculum-review-list label{display:flex;align-items:flex-start;gap:8px;margin:12px 0;font-size:13px;font-weight:650}
 .curriculum-installer>button{justify-self:start;border:0;border-radius:9px;background:var(--studio-primary,#14527d);color:white;padding:12px 17px;font-weight:700}
 .curriculum-installer>button:disabled{opacity:.45}
+
+/* Module 15: preloaded curriculum browser */
+.curriculum-install-sources{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.curriculum-install-sources>button{border:1px solid var(--studio-primary,#14527d);border-radius:9px;background:var(--studio-primary,#14527d);color:#fff;padding:11px 15px;font-weight:650}
+.curriculum-install-sources>label{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:13px}
+.curriculum-install-filters{display:flex;gap:14px;flex-wrap:wrap}
+.curriculum-install-filters label{display:flex;flex-direction:column;gap:6px;font-size:13px}
+.curriculum-install-filters input,.curriculum-install-filters select{padding:10px;border:1px solid var(--studio-border,#dce5ed);border-radius:8px;min-width:180px}
