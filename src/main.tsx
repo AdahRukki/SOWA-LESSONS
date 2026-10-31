@@ -77,7 +77,7 @@ function App(){
   if(!storageReady)return;
   const original=projects.find(p=>p.id===id);
   const subject=academicLibrary?.subjects.find(x=>x.id===subjectId&&x.classId===classId);
-  const cls=getClasses(academicLibrary).find(x=>x.id===classId);
+  const cls=academicLibrary?getClasses(academicLibrary).find(x=>x.id===classId):undefined;
   if(!original||!subject||!cls||!academicLibrary?.sessions.some(x=>x.id===sessionId))return;
   const copy:Project={...original,id:uid(),name:cls.name+' — '+subject.name+' — '+term+' (migrated)',className:cls.name,subject:subject.name,term,sessionId,sourceSchemeId:undefined,weeks:original.weeks.map(w=>({...w,id:uid(),sourceWeekId:undefined,sourceSchemeId:undefined}))};
   setProjects(xs=>[...xs,copy]);setPid(copy.id);setWid(copy.weeks[0]?.id||'');
