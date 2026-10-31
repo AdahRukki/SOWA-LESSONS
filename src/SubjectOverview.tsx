@@ -1,12 +1,12 @@
 import preloaded from './preloadedCurriculum.json';
-import {TERMS,type AcademicLibrary,type SchemeOfWork,type AcademicSubject,type Term} from './academic';
-type Lesson={id:string;name:string;className:string;subject:string;term:string;sessionId?:string;sourceSchemeId?:string;weeks:{id:string;title:string}[]};
+import {TERMS,getClasses,type AcademicLibrary,type SchemeOfWork,type AcademicSubject,type Term} from './academic';
+type Lesson={id:string;name:string;className:string;subject:string;term:string;sessionId?:string;classId?:string;subjectId?:string;sourceSchemeId?:string;weeks:{id:string;title:string}[]};
 type Props={classId:string;subjectName:string;library:AcademicLibrary;lessons:Lesson[];onOpenLesson:(id:string)=>void;onGenerate:(scheme:SchemeOfWork,subject:AcademicSubject)=>void;onEdit:(subjectId:string,term:Term)=>void;onBrowse:(subject:string)=>void};
 export default function SubjectOverview({classId,subjectName,library,lessons,onOpenLesson,onGenerate,onEdit,onBrowse}:Props){
  const source=preloaded.schemes.filter(s=>s.class_id===classId&&s.subject.toLocaleLowerCase()===subjectName.toLocaleLowerCase());
  const subject=library.subjects.find(s=>s.classId===classId&&s.name.toLocaleLowerCase()===subjectName.toLocaleLowerCase());
  const session=library.sessions.find(s=>s.active)??library.sessions[0];
- const className=library.classes?.find(c=>c.id===classId)?.name;
+ const className=getClasses(library).find(c=>c.id===classId)?.name;
  const installed=subject?library.schemes.filter(s=>s.sessionId===session?.id&&s.subjectId===subject.id):[];
  return <section className="class-group studio-scheme-overview">
  <h2>{subjectName}</h2><p className="studio-hint">Read each term's Scheme of Work, check lesson-note progress, and open or generate documents. Bundled schemes remain read-only until reviewed and installed.</p>
@@ -15,7 +15,8 @@ export default function SubjectOverview({classId,subjectName,library,lessons,onO
   const bundle=source.find(s=>s.term===term);
   const termDocs=lessons.filter(p=>p.id!=='demo'&&p.term===term&&(
    (draft&&p.sourceSchemeId===draft.id)||
-   (p.sessionId===session?.id&&p.subject.toLowerCase()===subjectName.toLowerCase()&&p.className.toLowerCase()===(className??classId).toLowerCase())
+   (p.sessionId===session?.id&&p.classId===classId&&p.subjectId===subject?.id)||
+   (p.sessionId===session?.id&&!p.classId&&!p.subjectId&&p.subject.toLowerCase()===subjectName.toLowerCase()&&p.className.toLowerCase()===(className??classId).toLowerCase())
   ));
   return <section className="studio-term-card" key={term}>
    <div className="studio-term-head"><strong>{term}</strong><small>Scheme: {draft?draft.status==='approved'?'Approved':draft.status==='in-review'?'In review':'Draft':bundle?'Available to review':'Not available'}</small><small>Lesson notes: {termDocs.length?termDocs.length+' saved':'Not created'}</small></div>
