@@ -2,6 +2,7 @@ import React,{useState} from 'react';
 import SchemeEditor from './SchemeEditor';
 import AcademicLessons from './AcademicLessons';
 import ClassManager from './ClassManager';
+import CurriculumInstaller from './CurriculumInstaller';
 import type {SchemeOfWork,AcademicSubject} from './academic';
 import SessionManager from './SessionManager';
 import CurriculumBackup from './CurriculumBackup';
@@ -16,12 +17,14 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
  const [showBackups,setShowBackups]=useState(false);
  const [showMigration,setShowMigration]=useState(false);
  const [showClassManager,setShowClassManager]=useState(false);
+ const [showInstaller,setShowInstaller]=useState(false);
  const [classQuery,setClassQuery]=useState('');
  const classes=getClasses(library);
  const chosenSubject=library.subjects.find(x=>x.id===openedSubject&&x.classId===selected&&x.active);
  const session=library.sessions.find(s=>s.active)??library.sessions[0];
  const classInfo=classes.find(c=>c.id===selected);
- return <div className="academic-home academic-studio"><header className="academic-header"><div><strong><span className="studio-mark" aria-hidden="true">S</span> SOWA LESSONS</strong><p>Curriculum &amp; Publishing Studio {session?'· '+session.label:''}</p></div><button type="button" onClick={()=>setShowSessions(v=>!v)}>{showSessions?'Close sessions':'Manage sessions'}</button><button type="button" onClick={()=>setShowBackups(v=>!v)}>{showBackups?"Close backups":"Backups & recovery"}</button><button type="button" onClick={()=>setShowMigration(v=>!v)}>{showMigration?"Close migration":"Migrate old lessons"}</button><button type="button" onClick={()=>setShowClassManager(v=>!v)}>{showClassManager?"Close class settings":"Manage classes"}</button><span className="academic-save-status" role="status">{saveError?'Save error':saved?'Saved offline':'Saving…'}</span><button type="button" onClick={onOpenLegacy}>Open existing lesson editor ({legacyCount})</button></header>
+ return <div className="academic-home academic-studio"><header className="academic-header"><div><strong><span className="studio-mark" aria-hidden="true">S</span> SOWA LESSONS</strong><p>Curriculum &amp; Publishing Studio {session?'· '+session.label:''}</p></div><button type="button" onClick={()=>setShowSessions(v=>!v)}>{showSessions?'Close sessions':'Manage sessions'}</button><button type="button" onClick={()=>setShowBackups(v=>!v)}>{showBackups?"Close backups":"Backups & recovery"}</button><button type="button" onClick={()=>setShowMigration(v=>!v)}>{showMigration?"Close migration":"Migrate old lessons"}</button><button type="button" onClick={()=>setShowClassManager(v=>!v)}>{showClassManager?"Close class settings":"Manage classes"}</button><button type="button" onClick={()=>setShowInstaller(v=>!v)}>{showInstaller?"Close curriculum installer":"Import curriculum"}</button><span className="academic-save-status" role="status">{saveError?'Save error':saved?'Saved offline':'Saving…'}</span><button type="button" onClick={onOpenLegacy}>Open existing lesson editor ({legacyCount})</button></header>
+ {showInstaller&&<CurriculumInstaller library={library} onChange={onLibraryChange}/>}
  {showClassManager&&<ClassManager library={library} onChange={onLibraryChange}/>}
  {showMigration&&<LegacyMigration projects={legacyProjects} library={library} onMigrate={onMigrate}/>}
  {showBackups&&<CurriculumBackup library={library} onChange={onLibraryChange} legacyCount={legacyCount}/>}
