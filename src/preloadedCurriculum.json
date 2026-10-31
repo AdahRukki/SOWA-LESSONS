@@ -6439,6 +6439,267 @@
           "source_page": 100
         }
       ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "FRENCH",
+      "term": "First Term",
+      "source_page": 101,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Unité 1: Demander et expliquer la position",
+          "content": "Savoir demander et expliquer la position des personnes ou des choses les unes par rapport aux autres",
+          "source_page": 101
+        },
+        {
+          "week": "2",
+          "topic": "Unité 2: Situer les lieux",
+          "content": "Situer les lieux les uns par rapport aux autres",
+          "source_page": 101
+        },
+        {
+          "week": "3",
+          "topic": "Unité 3: Accueillir et guider quelqu’un",
+          "content": "Accueillir, pouvoir guider quelqu’un dans un espace intérieur",
+          "source_page": 101
+        },
+        {
+          "week": "4",
+          "topic": "Unité 4: Demander/indiquer le chemin",
+          "content": "Savoir demander/indiquer le chemin pour aller quelque part",
+          "source_page": 101
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 101
+        },
+        {
+          "week": "6",
+          "topic": "Unité 5: Les moyens de transport",
+          "content": "Parler des différents moyens de transport",
+          "source_page": 101
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 101
+        },
+        {
+          "week": "8",
+          "topic": "Unité 6: Expliquer un trajet",
+          "content": "Savoir expliquer un trajet en transport public",
+          "source_page": 101
+        },
+        {
+          "week": "9",
+          "topic": "Unité 7: Demander/indiquer des horaires",
+          "content": "Demander/indiquer des horaires",
+          "source_page": 101
+        },
+        {
+          "week": "10",
+          "topic": "Unité 8: Réagir à un problème de transport",
+          "content": "Savoir réagir à un problème de transport",
+          "source_page": 101
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 101
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 101
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 101
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "FRENCH",
+      "term": "Second Term",
+      "source_page": 102,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Unité 9: Établir des listes/inventaires",
+          "content": "Établir des listes, établir des inventaires",
+          "source_page": 102
+        },
+        {
+          "week": "2",
+          "topic": "Unité 10: Les commerçants et marchandises",
+          "content": "Savoir nommer les commerçants, les marchandises et leur mode de présentation",
+          "source_page": 102
+        },
+        {
+          "week": "3",
+          "topic": "Unité 11: Acheter et marchander",
+          "content": "Dire ce que l’on veut acheter, demander le prix, marchander et payer",
+          "source_page": 102
+        },
+        {
+          "week": "4",
+          "topic": "Unité 12: Exprimer un besoin et son utilité",
+          "content": "Savoir dire de quoi on a besoin, à quoi ça sert",
+          "source_page": 102
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 102
+        },
+        {
+          "week": "6",
+          "topic": "Unité 13: À la pharmacie",
+          "content": "Demander un remède, expliquer une maladie",
+          "source_page": 102
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 102
+        },
+        {
+          "week": "8",
+          "topic": "Unité 14: Les vêtements, chaussures et accessoires",
+          "content": "Parler des caractéristiques des vêtements, chaussures et accessoires",
+          "source_page": 102
+        },
+        {
+          "week": "9",
+          "topic": "Unité 15: Apprécier, comparer, choisir",
+          "content": "Apprécier quelque chose, comparer, exprimer une hésitation et exprimer un choix",
+          "source_page": 102
+        },
+        {
+          "week": "10",
+          "topic": "Unité 16: Quantité et qualité des produits",
+          "content": "Savoir préciser la quantité et la qualité des produits",
+          "source_page": 102
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 102
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 102
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 102
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "FRENCH",
+      "term": "Third Term",
+      "source_page": 103,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Unité 17: Opérations de calcul simple",
+          "content": "Savoir utiliser les opérations de calcul simple",
+          "source_page": 103
+        },
+        {
+          "week": "2",
+          "topic": "Unité 18: Nourriture et boissons",
+          "content": "Savoir dire ce qu’on mange et ce qu’on boit",
+          "source_page": 103
+        },
+        {
+          "week": "3",
+          "topic": "Unité 19: Recettes de cuisine",
+          "content": "Comprendre des recettes de cuisine et expliquer comment réaliser des plats",
+          "source_page": 103
+        },
+        {
+          "week": "4",
+          "topic": "Unité 20: Au restaurant/café",
+          "content": "Faire une réservation, passer une commande, demander l’addition dans un restaurant ou café",
+          "source_page": 103
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 103
+        },
+        {
+          "week": "6",
+          "topic": "Projet oral et écrit",
+          "content": "Jeux de rôle: transport, marché, pharmacie, restaurant (révision intégrée)",
+          "source_page": 103
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 103
+        },
+        {
+          "week": "8",
+          "topic": "Révision générale des unités 17–20",
+          "content": "Exercices de consolidation",
+          "source_page": 103
+        },
+        {
+          "week": "9",
+          "topic": "Évaluation orale/pratique",
+          "content": "Conversations guidées (dialogues sur transport, achats, nourriture, restaurant)",
+          "source_page": 103
+        },
+        {
+          "week": "10",
+          "topic": "Préparation aux examens",
+          "content": "Exercices d’expression écrite et orale",
+          "source_page": 103
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 103
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 103
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 103
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
