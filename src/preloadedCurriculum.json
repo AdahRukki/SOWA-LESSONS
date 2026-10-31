@@ -7396,6 +7396,267 @@
           "source_page": 628
         }
       ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 630,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Motor Skills Development: Moving Our Body Parts 1",
+          "content": "Identify head, shoulders, arms, hands, fingers, chest, back, waist, legs, feet and toes; nod head, shrug shoulders, wave hands; stretching; movement songs.",
+          "source_page": 630
+        },
+        {
+          "week": "2",
+          "topic": "Motor Skills Development: Moving Our Body Parts 2",
+          "content": "Sitting, standing, walking, bending forward/backward/sideways, running in place, jumping; clapping and marching; coordinated movement games.",
+          "source_page": 630
+        },
+        {
+          "week": "3",
+          "topic": "Motor Skills Development: Daily Activities Movements",
+          "content": "Picking up and carrying objects correctly; pushing and pulling; climbing stairs safely; obstacle courses and relay races.",
+          "source_page": 630
+        },
+        {
+          "week": "4",
+          "topic": "Athletics: Running (Introduction)",
+          "content": "Running as a sport; walking versus running; posture, arm swing and leg movement; warm-ups; straight-line running and cones.",
+          "source_page": 630
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Practical assessment of Weeks 1–4.",
+          "source_page": 630
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 630
+        },
+        {
+          "week": "7",
+          "topic": "Athletics: Running – 50m Dash",
+          "content": "Dash as a short fast run; simple crouching start; start, run and finish; lanes and finish line; practice and mini competitions.",
+          "source_page": 631
+        },
+        {
+          "week": "8",
+          "topic": "Athletics: Running – Shuttle Run",
+          "content": "Running back and forth between two points; running and turning; speed and coordination; relay games.",
+          "source_page": 631
+        },
+        {
+          "week": "9",
+          "topic": "Sports Games: Local Games 1",
+          "content": "Traditional Nigerian games: Suwe (hopscotch) and Ten-Ten (clapping); rules, rhythm and coordination; exercise and culture; group practice.",
+          "source_page": 631
+        },
+        {
+          "week": "10",
+          "topic": "Sports Games: Local Games 2",
+          "content": "Oga (hide and seek), Boju-Boju (blind man's bluff), Tinko-Tinko; safe boundaries, turns, teamwork, fair play and mini tournaments.",
+          "source_page": 631
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review body movements, running and local games.",
+          "source_page": 631
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Practical assessment: body movement, 50m running and local games.",
+          "source_page": 631
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 631
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 632,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Health and Wellness: Toilet Hygiene 1",
+          "content": "Purpose and types of toilets: water closet, pit and squatting toilets; correct use; flushing, cleanliness and reporting problems; timely toilet use.",
+          "source_page": 632
+        },
+        {
+          "week": "2",
+          "topic": "Health and Wellness: Toilet Hygiene 2",
+          "content": "Handwashing after toilet; wet, soap, scrub for 20 seconds, rinse and dry; germ prevention; washing before eating and after playing.",
+          "source_page": 632
+        },
+        {
+          "week": "3",
+          "topic": "Health and Wellness: Health and Hygiene 1 (Personal Hygiene)",
+          "content": "Cleanliness and hygiene; daily bathing; brushing teeth morning and night; washing hair; wearing clean clothes.",
+          "source_page": 632
+        },
+        {
+          "week": "4",
+          "topic": "Health and Wellness: Health and Hygiene 2 (Body Care)",
+          "content": "Clean nails; safe ear and nose care; washing private parts and clean underwear; importance of personal hygiene.",
+          "source_page": 632
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Oral and practical assessment of Weeks 1–4.",
+          "source_page": 632
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 632
+        },
+        {
+          "week": "7",
+          "topic": "Health and Wellness: Health and Hygiene 3 (Environmental Hygiene)",
+          "content": "Clean home, school and community; proper waste disposal; sweeping, mopping and classroom tidying; effects of dirty surroundings.",
+          "source_page": 633
+        },
+        {
+          "week": "8",
+          "topic": "Safety and Emergency Preparedness: First Aid (Introduction)",
+          "content": "First aid as immediate help for injury or sickness; cuts, bruises, nosebleeds, insect bites, burns; responsible adults and nurses; call for help.",
+          "source_page": 633
+        },
+        {
+          "week": "9",
+          "topic": "Safety and Emergency Preparedness: First Aid Box Contents",
+          "content": "First aid kit and uses; bandages, cotton wool, scissors, antiseptic, thermometer, gloves, pain relief tablets, safety pins and adhesive tape; common locations.",
+          "source_page": 633
+        },
+        {
+          "week": "10",
+          "topic": "Safety and Emergency Preparedness: Basic First Aid Skills",
+          "content": "Minor cuts and bruises; nosebleed: sit up, pinch nose and lean forward; insect bites; burns under cool water; supervised role-play.",
+          "source_page": 633
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review toilet hygiene, personal/environmental hygiene and first aid.",
+          "source_page": 633
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Oral and practical assessment of hygiene and first aid knowledge.",
+          "source_page": 633
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 633
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 634,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Safety and Emergency Preparedness: Road Signs and Symbols 1",
+          "content": "Purpose and types of road signs; red, amber and green traffic lights; zebra crossing; obeying signs.",
+          "source_page": 634
+        },
+        {
+          "week": "2",
+          "topic": "Safety and Emergency Preparedness: Road Signs and Symbols 2",
+          "content": "Stop, Go, Pedestrian Crossing, School Zone, Children Crossing, Speed Bump, One Way and No Entry; drawing and matching signs.",
+          "source_page": 634
+        },
+        {
+          "week": "3",
+          "topic": "Safety and Emergency Preparedness: Road Safety Rules",
+          "content": "Look left and right; pedestrian crossings and footbridges; pavement walking; hold adult hands; avoid road play; bright clothing.",
+          "source_page": 634
+        },
+        {
+          "week": "4",
+          "topic": "Safety and Emergency Preparedness: Road Safety Continued",
+          "content": "Seatbelts and safe vehicle entry/exit; school bus boarding; FRSC officers and traffic wardens; what to do when lost.",
+          "source_page": 634
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of road safety from Weeks 1–4.",
+          "source_page": 634
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 634
+        },
+        {
+          "week": "7",
+          "topic": "Aquatics: Swimming (Introduction to Water)",
+          "content": "Swimming as a sport; exercise and water safety; adult supervision and no running near pools; pools, beaches and rivers; swimsuits, goggles and flotation devices.",
+          "source_page": 635
+        },
+        {
+          "week": "8",
+          "topic": "Aquatics: Water Familiarization",
+          "content": "Splashing and wetting gradually; water confidence games; blowing bubbles; briefly submerging face with support; shallow-water walking and games.",
+          "source_page": 635
+        },
+        {
+          "week": "9",
+          "topic": "Aquatics: Floating on Water",
+          "content": "Floating on the back; arm and leg positioning; pool edge, teacher and flotation support; calm breathing; assisted front and back floats.",
+          "source_page": 635
+        },
+        {
+          "week": "10",
+          "topic": "Aquatics: Basic Swimming Movements & Water Safety",
+          "content": "Kicking with support; simple arm strokes; breathing bubbles; moving through water with support; safe exit; emergency call and throwing flotation devices.",
+          "source_page": 635
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review road signs, road safety and swimming basics.",
+          "source_page": 635
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Road sign identification and swimming demonstration where possible.",
+          "source_page": 635
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 635
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
