@@ -1,5 +1,5 @@
 import type {AcademicLibrary} from './academic';
-import {ACADEMIC_CLASSES,getClasses,TERMS,validateAcademicLibrary} from './academic';
+import {getClasses,TERMS,validateAcademicLibrary} from './academic';
 export const BACKUP_FORMAT='sowa-academic-library-v1';
 export function makeCurriculumBackup(library:AcademicLibrary){
  return JSON.stringify({format:BACKUP_FORMAT,createdAt:new Date().toISOString(),library},null,2);
