@@ -1,4 +1,4 @@
-export type LessonTemplate={id:string;name:string;description:string;sections:string[];blocks?:LessonBlockId[]};
+export type LessonTemplate={id:string;name:string;description:string;sections:string[];blocks?:LessonBlockId[];layout?:TemplateLayout};
 export const LESSON_TEMPLATES:LessonTemplate[]=[
  {id:'standard',name:'Standard Lesson Note',description:'Theory subjects and general classroom teaching',sections:['Explanation','Worked Examples','Class Activities','Evaluation']},
  {id:'mathematics',name:'Mathematics & Quantitative',description:'Step-by-step solving and practice',sections:['Concept Explanation','Worked Examples','Guided Practice','Independent Exercises','Evaluation']},
@@ -7,6 +7,8 @@ export const LESSON_TEMPLATES:LessonTemplate[]=[
  {id:'creative',name:'Creative Arts & Copywork',description:'Demonstrations, guided tasks, and independent creation',sections:['Explanation','Teacher Demonstration','Guided Activity','Independent Activity','Evaluation']}
 ];
 
+export type TemplateLayout={paper:'A4'|'A5'|'Letter';orientation:'portrait'|'landscape';columns:1|2;questionSpacing:'compact'|'normal'|'wide'};
+export const DEFAULT_TEMPLATE_LAYOUT:TemplateLayout={paper:'A4',orientation:'portrait',columns:1,questionSpacing:'normal'};
 export type LessonBlockId='table'|'questions'|'handwriting'|'drawing'|'matching';
 export const LESSON_BLOCKS:{id:LessonBlockId;name:string;description:string}[]=[
 {id:'table',name:'Editable table',description:'Three-column table for examples, steps, or observations'},
@@ -26,7 +28,8 @@ export function blockHtml(id:LessonBlockId):string{
 }
 
 export const htmlEscape=(s:string)=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-export function templateHtml(template:LessonTemplate):string{return template.sections.filter(Boolean).map(section=>'<h3>'+htmlEscape(section)+'</h3><p></p>').join('')+(template.blocks??[]).map(blockHtml).join('')}
+export function templateHtml(template:LessonTemplate):string{return template.sections.filter(Boolean).map(section=>'<h3>'+htmlEscape(section)+'</h3><p></p>').join('')+(template.blocks??[]).map(id=>id==='questions'?practiceHtml(template.layout):blockHtml(id)).join('')}
+export function practiceHtml(layout?:TemplateLayout):string{const options=layout??DEFAULT_TEMPLATE_LAYOUT;const text=(n:number)=>n+'. Question '+n;const rows=options.columns===2?[[1,2],[3,4],[5,0]]:[[1],[2],[3],[4],[5]];const space=options.questionSpacing==='wide'?'<p></p><p></p>':options.questionSpacing==='normal'?'<p></p>':'';return '<h3>Practice Questions</h3><table><tbody>'+rows.map(row=>'<tr>'+row.map(n=>'<td>'+(n?text(n)+space:'')+'</td>').join('')+'</tr>').join('')+'</tbody></table>'}
 
 export const CUSTOM_TEMPLATES_KEY='sowa-lessons-custom-templates-v1';
 export function readCustomTemplates():LessonTemplate[]{
