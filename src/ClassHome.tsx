@@ -28,7 +28,7 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
  const allStages=[...new Set([...groups,...classes.map(c=>c.stage)])];
  const go=(next:Area)=>{setArea(next);setTool(null);setOpenedSubject(null);if(next!=='classes')onBack()};
  const enterClass=(id:ClassId)=>{setArea('classes');setOpenedSubject(null);onSelect(id)};
- const back=()=>{if(openedSubject){setOpenedSubject(null);return}onBack();setShowInstallerForClass(false)};
+ const back=()=>{if(openedSubject){setOpenedSubject(null);return}onBack()};
  const bundledCount=(id:string)=>names(id).length;
  return <div className="academic-home academic-studio">
   <header className="studio-topbar"><div className="studio-logo"><span className="studio-mark" aria-hidden="true">S</span><div><strong>SOWA Lessons</strong><small>Curriculum &amp; Publishing Studio</small></div></div><div className="studio-topbar-right"><span>{session?.label??'No session'}</span><span className="academic-save-status" role="status">{saveError?'Save error':saved?'Saved offline':'Saving…'}</span></div></header>
