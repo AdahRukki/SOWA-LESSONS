@@ -4645,6 +4645,270 @@
           "source_page": 9
         }
       ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "MATHEMATICS",
+      "term": "First Term",
+      "source_page": 80,
+      "review_status": "needs_review",
+      "extraction_note": "Week 13 content is empty in source.",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Basic Operation of Integers / Whole Numbers I",
+          "content": "Whole numbers in standard forms; decimal numbers in standard forms.",
+          "source_page": 80
+        },
+        {
+          "week": "2",
+          "topic": "Basic Operation of Integers / Whole Numbers II",
+          "content": "I. Prime factors and applications in solving problems. II. Continuation of operations on whole numbers with emphasis on addition, subtraction, multiplication, and division.",
+          "source_page": 80
+        },
+        {
+          "week": "3",
+          "topic": "LCM & HCF",
+          "content": "Lowest Common Multiple (LCM); Highest Common Factor (HCF); introduction to square and square roots; application in quantitative reasoning.",
+          "source_page": 80
+        },
+        {
+          "week": "4",
+          "topic": "Fractions – Transactions in Homes and Offices",
+          "content": "Expressing fractions as ratios, decimals, and percentages; application of fractions in daily transactions; quantitative reasoning on fractions, ratios, and percentages.",
+          "source_page": 80
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 80
+        },
+        {
+          "week": "6",
+          "topic": "Approximation",
+          "content": "Approximation of numbers to decimal places, significant figures, whole numbers, nearest tens, hundreds, thousands, tenths, hundredths, and thousandths; application in quantitative reasoning.",
+          "source_page": 80
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 80
+        },
+        {
+          "week": "8",
+          "topic": "Directed and Non-Directed Numbers",
+          "content": "Definition and examples of directed and non-directed numbers; use of square and square root tables.",
+          "source_page": 80
+        },
+        {
+          "week": "9",
+          "topic": "Multiplication and Division of Directed Numbers",
+          "content": "Multiplication and division of directed and non-directed numbers with practical exercises.",
+          "source_page": 80
+        },
+        {
+          "week": "10",
+          "topic": "Algebraic Expressions I",
+          "content": "Definition of algebraic expressions with examples; expression of algebraic forms; factorization of simple algebraic expressions.",
+          "source_page": 80
+        },
+        {
+          "week": "11",
+          "topic": "Algebraic Expressions II",
+          "content": "Expansion and factorization of quadratic expressions; definition of algebraic fractions; addition and subtraction of algebraic fractions with whole number denominators; application of quantitative reasoning in solving algebraic fraction problems.",
+          "source_page": 80
+        },
+        {
+          "week": "12",
+          "topic": "Revision and Examination",
+          "content": "General revision of all topics taught during the term followed by end-of-term examination and closing activities.",
+          "source_page": 80
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "",
+          "source_page": 80
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "MATHEMATICS",
+      "term": "Second Term",
+      "source_page": 81,
+      "review_status": "needs_review",
+      "extraction_note": "",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Review of First Term’s Work",
+          "content": "Emphasis on algebraic expressions, solving of quadratic equations, and transactions at home and offices.",
+          "source_page": 81
+        },
+        {
+          "week": "2",
+          "topic": "Simple Equations",
+          "content": "Meaning of algebraic equations; differences between algebraic expressions and algebraic equations; solving problems on simple algebraic equations.",
+          "source_page": 81
+        },
+        {
+          "week": "3",
+          "topic": "Linear Inequalities I",
+          "content": "Definition of linear inequalities; introduction to symbols and basic properties of inequalities.",
+          "source_page": 81
+        },
+        {
+          "week": "4",
+          "topic": "Linear Inequalities II",
+          "content": "Word problems leading to simple inequalities in one variable; solving and interpreting results.",
+          "source_page": 81
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 81
+        },
+        {
+          "week": "6",
+          "topic": "Graphs I",
+          "content": "Graphical representation; graphs of Cartesian plane (the axis); introduction to graphs of linear equations in two variables.",
+          "source_page": 81
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 81
+        },
+        {
+          "week": "8",
+          "topic": "Graphs II",
+          "content": "Plotting of linear graphs in two variables from real-life situations; solving quantitative reasoning problems on graphs.",
+          "source_page": 81
+        },
+        {
+          "week": "9",
+          "topic": "Plane Figures/Shapes",
+          "content": "Identifying plane shapes in the environment; properties of plane shapes e.g. square, rectangle, parallelogram, rhombus, and kite.",
+          "source_page": 81
+        },
+        {
+          "week": "10",
+          "topic": "Scale Drawing of Length and Distances",
+          "content": "Meaning and purpose of scale drawing; measurement and representation on paper.",
+          "source_page": 81
+        },
+        {
+          "week": "11",
+          "topic": "Quantitative Aptitude",
+          "content": "Meaning of quantitative aptitude; reasons for studying it; solving problems related to plane shapes/figures and scale.",
+          "source_page": 81
+        },
+        {
+          "week": "12",
+          "topic": "Revision and Examination",
+          "content": "General revision of all topics taught during the term and Second Term Examination",
+          "source_page": 81
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Vacation activities.",
+          "source_page": 81
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "MATHEMATICS",
+      "term": "Third Term",
+      "source_page": 82,
+      "review_status": "needs_review",
+      "extraction_note": "Source table's week column is blank in PDF extraction; week numbers inferred from row order.",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Revision of Second Term’s Examination",
+          "content": "Representation of real-life situations on a graph and reasons.",
+          "source_page": 82
+        },
+        {
+          "week": "2",
+          "topic": "Angles and Polygons",
+          "content": "Definition of angles; construction of more angles (75°, 105°, 120°, 135° etc.); definition of polygon with examples; sum of interior angles of a regular polygon as (2n − 4) right angles; solving problems on interior angles of convex polygons.",
+          "source_page": 82
+        },
+        {
+          "week": "3",
+          "topic": "Angles of Elevation and Depression",
+          "content": "Definition of angle of elevation with practical illustrations; solving problems by measuring angles of elevation; definition of angle of depression with practical examples; calculating distances and heights using scale drawings; solving quantitative aptitude problems on angles.",
+          "source_page": 82
+        },
+        {
+          "week": "4",
+          "topic": "Bearings and Distances I",
+          "content": "Identifying the cardinal points; locating positions of objects; finding distances and bearings using scale drawing.",
+          "source_page": 82
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 82
+        },
+        {
+          "week": "6",
+          "topic": "Bearings and Distances II",
+          "content": "Constructing triangles (2 sides & included angle, 2 angles & included side, 3 sides); bisecting given angles.",
+          "source_page": 82
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 82
+        },
+        {
+          "week": "8",
+          "topic": "Statistics I – Data Presentation",
+          "content": "Collecting data from home, school, church, and market; presenting data in ordered forms and frequency tables.",
+          "source_page": 82
+        },
+        {
+          "week": "9",
+          "topic": "Statistics II – Graphical Representation",
+          "content": "Plotting pie charts; interpreting data and stating their usefulness in everyday life.",
+          "source_page": 82
+        },
+        {
+          "week": "10",
+          "topic": "Probability",
+          "content": "Definition of probability as chances/events; importance and usefulness in daily activities; examples of chances/events; generating events using ludo and tossing of coins; solving simple problems; calculating probability of events from experiments.",
+          "source_page": 82
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "General revision of all topics taught during the term.",
+          "source_page": 82
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "Third Term Examination.",
+          "source_page": 82
+        },
+        {
+          "week": "13",
+          "topic": "Vacation",
+          "content": "End of session activities.",
+          "source_page": 82
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
