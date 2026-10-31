@@ -2,11 +2,37 @@ import {TERMS,getClasses,type AcademicLibrary,type SchemeOfWork,type SchemeWeek,
 export type StagedRow={week:string|number;topic:string;content:string;source_page?:number};
 export type StagedScheme={class_id:string;subject:string;term:string;rows:StagedRow[];review_status?:string;source_page?:number};
 export type StagingBundle={format:string;schemes:StagedScheme[];review_status?:string};
+function classKey(value:string){
+ const key=value.toLowerCase().trim().replace(/[_ ]+/g,'-');
+ const match=key.match(/^(?:primary|basic|nursery|jss|ss)-?([1-6])$/);
+ if(!match)return key;
+ const prefix=key.startsWith('primary')||key.startsWith('basic')?'basic':key.startsWith('nursery')?'nursery':key.startsWith('jss')?'jss':'ss';
+ return prefix+'-'+match[1];
+}
+function normalizeBundles(data:unknown):StagedScheme[]|null{
+ if(!data||typeof data!=='object')return null;
+ const obj=data as Record<string,unknown>;
+ if(Array.isArray(obj.schemes)){
+  return obj.schemes.map(raw=>{
+   const item=raw as Record<string,unknown>;
+   const sourcePage=Number(item.source_page??item.source_start_page??item.page);
+   return {...item,class_id:classKey(String(item.class_id??'')),source_page:Number.isFinite(sourcePage)?sourcePage:undefined,review_status:String(item.review_status??'needs_review'),rows:Array.isArray(item.rows)?item.rows:[]} as StagedScheme;
+  });
+ }
+ if(Array.isArray(obj.terms)&&typeof obj.class_id==='string'&&typeof obj.subject==='string'){
+  return obj.terms.map(raw=>{
+   const item=raw as Record<string,unknown>;
+   const sourcePage=Number(item.source_page);
+   return {class_id:classKey(obj.class_id as string),subject:obj.subject as string,term:String(item.term??''),review_status:String(obj.review_status??'needs_review'),source_page:Number.isFinite(sourcePage)?sourcePage:undefined,rows:Array.isArray(item.rows)?item.rows.map(row=>{const x=row as Record<string,unknown>;return {week:String(x.week??x.source_week??''),topic:String(x.topic??''),content:String(x.content??''),source_page:Number(x.source_page??sourcePage)}}):[]};
+  });
+ }
+ return null;
+}
 export type ImportCandidate={source:StagedScheme;classId:string;subjectName:string;term:Term;rows:{number:number;topic:string;content:string}[];problems:string[]};
 export function reviewStaging(data:unknown,library:AcademicLibrary):{candidates:ImportCandidate[];errors:string[]}{
  const errors:string[]=[];
- if(!data||typeof data!=='object'||!Array.isArray((data as StagingBundle).schemes))return {candidates:[],errors:['Expected a JSON object with schemes array.']};
- const schemes=(data as StagingBundle).schemes;
+ const schemes=normalizeBundles(data);
+ if(!schemes)return {candidates:[],errors:['Expected curriculum JSON with schemes or terms.']};
  if(schemes.length>5000)return {candidates:[],errors:['Too many schemes (limit 5000).']};
  const classes=getClasses(library);
  const candidates=schemes.map((source,index)=>{
@@ -25,7 +51,7 @@ export function reviewStaging(data:unknown,library:AcademicLibrary):{candidates:
    const range=weekText.match(/^(\\d{1,2})\\s*[-–—]\\s*(\\d{1,2})$/);
    const first=range?Number(range[1]):Number(weekText);
    const last=range?Number(range[2]):first;
-   if(!Number.isInteger(first)||first<1||last>24||last<first||last-first>6){problems.push('Invalid week or range: '+weekText);continue}
+   if(!Number.isInteger(first)||!Number.isInteger(last)||first<1||last>24||last<first||last-first>6){problems.push('Invalid week or range: '+weekText);continue}
    const topic=String(row?.topic??'').trim(),content=String(row?.content??'').trim();
    if(!topic||!content){problems.push('Missing topic/content for week '+weekText);continue}
    for(let number=first;number<=last;number++){
@@ -35,6 +61,7 @@ export function reviewStaging(data:unknown,library:AcademicLibrary):{candidates:
   }
   if(source?.review_status!=='approved')problems.push('Source is not marked approved');
   if(rows.length===0)problems.push('No valid weeks');
+  if(rows.length>24)problems.push('Too many expanded weeks');
   if(index===0&&typeof source.class_id!=='string')errors.push('Invalid source structure');
   return {source,classId,subjectName,term,rows,problems};
  });
