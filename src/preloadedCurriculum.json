@@ -2815,6 +2815,267 @@
           "source_page": 54
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "FASHION DESIGN AND GARMENT MAKING",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 55,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Garment Making",
+          "content": "Meaning and importance of garment making; Career opportunities in garment making",
+          "source_page": 55
+        },
+        {
+          "week": "2",
+          "topic": "Sewing Tools and Equipment",
+          "content": "Types of sewing tools and equipment; Uses and identification; Care and arrangement of tools",
+          "source_page": 55
+        },
+        {
+          "week": "3",
+          "topic": "Sewing Machine",
+          "content": "Meaning and types of sewing machines; Simple parts of the sewing machine",
+          "source_page": 55
+        },
+        {
+          "week": "4",
+          "topic": "Parts of the Sewing Machine and Their Functions",
+          "content": "Main parts and their functions; Operating the machine correctly",
+          "source_page": 55
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "—",
+          "source_page": 55
+        },
+        {
+          "week": "6",
+          "topic": "Handling and Maintenance of Sewing Tools and Equipment",
+          "content": "Cleaning and oiling the sewing machine; Proper storage and safety practices",
+          "source_page": 55
+        },
+        {
+          "week": "7",
+          "topic": "Midterm break",
+          "content": "-",
+          "source_page": 55
+        },
+        {
+          "week": "8",
+          "topic": "Basic Sewing Techniques",
+          "content": "Running, tacking, hemming, overcasting, and back stitches",
+          "source_page": 55
+        },
+        {
+          "week": "9",
+          "topic": "Fibres and Fabrics",
+          "content": "Meaning and classification of fibres (natural and synthetic); Examples of fabrics",
+          "source_page": 55
+        },
+        {
+          "week": "10",
+          "topic": "Fabric Identification",
+          "content": "Methods of identifying fabrics (touch, sight, and burn test); Uses of fabrics",
+          "source_page": 55
+        },
+        {
+          "week": "11",
+          "topic": "Simple Garment Sketching",
+          "content": "Introduction to freehand sketching; Basic shapes in garment sketching",
+          "source_page": 55
+        },
+        {
+          "week": "12",
+          "topic": "Revision & Examination",
+          "content": "Review of term’s work",
+          "source_page": 55
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 55
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "FASHION DESIGN AND GARMENT MAKING",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 56,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Taking Body Measurements",
+          "content": "Body parts for measurement; Tools for measurement; Accurate measuring methods",
+          "source_page": 56
+        },
+        {
+          "week": "2",
+          "topic": "Pattern Drafting",
+          "content": "Meaning and importance of pattern drafting; Basic pattern symbols",
+          "source_page": 56
+        },
+        {
+          "week": "3",
+          "topic": "Methods of Obtaining Pattern",
+          "content": "Flat pattern, draping, and freehand methods",
+          "source_page": 56
+        },
+        {
+          "week": "4",
+          "topic": "Drafting Basic Patterns",
+          "content": "Simple drafting of skirt, blouse, and shorts patterns",
+          "source_page": 56
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "",
+          "source_page": 56
+        },
+        {
+          "week": "6",
+          "topic": "Cutting and Sewing with Drafted Patterns",
+          "content": "Correct laying and cutting of patterns; Seam allowance and joining",
+          "source_page": 56
+        },
+        {
+          "week": "7",
+          "topic": "Mid-Term Break",
+          "content": "—",
+          "source_page": 56
+        },
+        {
+          "week": "8",
+          "topic": "Sewing Simple Garment",
+          "content": "Practical sewing of simple garments such as apron, pillowcase, or skirt",
+          "source_page": 56
+        },
+        {
+          "week": "9",
+          "topic": "Finishing Techniques",
+          "content": "Seam finishing, neatening edges, and hemming",
+          "source_page": 56
+        },
+        {
+          "week": "10",
+          "topic": "Pressing and Ironing",
+          "content": "Tools used for pressing; Correct ironing of garments",
+          "source_page": 56
+        },
+        {
+          "week": "11",
+          "topic": "Digital Sketching Platforms (Introduction)",
+          "content": "Introduction to digital drawing tools (AutoDraw, Canva, Tinkercad, etc.)",
+          "source_page": 56
+        },
+        {
+          "week": "12",
+          "topic": "Revision & Examination",
+          "content": "Review of term’s work",
+          "source_page": 56
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 56
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "FASHION DESIGN AND GARMENT MAKING",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 57,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Digitization in Garment Making",
+          "content": "Meaning of digitization; Benefits of technology in fashion",
+          "source_page": 57
+        },
+        {
+          "week": "2",
+          "topic": "Digital Sketching Platforms (Practical)",
+          "content": "Digital tools for creating garment sketches; Practice session",
+          "source_page": 57
+        },
+        {
+          "week": "3",
+          "topic": "Digital Portfolios",
+          "content": "Meaning and importance of portfolios in fashion; Components of a digital portfolio",
+          "source_page": 57
+        },
+        {
+          "week": "4",
+          "topic": "Creating a Digital Portfolio",
+          "content": "Steps in setting up a portfolio; Uploading sketches and photos",
+          "source_page": 57
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "",
+          "source_page": 57
+        },
+        {
+          "week": "6",
+          "topic": "Putting Works in the Digital Portfolio",
+          "content": "Arranging and organizing completed works in digital format",
+          "source_page": 57
+        },
+        {
+          "week": "7",
+          "topic": "Mid-Term Break",
+          "content": "-",
+          "source_page": 57
+        },
+        {
+          "week": "8",
+          "topic": "Review of Garment Production Process",
+          "content": "Summary of steps from sketching to finishing a garment",
+          "source_page": 57
+        },
+        {
+          "week": "9",
+          "topic": "Career Opportunities in Fashion",
+          "content": "Careers in garment making and fashion design",
+          "source_page": 57
+        },
+        {
+          "week": "10",
+          "topic": "Project Work",
+          "content": "Simple digital portfolio and sewn garment presentation",
+          "source_page": 57
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 57
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 57
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 57
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
