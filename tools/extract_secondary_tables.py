@@ -26,7 +26,12 @@ for number,page in enumerate(document,1):
   values=[re.sub(r'\s+',' ',str(x or '')).strip() for x in row[:3]]
   if values[0] and values[1]:data.append(dict(zip(('week','topic','content'),values)))
  if data:
-  class_id=re.sub(r'\s+','',match.group(1)).lower()
+  class_id=re.sub(r'^(jss|ss)([123])
+  schemes.append({'class_id':class_id,'subject':match.group(2),'term':term,'page':number,'rows':data,'review_status':'needs_review'})
+result={'format':'sowa-pdf-table-extraction-v1','source':os.path.basename(source),'total_pages':len(document),'review_status':'needs_review','schemes':schemes,'unparsed_headings':unparsed}
+with open(destination,'w',encoding='utf-8') as output:json.dump(result,output,ensure_ascii=False,indent=2)
+print('Schemes extracted:',len(schemes),'Rows:',sum(len(s['rows']) for s in schemes),'Unparsed headings:',len(unparsed))
+,r'\1-\2',re.sub(r'\s+','',match.group(1)).lower())
   schemes.append({'class_id':class_id,'subject':match.group(2),'term':term,'page':number,'rows':data,'review_status':'needs_review'})
 result={'format':'sowa-pdf-table-extraction-v1','source':os.path.basename(source),'total_pages':len(document),'review_status':'needs_review','schemes':schemes,'unparsed_headings':unparsed}
 with open(destination,'w',encoding='utf-8') as output:json.dump(result,output,ensure_ascii=False,indent=2)
