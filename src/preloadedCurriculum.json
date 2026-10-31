@@ -1321,6 +1321,231 @@
           "source_page": 28
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "First Term",
+      "source_page": 29,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Arts",
+          "content": "Meaning and Definitions of Arts, History and Origin of Arts",
+          "source_page": 29
+        },
+        {
+          "week": "2",
+          "topic": "Introduction to Arts (cont’d)",
+          "content": "How Arts Started in Nigeria Schools, Branches/Types of Arts, Uses of Arts in Society",
+          "source_page": 29
+        },
+        {
+          "week": "3",
+          "topic": "Crafts",
+          "content": "Meaning of Crafts, Types, Materials, Tools/Equipment, Locations of Local Crafts",
+          "source_page": 29
+        },
+        {
+          "week": "4",
+          "topic": "Crafts (cont’d)",
+          "content": "Uses of Crafts in Nigeria",
+          "source_page": 29
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 29
+        },
+        {
+          "week": "6",
+          "topic": "Tie and Dye",
+          "content": "Meaning of Tie and Dye, Methods of Tying",
+          "source_page": 29
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 29
+        },
+        {
+          "week": "8",
+          "topic": "Paper Craft",
+          "content": "Meaning of Paper Craft, Methods of Folding Paper",
+          "source_page": 29
+        },
+        {
+          "week": "9",
+          "topic": "Paper Craft (cont’d)",
+          "content": "Paper Craft Production, Uses of Paper Crafts",
+          "source_page": 29
+        },
+        {
+          "week": "10",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 29
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examination & Closing",
+          "content": "—",
+          "source_page": 29
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Second Term",
+      "source_page": 30,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Collage",
+          "content": "Meaning of Collage, Materials/Tools for Collage",
+          "source_page": 30
+        },
+        {
+          "week": "2",
+          "topic": "Collage (cont’d)",
+          "content": "Production of Collage, Uses of Collage",
+          "source_page": 30
+        },
+        {
+          "week": "3",
+          "topic": "Mosaic",
+          "content": "Meaning of Mosaic, Materials/Tools, Production of Mosaic, Uses of Mosaic",
+          "source_page": 30
+        },
+        {
+          "week": "4",
+          "topic": "Modelling with Papier-mâché",
+          "content": "Meaning, Materials/Tools",
+          "source_page": 30
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 30
+        },
+        {
+          "week": "6",
+          "topic": "Modelling with Papier-mâché (cont’d)",
+          "content": "Preparation and Making, Modelling Techniques, Safety Measures",
+          "source_page": 30
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 30
+        },
+        {
+          "week": "8",
+          "topic": "Bead Work",
+          "content": "Meaning of Bead Work, Production of Beads in Jewellery",
+          "source_page": 30
+        },
+        {
+          "week": "9",
+          "topic": "Bead Work (cont’d)",
+          "content": "Uses of Beads as Creative Objects",
+          "source_page": 30
+        },
+        {
+          "week": "10",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 30
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examination & Closing",
+          "content": "—",
+          "source_page": 30
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Third Term",
+      "source_page": 31,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Music Theory",
+          "content": "Fundamentals of Music, Notes on the Keyboard",
+          "source_page": 31
+        },
+        {
+          "week": "2",
+          "topic": "Ear Training and Harmony",
+          "content": "Rudiments of Harmony, Uses of Ear Training",
+          "source_page": 31
+        },
+        {
+          "week": "3",
+          "topic": "Ear Training and Harmony (cont’d)",
+          "content": "Benefits of Ear Training",
+          "source_page": 31
+        },
+        {
+          "week": "4",
+          "topic": "Rudiments of Music & Playing Instruments",
+          "content": "Musical Alphabets, Clef and Staves, Notes and Relative Values",
+          "source_page": 31
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 31
+        },
+        {
+          "week": "6",
+          "topic": "Recorder & Uses of Music",
+          "content": "Major Scales, Playing Recorder, Uses & Impact of Music in Society",
+          "source_page": 31
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 31
+        },
+        {
+          "week": "8",
+          "topic": "Drama & Theatre",
+          "content": "Definition, Origin of Drama, People in Drama/Theatre, Functions",
+          "source_page": 31
+        },
+        {
+          "week": "9",
+          "topic": "Elements & Playwriting",
+          "content": "Elements and Forms of Drama, Playwriting and Dramatists",
+          "source_page": 31
+        },
+        {
+          "week": "10",
+          "topic": "The Director",
+          "content": "Meaning, Duties, and Functions of a Director",
+          "source_page": 31
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examination & Closing",
+          "content": "—",
+          "source_page": 31
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
