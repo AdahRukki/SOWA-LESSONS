@@ -1,0 +1,2289 @@
+{
+  "format": "sowa-preloaded-review-library-v1",
+  "review_status": "needs_review",
+  "schemes": [
+    {
+      "class_id": "basic-3",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 743,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Listening Phonics & Writing",
+          "content": "rhymes and songs with correct pronunciation. Learn short vowel sounds (a, e, i, o, u); write simple CVC",
+          "source_page": 743
+        },
+        {
+          "week": "2",
+          "topic": "Reading & Grammar",
+          "content": "words correctly. Read simple sentences aloud; identify nouns (names of",
+          "source_page": 743
+        },
+        {
+          "week": "3",
+          "topic": "Speaking & Grammar",
+          "content": "people, animals, things). Introduce self and others using simple sentences (“My",
+          "source_page": 743
+        },
+        {
+          "week": "4",
+          "topic": "",
+          "content": "name is...”, “This is my friend…”); use of articles a/an. Assessment on phonics, reading, and sentence building.",
+          "source_page": 743
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test Reading",
+          "content": "Read short stories; answer “who” and “what” questions;",
+          "source_page": 743
+        },
+        {
+          "week": "6",
+          "topic": "Comprehension & Writing",
+          "content": "write two to three sentences about school. —",
+          "source_page": 743
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break Listening & Grammar",
+          "content": "Identify and use singular and plural nouns (boy/boys,",
+          "source_page": 743
+        },
+        {
+          "week": "8",
+          "topic": "Speaking & Writing",
+          "content": "child/children); pronounce clearly in speech. Common greetings and polite requests (“Good morning”,",
+          "source_page": 743
+        },
+        {
+          "week": "9",
+          "topic": "Reading & Grammar",
+          "content": "“Please”, “Thank you”); write short dialogues. Identify simple verbs (run, jump, eat, sing); form simple",
+          "source_page": 743
+        },
+        {
+          "week": "10",
+          "topic": "Writing & Handwriting",
+          "content": "sentences using verbs. Practice neat handwriting; write short sentences using",
+          "source_page": 743
+        },
+        {
+          "week": "11",
+          "topic": "",
+          "content": "correct punctuation. Review of all topics covered in the term.",
+          "source_page": 743
+        },
+        {
+          "week": "12",
+          "topic": "Revision",
+          "content": "End-of-term assessment.",
+          "source_page": 743
+        },
+        {
+          "week": "13",
+          "topic": "Examination / Closing",
+          "content": "",
+          "source_page": 743
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 744,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Listening & Grammar",
+          "content": "gr, st). Pronounce words with consonant clusters correctly; identify",
+          "source_page": 744
+        },
+        {
+          "week": "2",
+          "topic": "Writing & Speaking",
+          "content": "and use pronouns (he, she, it, they). Write about everyday activities using present tense (I go to",
+          "source_page": 744
+        },
+        {
+          "week": "3",
+          "topic": "Reading &",
+          "content": "school, I eat breakfast). Read short comprehension passages and answer “where”",
+          "source_page": 744
+        },
+        {
+          "week": "4",
+          "topic": "Comprehension",
+          "content": "and “when” questions. Assessment on reading fluency, grammar, and writing.",
+          "source_page": 744
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test Speaking & Grammar",
+          "content": "Use auxiliary verbs (is, am, are) correctly in sentences.",
+          "source_page": 744
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "—",
+          "source_page": 744
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break Reading &",
+          "content": "Identify new words in simple stories; use them in sentences.",
+          "source_page": 744
+        },
+        {
+          "week": "8",
+          "topic": "Vocabulary Writing & Grammar",
+          "content": "Write four sentences using past tense verbs (played, cooked,",
+          "source_page": 744
+        },
+        {
+          "week": "9",
+          "topic": "Listening & Speaking",
+          "content": "walked); use commas and full stops. Simple dialogues expressing present, past, and future actions",
+          "source_page": 744
+        },
+        {
+          "week": "10",
+          "topic": "Reading &",
+          "content": "(I am playing; I played; I will play). Read fluently with correct punctuation; copy short sentences",
+          "source_page": 744
+        },
+        {
+          "week": "11",
+          "topic": "Handwriting",
+          "content": "neatly. General review of reading, grammar, and writing skills.",
+          "source_page": 744
+        },
+        {
+          "week": "12",
+          "topic": "Revision",
+          "content": "End-of-term tests and feedback.",
+          "source_page": 744
+        },
+        {
+          "week": "13",
+          "topic": "Examination / Closing",
+          "content": "",
+          "source_page": 744
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 745,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Speaking & Listening",
+          "content": "using plural forms. Listen to short stories and retell them in your own words;",
+          "source_page": 745
+        },
+        {
+          "week": "2",
+          "topic": "Writing & Grammar",
+          "content": "identify stress in simple words. Write three sentences using the present continuous tense (I",
+          "source_page": 745
+        },
+        {
+          "week": "3",
+          "topic": "Reading &",
+          "content": "am reading, I am writing). Identify main ideas and lessons from simple stories.",
+          "source_page": 745
+        },
+        {
+          "week": "4",
+          "topic": "Comprehension",
+          "content": "Test on reading comprehension and grammar.",
+          "source_page": 745
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test Grammar & Speaking",
+          "content": "Express future actions using “will” and “shall”; e.g., “I will",
+          "source_page": 745
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "travel tomorrow.” —",
+          "source_page": 745
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break Grammar & Writing",
+          "content": "Use present perfect tense (“I have eaten”, “I have gone”);",
+          "source_page": 745
+        },
+        {
+          "week": "8",
+          "topic": "Reading & Listening",
+          "content": "write short sentences using since and for. Pronounce vowel and diphthong sounds (ow, ou, oi, ea);",
+          "source_page": 745
+        },
+        {
+          "week": "9",
+          "topic": "Writing & Grammar",
+          "content": "aural discrimination exercises. Write answers to comprehension questions in complete",
+          "source_page": 745
+        },
+        {
+          "week": "10",
+          "topic": "Reading & Concepts",
+          "content": "sentences; practice punctuation. Identify parts of a book (title, author, cover page); arrange",
+          "source_page": 745
+        },
+        {
+          "week": "11",
+          "topic": "of Print",
+          "content": "sentences in logical order. Review all aspects: reading, writing, grammar, and",
+          "source_page": 745
+        },
+        {
+          "week": "12",
+          "topic": "Revision",
+          "content": "speaking. End-of-session test and feedback.",
+          "source_page": 745
+        },
+        {
+          "week": "13",
+          "topic": "Examination / Closing",
+          "content": "",
+          "source_page": 745
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "MATHEMATICS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 746,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "to 999 Whole Numbers up",
+          "content": "(hundreds, tens, and ones). Comparing and ordering numbers; use of symbols (<, >, =)",
+          "source_page": 746
+        },
+        {
+          "week": "2",
+          "topic": "to 999 Whole Numbers up",
+          "content": "and number patterns. Rounding numbers to the nearest ten and hundred; number",
+          "source_page": 746
+        },
+        {
+          "week": "3",
+          "topic": "to 999 Fractions",
+          "content": "sequences. Introduction to fractions as parts of a whole (½, ¼, ¾).",
+          "source_page": 746
+        },
+        {
+          "week": "4",
+          "topic": "",
+          "content": "Identifying fractions in everyday objects. —",
+          "source_page": 746
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test Fractions",
+          "content": "Comparing and arranging simple fractions; addition and",
+          "source_page": 746
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "subtraction of fractions with the same denominator. —",
+          "source_page": 746
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break Fractions",
+          "content": "Word problems involving fractions in real-life situations.",
+          "source_page": 746
+        },
+        {
+          "week": "8",
+          "topic": "Fractions",
+          "content": "Fraction representation on number lines and shapes.",
+          "source_page": 746
+        },
+        {
+          "week": "9",
+          "topic": "Revision",
+          "content": "Review of whole numbers and fractions.",
+          "source_page": 746
+        },
+        {
+          "week": "10",
+          "topic": "Examination / Closing",
+          "content": "—",
+          "source_page": 746
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "MATHEMATICS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 747,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Addition",
+          "content": "carrying. Addition of 2-digit and 3-digit numbers with carrying;",
+          "source_page": 747
+        },
+        {
+          "week": "2",
+          "topic": "Subtraction",
+          "content": "solving addition word problems. Subtraction of 2-digit and 3-digit numbers without",
+          "source_page": 747
+        },
+        {
+          "week": "3",
+          "topic": "Subtraction",
+          "content": "borrowing. Subtraction with borrowing; solving subtraction word",
+          "source_page": 747
+        },
+        {
+          "week": "4",
+          "topic": "",
+          "content": "problems. —",
+          "source_page": 747
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test Multiplication",
+          "content": "Multiplication as repeated addition; times tables (2×,",
+          "source_page": 747
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "3×, 4×, 5×). —",
+          "source_page": 747
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break Multiplication",
+          "content": "Multiplying 2-digit numbers by 1-digit numbers; solving",
+          "source_page": 747
+        },
+        {
+          "week": "8",
+          "topic": "Division",
+          "content": "multiplication word problems. Division as sharing equally; relationship between",
+          "source_page": 747
+        },
+        {
+          "week": "9",
+          "topic": "Division",
+          "content": "multiplication and division. Solving simple division problems with remainders.",
+          "source_page": 747
+        },
+        {
+          "week": "10",
+          "topic": "Revision / Examination / Closing",
+          "content": "—",
+          "source_page": 747
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "MATHEMATICS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 748,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Money",
+          "content": "sentences (e.g., 12 + __ = 20). Identifying Nigerian coins and notes; counting, adding",
+          "source_page": 748
+        },
+        {
+          "week": "2",
+          "topic": "Length I",
+          "content": "and subtracting money. Measuring objects using non-standard units (hand span,",
+          "source_page": 748
+        },
+        {
+          "week": "3",
+          "topic": "Length II",
+          "content": "sticks). Measuring using standard units (metres, centimetres);",
+          "source_page": 748
+        },
+        {
+          "week": "4",
+          "topic": "",
+          "content": "comparing lengths. —",
+          "source_page": 748
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test Time",
+          "content": "Reading time to the hour, half-hour, and quarter-hour on",
+          "source_page": 748
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "clocks. —",
+          "source_page": 748
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break Weight",
+          "content": "Measuring objects using standard units (grams,",
+          "source_page": 748
+        },
+        {
+          "week": "8",
+          "topic": "Capacity",
+          "content": "kilograms); comparing weights. Measuring liquids using standard units (litres, millilitres).",
+          "source_page": 748
+        },
+        {
+          "week": "9",
+          "topic": "Symmetry",
+          "content": "Identifying and drawing symmetrical shapes; folding to",
+          "source_page": 748
+        },
+        {
+          "week": "10",
+          "topic": "Pictograms",
+          "content": "find lines of symmetry. Collecting data, representing data using pictograms,",
+          "source_page": 748
+        },
+        {
+          "week": "11",
+          "topic": "Revision / Examination / Closing",
+          "content": "interpreting simple pictographs. —",
+          "source_page": 748
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "BASIC SCIENCE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 749,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Measurement of Length I",
+          "content": "Introduction to measurement; Meaning of length; Importance of measuring length; Traditional units of measuring length (handspan, footstep, arm's length)",
+          "source_page": 749
+        },
+        {
+          "week": "2",
+          "topic": "Measurement of Length II",
+          "content": "Standard units of measuring length (centimeter, meter); Instruments for measuring length (ruler, tape measure, meter rule); Practical activities",
+          "source_page": 749
+        },
+        {
+          "week": "3",
+          "topic": "Measurement of Mass I",
+          "content": "Meaning of mass; Difference between mass and weight; Importance of measuring mass; Traditional ways of measuring mass (calabash, cup)",
+          "source_page": 749
+        },
+        {
+          "week": "4",
+          "topic": "Measurement of Mass II",
+          "content": "Standard units of measuring mass (gram, kilogram); Instruments for measuring mass (scale, balance, weighing scale); Practical activities",
+          "source_page": 749
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 749
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 749
+        },
+        {
+          "week": "7",
+          "topic": "Measurement of Time I",
+          "content": "Meaning of time; Importance of measuring time; Traditional ways of telling time (cock crow, sun position, shadows)",
+          "source_page": 749
+        },
+        {
+          "week": "8",
+          "topic": "Measurement of Time II",
+          "content": "Modern instruments for measuring time (clock, watch, timer, calendar); Units of time (second, minute, hour, day, week, month, year)",
+          "source_page": 749
+        },
+        {
+          "week": "9",
+          "topic": "Measurement of Time III",
+          "content": "Reading the clock; Telling time (o'clock, half past); Days of the week; Months of the year; Seasons",
+          "source_page": 749
+        },
+        {
+          "week": "10",
+          "topic": "Soil I",
+          "content": "Meaning of soil; Importance of soil; Where soil comes from; Different colors of soil (red, black, brown, grey)",
+          "source_page": 749
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in first term",
+          "source_page": 749
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of first term assessment",
+          "source_page": 749
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 749
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "BASIC SCIENCE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 750,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Soil II",
+          "content": "Types of soil (sandy, clay, loamy); Properties of different types of soil; Texture and color",
+          "source_page": 750
+        },
+        {
+          "week": "2",
+          "topic": "Soil III",
+          "content": "Uses of soil (farming, building, pottery); Animals that live in soil; Taking care of soil; Soil erosion and prevention",
+          "source_page": 750
+        },
+        {
+          "week": "3",
+          "topic": "Air in Motion I",
+          "content": "Meaning of air; Air is everywhere; Air occupies space; Air has weight; Simple experiments to show presence of air",
+          "source_page": 750
+        },
+        {
+          "week": "4",
+          "topic": "Air in Motion II",
+          "content": "Wind as air in motion; What causes wind; Types of wind (breeze, storm, hurricane); Uses of wind; Dangers of strong wind",
+          "source_page": 750
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 750
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 750
+        },
+        {
+          "week": "7",
+          "topic": "Quality of Water I",
+          "content": "Sources of water (rain, river, stream, well, borehole, tap); Importance of water; Water for drinking, cooking, washing, bathing",
+          "source_page": 750
+        },
+        {
+          "week": "8",
+          "topic": "Quality of Water II",
+          "content": "Clean water vs. dirty water; Characteristics of clean water (colorless, odorless, tasteless); Diseases from dirty water",
+          "source_page": 750
+        },
+        {
+          "week": "9",
+          "topic": "Uses of Water",
+          "content": "Domestic uses of water; Water in agriculture; Water in industries; Water for transportation; Water for recreation; Conservation of water",
+          "source_page": 750
+        },
+        {
+          "week": "10",
+          "topic": "Plants I",
+          "content": "What are plants? Parts of a plant (root, stem, leaf, flower, fruit, seed); Functions of each plant part",
+          "source_page": 750
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in second term",
+          "source_page": 750
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of second term assessment",
+          "source_page": 750
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 750
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "BASIC SCIENCE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 751,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Plants II",
+          "content": "Types of plants (herbs, shrubs, trees); Examples of each type; Differences between them",
+          "source_page": 751
+        },
+        {
+          "week": "2",
+          "topic": "Plants III",
+          "content": "Uses of plants (food, medicine, shelter, clothing, furniture); Importance of plants; Taking care of plants",
+          "source_page": 751
+        },
+        {
+          "week": "3",
+          "topic": "Animals I",
+          "content": "What are animals? Characteristics of animals (they move, eat, grow, reproduce); Differences between plants and animals",
+          "source_page": 751
+        },
+        {
+          "week": "4",
+          "topic": "Animals II",
+          "content": "Types of animals (domestic and wild); Examples of domestic animals (dog, cat, goat, cow, chicken); Examples of wild animals (lion, elephant, monkey)",
+          "source_page": 751
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 751
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 751
+        },
+        {
+          "week": "7",
+          "topic": "Animals III",
+          "content": "Uses of animals (food, work, companionship, clothing); Taking care of animals; Kindness to animals",
+          "source_page": 751
+        },
+        {
+          "week": "8",
+          "topic": "Forms of Technology I",
+          "content": "Meaning of technology; Technology in our homes (television, radio, telephone, computer, fan, iron); How technology makes life easier",
+          "source_page": 751
+        },
+        {
+          "week": "9",
+          "topic": "Forms of Technology II",
+          "content": "Technology in schools (computers, projectors, calculators); Technology in hospitals (X-ray machines, thermometers); Technology in transportation (cars, trains, airplanes)",
+          "source_page": 751
+        },
+        {
+          "week": "10",
+          "topic": "Forms of Energy - Light I",
+          "content": "What is light? Sources of light (sun, moon, fire, bulb, candle, torch); Natural and artificial sources of light; Importance of light",
+          "source_page": 751
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 751
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 751
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 751
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 752,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Physical Education",
+          "content": "Meaning of Physical Education; Importance of PE; Basic PE class rules and safety",
+          "source_page": 752
+        },
+        {
+          "week": "2",
+          "topic": "Moving Our Body Parts I",
+          "content": "Body parts identification; Head, neck, and shoulder movements; Simple warm-up exercises",
+          "source_page": 752
+        },
+        {
+          "week": "3",
+          "topic": "Moving Our Body Parts II",
+          "content": "Arms, hands, and fingers movements; Arm swings and circles; Hand coordination activities",
+          "source_page": 752
+        },
+        {
+          "week": "4",
+          "topic": "Moving Our Body Parts III",
+          "content": "Legs, feet, and toes movements; Leg stretches; Jumping and hopping",
+          "source_page": 752
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 752
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 752
+        },
+        {
+          "week": "7",
+          "topic": "Moving Our Body Parts IV",
+          "content": "Full body movements; Bending, stretching, twisting; Body coordination exercises",
+          "source_page": 752
+        },
+        {
+          "week": "8",
+          "topic": "Athletics I - Running",
+          "content": "Introduction to running; Proper running form; Short distance running; Running games",
+          "source_page": 752
+        },
+        {
+          "week": "9",
+          "topic": "Athletics II - Jumping",
+          "content": "Types of jumps (standing, running jump); Jump techniques; Jumping games",
+          "source_page": 752
+        },
+        {
+          "week": "10",
+          "topic": "Ball Games I - Introduction",
+          "content": "Types of balls; Ball handling; Throwing and catching basics",
+          "source_page": 752
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in first term",
+          "source_page": 752
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of first term assessment",
+          "source_page": 752
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 752
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 753,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Health and Hygiene I",
+          "content": "Personal hygiene importance; Bathing and handwashing; Cleanliness benefits",
+          "source_page": 753
+        },
+        {
+          "week": "2",
+          "topic": "Health and Hygiene II",
+          "content": "Dental care; Teeth brushing; Hair and nail care",
+          "source_page": 753
+        },
+        {
+          "week": "3",
+          "topic": "Athletics III - Throwing",
+          "content": "Introduction to throwing; Throwing techniques; Bean bag and ball throwing",
+          "source_page": 753
+        },
+        {
+          "week": "4",
+          "topic": "Athletics IV - Relay Races",
+          "content": "What is a relay? Baton passing; Simple relay activities",
+          "source_page": 753
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 753
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 753
+        },
+        {
+          "week": "7",
+          "topic": "Ball Games II - Football Basics",
+          "content": "Introduction to football; Basic foot skills; Dribbling and kicking",
+          "source_page": 753
+        },
+        {
+          "week": "8",
+          "topic": "Ball Games III - Basketball Basics",
+          "content": "Introduction to basketball; Ball handling; Bouncing and chest pass",
+          "source_page": 753
+        },
+        {
+          "week": "9",
+          "topic": "Ball Games IV - Volleyball Basics",
+          "content": "Introduction to volleyball; Hand positioning; Simple serving and hitting",
+          "source_page": 753
+        },
+        {
+          "week": "10",
+          "topic": "Swimming I - Water Safety",
+          "content": "Importance of water safety; Pool rules; Floating aids; Overcoming fear of water",
+          "source_page": 753
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in second term",
+          "source_page": 753
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of second term assessment",
+          "source_page": 753
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 753
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 754,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Swimming II - Basic Skills",
+          "content": "Entering and exiting water safely; Holding breath underwater; Blowing bubbles",
+          "source_page": 754
+        },
+        {
+          "week": "2",
+          "topic": "First Aid and Safety I",
+          "content": "Introduction to first aid; Common injuries; When to call for help",
+          "source_page": 754
+        },
+        {
+          "week": "3",
+          "topic": "First Aid and Safety II",
+          "content": "Basic first aid for cuts and bruises; Treating minor burns; Safety at home and school",
+          "source_page": 754
+        },
+        {
+          "week": "4",
+          "topic": "Advanced Body Movements",
+          "content": "Balance and stability; Walking on lines; Simple balancing activities; Combining movements",
+          "source_page": 754
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 754
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 754
+        },
+        {
+          "week": "7",
+          "topic": "Ball Games V - Team Games",
+          "content": "Introduction to team play; Passing in groups; Simple team games; Fair play",
+          "source_page": 754
+        },
+        {
+          "week": "8",
+          "topic": "Athletics V - Combined Activities",
+          "content": "Mini athletics competition; Running, jumping, throwing stations",
+          "source_page": 754
+        },
+        {
+          "week": "9",
+          "topic": "Health Education I - Nutrition",
+          "content": "Importance of good food; Food groups; Healthy eating habits",
+          "source_page": 754
+        },
+        {
+          "week": "10",
+          "topic": "Safety Education - Road Safety",
+          "content": "Crossing the road safely; Traffic lights and signs; Pedestrian rules; Safety tips",
+          "source_page": 754
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 754
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 754
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Sports Day; Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 754
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 755,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to the New Testament",
+          "content": "Meaning of New Testament; Books of the New Testament; Difference between Old and New Testament",
+          "source_page": 755
+        },
+        {
+          "week": "2",
+          "topic": "The Promise of the Saviour I",
+          "content": "God's promise to send a Saviour; Prophecies about Jesus (Isaiah 7:14; Micah 5:2); Waiting for the Messiah; Memory Verse: John 3:16",
+          "source_page": 755
+        },
+        {
+          "week": "3",
+          "topic": "The Promise of the Saviour II",
+          "content": "Angel's announcement to Mary (Luke 1:26-38); The birth of Jesus (Luke 2:1-20); Jesus as the promised Saviour; Memory Verse: Luke 2:11",
+          "source_page": 755
+        },
+        {
+          "week": "4",
+          "topic": "The Promise of the Saviour III",
+          "content": "Jesus' mission on earth; Jesus saves us from sin; Why we need a Saviour (Luke 19:10); Jesus' death and resurrection; Memory Verse: Luke 19:10",
+          "source_page": 755
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 755
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 755
+        },
+        {
+          "week": "7",
+          "topic": "The Promise of the Comforter I",
+          "content": "Jesus' promise of the Holy Spirit (John 14:16-17, 26); Who is the Comforter?; Why we need the Comforter; Memory Verse: John 14:16",
+          "source_page": 755
+        },
+        {
+          "week": "8",
+          "topic": "The Promise of the Comforter II",
+          "content": "The coming of the Holy Spirit at Pentecost (Acts 2:1-4); Peter's sermon (Acts 2:14-41); The work of the Holy Spirit; Memory Verse: Acts 2:4",
+          "source_page": 755
+        },
+        {
+          "week": "9",
+          "topic": "The Promise of the Comforter III",
+          "content": "How the Holy Spirit helps us; Fruits of the Spirit (Galatians 5:22-23); Living by the Spirit; Memory Verse: Galatians 5:22",
+          "source_page": 755
+        },
+        {
+          "week": "10",
+          "topic": "The Second Coming of Jesus I",
+          "content": "Jesus' promise to return (John 14:1-3); What is the Second Coming?; Signs of His coming (Matthew 24:3-14); Being ready; Memory Verse: John 14:3",
+          "source_page": 755
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in first term",
+          "source_page": 755
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of first term assessment",
+          "source_page": 755
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 755
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 756,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Jesus the Way to the Father I",
+          "content": "Jesus said \"I am the Way\" (John 14:6); No one comes to the Father except through Jesus; Jesus our mediator (1 Timothy 2:5); Memory Verse: John 14:6",
+          "source_page": 756
+        },
+        {
+          "week": "2",
+          "topic": "Jesus the Way to the Father II",
+          "content": "How Jesus leads us to God; Following Jesus' example; Obeying Jesus' teachings (John 14:15); Prayer and worship through Jesus; Memory Verse: John 14:15",
+          "source_page": 756
+        },
+        {
+          "week": "3",
+          "topic": "Jesus the Way to the Father III",
+          "content": "Living according to Jesus' way; Jesus' love for the Father (John 14:31); Our relationship with God through Jesus; Memory Verse: Matthew 7:21",
+          "source_page": 756
+        },
+        {
+          "week": "4",
+          "topic": "Jesus the True Good Shepherd I",
+          "content": "Jesus said \"I am the Good Shepherd\" (John 10:11-16); Characteristics of a good shepherd; Jesus knows His sheep; Memory Verse: John 10:11",
+          "source_page": 756
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 756
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 756
+        },
+        {
+          "week": "7",
+          "topic": "Jesus the True Good Shepherd II",
+          "content": "The Good Shepherd protects His sheep (John 10:11-18); Jesus cares for us; The shepherd and the lost sheep (Luke 15:3-7); Memory Verse: Psalm 23:1",
+          "source_page": 756
+        },
+        {
+          "week": "8",
+          "topic": "Jesus the True Good Shepherd III",
+          "content": "Following Jesus the Shepherd; Listening to the Shepherd's voice (John 10:27); The Shepherd lays down His life; We are His sheep; Memory Verse: John 10:27",
+          "source_page": 756
+        },
+        {
+          "week": "9",
+          "topic": "Jesus the Bread of Life I",
+          "content": "Jesus said \"I am the Bread of Life\" (John 6:35, 48-51); Meaning of Bread of Life; Physical and spiritual food; Memory Verse: John 6:35",
+          "source_page": 756
+        },
+        {
+          "week": "10",
+          "topic": "Jesus the Bread of Life II",
+          "content": "Jesus feeds the 5,000 (John 6:1-15); Manna in the wilderness (Exodus 16:4-15); Jesus is better than manna (John 6:32-35); Believing in Jesus; Memory Verse: John 6:48",
+          "source_page": 756
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in second term",
+          "source_page": 756
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of second term assessment",
+          "source_page": 756
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 756
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 757,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Showing Hospitality I",
+          "content": "Meaning of hospitality; Abraham and the three visitors (Genesis 18:1-8); Being kind to strangers (Hebrews 13:2); Memory Verse: Romans 12:13",
+          "source_page": 757
+        },
+        {
+          "week": "2",
+          "topic": "Showing Hospitality II",
+          "content": "Welcoming visitors; The Shunammite woman and Elisha (2 Kings 4:8-10); Sharing with others; Hospitality in our homes; Memory Verse: 1 Peter 4:9",
+          "source_page": 757
+        },
+        {
+          "week": "3",
+          "topic": "Showing Love I",
+          "content": "What is love? God's love for us (1 John 4:7-11); Jesus' commandment to love (John 13:34-35); Loving God and neighbors (Matthew 22:37-39); Memory Verse: John 13:34",
+          "source_page": 757
+        },
+        {
+          "week": "4",
+          "topic": "Showing Love and Unselfishness II",
+          "content": "The Good Samaritan (Luke 10:25-37); Helping others in need; Putting others first; Sharing and caring; Memory Verse: Luke 10:27",
+          "source_page": 757
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 757
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 757
+        },
+        {
+          "week": "7",
+          "topic": "Showing Unselfishness III",
+          "content": "Being generous like Jesus; Selfishness vs. unselfishness; The widow's offering (Mark 12:41- 44); Giving cheerfully (2 Corinthians 9:7); Memory Verse: Acts 20:35",
+          "source_page": 757
+        },
+        {
+          "week": "8",
+          "topic": "Showing Desire for Peaceful Co-existence I",
+          "content": "Meaning of peace; Jesus the Prince of Peace (Isaiah 9:6); Living peacefully with others (Romans 12:18); Blessed are the peacemakers (Matthew 5:9); Memory Verse: Matthew 5:9",
+          "source_page": 757
+        },
+        {
+          "week": "9",
+          "topic": "Showing Desire for Peaceful Co-existence II",
+          "content": "Resolving conflicts peacefully; Forgiveness and reconciliation (Matthew 18:21-22); Avoiding quarrels and fights (Proverbs 17:14); Joseph forgives his brothers (Genesis 45:1-15); Memory Verse: Ephesians 4:32",
+          "source_page": 757
+        },
+        {
+          "week": "10",
+          "topic": "Showing Desire for Peaceful Co-existence III",
+          "content": "Being a peacemaker; Unity among Christians (Psalm 133:1; Ephesians 4:3); Respecting others; Living in harmony; Love covers all wrongs (Proverbs 10:12); Memory Verse: Ephesians 4:3",
+          "source_page": 757
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 757
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 757
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 757
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "ISLAMIC STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 758,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Arabic Alphabet",
+          "content": "Review of Arabic letters; Shapes of letters (beginning, middle, end); Importance of proper pronunciation",
+          "source_page": 758
+        },
+        {
+          "week": "2",
+          "topic": "Introduction of Tanwin I",
+          "content": "Meaning of Tanwin; Types of Tanwin (Tanwin Fath, Tanwin Kasr, Tanwin Damm); Signs and ଉ ଉ ଉ) symbols (",
+          "source_page": 758
+        },
+        {
+          "week": "3",
+          "topic": "Introduction of Tanwin II",
+          "content": "How to pronounce Tanwin; Difference between Tanwin and other vowels; Practice with simple words; Reading words with Tanwin",
+          "source_page": 758
+        },
+        {
+          "week": "4",
+          "topic": "Introduction of Tanwin III",
+          "content": "Identifying Tanwin in the Qur'an; Reading Qur'anic verses with Tanwin; Writing words with Tanwin; Practical exercises",
+          "source_page": 758
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 758
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 758
+        },
+        {
+          "week": "7",
+          "topic": "Suratul-Kawthar I",
+          "content": "Introduction to Surah Al-Kawthar (Chapter 108); Meaning and translation; Revelation of the Surah; Memorization: Verses 1-2",
+          "source_page": 758
+        },
+        {
+          "week": "8",
+          "topic": "Suratul-Kawthar II",
+          "content": "Meaning of Al-Kawthar (abundance); Tajweed rules in the Surah; Complete memorization; Benefits and lessons from the Surah",
+          "source_page": 758
+        },
+        {
+          "week": "9",
+          "topic": "Suratul-Ma'un I",
+          "content": "Introduction to Surah Al-Ma'un (Chapter 107); Meaning and translation; Revelation of the Surah; Memorization: Verses 1-4",
+          "source_page": 758
+        },
+        {
+          "week": "10",
+          "topic": "Suratul-Ma'un II",
+          "content": "Complete memorization of Surah Al-Ma'un (Verses 5-7); Tajweed application; Lessons about helping the needy and orphans; Warnings against neglecting prayer",
+          "source_page": 758
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in first term; Recitation practice",
+          "source_page": 758
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of first term assessment (written and oral Qur'an recitation)",
+          "source_page": 758
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 758
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 759,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Suratul-Quraysh I",
+          "content": "Introduction to Surah Al-Quraysh (Chapter 106); Meaning and translation; Historical background of Quraysh tribe; Memorization: Verses 1-2",
+          "source_page": 759
+        },
+        {
+          "week": "2",
+          "topic": "Suratul-Quraysh II",
+          "content": "Complete memorization of Surah Al-Quraysh (Verses 3-4); Tajweed rules; Lessons about gratitude to Allah; The blessings of trade and security",
+          "source_page": 759
+        },
+        {
+          "week": "3",
+          "topic": "Belief in Angels I",
+          "content": "Introduction to Angels (Malaikah); What are Angels? Angels are created from light; Characteristics of Angels (they obey Allah, never disobey, never sleep or eat)",
+          "source_page": 759
+        },
+        {
+          "week": "4",
+          "topic": "Belief in Angels II",
+          "content": "Names and duties of major Angels: Jibril (revelation), Mikail (rain/sustenance), Israfil (trumpet), Izrail (death); Angel Kiraman Katibin (recording deeds); Angel Malik (guardian of Hell)",
+          "source_page": 759
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 759
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 759
+        },
+        {
+          "week": "7",
+          "topic": "Jinn and Shaytan I",
+          "content": "What are Jinn? Creation of Jinn from fire; Types of Jinn (believers and disbelievers); Story of Iblis (Shaytan); Iblis refuses to bow to Adam",
+          "source_page": 759
+        },
+        {
+          "week": "8",
+          "topic": "Jinn and Shaytan II",
+          "content": "How Shaytan misleads people; Ways to protect ourselves from Shaytan (seeking refuge in Allah, reciting Qur'an, remembering Allah); Du'a for protection: A'udhu billahi minash-shaytanir-rajeem",
+          "source_page": 759
+        },
+        {
+          "week": "9",
+          "topic": "Things that Spoil Salat I",
+          "content": "Importance of valid prayer; Things that invalidate Salat: Talking during prayer, eating or drinking, turning away from Qiblah, laughing loudly",
+          "source_page": 759
+        },
+        {
+          "week": "10",
+          "topic": "Things that Spoil Salat II",
+          "content": "More things that invalidate Salat: Breaking Wudu during prayer, intentional movements, adding or omitting pillars; What to do if Salat is spoiled; Making up missed prayers",
+          "source_page": 759
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in second term; Qur'an recitation practice",
+          "source_page": 759
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of second term assessment (written and oral)",
+          "source_page": 759
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 759
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 760,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Tayammum I",
+          "content": "Meaning of Tayammum (dry ablution); When to perform Tayammum (no water, illness, extreme cold); Importance of Tayammum; Qur'anic evidence (Surah An-Nisa 4:43)",
+          "source_page": 760
+        },
+        {
+          "week": "2",
+          "topic": "Tayammum II",
+          "content": "How to perform Tayammum step by step; Materials used (clean earth, sand, stone); Intention (Niyyah); Practical demonstration; Difference between Wudu and Tayammum",
+          "source_page": 760
+        },
+        {
+          "week": "3",
+          "topic": "Prophet Muhammad's Call to Prophethood I",
+          "content": "Life of Prophet Muhammad (S.A.W) before Prophethood; His honesty and trustworthiness (Al- Amin); His retreat to Cave Hira; Angel Jibril's first visit",
+          "source_page": 760
+        },
+        {
+          "week": "4",
+          "topic": "Prophet Muhammad's Call to Prophethood II",
+          "content": "First revelation (Surah Al-Alaq 96:1-5); Prophet's fear and Khadijah's support; Beginning of secret Da'wah; First Muslims (Khadijah, Ali, Abu Bakr, Zaid)",
+          "source_page": 760
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment of weeks 1-4 topics",
+          "source_page": 760
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 760
+        },
+        {
+          "week": "7",
+          "topic": "Significance of Prophet Muhammad I",
+          "content": "Prophet Muhammad as the last messenger; His role as teacher and guide; His excellent character (kind, truthful, patient, forgiving); Examples of his behavior",
+          "source_page": 760
+        },
+        {
+          "week": "8",
+          "topic": "Significance of Prophet Muhammad II",
+          "content": "Prophet's love for children and family; His treatment of neighbors and strangers; His humility despite being a Prophet; Why we should follow his example (Sunnah)",
+          "source_page": 760
+        },
+        {
+          "week": "9",
+          "topic": "Human Relations in Islam I",
+          "content": "Importance of good relationships with others; Rights of parents (respect, obedience, kindness); Rights of children (care, education, love); Rights of relatives (maintaining ties)",
+          "source_page": 760
+        },
+        {
+          "week": "10",
+          "topic": "Mutual Cooperation in Islam II",
+          "content": "Helping one another in good deeds (Surah Al-Ma'idah 5:2); Being kind to neighbors; Sharing with the poor and needy; Working together as Muslims (Ummah); Examples of cooperation from Prophet's life",
+          "source_page": 760
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year; Complete Qur'an recitation review",
+          "source_page": 760
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment (written and oral Qur'an recitation)",
+          "source_page": 760
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 760
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "NIGERIAN HISTORY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 761,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Meaning of History",
+          "content": "What is history? History as study of the past; Importance of learning about the past; Sources of history (stories, pictures, objects, books)",
+          "source_page": 761
+        },
+        {
+          "week": "2",
+          "topic": "Importance of History I",
+          "content": "Why we study history; Learning from the past; Understanding our culture and traditions; History helps us make better decisions",
+          "source_page": 761
+        },
+        {
+          "week": "3",
+          "topic": "Importance of History II",
+          "content": "Family history and identity; Knowing our ancestors; Family tree; Oral tradition and storytelling; Preserving family history",
+          "source_page": 761
+        },
+        {
+          "week": "4",
+          "topic": "Introduction to Nigerian Peoples",
+          "content": "Nigeria as a country with many ethnic groups; Concept of ethnic groups; Unity in diversity; Respect for all ethnic groups",
+          "source_page": 761
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 761
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 761
+        },
+        {
+          "week": "7",
+          "topic": "Peoples and Places in the Community I",
+          "content": "Major ethnic groups in Nigeria (Hausa, Igbo, Yoruba); Other ethnic groups; Where different groups live in Nigeria",
+          "source_page": 761
+        },
+        {
+          "week": "8",
+          "topic": "Peoples and Places in the Community II",
+          "content": "Ethnic groups in our local community; Languages spoken; Cultural practices; Living peacefully together",
+          "source_page": 761
+        },
+        {
+          "week": "9",
+          "topic": "Peoples and Places in the Community III",
+          "content": "Origins of our community; Migration stories; Settlement patterns; How our community was founded",
+          "source_page": 761
+        },
+        {
+          "week": "10",
+          "topic": "Tolerance and National Unity",
+          "content": "Importance of tolerance; Respecting other ethnic groups; National unity; We are all Nigerians; Celebrating diversity",
+          "source_page": 761
+        },
+        {
+          "week": "11",
+          "topic": "Review of all topics covered in first term",
+          "content": "",
+          "source_page": 761
+        },
+        {
+          "week": "12",
+          "topic": "End of first term assessment",
+          "content": "",
+          "source_page": 761
+        },
+        {
+          "week": "13",
+          "topic": "Collection of results; Distribution of report cards; Closing ceremony",
+          "content": "",
+          "source_page": 761
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 762,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Heroes and Heroines",
+          "content": "Meaning of hero and heroine; Characteristics of heroes (brave, selfless, patriotic); Why we remember heroes; National heroes vs. community heroes",
+          "source_page": 762
+        },
+        {
+          "week": "2",
+          "topic": "Heroes and Heroines in the Community I",
+          "content": "Local heroes in our community; People who helped build our community; Community leaders who served selflessly; Stories of local heroes",
+          "source_page": 762
+        },
+        {
+          "week": "3",
+          "topic": "Heroes and Heroines in the Community II",
+          "content": "More community heroes; Their contributions to development; How they helped others; Lessons we can learn from them",
+          "source_page": 762
+        },
+        {
+          "week": "4",
+          "topic": "National Heroes and Heroines I",
+          "content": "Introduction to Nigerian national heroes; Dr. Nnamdi Azikiwe (First President); Chief Obafemi Awolowo (Nationalist leader); Sir Ahmadu Bello (Sardauna of Sokoto)",
+          "source_page": 762
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 762
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 762
+        },
+        {
+          "week": "7",
+          "topic": "National Heroes and Heroines II",
+          "content": "Herbert Macaulay (Father of Nigerian Nationalism); Chief Anthony Enahoro (Nationalist); Funmilayo Ransome-Kuti (Women's rights activist); Margaret Ekpo (Women's leader)",
+          "source_page": 762
+        },
+        {
+          "week": "8",
+          "topic": "National Heroes and Heroines III",
+          "content": "More Nigerian heroes; Their contributions to Nigeria's independence and development; Stories of their selfless service; Why we celebrate them",
+          "source_page": 762
+        },
+        {
+          "week": "9",
+          "topic": "Contributions of Heroes to Development",
+          "content": "How heroes contributed to education; Contributions to politics and governance; Fighting for independence; Building unity; Developing infrastructure",
+          "source_page": 762
+        },
+        {
+          "week": "10",
+          "topic": "Developing Attitude of Selfless Service",
+          "content": "What is selfless service? Learning from heroes' examples; How we can serve our community; Being helpful to others; Developing patriotism",
+          "source_page": 762
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "- Review of all topics covered in second term",
+          "source_page": 762
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "- End of second term assessment",
+          "source_page": 762
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "- Collection of results; Distribution of report cards",
+          "source_page": 762
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 763,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Traditional Authority",
+          "content": "Meaning of traditional authority; Traditional rulers before colonialism; Importance of traditional rulers; Respect for traditional authority",
+          "source_page": 763
+        },
+        {
+          "week": "2",
+          "topic": "Traditional Rulers I",
+          "content": "Who are traditional rulers? Oba, Emir, Obi, Obong; Roles of traditional rulers (maintaining peace, settling disputes, preserving culture); Traditional rulers in our community",
+          "source_page": 763
+        },
+        {
+          "week": "3",
+          "topic": "Traditional Rulers II",
+          "content": "Examples of important traditional rulers in Nigeria; Ooni of Ife; Alaafin of Oyo; Sultan of Sokoto; Oba of Benin; Their roles and importance",
+          "source_page": 763
+        },
+        {
+          "week": "4",
+          "topic": "Traditional Title Holders I",
+          "content": "Meaning of traditional title holders; Types of traditional titles (chieftaincy titles); How titles are given; Importance of title holders in the community",
+          "source_page": 763
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 763
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 763
+        },
+        {
+          "week": "7",
+          "topic": "Traditional Title Holders II",
+          "content": "Examples of traditional title holders; Their responsibilities; How they assist traditional rulers; Respect for title holders; Traditional titles in our community",
+          "source_page": 763
+        },
+        {
+          "week": "8",
+          "topic": "The Local Government Chairperson I",
+          "content": "Introduction to local government; What is a Local Government Area (LGA)? Role of the local government; The chairperson as the head",
+          "source_page": 763
+        },
+        {
+          "week": "9",
+          "topic": "The Local Government Chairperson II",
+          "content": "Responsibilities of the LG Chairperson; How chairpersons are chosen (election); Services provided by local government (roads, healthcare, schools, markets); Our local government area",
+          "source_page": 763
+        },
+        {
+          "week": "10",
+          "topic": "Leadership Qualities",
+          "content": "What makes a good leader? Qualities of good leaders (honest, fair, hardworking, caring, listening to people); Leadership in traditional and modern systems; How we can develop leadership qualities",
+          "source_page": 763
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 763
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 763
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 763
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 764,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Leadership",
+          "content": "Meaning of leadership; Leaders in our lives; Why we need leaders; Qualities of a good leader",
+          "source_page": 764
+        },
+        {
+          "week": "2",
+          "topic": "Leadership at Home I",
+          "content": "Parents as leaders; How parents lead the family; Obeying parents; Helping at home",
+          "source_page": 764
+        },
+        {
+          "week": "3",
+          "topic": "Leadership at Home II",
+          "content": "Older siblings as leaders; Taking responsibility at home; Doing house chores; Being a good example",
+          "source_page": 764
+        },
+        {
+          "week": "4",
+          "topic": "Community Mobilization I",
+          "content": "Meaning of community; Our community; People in our community; Working together in the community",
+          "source_page": 764
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 764
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 764
+        },
+        {
+          "week": "7",
+          "topic": "Community Mobilization II",
+          "content": "Community projects (sanitation, building, farming); How communities work together; Helping our community; Community meetings",
+          "source_page": 764
+        },
+        {
+          "week": "8",
+          "topic": "Civic Responsibilities I",
+          "content": "What are responsibilities? Our duties at home (cleaning room, washing plates, tidying toys); Being responsible",
+          "source_page": 764
+        },
+        {
+          "week": "9",
+          "topic": "Civic Responsibilities II",
+          "content": "Our duties at school (doing homework, being punctual, keeping school clean); Our duties in the community (respecting elders, not littering)",
+          "source_page": 764
+        },
+        {
+          "week": "10",
+          "topic": "Civic Responsibilities III",
+          "content": "Our duties to our country (respecting national symbols, obeying rules, being patriotic); Simple actions we can take",
+          "source_page": 764
+        },
+        {
+          "week": "11",
+          "topic": "Review of all topics covered in first term",
+          "content": "",
+          "source_page": 764
+        },
+        {
+          "week": "12",
+          "topic": "End of first term assessment",
+          "content": "",
+          "source_page": 764
+        },
+        {
+          "week": "13",
+          "topic": "Collection of results; Distribution of report cards; Closing ceremony 3 SOCIAL AND CITIZENSHIP TERM Topic Content",
+          "content": "STUDIES SCHEME OF WORK",
+          "source_page": 764
+        },
+        {
+          "week": "1",
+          "topic": "National Identity I What is meaning);",
+          "content": "national identity? Nigerian flag (colors and Nigerian coat of arms; National anthem",
+          "source_page": 764
+        },
+        {
+          "week": "2",
+          "topic": "National Identity and Nigerian Symbols II Independence 12th)",
+          "content": "pledge; National symbols (eagle, horse); Day (October 1st); Democracy Day (June",
+          "source_page": 764
+        },
+        {
+          "week": "3",
+          "topic": "People, Places and Respecting Objects to Respect I Respecting",
+          "content": "our parents and elders; Respecting teachers; community leaders; Why respect is important",
+          "source_page": 764
+        },
+        {
+          "week": "4",
+          "topic": "People, Places and Respecting Objects to Respect II (church, national",
+          "content": "our school; Respecting places of worship mosque); Respecting public property; Respecting monuments",
+          "source_page": 765
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 765
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 765
+        },
+        {
+          "week": "7",
+          "topic": "Marriage What is (traditional, Respect",
+          "content": "marriage? Types of marriage in Nigeria religious, court); Why people get married; for married couples",
+          "source_page": 765
+        },
+        {
+          "week": "8",
+          "topic": "Responsible Parenting Who are education, Appreciating",
+          "content": "parents? Duties of parents (feeding, clothing, love, care); How parents care for children; our parents",
+          "source_page": 765
+        },
+        {
+          "week": "9",
+          "topic": "Roles of Members of Father's the Family Children's family members",
+          "content": "role in the family; Mother's role in the family; role in the family; Grandparents' role; Extended",
+          "source_page": 765
+        },
+        {
+          "week": "10",
+          "topic": "Culture I What is festivals;",
+          "content": "culture? Our way of life; Food, clothing, language, Nigerian cultures are different but important",
+          "source_page": 765
+        },
+        {
+          "week": "11",
+          "topic": "Revision Review",
+          "content": "of all topics covered in third term and entire year",
+          "source_page": 765
+        },
+        {
+          "week": "12",
+          "topic": "Examination End of year",
+          "content": "assessment",
+          "source_page": 765
+        },
+        {
+          "week": "13",
+          "topic": "Closing Collection ceremony",
+          "content": "of results; Distribution of report cards; Closing",
+          "source_page": 765
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 766,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Culture II",
+          "content": "Cultural festivals in Nigeria; Traditional dressing; Traditional food; Traditional music and dance; Respecting all cultures",
+          "source_page": 766
+        },
+        {
+          "week": "2",
+          "topic": "Introduction to Nigeria",
+          "content": "Nigeria our country; Location of Nigeria (West Africa); States and capital cities; Abuja as Federal Capital Territory; Nigeria's neighbors",
+          "source_page": 766
+        },
+        {
+          "week": "3",
+          "topic": "Attitudes and Values",
+          "content": "Good attitudes (honesty, kindness, respect, obedience); Bad attitudes (lying, stealing, disobedience, rudeness); Developing good values",
+          "source_page": 766
+        },
+        {
+          "week": "4",
+          "topic": "Finding Help in Danger I",
+          "content": "Types of danger (fire, flooding, accident, getting lost); When to call for help; Emergency numbers (police, fire service, ambulance)",
+          "source_page": 766
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 766
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 766
+        },
+        {
+          "week": "7",
+          "topic": "Finding Help in Danger II",
+          "content": "Safe and unsafe places; Stranger danger; Not accepting gifts from strangers; Telling trusted adults when in danger; Safety at home and school",
+          "source_page": 766
+        },
+        {
+          "week": "8",
+          "topic": "Secure Environment",
+          "content": "Clean environment vs. dirty environment; Keeping our surroundings clean; Proper waste disposal; Not littering; Planting trees",
+          "source_page": 766
+        },
+        {
+          "week": "9",
+          "topic": "Local Wildlife and Conservation",
+          "content": "Animals in our environment; Protecting animals; Not killing animals unnecessarily; Conservation of nature; Caring for pets",
+          "source_page": 766
+        },
+        {
+          "week": "10",
+          "topic": "Money I",
+          "content": "What is money? Nigerian currency (Naira and Kobo); Coins and notes; Uses of money (buying, saving, giving); Keeping money safe",
+          "source_page": 766
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 766
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 766
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 766
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 767,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Nature Drawing I",
+          "content": "What is nature drawing? Observing things around us; Natural objects (trees, flowers, fruits, leaves); Difference between nature and man-made objects",
+          "source_page": 767
+        },
+        {
+          "week": "2",
+          "topic": "Introduction to Nature Drawing II",
+          "content": "Basic shapes in nature (circles, ovals, triangles); Drawing simple natural objects (sun, moon, clouds, mountains); Using pencils and crayons",
+          "source_page": 767
+        },
+        {
+          "week": "3",
+          "topic": "Types of Flowering Plants I",
+          "content": "What are flowering plants? Parts of a flowering plant (root, stem, leaves, flower, fruit); Common flowering plants (sunflower, hibiscus, rose, lily)",
+          "source_page": 767
+        },
+        {
+          "week": "4",
+          "topic": "Types of Flowering Plants II",
+          "content": "Drawing flowering plants; Observing and sketching flowers; Coloring flowers with crayons/paints; Creating a simple flower garden drawing",
+          "source_page": 767
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 767
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "",
+          "source_page": 767
+        },
+        {
+          "week": "7",
+          "topic": "Use of Lines in Designs I",
+          "content": "Types of lines (straight, curved, zigzag, wavy, dotted); Thick and thin lines; Horizontal, vertical, and diagonal lines; Drawing different types of lines",
+          "source_page": 767
+        },
+        {
+          "week": "8",
+          "topic": "Use of Lines in Designs II",
+          "content": "Using lines to create patterns; Simple geometric designs; Border designs using lines; Decorative patterns for greeting cards",
+          "source_page": 767
+        },
+        {
+          "week": "9",
+          "topic": "Use of Lines in Designs III",
+          "content": "Creating pictures using only lines; Line art (houses, trees, animals); Combining different line types; Creative line designs",
+          "source_page": 767
+        },
+        {
+          "week": "10",
+          "topic": "Use of Lines in Designs IV",
+          "content": "Traditional Nigerian patterns using lines (Adire, Aso-oke patterns); Cultural designs; Symmetry in designs; Practical project: Design a bookmark",
+          "source_page": 767
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 767
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 767
+        },
+        {
+          "week": "13",
+          "topic": "Closing 3 CULTURAL AND TERM Topic",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony CREATIVE ARTS SCHEME OF WORK Content",
+          "source_page": 767
+        },
+        {
+          "week": "1",
+          "topic": "Introduction to Modelling",
+          "content": "What is modelling? Materials for modelling (clay, plasticine, playdough); Properties of modelling materials (soft, moldable, flexible)",
+          "source_page": 767
+        },
+        {
+          "week": "2",
+          "topic": "Methods of Modelling",
+          "content": "I Basic techniques: Rolling (making balls, cylinders); Pinching; Flattening; Joining pieces together; Making simple shapes",
+          "source_page": 767
+        },
+        {
+          "week": "3",
+          "topic": "Methods of Modelling",
+          "content": "II Modelling fruits and vegetables (banana, orange, carrot, tomato); Step-by-step process; Smoothing and finishing; Displaying work",
+          "source_page": 767
+        },
+        {
+          "week": "4",
+          "topic": "Methods of Modelling",
+          "content": "III Modelling animals (simple animals like snail, tortoise, fish); Building with basic shapes; Adding details; Painting modelled objects",
+          "source_page": 768
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 768
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "",
+          "source_page": 768
+        },
+        {
+          "week": "7",
+          "topic": "Introduction to Drama",
+          "content": "What is drama? Acting and pretending; Elements of drama (character, action, dialogue); Importance of drama",
+          "source_page": 768
+        },
+        {
+          "week": "8",
+          "topic": "Creating Drama from Stories I",
+          "content": "Choosing a simple story or folktale; Identifying characters in the story; Understanding the story plot (beginning, middle, end)",
+          "source_page": 768
+        },
+        {
+          "week": "9",
+          "topic": "Creating Drama from Stories II",
+          "content": "Writing simple dialogue; Assigning roles; Practicing expressions and voice; Rehearsing the drama sketch",
+          "source_page": 768
+        },
+        {
+          "week": "10",
+          "topic": "Staging a Drama",
+          "content": "What is staging? Simple props and costumes; Stage directions (entrance, exit); Performing before an audience; Stage confidence",
+          "source_page": 768
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 768
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 768
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 768
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 769,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Traditional Fabrics",
+          "content": "What are traditional fabrics? Importance of traditional fabrics; Nigerian traditional fabrics (Adire, Aso-oke, Akwete, George)",
+          "source_page": 769
+        },
+        {
+          "week": "2",
+          "topic": "Traditional Fabrics and Their Origins",
+          "content": "Adire (Yoruba tie-dye fabric); Aso-oke (Yoruba woven cloth); Akwete (Igbo woven cloth); Ankara/African print; Origins and ethnic groups",
+          "source_page": 769
+        },
+        {
+          "week": "3",
+          "topic": "Traditional Dresses I",
+          "content": "Traditional dresses for men (Agbada, Babariga, Isiagu, Sokoto and Buba); When they are worn; Drawing traditional male attire",
+          "source_page": 769
+        },
+        {
+          "week": "4",
+          "topic": "Traditional Dresses II",
+          "content": "Traditional dresses for women (Buba and Iro, Wrapper and Blouse, Kaftan, Gele); When they are worn; Drawing traditional female attire",
+          "source_page": 769
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 769
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "",
+          "source_page": 769
+        },
+        {
+          "week": "7",
+          "topic": "Traditional Fashion Accessories I",
+          "content": "What are fashion accessories? Traditional accessories for men (cap/fila, walking stick, beads, traditional shoes); Their cultural significance",
+          "source_page": 769
+        },
+        {
+          "week": "8",
+          "topic": "Traditional Fashion Accessories II",
+          "content": "Traditional accessories for women (beads, coral, bangles, earrings, Gele, hand fan); Cultural and social meanings; Occasions for wearing them",
+          "source_page": 769
+        },
+        {
+          "week": "9",
+          "topic": "Making Simple Accessories",
+          "content": "Creating paper beads; Making simple necklaces and bracelets; Decorating accessories; Using local materials creatively",
+          "source_page": 769
+        },
+        {
+          "week": "10",
+          "topic": "Cultural Day Preparation",
+          "content": "Appreciating Nigerian cultures; Dressing in traditional attire; Cultural fashion show; Celebrating diversity; Respect for all cultures",
+          "source_page": 769
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 769
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 769
+        },
+        {
+          "week": "13",
+          "topic": "Closing PRIMARY Studies Science and Technology and Health Education Religious Studies Studies History and Citizenship Studies and Creative Arts Digital Literacy Studies",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony 4 SCHEME OF WORK TABLE OF CONTENT (CCA)",
+          "source_page": 769
+        }
+      ]
+    }
+  ]
+}
