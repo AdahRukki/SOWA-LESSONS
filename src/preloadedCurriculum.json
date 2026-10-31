@@ -400,6 +400,267 @@
           "source_page": 22
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 13,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Meaning of Physical Fitness",
+          "content": "Definition of physical fitness; difference between fitness and health",
+          "source_page": 13
+        },
+        {
+          "week": "2",
+          "topic": "Components of Physical Fitness",
+          "content": "Strength, endurance, flexibility, agility, speed, balance, coordination",
+          "source_page": 13
+        },
+        {
+          "week": "3",
+          "topic": "Characteristics of a Physically Fit Person",
+          "content": "Features such as stamina, resistance to illness, alertness, efficiency",
+          "source_page": 13
+        },
+        {
+          "week": "4",
+          "topic": "Importance of Physical Fitness",
+          "content": "Benefits: health promotion, body development, productivity, prevention of diseases",
+          "source_page": 13
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 13
+        },
+        {
+          "week": "6",
+          "topic": "Exercises to Develop Strength, Endurance and Flexibility",
+          "content": "Examples: push-ups, sit-ups, squats, jogging, stretching, rope skipping",
+          "source_page": 13
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 13
+        },
+        {
+          "week": "8",
+          "topic": "Safety Precautions while Performing Exercises",
+          "content": "Warm-up, cool-down, hydration, use of proper kits, avoiding overstrain",
+          "source_page": 13
+        },
+        {
+          "week": "9",
+          "topic": "Meaning of Recreation, Leisure and Dance",
+          "content": "Definitions with examples of recreational and leisure activities",
+          "source_page": 13
+        },
+        {
+          "week": "10",
+          "topic": "Differences between Dance, Leisure and Recreation",
+          "content": "Distinct features and examples of each",
+          "source_page": 13
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 13
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 13
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 13
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 14,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Benefits of Recreation and Dance",
+          "content": "Physical, mental, emotional, and social benefits",
+          "source_page": 14
+        },
+        {
+          "week": "2",
+          "topic": "Athletics – Shot-Put (Basic Skills and Techniques)",
+          "content": "Grip, stance, holding and releasing the shot",
+          "source_page": 14
+        },
+        {
+          "week": "3",
+          "topic": "Athletics – Execution of Shot-Put Techniques",
+          "content": "Glide and rotational techniques, rules of performance",
+          "source_page": 14
+        },
+        {
+          "week": "4",
+          "topic": "Athletics – Discus Throw (Basic Skills and Techniques)",
+          "content": "Holding, swinging, and throwing the discus",
+          "source_page": 14
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 14
+        },
+        {
+          "week": "6",
+          "topic": "Execution of Discus Throw Techniques",
+          "content": "Body positioning, release and follow-through",
+          "source_page": 14
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 14
+        },
+        {
+          "week": "8",
+          "topic": "Rules Governing Shot-Put and Discus Throw",
+          "content": "Regulations, fouls, measuring of throws",
+          "source_page": 14
+        },
+        {
+          "week": "9",
+          "topic": "Safety Measures in Track and Field Events",
+          "content": "Injury prevention, proper supervision, use of facilities",
+          "source_page": 14
+        },
+        {
+          "week": "10",
+          "topic": "Football",
+          "content": "Basic rules, skills (passing, dribbling, shooting), team play, safety measures",
+          "source_page": 14
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 14
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 14
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 14
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 15,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Volleyball",
+          "content": "Basic rules, skills (serving, passing, spiking), team play, safety measures",
+          "source_page": 15
+        },
+        {
+          "week": "2",
+          "topic": "Contact and Non-Contact Sports – Meaning",
+          "content": "Explanation with examples",
+          "source_page": 15
+        },
+        {
+          "week": "3",
+          "topic": "Contact and Non-Contact Sports – Types",
+          "content": "Examples: football, boxing, rugby (contact); tennis, badminton, athletics (non-contact)",
+          "source_page": 15
+        },
+        {
+          "week": "4",
+          "topic": "Benefits of Contact and Non-Contact Sports",
+          "content": "Physical fitness, social interaction, discipline, teamwork",
+          "source_page": 15
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 15
+        },
+        {
+          "week": "6",
+          "topic": "Basic Skills and Techniques in Contact and Non-Contact Sports",
+          "content": "Tackling, blocking, dodging, passing, coordination",
+          "source_page": 15
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 15
+        },
+        {
+          "week": "8",
+          "topic": "Safety Measures in Contact and Non- Contact Sports",
+          "content": "First aid, use of protective equipment, fair play",
+          "source_page": 15
+        },
+        {
+          "week": "9",
+          "topic": "Personal, School and Community Health – Determinants of Health",
+          "content": "Factors: heredity, environment, lifestyle, healthcare",
+          "source_page": 15
+        },
+        {
+          "week": "10",
+          "topic": "Characteristics of a Healthy Person",
+          "content": "Signs of good health (physical, mental, emotional, social well-being)",
+          "source_page": 15
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 15
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 15
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 15
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
