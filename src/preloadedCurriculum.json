@@ -6874,6 +6874,267 @@
           "source_page": 622
         }
       ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 611,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Pre-Reading Skills: Phonemic Awareness (Identifying Sounds)",
+          "content": "Production of individual sounds of the letters of the alphabet; Phonemic awareness concepts (sounds, segmentation, blending); Recognition of individual sounds; Introduction to phoneme-grapheme correspondence (letter-sound relationship) e.g. c = /k/",
+          "source_page": 611
+        },
+        {
+          "week": "2",
+          "topic": "Phonemic Awareness (Identifying Sounds) - Continued",
+          "content": "Word families: sat, cat, bat, rat, mat; Word families: bed, red, fed, led; Word families: pot, hot, got, lot; Word families: bag, rag, tag, wag; Practice with phoneme-grapheme correspondence",
+          "source_page": 611
+        },
+        {
+          "week": "3",
+          "topic": "Phonemic Awareness (Songs and Rhymes)",
+          "content": "Songs and rhymes on keeping away from unsafe people and places; Songs and rhymes on empathy and teamwork; Songs and rhymes on work ethics (dependability, punctuality, dedication); Identifying rhyming words in songs and rhymes",
+          "source_page": 611
+        },
+        {
+          "week": "4",
+          "topic": "Phonemic Awareness (Songs and Rhymes) - Continued",
+          "content": "Songs and rhymes on leadership (motivating others, taking initiatives, guiding a team); Creating simple rhymes; Word families practice through songs; Reciting rhymes with appropriate gestures",
+          "source_page": 611
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 611
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 611
+        },
+        {
+          "week": "7",
+          "topic": "Phonological Awareness: Sounds of Animals",
+          "content": "Auditory perception and discrimination; Sounds of animals: cat, dog, cow, goat; Sounds of animals: horse, cock, lion; Identification and imitation of animal sounds",
+          "source_page": 611
+        },
+        {
+          "week": "8",
+          "topic": "Phonological Awareness: Sounds of Things",
+          "content": "Sounds made by things: bell, clock; Sounds made by things: door, telephone; Sounds made by things: raindrops; Auditory discrimination activities",
+          "source_page": 611
+        },
+        {
+          "week": "9",
+          "topic": "Sound Clusters",
+          "content": "Identification and pronunciation of initial consonant clusters (bl, cl, fl, gl, pl, sl, br, cr, dr, fr, gr, pr, tr); Identification and pronunciation of final consonant clusters (nd, nt, st, ft, lt); Breaking clusters into individual sounds",
+          "source_page": 612
+        },
+        {
+          "week": "10",
+          "topic": "Sound Clusters - Continued",
+          "content": "Clear pronunciation of words with consonant clusters; Identification and pronunciation of digraphs (sh, ch, th, wh, ph); Practice blending sounds to form words",
+          "source_page": 612
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Phonemic awareness, phonological awareness, sound clusters",
+          "source_page": 612
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 612
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 612
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 613,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Phonological Awareness (General)",
+          "content": "Identification of beginning sounds in words; Identification of middle sounds in words; Identification of ending sounds in words; Identification and pronunciation of words with similar sounds",
+          "source_page": 613
+        },
+        {
+          "week": "2",
+          "topic": "Phonological Awareness: Word Structure",
+          "content": "Blending sounds to form monosyllabic words; Syllabic blending; Word structure (syllables); Skill: Blending sounds to form words",
+          "source_page": 613
+        },
+        {
+          "week": "3",
+          "topic": "Phonological Awareness: Syllable and Word Structure",
+          "content": "Identification and counting of syllables in words; Clapping syllables in words; Breaking simple words into syllables; Breaking compound words into parts and identifying word parts",
+          "source_page": 613
+        },
+        {
+          "week": "4",
+          "topic": "Concept of Print (Part 1)",
+          "content": "Recognition of text and image features; Identification of parts of a book; Differentiation between print and e-books; Book handling skills",
+          "source_page": 613
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 613
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 613
+        },
+        {
+          "week": "7",
+          "topic": "Concept of Print (Part 2)",
+          "content": "Features of a book: title, author, illustrator; Features of a book: pages, cover, text, images, headings; Understanding book structure and organization; Care for books",
+          "source_page": 613
+        },
+        {
+          "week": "8",
+          "topic": "Concept of Print (Part 3)",
+          "content": "Directionality of books (left to right, top to bottom); Demonstration of reading from left to right and top to bottom; Upper case and lower case letters recognition; Differentiation between upper and lower case",
+          "source_page": 613
+        },
+        {
+          "week": "9",
+          "topic": "Listening and Speaking: Songs and Rhymes",
+          "content": "Simple songs and rhymes; Singing simple songs with appropriate gestures; Recitation of simple rhymes with actions; Creation of songs and rhymes",
+          "source_page": 614
+        },
+        {
+          "week": "10",
+          "topic": "Listening and Speaking: Simple Commands",
+          "content": "Recognition of simple commands; Giving and responding to simple commands; Commands at home: Wake up!, Go to bed, Greet your daddy, Wash the dishes, Dress the bed, Turn off the tap; Commands at school: Copy your note, Stand up!, Put your hands up!, Come to the front of the class!",
+          "source_page": 614
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Phonological awareness, concept of print, listening and speaking",
+          "source_page": 614
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 614
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 614
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 615,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Reading: Guided Reading",
+          "content": "Word reading and decoding; Reading high-frequency/sight words; Reading simple and short class-appropriate texts on interesting issues; Practice with CVC words and simple sentences",
+          "source_page": 615
+        },
+        {
+          "week": "2",
+          "topic": "Reading: Comprehension",
+          "content": "Making connections and responding to story themes, plots, and settings; Texts on: The value of hard work and integrity; Texts on: Benefits of savings and investment; Texts on: Importance of sanitation and hygiene",
+          "source_page": 615
+        },
+        {
+          "week": "3",
+          "topic": "Reading: Comprehension – Continued",
+          "content": "Texts on: Understanding disability and inclusion; Texts on: Consequences of bullying; Texts on: Promoting national values and national unity; Answering simple comprehension questions",
+          "source_page": 615
+        },
+        {
+          "week": "4",
+          "topic": "Reading: Identification of Common Objects",
+          "content": "Identification of home objects, school objects, and playground objects; Identification of common fruits; Major colours: white, red, blue, yellow, black in drawing objects; Description of things according to their colours and sizes (yellow bag, red bucket, green book)",
+          "source_page": 615
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 615
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 615
+        },
+        {
+          "week": "7",
+          "topic": "Reading: Identification of Common Objects – Continued & Common Signs and Symbols",
+          "content": "Differentiating shapes and sizes: triangle, circle, square, rectangle; Identification of common signs and symbols (traffic signs, logos, icons); Symbolic representation; Meaning and interpretation of emojis",
+          "source_page": 615
+        },
+        {
+          "week": "8",
+          "topic": "Reading: Common Signs and Symbols – Continued",
+          "content": "Meaning and interpretation of common abbreviations: Mr, Mrs, Dr, Rev, etc.; Meaning and interpretation of common symbols: ₦, K, -, +, =, ×, %, &, #, *, etc.; Understanding word endings: -s, -ed, -es, -ing; Practical application of signs and symbols",
+          "source_page": 616
+        },
+        {
+          "week": "9",
+          "topic": "Listening and Speaking: Making Polite Requests, Introduction of Self and Others",
+          "content": "Making requests at school, home, and community using words like please, thank you, excuse me, sorry; Use of magic words (please, thank you, excuse me); Simple introductions: Hello, my name is..., This is my friend. Her name is...; Basic communication skills (eye contact, tone, volume)",
+          "source_page": 616
+        },
+        {
+          "week": "10",
+          "topic": "Listening and Speaking: Common Greetings & Retelling Stories",
+          "content": "Greetings at home and appropriate times (Good morning, Good afternoon, Good evening); Greetings at school with teachers and peers; Greetings in the community (neighbours, elders/clan heads, nurse, doctor); Reading or listening to short stories on important issues (insecurity, human trafficking, climate change, gender equality); Retelling short stories; Understanding story structure (beginning, middle, end)",
+          "source_page": 616
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Reading, listening, and speaking",
+          "source_page": 616
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 616
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 616
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
