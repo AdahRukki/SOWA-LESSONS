@@ -3076,6 +3076,267 @@
           "source_page": 57
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "LIVESTOCK FARMING",
+      "term": "First Term",
+      "source_page": 58,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Livestock Farming",
+          "content": "Meaning and importance of livestock farming; Types of livestock animals; Benefits of livestock to humans",
+          "source_page": 58
+        },
+        {
+          "week": "2",
+          "topic": "Types of Poultry Birds",
+          "content": "Meaning of poultry; Common types — chicken, turkey, duck, guinea fowl, pigeon, quail; Uses of poultry birds",
+          "source_page": 58
+        },
+        {
+          "week": "3",
+          "topic": "Breeds of Poultry Birds",
+          "content": "Local and exotic breeds (layers, broilers, cockerels); Characteristics of each breed",
+          "source_page": 58
+        },
+        {
+          "week": "4",
+          "topic": "Poultry Housing",
+          "content": "Types of poultry houses; Requirements of a good house; Construction materials",
+          "source_page": 58
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "—",
+          "source_page": 58
+        },
+        {
+          "week": "6",
+          "topic": "Poultry Equipment",
+          "content": "Types (feeders, drinkers, brooders, laying nests, perches); Uses and maintenance",
+          "source_page": 58
+        },
+        {
+          "week": "7",
+          "topic": "Mid-Term Break",
+          "content": "—",
+          "source_page": 58
+        },
+        {
+          "week": "8",
+          "topic": "Poultry Management Practices",
+          "content": "Daily care and management of chicks, growers, and layers; Sanitation and record-keeping",
+          "source_page": 58
+        },
+        {
+          "week": "9",
+          "topic": "Poultry Diseases and Control",
+          "content": "Common diseases (Newcastle, Coccidiosis, Fowl Pox); Symptoms, prevention, and control",
+          "source_page": 58
+        },
+        {
+          "week": "10",
+          "topic": "Classification of Feed Ingredients",
+          "content": "Meaning of feed; Ingredients (protein, carbohydrate, vitamins, minerals); Feed formulation",
+          "source_page": 58
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of term’s work and practicals",
+          "source_page": 58
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 58
+        },
+        {
+          "week": "13",
+          "topic": "Closing / Vacation",
+          "content": "—",
+          "source_page": 58
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "LIVESTOCK FARMING",
+      "term": "Second Term",
+      "source_page": 59,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Rabbit Production",
+          "content": "Importance of rabbits; Characteristics and benefits of rabbit rearing",
+          "source_page": 59
+        },
+        {
+          "week": "2",
+          "topic": "Breeds of Rabbit",
+          "content": "Local and exotic breeds (New Zealand White, Chinchilla, Dutch, etc.); Characteristics and uses",
+          "source_page": 59
+        },
+        {
+          "week": "3",
+          "topic": "Rabbit Housing",
+          "content": "Types of hutches; Materials used; Requirements of a good hutch",
+          "source_page": 59
+        },
+        {
+          "week": "4",
+          "topic": "Rabbit Feeds",
+          "content": "Types of feeds — concentrates and roughages; Feeding schedules and water management",
+          "source_page": 59
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "—",
+          "source_page": 59
+        },
+        {
+          "week": "6",
+          "topic": "Health Management in Rabbits",
+          "content": "Common diseases, symptoms, prevention, and control",
+          "source_page": 59
+        },
+        {
+          "week": "7",
+          "topic": "Mid-Term Break",
+          "content": "—",
+          "source_page": 59
+        },
+        {
+          "week": "8",
+          "topic": "Reproduction in Rabbits",
+          "content": "Mating process, gestation, kindling, and weaning",
+          "source_page": 59
+        },
+        {
+          "week": "9",
+          "topic": "Record Keeping in Rabbitry",
+          "content": "Importance; Types of records (feeding, breeding, sales)",
+          "source_page": 59
+        },
+        {
+          "week": "10",
+          "topic": "Handling and Management Practices",
+          "content": "Handling methods, grooming, sanitation, and waste disposal",
+          "source_page": 59
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Practical demonstration: feeding, cleaning, and maintenance",
+          "source_page": 59
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 59
+        },
+        {
+          "week": "13",
+          "topic": "Closing / Vacation",
+          "content": "—",
+          "source_page": 59
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "LIVESTOCK FARMING",
+      "term": "Third Term",
+      "source_page": 60,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Concept of Sheep and Goat Production",
+          "content": "Meaning, importance, and uses of sheep and goats; Differences between sheep and goats",
+          "source_page": 60
+        },
+        {
+          "week": "2",
+          "topic": "Breeds of Sheep and Goats",
+          "content": "Local and exotic breeds — West African Dwarf, Yankasa, Sokoto Red, etc.",
+          "source_page": 60
+        },
+        {
+          "week": "3",
+          "topic": "Housing and Equipment for Sheep and Goats",
+          "content": "Types of housing; Feeding and watering equipment",
+          "source_page": 60
+        },
+        {
+          "week": "4",
+          "topic": "Feeds for Sheep and Goats",
+          "content": "Common feed ingredients; Grazing, browsing, and supplementary feeding",
+          "source_page": 60
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "—",
+          "source_page": 60
+        },
+        {
+          "week": "6",
+          "topic": "Health Management in Sheep and Goats",
+          "content": "Common diseases and parasites; Causes, symptoms, and control",
+          "source_page": 60
+        },
+        {
+          "week": "7",
+          "topic": "Mid-Term Break",
+          "content": "—",
+          "source_page": 60
+        },
+        {
+          "week": "8",
+          "topic": "Sick Sheep or Goat in a Herd",
+          "content": "Identification and isolation of sick animals; Treatment and record-keeping",
+          "source_page": 60
+        },
+        {
+          "week": "9",
+          "topic": "Breeding in Sheep and Goats",
+          "content": "Mating systems; Gestation period; Care of pregnant animals and young ones",
+          "source_page": 60
+        },
+        {
+          "week": "10",
+          "topic": "Practical: Identifying Feeds and Breeds",
+          "content": "Recognition and classification exercises; Field observation",
+          "source_page": 60
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of term’s work and key livestock practices",
+          "source_page": 60
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 60
+        },
+        {
+          "week": "13",
+          "topic": "Closing / Vacation",
+          "content": "—",
+          "source_page": 60
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
