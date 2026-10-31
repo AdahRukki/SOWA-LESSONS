@@ -5134,6 +5134,267 @@
           "source_page": 85
         }
       ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES (CRS)",
+      "term": "First Term",
+      "source_page": 86,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "The Annunciation",
+          "content": "Isa. 9:6-7; Matt 1:22-23; Luke 1:30-33",
+          "source_page": 86
+        },
+        {
+          "week": "2",
+          "topic": "The Birth of Jesus",
+          "content": "Matt 1:18-25; Luke 2:1-7",
+          "source_page": 86
+        },
+        {
+          "week": "3",
+          "topic": "The Visit of the Wise Men",
+          "content": "Matt 2:1-12",
+          "source_page": 86
+        },
+        {
+          "week": "4",
+          "topic": "The Visit of the Shepherds",
+          "content": "Luke 2:8-20",
+          "source_page": 86
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 86
+        },
+        {
+          "week": "6",
+          "topic": "The Value of Virginity and Faithfulness after Marriage",
+          "content": "Christian moral lessons",
+          "source_page": 86
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 86
+        },
+        {
+          "week": "8",
+          "topic": "Meaning & Significance of The Virgin Birth of Jesus",
+          "content": "Doctrinal and faith implications",
+          "source_page": 86
+        },
+        {
+          "week": "9",
+          "topic": "Jesus and His Family",
+          "content": "Jesus’ siblings (Matt 13:53-56; Mk 6:1-3); Obedience to parents (Lk 2:51-52)",
+          "source_page": 86
+        },
+        {
+          "week": "10",
+          "topic": "Jesus’ Understanding of Family & Baptism of Jesus",
+          "content": "Matt 12:46-50; Mk 3:31-35; John the Baptist as forerunner (Mk 1:1-8; Lk 3:1-20); Baptism of Jesus (Matt 3:13-17)",
+          "source_page": 86
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 86
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 86
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 86
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES (CRS)",
+      "term": "Second Term",
+      "source_page": 87,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Call of the First Disciples",
+          "content": "Matt 4:18-22; Mk 1:14-20; Lk 5:1-11",
+          "source_page": 87
+        },
+        {
+          "week": "2",
+          "topic": "Call of the Twelve Disciples",
+          "content": "Mk 3:13-19",
+          "source_page": 87
+        },
+        {
+          "week": "3",
+          "topic": "Demands of Discipleship",
+          "content": "Matt 8:18-22; Lk 9:57-62; Lk 14:25-34",
+          "source_page": 87
+        },
+        {
+          "week": "4",
+          "topic": "The Beatitudes",
+          "content": "Matthew 5:1-12",
+          "source_page": 87
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 87
+        },
+        {
+          "week": "6",
+          "topic": "Christians as Salt & Light",
+          "content": "Matt 5:13-16",
+          "source_page": 87
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 87
+        },
+        {
+          "week": "8",
+          "topic": "Jesus’ Teaching on Revenge",
+          "content": "Matt 5:38-42",
+          "source_page": 87
+        },
+        {
+          "week": "9",
+          "topic": "Jesus’ Teaching on Prayer, Fasting & Forgiveness",
+          "content": "Matt 6:5-18; Matt 6:14-15",
+          "source_page": 87
+        },
+        {
+          "week": "10",
+          "topic": "Jesus’ Teaching on Love of Money & Anxiety",
+          "content": "Matt 6:19-34; Matt 6:25-34",
+          "source_page": 87
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 87
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 87
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 87
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES (CRS)",
+      "term": "Third Term",
+      "source_page": 88,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "The Triumphal Entry",
+          "content": "Matt 21:1-11; Mk 11:1-11; Lk 19:28-44",
+          "source_page": 88
+        },
+        {
+          "week": "2",
+          "topic": "The Last Supper",
+          "content": "Matt 26:17-30",
+          "source_page": 88
+        },
+        {
+          "week": "3",
+          "topic": "Betrayal & Arrest of Jesus",
+          "content": "Mk 14:43-52; Matt 26:47-56",
+          "source_page": 88
+        },
+        {
+          "week": "4",
+          "topic": "Trial & Peter’s Denial",
+          "content": "Matt 26:57-75; Situations leading to denial of Christ",
+          "source_page": 88
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 88
+        },
+        {
+          "week": "6",
+          "topic": "Crucifixion of Jesus",
+          "content": "Matt 27:32-44",
+          "source_page": 88
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 88
+        },
+        {
+          "week": "8",
+          "topic": "Death and Burial of Jesus",
+          "content": "Matt 27:45-61",
+          "source_page": 88
+        },
+        {
+          "week": "9",
+          "topic": "Resurrection of Jesus",
+          "content": "Matt 28:1-10; Mk 16:1-8; Lk 24:1-12",
+          "source_page": 88
+        },
+        {
+          "week": "10",
+          "topic": "Appearances, Significance & Role of Women",
+          "content": "Post-resurrection appearances; Meaning for Christians today; Women in the resurrection",
+          "source_page": 88
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "—",
+          "source_page": 88
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "—",
+          "source_page": 88
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "—",
+          "source_page": 88
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
