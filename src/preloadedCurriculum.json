@@ -1546,6 +1546,267 @@
           "source_page": 31
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "FRENCH",
+      "term": "First Term",
+      "source_page": 32,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Words used in the classroom",
+          "content": "Classroom instructions and expressions (sit down, stand up, open/close your book, etc.)",
+          "source_page": 32
+        },
+        {
+          "week": "2",
+          "topic": "Saluer (Greeting)",
+          "content": "Forms of greetings (formal and informal), responses to greetings, polite expressions",
+          "source_page": 32
+        },
+        {
+          "week": "3",
+          "topic": "Se présenter (Introducing oneself)",
+          "content": "Giving personal information: name, age, nationality, origin",
+          "source_page": 32
+        },
+        {
+          "week": "4",
+          "topic": "Épeler un mot / Écrire un mot épelé",
+          "content": "Alphabet, spelling names and common words, writing dictated words",
+          "source_page": 32
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment on weeks 1–4",
+          "source_page": 32
+        },
+        {
+          "week": "6",
+          "topic": "Présenter quelqu’un",
+          "content": "Introducing someone else: “Voici…”, “Il/Elle s’appelle…”, polite forms",
+          "source_page": 32
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 32
+        },
+        {
+          "week": "8",
+          "topic": "Décrire quelqu’un",
+          "content": "Physical description (height, color, appearance) and character traits",
+          "source_page": 32
+        },
+        {
+          "week": "9",
+          "topic": "Parler de ses loisirs",
+          "content": "Talking about hobbies, leisure activities, likes and dislikes",
+          "source_page": 32
+        },
+        {
+          "week": "10",
+          "topic": "Exprimer ses goûts et préférences",
+          "content": "Expressing likes/dislikes: “J’aime…”, “Je n’aime pas…”, “Je préfère…”",
+          "source_page": 32
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Revision of all topics taught in the term",
+          "source_page": 32
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of term exam",
+          "source_page": 32
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Result processing and holiday",
+          "source_page": 32
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "FRENCH",
+      "term": "Second Term",
+      "source_page": 33,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Exprimer les propriétés des objets",
+          "content": "Describing objects: size, color, shape, texture",
+          "source_page": 33
+        },
+        {
+          "week": "2",
+          "topic": "Demander quelque chose à quelqu’un",
+          "content": "Making polite requests, asking to see someone",
+          "source_page": 33
+        },
+        {
+          "week": "3",
+          "topic": "Décrire les professions",
+          "content": "Common professions, names of jobs, describing what people do",
+          "source_page": 33
+        },
+        {
+          "week": "4",
+          "topic": "Demander et donner l’heure",
+          "content": "Telling time, asking for time, daily activities linked to time",
+          "source_page": 33
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment on weeks 1–4",
+          "source_page": 33
+        },
+        {
+          "week": "6",
+          "topic": "Expliquer ce que l’on fait à certaines heures de la journée",
+          "content": "Daily routines and schedules at different times of the day",
+          "source_page": 33
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 33
+        },
+        {
+          "week": "8",
+          "topic": "Dire les dates",
+          "content": "Days, months, giving dates",
+          "source_page": 33
+        },
+        {
+          "week": "9",
+          "topic": "Situer un événement par rapport à un autre",
+          "content": "Sequencing events, using “avant”, “après”, “pendant”",
+          "source_page": 33
+        },
+        {
+          "week": "10",
+          "topic": "Demander et expliquer ce que l’on fait tous les jours de la semaine",
+          "content": "Talking about weekly routines",
+          "source_page": 33
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Revision of all topics taught in the term",
+          "source_page": 33
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of term exam",
+          "source_page": 33
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Result processing and holiday",
+          "source_page": 33
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "FRENCH",
+      "term": "Third Term",
+      "source_page": 34,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Demander et indiquer le temps qu’il fait",
+          "content": "Weather expressions, seasons, asking/telling about the weather",
+          "source_page": 34
+        },
+        {
+          "week": "2",
+          "topic": "Exprimer la fréquence d’une activité",
+          "content": "Using adverbs of frequency (souvent, parfois, toujours, jamais)",
+          "source_page": 34
+        },
+        {
+          "week": "3",
+          "topic": "Inviter quelqu’un",
+          "content": "Inviting, accepting and refusing invitations",
+          "source_page": 34
+        },
+        {
+          "week": "4",
+          "topic": "Donner un ordre, interdire, autoriser",
+          "content": "Commands, prohibition, giving authorization",
+          "source_page": 34
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Assessment on weeks 1–4",
+          "source_page": 34
+        },
+        {
+          "week": "6",
+          "topic": "Demander la permission, conseiller",
+          "content": "Asking for permission, giving advice",
+          "source_page": 34
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 34
+        },
+        {
+          "week": "8",
+          "topic": "Expliquer une démarche à quelqu’un",
+          "content": "Giving directions or explaining a procedure",
+          "source_page": 34
+        },
+        {
+          "week": "9",
+          "topic": "Revision of Communicative Functions",
+          "content": "Integrating learned topics in dialogues and role plays",
+          "source_page": 34
+        },
+        {
+          "week": "10",
+          "topic": "Practice of Written/Oral French",
+          "content": "Guided writing, comprehension, conversation",
+          "source_page": 34
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Revision of all topics taught in the term",
+          "source_page": 34
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of term exam",
+          "source_page": 34
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Result processing and holiday",
+          "source_page": 34
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
