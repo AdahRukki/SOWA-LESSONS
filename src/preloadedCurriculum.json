@@ -3598,6 +3598,267 @@
           "source_page": 63
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "COMPUTER HARDWARE AND GSM REPAIRS",
+      "term": "First Term",
+      "source_page": 64,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Computer Hardware & GSM Repairs",
+          "content": "Meaning, importance, career opportunities",
+          "source_page": 64
+        },
+        {
+          "week": "2",
+          "topic": "History of Computers & GSM",
+          "content": "Development of computers and mobile phones",
+          "source_page": 64
+        },
+        {
+          "week": "3",
+          "topic": "Basic Computer Hardware Components",
+          "content": "Input, output, processing, storage devices",
+          "source_page": 64
+        },
+        {
+          "week": "4",
+          "topic": "Identification of GSM Components",
+          "content": "Screen, keypad, battery, SIM, circuit board",
+          "source_page": 64
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 64
+        },
+        {
+          "week": "6",
+          "topic": "Safety Precautions in Workshop",
+          "content": "Handling tools, electricity, ESD safety",
+          "source_page": 64
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 64
+        },
+        {
+          "week": "8",
+          "topic": "Tools for Computer & GSM Repairs",
+          "content": "Screwdrivers, testers, soldering iron, pliers",
+          "source_page": 64
+        },
+        {
+          "week": "9",
+          "topic": "Peripheral Devices",
+          "content": "Printers, scanners, flash drives",
+          "source_page": 64
+        },
+        {
+          "week": "10",
+          "topic": "Basic Care & Maintenance of Computer/GSM",
+          "content": "Cleaning, charging, battery care",
+          "source_page": 64
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 64
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 64
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 64
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "COMPUTER HARDWARE AND GSM REPAIRS",
+      "term": "Second Term",
+      "source_page": 65,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Classification of Computers",
+          "content": "Digital, analogue, hybrid; sizes and uses",
+          "source_page": 65
+        },
+        {
+          "week": "2",
+          "topic": "Types of Mobile Phones",
+          "content": "Feature phones vs. smartphones",
+          "source_page": 65
+        },
+        {
+          "week": "3",
+          "topic": "System Unit Parts",
+          "content": "Motherboard, CPU, RAM, power supply",
+          "source_page": 65
+        },
+        {
+          "week": "4",
+          "topic": "SIM Cards & Memory Cards",
+          "content": "Types, uses, care",
+          "source_page": 65
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 65
+        },
+        {
+          "week": "6",
+          "topic": "Introduction to Software",
+          "content": "System vs. application software",
+          "source_page": 65
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 65
+        },
+        {
+          "week": "8",
+          "topic": "Power Supply in Computers and Phones",
+          "content": "Batteries, chargers, UPS",
+          "source_page": 65
+        },
+        {
+          "week": "9",
+          "topic": "Basic Troubleshooting",
+          "content": "Computer not booting, phone not charging",
+          "source_page": 65
+        },
+        {
+          "week": "10",
+          "topic": "Practical: Disassembling a Phone",
+          "content": "Opening and identifying parts",
+          "source_page": 65
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 65
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 65
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 65
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "COMPUTER HARDWARE AND GSM REPAIRS",
+      "term": "Third Term",
+      "source_page": 66,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Computer Storage Devices",
+          "content": "Hard disk, SSD, flash drives, memory cards",
+          "source_page": 66
+        },
+        {
+          "week": "2",
+          "topic": "GSM Networks",
+          "content": "2G, 3G, 4G, 5G",
+          "source_page": 66
+        },
+        {
+          "week": "3",
+          "topic": "Assembling a Simple Computer",
+          "content": "Step-by-step practice",
+          "source_page": 66
+        },
+        {
+          "week": "4",
+          "topic": "Common GSM Problems",
+          "content": "Screen damage, battery fault",
+          "source_page": 66
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 66
+        },
+        {
+          "week": "6",
+          "topic": "Practical: Replacing GSM Parts",
+          "content": "Battery, screen, keypad",
+          "source_page": 66
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 66
+        },
+        {
+          "week": "8",
+          "topic": "Introduction to Soldering",
+          "content": "Tools and safety",
+          "source_page": 66
+        },
+        {
+          "week": "9",
+          "topic": "Practical: Soldering Simple Joints",
+          "content": "Circuit connection",
+          "source_page": 66
+        },
+        {
+          "week": "10",
+          "topic": "Preventive Maintenance",
+          "content": "Regular servicing of computer & GSM",
+          "source_page": 66
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 66
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 66
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 66
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
