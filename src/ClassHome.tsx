@@ -3,6 +3,7 @@ import SchemeEditor from './SchemeEditor';
 import AcademicLessons from './AcademicLessons';
 import ClassManager from './ClassManager';
 import CurriculumInstaller from './CurriculumInstaller';
+import CurriculumAudit from './CurriculumAudit';
 import SessionManager from './SessionManager';
 import CurriculumBackup from './CurriculumBackup';
 import LegacyMigration,{type LegacyProject} from './LegacyMigration';
@@ -56,7 +57,7 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
    {tool==='backup'&&<CurriculumBackup library={library} onChange={onLibraryChange} legacyCount={legacyCount}/>}
    {tool==='templates'&&<TemplateManager/>}
    {tool==='migration'&&<LegacyMigration projects={legacyProjects} library={library} onMigrate={onMigrate}/>}
-  </section>:area==='curriculum'?<><div className="academic-intro"><span className="studio-eyebrow">CURRICULUM LIBRARY</span><h1>Available Schemes of Work</h1><p>Browse bundled topics and content. Import reviewed schemes as drafts; existing work is preserved.</p></div><CurriculumInstaller library={library} onChange={onLibraryChange} initialClassId={curriculumFilter?.classId} initialSubject={curriculumFilter?.subject}/></>:!selected?<><div className="academic-intro"><span className="studio-eyebrow">ACADEMIC WORKSPACE</span><h1>Classes &amp; Subjects</h1><p>Choose a class to see available subjects, schemes of work and lesson notes.</p></div>
+  </section>:area==='curriculum'?<><div className="academic-intro"><span className="studio-eyebrow">CURRICULUM LIBRARY</span><h1>Available Schemes of Work</h1><p>Browse bundled topics and content. Import reviewed schemes as drafts; existing work is preserved.</p></div><CurriculumAudit library={library}/><CurriculumInstaller library={library} onChange={onLibraryChange} initialClassId={curriculumFilter?.classId} initialSubject={curriculumFilter?.subject}/></>:!selected?<><div className="academic-intro"><span className="studio-eyebrow">ACADEMIC WORKSPACE</span><h1>Classes &amp; Subjects</h1><p>Choose a class to see available subjects, schemes of work and lesson notes.</p></div>
    <div className="studio-overview"><div><strong>{classes.filter(c=>c.active).length}</strong><span>Active classes</span></div><div><strong>{preloaded.schemes.length}</strong><span>Bundled term schemes</span></div><div><strong>{library.subjects.filter(s=>s.active).length}</strong><span>Installed subjects</span></div></div>
    <label className="studio-class-search">Find a class<input type="search" value={classQuery} onChange={e=>setClassQuery(e.target.value)} placeholder="Search classes…"/></label>
    {allStages.map(group=>{const visible=classes.filter(c=>c.stage===group&&c.active&&c.name.toLowerCase().includes(classQuery.trim().toLowerCase()));return visible.length?<section className="class-group" key={group}><h2>{group}</h2><div className="class-card-grid">{visible.map(c=><button type="button" key={c.id} className="academic-class-card" onClick={()=>enterClass(c.id)}><span>{c.name}</span><small>{bundledCount(c.id)} available schemes · {library.subjects.filter(s=>s.classId===c.id&&s.active).length} installed subjects</small></button>)}</div></section>:null})}
