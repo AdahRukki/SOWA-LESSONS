@@ -3859,6 +3859,267 @@
           "source_page": 66
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "HORTICULTURE AND CROP PRODUCTION",
+      "term": "First Term",
+      "source_page": 67,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Crop Production",
+          "content": "Importance of crop production to national economy",
+          "source_page": 67
+        },
+        {
+          "week": "2",
+          "topic": "Farm Tools and Safety Measures",
+          "content": "Common farm tools and their uses; Maintenance of farm tools; Safety precautions on the farm; First aid and emergency procedures",
+          "source_page": 67
+        },
+        {
+          "week": "3",
+          "topic": "Farmland Preparation Practices",
+          "content": "Importance of farmland preparation; Stages: clearing, ploughing, harrowing, ridging; Farm layout and land demarcation; Tools used in each stage",
+          "source_page": 67
+        },
+        {
+          "week": "4",
+          "topic": "Soil and Its Properties",
+          "content": "Meaning and types of soil; Importance of soil to crop production; Physical properties: colour, texture, structure; Effects of soil on crop growth",
+          "source_page": 67
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM TEST",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 67
+        },
+        {
+          "week": "6",
+          "topic": "Soil Texture and Structure",
+          "content": "Determining soil texture and structure; Importance of soil texture to crop type; Soil management practices; Soil testing (simple classroom activity)",
+          "source_page": 67
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 67
+        },
+        {
+          "week": "8",
+          "topic": "Site Selection and Crop Types",
+          "content": "Factors influencing site selection; Classification of crops based on lifespan; Types of crops (arable, horticultural, plantation); Suitable sites for different crops",
+          "source_page": 67
+        },
+        {
+          "week": "9",
+          "topic": "Crop Classification",
+          "content": "Food crops, cash crops, industrial crops; Annual, biennial, perennial crops; Importance of crop classification",
+          "source_page": 67
+        },
+        {
+          "week": "10",
+          "topic": "Farm Records and Management",
+          "content": "Meaning and importance of farm records; Types of records kept on a farm; Farm diary and stock record examples; Simple record-keeping exercise",
+          "source_page": 68
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "General review of all topics covered",
+          "source_page": 68
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 68
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 68
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "HORTICULTURE AND CROP PRODUCTION",
+      "term": "Second Term",
+      "source_page": 69,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Horticulture",
+          "content": "Meaning of horticulture; Branches: floriculture, olericulture, pomology; Importance and scope of horticulture; Career opportunities",
+          "source_page": 69
+        },
+        {
+          "week": "2",
+          "topic": "Nursery Establishment (Part 1)",
+          "content": "Meaning and importance of nursery; Types of nursery; Site selection and tools used; Steps in establishing a nursery",
+          "source_page": 69
+        },
+        {
+          "week": "3",
+          "topic": "Nursery Bed Preparation",
+          "content": "Meaning and purpose of nursery bed; Materials and tools for bed preparation; Soil sterilization and watering; Practical demonstration",
+          "source_page": 69
+        },
+        {
+          "week": "4",
+          "topic": "Fertilizer Application",
+          "content": "Meaning and types of fertilizers; Methods of fertilizer application; Importance of balanced fertilization; Effects of misuse of fertilizer",
+          "source_page": 69
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM TEST",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 69
+        },
+        {
+          "week": "6",
+          "topic": "Seed Collection and Dormancy Breaking",
+          "content": "Meaning of seed collection; Reasons for seed dormancy; Methods of breaking dormancy; Storage of viable seeds",
+          "source_page": 69
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 69
+        },
+        {
+          "week": "8",
+          "topic": "Rootstock Preparation",
+          "content": "Meaning of rootstock; Qualities of a good rootstock; Preparation steps and care; Demonstration",
+          "source_page": 70
+        },
+        {
+          "week": "9",
+          "topic": "Scion Collection",
+          "content": "Meaning of scion; Qualities of a good scion; Techniques of scion collection and handling",
+          "source_page": 70
+        },
+        {
+          "week": "10",
+          "topic": "Vegetable Production",
+          "content": "Common vegetables and their importance; Cultural practices in vegetable farming; Harvesting, packaging, and storage",
+          "source_page": 70
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered",
+          "source_page": 70
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 70
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 70
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "HORTICULTURE AND CROP PRODUCTION",
+      "term": "Third Term",
+      "source_page": 71,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Vegetative Propagation in Horticultural Crops",
+          "content": "Meaning of vegetative propagation; Methods: cutting, layering, grafting, budding; Advantages and disadvantages",
+          "source_page": 71
+        },
+        {
+          "week": "2",
+          "topic": "Practical Session on Vegetative Propagation",
+          "content": "Demonstration of grafting, budding, layering; Tools and materials used; Maintenance of propagated crops",
+          "source_page": 71
+        },
+        {
+          "week": "3",
+          "topic": "Post-Harvest Management of Vegetables",
+          "content": "Harvesting methods; Sorting and grading; Packaging and storage; Transportation and marketing",
+          "source_page": 71
+        },
+        {
+          "week": "4",
+          "topic": "Concept of Entrepreneurship in Horticulture",
+          "content": "Meaning and importance of entrepreneurship; Entrepreneurial skills in crop production; Examples of successful agripreneurs",
+          "source_page": 71
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM TEST",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 71
+        },
+        {
+          "week": "6",
+          "topic": "Concept of Money",
+          "content": "Meaning and functions of money; Types of money and uses; Money management and savings",
+          "source_page": 71
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 71
+        },
+        {
+          "week": "8",
+          "topic": "Book Keeping in Horticulture and Crop Production",
+          "content": "Meaning of bookkeeping; Types of farm records; Simple profit and loss record; Importance of bookkeeping",
+          "source_page": 71
+        },
+        {
+          "week": "9",
+          "topic": "Business Start-Up in Horticulture",
+          "content": "Meaning and stages of business start-up; Business plan preparation; Marketing of horticultural products",
+          "source_page": 71
+        },
+        {
+          "week": "10",
+          "topic": "Enterprise Development",
+          "content": "Meaning of enterprise; Developing business ideas; Managing small horticultural ventures",
+          "source_page": 72
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of all topics",
+          "source_page": 72
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 72
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 72
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
