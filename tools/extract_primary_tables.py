@@ -22,9 +22,10 @@ def page_heading(lines):
  subject=re.sub(r'SCHEME OF WORK|\(|\)','',subject,flags=re.I).strip(' -')
  return {'class_id':cid,'source_class':class_name,'subject':subject or 'UNKNOWN','term':term.group().title()}
 
-def extract(source):
+def extract(source,start_page=1,end_page=985):
  doc=fitz.open(source);schemes=[];current=None;unparsed=[]
  for page_num,page in enumerate(doc,1):
+  if page_num<start_page or page_num>end_page:continue
   lines=[clean(x) for x in page.get_text().splitlines() if x.strip()]
   head=page_heading(lines)
   if head:
@@ -56,7 +57,7 @@ def extract(source):
  return {'format':'sowa-primary-extraction-v1','source':source,'pages':len(doc),'review_status':'needs_review','schemes':schemes,'unparsed':unparsed}
 
 if __name__=='__main__':
- parser=argparse.ArgumentParser();parser.add_argument('pdf');parser.add_argument('output');args=parser.parse_args()
- data=extract(args.pdf)
+ parser=argparse.ArgumentParser();parser.add_argument('pdf');parser.add_argument('output');parser.add_argument('--start-page',type=int,default=1);parser.add_argument('--end-page',type=int,default=985);args=parser.parse_args()
+ data=extract(args.pdf,args.start_page,args.end_page)
  with open(args.output,'w',encoding='utf-8') as f:json.dump(data,f,ensure_ascii=False,indent=2)
  print('Schemes:',len(data['schemes']),'Rows:',sum(len(x['rows']) for x in data['schemes']),'Unparsed:',len(data['unparsed']))
