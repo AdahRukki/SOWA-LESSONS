@@ -425,3 +425,18 @@
 .template-block-fieldset label small{font-size:12px;color:#596b7b}
 .lesson-template-single{border-top:1px solid #d4e0e8;padding-top:12px;display:flex;gap:10px;align-items:center;flex-wrap:wrap;width:100%}
 @media print{.print-lesson-body table{border-collapse:collapse;width:100%;table-layout:fixed}.print-lesson-body th,.print-lesson-body td{border:1px solid #444;padding:8px;vertical-align:top;white-space:pre-wrap}.print-lesson-body tr{break-inside:avoid}}
+
+/* Visual custom template layout designer */
+.template-layout-settings{width:100%;border:1px solid #c8d9e7;border-radius:9px;padding:14px;display:grid;gap:14px}
+.template-layout-settings legend{font-size:13px;font-weight:700;padding:0 7px}
+.template-layout-fields{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+.template-layout-fields label{display:flex;flex-direction:column;gap:5px;font-size:12px}
+.template-layout-fields select{width:100%;padding:9px;border:1px solid #b4c9d8;border-radius:6px;background:#fff}
+.template-page-preview{background:white;border:1px solid #9aacbc;box-shadow:0 3px 12px #172f4514;border-radius:2px;width:min(100%,310px);aspect-ratio:210/297;padding:18px;margin:auto;display:flex;flex-direction:column;gap:15px}
+.template-page-preview.landscape{aspect-ratio:297/210;width:min(100%,390px)}
+.template-page-preview>strong{font-size:12px;text-align:center;color:#536779}
+.template-page-preview>div{display:grid;align-content:start;gap:5px}
+.template-page-preview .preview-one-column{grid-template-columns:1fr}
+.template-page-preview .preview-two-columns{grid-template-columns:repeat(2,minmax(0,1fr))}
+.template-page-preview span{font-size:10px;border-bottom:1px dashed #bdcbd8;overflow:hidden;white-space:nowrap}
+@media(max-width:550px){.template-layout-fields{grid-template-columns:1fr}}
