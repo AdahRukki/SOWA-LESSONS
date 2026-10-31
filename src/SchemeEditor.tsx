@@ -22,7 +22,7 @@ export default function SchemeEditor({library,subject,onChange,onBack,onGenerate
  };
  function create(){if(!session){setError('Create an academic session first.');return}
   if(scheme)return;
-  const made=createScheme(session.id,subject.classId,subject.id,term,weekCount);
+  const made=createScheme(session.id,subject.classId,subject.id,term,weekCount,library);
   onChange({...library,schemes:[...library.schemes,made]});setError('');
  }
  function changeTopic(weekId:string,topicId:string,patch:Partial<SchemeTopic>){
