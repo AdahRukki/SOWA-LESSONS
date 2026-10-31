@@ -4909,6 +4909,231 @@
           "source_page": 82
         }
       ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "First Term",
+      "source_page": 83,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Posture",
+          "content": "Meaning of Posture",
+          "source_page": 83
+        },
+        {
+          "week": "2",
+          "topic": "Posture",
+          "content": "Appropriate Posture in Sitting, Standing, Walking and Lifting",
+          "source_page": 83
+        },
+        {
+          "week": "3",
+          "topic": "Postural Defects",
+          "content": "Types of Postural Defects",
+          "source_page": 83
+        },
+        {
+          "week": "4",
+          "topic": "Issues & Challenges in Physical & Health Education",
+          "content": "Meaning, Issues and Challenges",
+          "source_page": 83
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 83
+        },
+        {
+          "week": "6",
+          "topic": "Human Trafficking",
+          "content": "Meaning, Health Implications on Victims",
+          "source_page": 83
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 83
+        },
+        {
+          "week": "8",
+          "topic": "Human Trafficking",
+          "content": "Solutions to Human Trafficking",
+          "source_page": 83
+        },
+        {
+          "week": "9",
+          "topic": "Sports Laws",
+          "content": "Sports Laws",
+          "source_page": 83
+        },
+        {
+          "week": "10",
+          "topic": "Recreation & Leisure",
+          "content": "Meaning and Types of Recreational Activities",
+          "source_page": 83
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examination & Closing",
+          "content": "—",
+          "source_page": 83
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Second Term",
+      "source_page": 84,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Recreation & Leisure",
+          "content": "Demonstration of Recreational Activities",
+          "source_page": 84
+        },
+        {
+          "week": "2",
+          "topic": "Dance Activities",
+          "content": "Dramatic & Creative Rhythms – Explanation & Demonstration",
+          "source_page": 84
+        },
+        {
+          "week": "3",
+          "topic": "Dance Activities",
+          "content": "Types of Dance Activities",
+          "source_page": 84
+        },
+        {
+          "week": "4",
+          "topic": "Computer Games",
+          "content": "Meaning and Types of Computer Games",
+          "source_page": 84
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 84
+        },
+        {
+          "week": "6",
+          "topic": "Table Tennis",
+          "content": "History & Development; Equipment and Facilities",
+          "source_page": 84
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 84
+        },
+        {
+          "week": "8",
+          "topic": "Table Tennis",
+          "content": "Officials and their Duties",
+          "source_page": 84
+        },
+        {
+          "week": "9",
+          "topic": "Tennis",
+          "content": "History & Development; Facilities and Equipment",
+          "source_page": 84
+        },
+        {
+          "week": "10",
+          "topic": "Tennis",
+          "content": "Scoring System, Officials and Terminologies",
+          "source_page": 84
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examination & Closing",
+          "content": "—",
+          "source_page": 84
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Third Term",
+      "source_page": 85,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Accidents & Safety",
+          "content": "Meaning of Accidents; Safety Measures at Home, School, Sports Ground, and on the Road",
+          "source_page": 85
+        },
+        {
+          "week": "2",
+          "topic": "Sports Injuries",
+          "content": "Meaning, Types and Causes of Sports Injuries",
+          "source_page": 85
+        },
+        {
+          "week": "3",
+          "topic": "First Aid",
+          "content": "First Aid Treatment for Common Injuries",
+          "source_page": 85
+        },
+        {
+          "week": "4",
+          "topic": "Preventive Measures",
+          "content": "Measures for Preventing Sports Injuries (merged with First Aid)",
+          "source_page": 85
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Exams",
+          "content": "—",
+          "source_page": 85
+        },
+        {
+          "week": "6",
+          "topic": "Personal, School & Community Health",
+          "content": "School Health Programme; Personal and Community Health",
+          "source_page": 85
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 85
+        },
+        {
+          "week": "8",
+          "topic": "School Health Programme",
+          "content": "Components; FRESH Approach",
+          "source_page": 85
+        },
+        {
+          "week": "9",
+          "topic": "Environmental Pollution",
+          "content": "Types of Environmental Pollution; Preventive Measures",
+          "source_page": 85
+        },
+        {
+          "week": "10",
+          "topic": "Non-communicable Diseases",
+          "content": "Meaning and Nature of Common Non-communicable Diseases",
+          "source_page": 85
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examination & Closing",
+          "content": "—",
+          "source_page": 85
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
