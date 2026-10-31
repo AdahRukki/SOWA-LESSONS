@@ -6,7 +6,7 @@ import type {CoverageReport} from './schemeCoverage';
 export type PageSettings={paper:'A4'|'A5'|'Letter'|'Legal';orientation:'portrait'|'landscape';fontFamily:string;fontSize:number;lineSpacing:number;marginMm:number;showGuide:boolean;showTOC:boolean};
 export const DEFAULT_SETTINGS:PageSettings={paper:'A4',orientation:'portrait',fontFamily:'Georgia',fontSize:12,lineSpacing:1.4,marginMm:18,showGuide:true,showTOC:true};
 export type PrintableWeek={id:string;title:string;content:string;plan?:LessonPlan};
-type Props={settings:PageSettings;onChange:(value:PageSettings)=>void;project:{name:string;className:string;subject:string;term:string;weeks:PrintableWeek[]};coverage?:CoverageReport};
+type Props={settings:PageSettings;onChange:(value:PageSettings)=>void;project:{name:string;className:string;subject:string;term:string;weeks:PrintableWeek[];schemeSnapshot?:{week:number;topic:string;content:string}[]};coverage?:CoverageReport};
 export function DocumentSettings({settings,onChange,project,coverage}:Props){
  const [showPreview,setShowPreview]=useState(false);
  const [exporting,setExporting]=useState(false);
@@ -38,6 +38,7 @@ export function PrintableDocument({settings,project}:Omit<Props,'onChange'>){
  return <><style>{'@media print{@page{size:'+pageSize+';margin:'+settings.marginMm+'mm}body{background:white!important}}'}</style>
  <div className="print-only" style={{fontFamily:settings.fontFamily,fontSize:settings.fontSize+'pt',lineHeight:settings.lineSpacing}}>
  <header className="print-cover"><h1>SEAT OF WISDOM ACADEMY</h1><h2>{project.subject||project.name}</h2><p>{project.className} — {project.term}</p><p>Lesson Notes and Teacher's Guide</p></header>
+ {project.schemeSnapshot?.length?<section className="print-scheme"><h2>Scheme of Work — {project.term}</h2><table><thead><tr><th>Week</th><th>Topic</th><th>Content</th></tr></thead><tbody>{project.schemeSnapshot.map((r,i)=><tr key={i}><td>{r.week}</td><td>{r.topic}</td><td>{r.content}</td></tr>)}</tbody></table></section>:null}
  {settings.showTOC&&<section className="print-toc"><h2>Table of Contents</h2>{project.weeks.map((w,i)=><p key={w.id}>Week {i+1} — {w.title}</p>)}</section>}
  {project.weeks.map((week,i)=><article className="print-week" key={week.id}><header className="print-running">SEAT OF WISDOM ACADEMY · {project.className} · {project.term}</header><h1>Week {i+1}: {week.title}</h1>{settings.showGuide&&<GuidePrint plan={week.plan}/>}<h2>Part B — Detailed Lesson Content</h2><div className="print-lesson-body" dangerouslySetInnerHTML={{__html:week.content}}/></article>)}
  </div></>
