@@ -22,15 +22,19 @@ export function reviewStaging(data:unknown,library:AcademicLibrary):{candidates:
   const rows:{number:number;topic:string;content:string}[]=[];
   if(Array.isArray(source?.rows))for(const row of source.rows.slice(0,24)){
    const weekText=String(row?.week??'').trim();
-   const number=Number(weekText);
-   if(!Number.isInteger(number)||number<1||number>24){problems.push('Invalid or ranged week: '+weekText);continue}
+   const range=weekText.match(/^(\\d{1,2})\\s*[-–—]\\s*(\\d{1,2})$/);
+   const first=range?Number(range[1]):Number(weekText);
+   const last=range?Number(range[2]):first;
+   if(!Number.isInteger(first)||first<1||last>24||last<first||last-first>6){problems.push('Invalid week or range: '+weekText);continue}
    const topic=String(row?.topic??'').trim(),content=String(row?.content??'').trim();
-   if(!topic||!content){problems.push('Missing topic/content for week '+number);continue}
-   if(rows.some(r=>r.number===number)){problems.push('Repeated week '+number);continue}
-   rows.push({number,topic,content});
+   if(!topic||!content){problems.push('Missing topic/content for week '+weekText);continue}
+   for(let number=first;number<=last;number++){
+    if(rows.some(r=>r.number===number)){problems.push('Repeated week '+number);continue}
+    rows.push({number,topic,content});
+   }
   }
   if(source?.review_status!=='approved')problems.push('Source is not marked approved');
-  if(!problems.length&&rows.length!==source.rows.length)problems.push('Unparsed week rows');
+  if(rows.length===0)problems.push('No valid weeks');
   if(index===0&&typeof source.class_id!=='string')errors.push('Invalid source structure');
   return {source,classId,subjectName,term,rows,problems};
  });
