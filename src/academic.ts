@@ -13,6 +13,8 @@ export const ACADEMIC_CLASSES = [
 ] as const;
 export type ClassId = typeof ACADEMIC_CLASSES[number]['id'];
 export type SchoolStage = typeof ACADEMIC_CLASSES[number]['stage'];
+export interface AcademicClass {id:ClassId;name:string;stage:string;rank:number;active:boolean}
+export function getClasses(library:AcademicLibrary):AcademicClass[]{return (library.classes??ACADEMIC_CLASSES.map(c=>({...c,active:true}))).slice().sort((a,b)=>a.rank-b.rank)}
 export type Term = 'First Term'|'Second Term'|'Third Term';
 export const TERMS:readonly Term[]=['First Term','Second Term','Third Term'];
 export type SchemeStatus='draft'|'in-review'|'approved';
@@ -24,15 +26,15 @@ export interface SchemeOfWork {
  id:string;sessionId:string;classId:ClassId;subjectId:string;term:Term;
  status:SchemeStatus;weeks:SchemeWeek[];approvedAt?:string;updatedAt:string;version:1
 }
-export interface AcademicLibrary {version:1;sessions:AcademicSession[];subjects:AcademicSubject[];schemes:SchemeOfWork[]}
+export interface AcademicLibrary {version:1;sessions:AcademicSession[];subjects:AcademicSubject[];schemes:SchemeOfWork[];classes?:AcademicClass[]}
 export function makeAcademicSession(startYear:number):AcademicSession {
  if(!Number.isInteger(startYear)||startYear<2000||startYear>2200)throw Error('Invalid academic session year');
  return {id:String(startYear)+'-'+String(startYear+1),label:String(startYear)+'/'+String(startYear+1),startsIn:startYear,active:false}
 }
 export function createAcademicLibrary(startYear=2026):AcademicLibrary{
- return {version:1,sessions:[{...makeAcademicSession(startYear),active:true}],subjects:[],schemes:[]}
+ return {version:1,sessions:[{...makeAcademicSession(startYear),active:true}],subjects:[],schemes:[],classes:ACADEMIC_CLASSES.map(c=>({...c,active:true}))}
 }
-export function classById(id:string){return ACADEMIC_CLASSES.find(c=>c.id===id)}
+export function classById(id:string,library?:AcademicLibrary){return library?getClasses(library).find(c=>c.id===id):ACADEMIC_CLASSES.find(c=>c.id===id)}
 export function createSubject(classId:ClassId,name:string,order:number):AcademicSubject{
  if(!classById(classId))throw Error('Unknown class');
  const title=name.trim();if(!title)throw Error('Subject name is required');
