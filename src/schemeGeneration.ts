@@ -3,7 +3,7 @@ import {getClasses} from './academic';
 import {newPlan,type LessonPlan} from './TeacherGuide';
 
 export type GeneratedWeek={id:string;title:string;content:string;plan:LessonPlan;sourceWeekId:string;sourceSchemeId:string};
-export type GeneratedDocument={id:string;name:string;className:string;subject:string;term:string;sessionId:string;sourceSchemeId:string;weeks:GeneratedWeek[]};
+export type GeneratedDocument={id:string;name:string;className:string;subject:string;term:string;sessionId:string;sourceSchemeId:string;schemeSnapshot:{week:number;topic:string;content:string}[];weeks:GeneratedWeek[]};
 const escapeHtml=(value:string)=>value.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const list=(items:string[])=>items.filter(x=>x.trim()).map(x=>'<li>'+escapeHtml(x)+'</li>').join('');
 export function documentFromScheme(scheme:SchemeOfWork,subject:AcademicSubject,library:AcademicLibrary):GeneratedDocument{
@@ -13,6 +13,7 @@ export function documentFromScheme(scheme:SchemeOfWork,subject:AcademicSubject,l
  return {
   id:crypto.randomUUID(),name:className+' — '+subject.name+' — '+scheme.term,
   className,subject:subject.name,term:scheme.term,sessionId:scheme.sessionId,sourceSchemeId:scheme.id,
+  schemeSnapshot:scheme.weeks.flatMap(w=>w.topics.length?w.topics.map(t=>({week:w.number,topic:t.title,content:t.contentOutline.join('\n')})):[{week:w.number,topic:'—',content:w.notes||''}]),
   weeks:scheme.weeks.map(w=>{
    const title=w.topics.map(t=>t.title).join(' / ')||'Week '+w.number;
    const content=w.topics.map(t=>'<h2>'+escapeHtml(t.title)+'</h2>'+
