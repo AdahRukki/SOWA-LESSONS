@@ -1,5 +1,5 @@
 import type {AcademicLibrary} from './academic';
-import {ACADEMIC_CLASSES,TERMS,validateAcademicLibrary} from './academic';
+import {ACADEMIC_CLASSES,getClasses,TERMS,validateAcademicLibrary} from './academic';
 export const BACKUP_FORMAT='sowa-academic-library-v1';
 export function makeCurriculumBackup(library:AcademicLibrary){
  return JSON.stringify({format:BACKUP_FORMAT,createdAt:new Date().toISOString(),library},null,2);
@@ -11,7 +11,8 @@ export function parseCurriculumBackup(text:string):AcademicLibrary{
  if(data.format!==BACKUP_FORMAT)throw Error('Unsupported curriculum backup format.');
  const lib=data.library as AcademicLibrary|undefined;
  if(!lib||lib.version!==1||!Array.isArray(lib.sessions)||!Array.isArray(lib.subjects)||!Array.isArray(lib.schemes))throw Error('Incomplete academic library.');
- const classIds=new Set<string>(ACADEMIC_CLASSES.map(c=>c.id));
+ if(lib.classes!==undefined&&(!Array.isArray(lib.classes)||lib.classes.some(c=>typeof c.id!=='string'||typeof c.name!=='string'||typeof c.stage!=='string'||!Number.isInteger(c.rank)||typeof c.active!=='boolean')))throw Error('Invalid class directory.');
+ const classIds=new Set<string>(getClasses(lib).map(c=>c.id));
  for(const s of lib.sessions)if(typeof s.id!=='string'||typeof s.label!=='string'||typeof s.startsIn!=='number'||typeof s.active!=='boolean')throw Error('Invalid academic session.');
  for(const s of lib.subjects)if(typeof s.id!=='string'||!classIds.has(s.classId)||typeof s.name!=='string'||typeof s.order!=='number'||typeof s.active!=='boolean')throw Error('Invalid subject record.');
  for(const s of lib.schemes){
@@ -27,6 +28,7 @@ export function parseCurriculumBackup(text:string):AcademicLibrary{
 }
 export function mergeCurriculum(current:AcademicLibrary,incoming:AcademicLibrary):{library:AcademicLibrary;added:{sessions:number;subjects:number;schemes:number}}{
  const sessions=[...current.sessions],subjects=[...current.subjects],schemes=[...current.schemes];
+ const classes=getClasses(current);for(const c of getClasses(incoming))if(!classes.some(x=>x.id===c.id))classes.push({...c,rank:classes.length+1});
  for(const s of incoming.sessions)if(!sessions.some(x=>x.id===s.id))sessions.push({...s,active:false});
  for(const s of incoming.subjects)if(!subjects.some(x=>x.id===s.id)&&!subjects.some(x=>x.classId===s.classId&&x.name.trim().toLowerCase()===s.name.trim().toLowerCase()))subjects.push(s);
  const schemeKeys=new Set(schemes.map(s=>[s.sessionId,s.classId,s.subjectId,s.term].join('|')));
@@ -34,5 +36,5 @@ export function mergeCurriculum(current:AcademicLibrary,incoming:AcademicLibrary
   const key=[s.sessionId,s.classId,s.subjectId,s.term].join('|');
   if(!schemeKeys.has(key)&&subjects.some(x=>x.id===s.subjectId&&x.classId===s.classId)&&sessions.some(x=>x.id===s.sessionId)){schemes.push(s);schemeKeys.add(key)}
  }
- return {library:{version:1,sessions,subjects,schemes},added:{sessions:sessions.length-current.sessions.length,subjects:subjects.length-current.subjects.length,schemes:schemes.length-current.schemes.length}};
+ return {library:{version:1,sessions,subjects,schemes,classes},added:{sessions:sessions.length-current.sessions.length,subjects:subjects.length-current.subjects.length,schemes:schemes.length-current.schemes.length}};
 }
