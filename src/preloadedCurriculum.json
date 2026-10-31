@@ -661,6 +661,231 @@
           "source_page": 15
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES (CRS)",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 16,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "God and His Creation",
+          "content": "Who is God? (Gen. 1:1; Jer. 10:12)",
+          "source_page": 16
+        },
+        {
+          "week": "2",
+          "topic": "The Creation Story",
+          "content": "Biblical account of creation in Genesis 1",
+          "source_page": 16
+        },
+        {
+          "week": "3",
+          "topic": "The Creation of Man and Woman",
+          "content": "Genesis 2:4–24",
+          "source_page": 16
+        },
+        {
+          "week": "4",
+          "topic": "Purpose of Creation",
+          "content": "Reasons why God created human beings; Songs about creation",
+          "source_page": 16
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examinations",
+          "content": "–",
+          "source_page": 16
+        },
+        {
+          "week": "6",
+          "topic": "Marriage",
+          "content": "Meaning of marriage (Gen. 2:22-25); Functions of marriage (Eph. 5:21-31)",
+          "source_page": 16
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 16
+        },
+        {
+          "week": "8",
+          "topic": "Marriage II",
+          "content": "Types of marriage; Importance of marriage",
+          "source_page": 16
+        },
+        {
+          "week": "9",
+          "topic": "Disobedience I",
+          "content": "Meaning of disobedience; Adam & Eve’s disobedience (Gen. 3:1-19)",
+          "source_page": 16
+        },
+        {
+          "week": "10",
+          "topic": "Disobedience II",
+          "content": "Consequences of Adam & Eve’s disobedience; Human disobedience and national disobedience",
+          "source_page": 16
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examinations & Closing",
+          "content": "–",
+          "source_page": 16
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES (CRS)",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 17,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Call to Repentance I",
+          "content": "Meaning of repentance; King David’s repentance (2 Sam. 12:7–13; Psalm 51)",
+          "source_page": 17
+        },
+        {
+          "week": "2",
+          "topic": "Call to Repentance II",
+          "content": "The people of Nineveh repent (Jonah 3:1-10)",
+          "source_page": 17
+        },
+        {
+          "week": "3",
+          "topic": "Call to Repentance III",
+          "content": "John the Baptist calls for repentance (Luke 3:1-14)",
+          "source_page": 17
+        },
+        {
+          "week": "4",
+          "topic": "Call to Repentance IV",
+          "content": "Jesus commends Zacchaeus (Luke 19:8); Consequences of lack of repentance (1 Sam. 3:18; 4:10-21)",
+          "source_page": 17
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examinations",
+          "content": "–",
+          "source_page": 17
+        },
+        {
+          "week": "6",
+          "topic": "Call to Obedience I",
+          "content": "Meaning of obedience; Abraham obeys God’s call (Gen. 12:1-9)",
+          "source_page": 17
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 17
+        },
+        {
+          "week": "8",
+          "topic": "Call to Obedience II",
+          "content": "Abraham’s blessings (Gen. 17:1-21); Abraham’s sacrifice of Isaac (Gen. 21:1-8; 22:1-19)",
+          "source_page": 17
+        },
+        {
+          "week": "9",
+          "topic": "Call to Service I",
+          "content": "Meaning of service; Joseph’s and Ruth’s examples (Gen. 37:12-36; 41:37-57; Ruth 1:15; 2:7-18)",
+          "source_page": 17
+        },
+        {
+          "week": "10",
+          "topic": "Call to Service II",
+          "content": "Lessons from Joseph & Ruth; Life in God’s service (1 Pet. 2:18-25); Problems in service; Call to service",
+          "source_page": 17
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examinations & Closing",
+          "content": "–",
+          "source_page": 17
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES (CRS)",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 18,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Relationship in the Family I",
+          "content": "Meaning and types of family; Recognition of family members",
+          "source_page": 18
+        },
+        {
+          "week": "2",
+          "topic": "Relationship in the Family II",
+          "content": "Roles of family members (Eph. 6:1-9; Col. 3:18-21; 1 Pet. 3:1-7)",
+          "source_page": 18
+        },
+        {
+          "week": "3",
+          "topic": "Relationship in the Family III",
+          "content": "Concept of a good family name (Prov. 22:1; Ecc. 7:1)",
+          "source_page": 18
+        },
+        {
+          "week": "4",
+          "topic": "Relationship in the School I",
+          "content": "Names of members of the school; Choosing friends in school",
+          "source_page": 18
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examinations",
+          "content": "–",
+          "source_page": 18
+        },
+        {
+          "week": "6",
+          "topic": "Relationship in the School II",
+          "content": "Biblical examples of friendship (1 Sam. 18:1-5; Luke 11:5-13)",
+          "source_page": 18
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 18
+        },
+        {
+          "week": "8",
+          "topic": "Relationship in the School III",
+          "content": "Importance of good friends; Consequences of bad friends (Prov. 1:10-12; 2 Thess. 3:6-13)",
+          "source_page": 18
+        },
+        {
+          "week": "9",
+          "topic": "Relationship in the Community I",
+          "content": "Community leaders; Ways of sustaining relationships in the community",
+          "source_page": 18
+        },
+        {
+          "week": "10",
+          "topic": "Relationship in the Church",
+          "content": "Relationship in the church; Importance of fellowship and unity",
+          "source_page": 18
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision, Examinations & Closing",
+          "content": "–",
+          "source_page": 18
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
