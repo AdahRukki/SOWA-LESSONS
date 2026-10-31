@@ -1,0 +1,29 @@
+{
+  "format": "sowa-primary-extraction-audit-v1",
+  "source": "THE COMPLETE SCHEME OF WORK FOR PRE-PRIMARY & PRIMARY SCHOOLS-1.pdf",
+  "page_window": [
+    600,
+    660
+  ],
+  "status": "source-extracted, human page review pending",
+  "detected_schemes": 22,
+  "detected_week_rows": 338,
+  "primary1": {
+    "class_id": "basic-1",
+    "complete_13_week_schemes": 19,
+    "complete_week_rows": 247,
+    "excluded": [
+      {
+        "subject": "Islamic Studies",
+        "term": "First Term",
+        "source_page": 643,
+        "reason": "26 extracted rows: continuation / missing-term boundary requires review"
+      }
+    ]
+  },
+  "cautions": [
+    "Nursery 3 content appears in initial page window and is not part of Basic 1 data.",
+    "Only structurally complete 13-week schemes were staged.",
+    "Neither PDF content nor this inventory has been installed into the application."
+  ]
+}
