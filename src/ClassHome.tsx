@@ -7,6 +7,7 @@ import SessionManager from './SessionManager';
 import CurriculumBackup from './CurriculumBackup';
 import LegacyMigration,{type LegacyProject} from './LegacyMigration';
 import SubjectManager from './SubjectManager';
+import SubjectOverview from './SubjectOverview';
 import preloaded from './preloadedCurriculum.json';
 import {getClasses,type ClassId,type AcademicLibrary,type SchemeOfWork,type AcademicSubject,type Term} from './academic';
 
@@ -18,6 +19,7 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
  const [area,setArea]=useState<Area>('classes');
  const [tool,setTool]=useState<'sessions'|'classes'|'backup'|'migration'|null>(null);
  const [openedSubject,setOpenedSubject]=useState<string|null>(null);
+ const [overviewSubject,setOverviewSubject]=useState<string|null>(null);
  const [classQuery,setClassQuery]=useState('');
  const [curriculumFilter,setCurriculumFilter]=useState<{classId:string;subject:string}|null>(null);
  const classes=getClasses(library),session=library.sessions.find(s=>s.active)??library.sessions[0];
@@ -27,10 +29,10 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
  const classBundledSubjects=[...new Set(bundled.map(s=>s.subject))].sort();
  const installed=selected?library.subjects.filter(s=>s.classId===selected&&s.active):[];
  const allStages=[...new Set([...groups,...classes.map(c=>c.stage)])];
- const go=(next:Area)=>{setArea(next);setTool(null);setOpenedSubject(null);setCurriculumFilter(null);if(next!=='classes')onBack()};
+ const go=(next:Area)=>{setArea(next);setTool(null);setOpenedSubject(null);setOverviewSubject(null);setCurriculumFilter(null);if(next!=='classes')onBack()};
  const viewCurriculum=(classId:string,subject:string)=>{setCurriculumFilter({classId,subject});setArea('curriculum');setTool(null);setOpenedSubject(null);onBack()};
- const enterClass=(id:ClassId)=>{setArea('classes');setOpenedSubject(null);onSelect(id)};
- const back=()=>{if(openedSubject){setOpenedSubject(null);return}onBack()};
+ const enterClass=(id:ClassId)=>{setArea('classes');setOpenedSubject(null);setOverviewSubject(null);onSelect(id)};
+ const back=()=>{if(openedSubject){setOpenedSubject(null);return}if(overviewSubject){setOverviewSubject(null);return}onBack()};
  const bundledCount=(id:string)=>names(id).length;
  return <div className="academic-home academic-studio">
   <header className="studio-topbar"><div className="studio-logo"><span className="studio-mark" aria-hidden="true">S</span><div><strong>SOWA Lessons</strong><small>Curriculum &amp; Publishing Studio</small></div></div><div className="studio-topbar-right"><span>{session?.label??'No session'}</span><span className="academic-save-status" role="status">{saveError?'Save error':saved?'Saved offline':'Saving…'}</span></div></header>
@@ -54,10 +56,10 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
    <div className="studio-overview"><div><strong>{classes.filter(c=>c.active).length}</strong><span>Active classes</span></div><div><strong>{preloaded.schemes.length}</strong><span>Bundled term schemes</span></div><div><strong>{library.subjects.filter(s=>s.active).length}</strong><span>Installed subjects</span></div></div>
    <label className="studio-class-search">Find a class<input type="search" value={classQuery} onChange={e=>setClassQuery(e.target.value)} placeholder="Search classes…"/></label>
    {allStages.map(group=>{const visible=classes.filter(c=>c.stage===group&&c.active&&c.name.toLowerCase().includes(classQuery.trim().toLowerCase()));return visible.length?<section className="class-group" key={group}><h2>{group}</h2><div className="class-card-grid">{visible.map(c=><button type="button" key={c.id} className="academic-class-card" onClick={()=>enterClass(c.id)}><span>{c.name}</span><small>{bundledCount(c.id)} available schemes · {library.subjects.filter(s=>s.classId===c.id&&s.active).length} installed subjects</small></button>)}</div></section>:null})}
-  </>:<><button type="button" className="academic-back" onClick={back}>{openedSubject?'← Back to subjects':'← All classes'}</button><div className="academic-intro"><span className="studio-eyebrow">{classInfo?.stage??'CLASS'}</span><h1>{classInfo?.name}</h1><p>{session?.label??'Academic session'} · {classBundledSubjects.length} available subjects · {installed.length} installed subjects</p></div>
-   {chosenSubject?<><AcademicLessons library={library} classId={chosenSubject.classId} subjectId={chosenSubject.id} lessons={legacyProjects} onOpen={onOpenLesson}/><SchemeEditor library={library} subject={chosenSubject} onGenerate={onGenerate} onChange={onLibraryChange} onBack={()=>setOpenedSubject(null)}/></>:<>
+  </>:<><button type="button" className="academic-back" onClick={back}>{(openedSubject||overviewSubject)?'← Back to subjects':'← All classes'}</button><div className="academic-intro"><span className="studio-eyebrow">{classInfo?.stage??'CLASS'}</span><h1>{classInfo?.name}</h1><p>{session?.label??'Academic session'} · {classBundledSubjects.length} available subjects · {installed.length} installed subjects</p></div>
+   {overviewSubject&&!chosenSubject?<SubjectOverview classId={classInfo?.id??''} subjectName={overviewSubject} library={library} onEdit={id=>{setOverviewSubject(null);setOpenedSubject(id)}} onBrowse={name=>viewCurriculum(classInfo?.id??'',name)}/>:chosenSubject?<><AcademicLessons library={library} classId={chosenSubject.classId} subjectId={chosenSubject.id} lessons={legacyProjects} onOpen={onOpenLesson}/><SchemeEditor library={library} subject={chosenSubject} onGenerate={onGenerate} onChange={onLibraryChange} onBack={()=>setOpenedSubject(null)}/></>:<>
    <section className="class-group"><h2>Subjects in this class</h2><p className="studio-hint">Installed subjects can be edited. Bundled subjects are available to preview and install from the Curriculum Library.</p>
-   <div className="studio-subject-grid">{[...new Set([...installed.map(s=>s.name),...classBundledSubjects])].sort().map(name=>{const subject=installed.find(s=>s.name.toLowerCase()===name.toLowerCase());const entries=bundled.filter(s=>s.subject===name);return <div className="studio-subject-card" key={name}><div><strong>{name}</strong><small>{subject?'Installed':'Available in library'}{entries.length?' · '+entries.length+' term(s) bundled':''}</small></div>{subject?<button type="button" onClick={()=>setOpenedSubject(subject.id)}>Open subject</button>:<button type="button" onClick={()=>viewCurriculum(classInfo?.id??'',name)}>View curriculum</button>}</div>})}</div>
+   <div className="studio-subject-grid">{[...new Set([...installed.map(s=>s.name),...classBundledSubjects])].sort().map(name=>{const subject=installed.find(s=>s.name.toLowerCase()===name.toLowerCase());const entries=bundled.filter(s=>s.subject===name);return <div className="studio-subject-card" key={name}><div><strong>{name}</strong><small>{subject?'Installed':'Available in library'}{entries.length?' · '+entries.length+' term(s) bundled':''}</small></div><button type="button" onClick={()=>setOverviewSubject(name)}>Open subject</button></div>})}</div>
    {!installed.length&&!classBundledSubjects.length&&<p className="academic-empty">No curriculum for this class yet. You can add a subject below.</p>}</section>
    <SubjectManager library={library} classId={selected} onChange={onLibraryChange}/>
    </>}
