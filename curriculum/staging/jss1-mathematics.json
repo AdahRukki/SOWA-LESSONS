@@ -1,0 +1,192 @@
+{
+  "format": "sowa-pdf-curriculum-staging-v1",
+  "review_status": "needs_review",
+  "source_file": "New curriculum for secondary sch.pdf",
+  "class_id": "jss-1",
+  "subject": "MATHEMATICS",
+  "terms": [
+    {
+      "term": "First Term",
+      "source_page": 10,
+      "rows": [
+        {
+          "source_week": "1",
+          "topic": "Whole Numbers",
+          "content": "Place value, ordering, and properties of whole numbers."
+        },
+        {
+          "source_week": "2",
+          "topic": "LCM (Least Common Multiple)",
+          "content": "Finding LCM using multiples and prime factorization."
+        },
+        {
+          "source_week": "3",
+          "topic": "HCF (Highest Common Factor)",
+          "content": "Finding HCF using factorization methods."
+        },
+        {
+          "source_week": "4",
+          "topic": "Counting in Base 2",
+          "content": "Introduction to the binary number system."
+        },
+        {
+          "source_week": "5",
+          "topic": "Midterm Exams",
+          "content": "–"
+        },
+        {
+          "source_week": "6",
+          "topic": "Conversion of Numbers",
+          "content": "Conversion of Base 10 numerals to binary numbers (step-by-step)."
+        },
+        {
+          "source_week": "7",
+          "topic": "Midterm Break",
+          "content": "–"
+        },
+        {
+          "source_week": "8",
+          "topic": "Fractions I",
+          "content": "Types of fractions (proper, improper, mixed), simplification."
+        },
+        {
+          "source_week": "9",
+          "topic": "Fractions II",
+          "content": "Equivalent fractions, comparison of fractions."
+        },
+        {
+          "source_week": "10",
+          "topic": "Basic Operations on Whole Numbers",
+          "content": "Addition, subtraction, multiplication, and division."
+        },
+        {
+          "source_week": "11–13",
+          "topic": "Revision & Exams",
+          "content": "–"
+        }
+      ]
+    },
+    {
+      "term": "Second Term",
+      "source_page": 11,
+      "rows": [
+        {
+          "source_week": "1",
+          "topic": "Addition & Subtraction of Fractions",
+          "content": "With the same and different denominators."
+        },
+        {
+          "source_week": "2",
+          "topic": "Multiplication & Division of Fractions",
+          "content": "Solving real-life problems with fractions."
+        },
+        {
+          "source_week": "3",
+          "topic": "Estimation & Approximation",
+          "content": "Rounding off numbers, significant figures."
+        },
+        {
+          "source_week": "4",
+          "topic": "Numbers in Base 2 – Addition",
+          "content": "Binary addition rules."
+        },
+        {
+          "source_week": "5",
+          "topic": "Midterm Exams",
+          "content": "–"
+        },
+        {
+          "source_week": "6",
+          "topic": "Numbers in Base 2 – Subtraction",
+          "content": "Binary subtraction rules."
+        },
+        {
+          "source_week": "7",
+          "topic": "Midterm Break",
+          "content": "–"
+        },
+        {
+          "source_week": "8",
+          "topic": "Numbers in Base 2 – Multiplication",
+          "content": "Binary multiplication rules."
+        },
+        {
+          "source_week": "9",
+          "topic": "Algebraic Processes I",
+          "content": "Use of symbols, coefficients, and algebraic expressions."
+        },
+        {
+          "source_week": "10",
+          "topic": "Simplification of Algebraic Expressions",
+          "content": "Expanding brackets, collecting like terms."
+        },
+        {
+          "source_week": "11–13",
+          "topic": "Revision & Exams",
+          "content": "–"
+        }
+      ]
+    },
+    {
+      "term": "Third Term",
+      "source_page": 12,
+      "rows": [
+        {
+          "source_week": "1",
+          "topic": "Simple Equations",
+          "content": "Solving one-variable linear equations."
+        },
+        {
+          "source_week": "2",
+          "topic": "Plane Shapes",
+          "content": "Properties of triangles, quadrilaterals, and circles."
+        },
+        {
+          "source_week": "3",
+          "topic": "Three-Dimensional Figures",
+          "content": "Cubes, cuboids, cylinders, spheres, and cones."
+        },
+        {
+          "source_week": "4",
+          "topic": "Constructions",
+          "content": "Basic geometric constructions using ruler and compass."
+        },
+        {
+          "source_week": "5",
+          "topic": "Midterm Exams",
+          "content": "–"
+        },
+        {
+          "source_week": "6",
+          "topic": "Angles",
+          "content": "Types of angles, angle sum properties of triangles & quadrilaterals."
+        },
+        {
+          "source_week": "7",
+          "topic": "Midterm Break",
+          "content": "–"
+        },
+        {
+          "source_week": "8",
+          "topic": "Everyday Statistics I",
+          "content": "Need for statistics, importance in daily life."
+        },
+        {
+          "source_week": "9",
+          "topic": "Everyday Statistics II",
+          "content": "Methods of data collection."
+        },
+        {
+          "source_week": "10",
+          "topic": "Everyday Statistics III",
+          "content": "Data presentation: tables, bar charts, pie charts."
+        },
+        {
+          "source_week": "11–13",
+          "topic": "Revision & Exams",
+          "content": "–"
+        }
+      ]
+    }
+  ]
+}
