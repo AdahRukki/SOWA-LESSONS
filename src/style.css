@@ -263,3 +263,18 @@
 .academic-lesson-term h4 small{font-weight:400;color:#687e91}
 .academic-lesson-term button{padding:10px 13px;margin:3px 6px 3px 0;background:#f4f8fc;border:1px solid #cadbe7;border-radius:7px;text-align:left;cursor:pointer}
 .academic-lesson-term p{font-size:13px;color:#748495}
+
+/* Phase 2 Module 12 — editable class directory */
+.class-management{margin:18px 0;padding:20px;background:#fff;border:1px solid #d6e0e9;border-radius:12px}
+.class-management h2{margin:0 0 8px}.class-management p,.class-management small{font-size:13px;color:#607789}
+.class-manage-add{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:12px;align-items:end;margin:16px 0}
+.class-manage-add label{display:flex;flex-direction:column;gap:7px;font-size:13px}
+.class-manage-add input,.class-manage-add select,.class-manage-row input,.class-manage-row select{padding:9px;border:1px solid #c4d3df;border-radius:7px;background:#fff;max-width:100%;box-sizing:border-box}
+.class-manage-add button,.class-manage-row button{padding:9px 12px;border:1px solid #17547e;border-radius:7px;background:#f4f8fc;color:#164b70;cursor:pointer}
+.class-manage-add button{background:#17547e;color:white}
+.class-manage-row button:disabled{opacity:.35;cursor:not-allowed}
+.class-manage-list{display:grid;gap:8px;margin:15px 0}
+.class-manage-row{display:grid;grid-template-columns:minmax(140px,1fr) minmax(130px,180px) auto;align-items:center;gap:12px;border:1px solid #e2e8ef;padding:12px;border-radius:9px}
+.class-manage-row>div:first-child{display:flex;flex-direction:column;gap:4px}
+.class-manage-row>div:last-child{display:flex;gap:6px;flex-wrap:wrap}
+@media(max-width:720px){.class-manage-row{grid-template-columns:1fr}.class-manage-row>div:last-child{justify-content:flex-start}}
