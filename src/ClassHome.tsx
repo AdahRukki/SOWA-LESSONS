@@ -8,6 +8,7 @@ import CurriculumBackup from './CurriculumBackup';
 import LegacyMigration,{type LegacyProject} from './LegacyMigration';
 import SubjectManager from './SubjectManager';
 import SubjectOverview from './SubjectOverview';
+import TemplateManager from './TemplateManager';
 import preloaded from './preloadedCurriculum.json';
 import {getClasses,type ClassId,type AcademicLibrary,type SchemeOfWork,type AcademicSubject,type Term} from './academic';
 
@@ -17,7 +18,7 @@ const groups=['Nursery','Primary','Junior Secondary','Senior Secondary'];
 const names=(classId:string)=>preloaded.schemes.filter(s=>s.class_id===classId);
 export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy,legacyCount,onLibraryChange,saved,saveError,onGenerate,legacyProjects,onMigrate,onOpenLesson}:Props){
  const [area,setArea]=useState<Area>('classes');
- const [tool,setTool]=useState<'sessions'|'classes'|'backup'|'migration'|null>(null);
+ const [tool,setTool]=useState<'sessions'|'classes'|'backup'|'migration'|'templates'|null>(null);
  const [openedSubject,setOpenedSubject]=useState<string|null>(null);
  const [editorTerm,setEditorTerm]=useState<Term>('First Term');
  const [overviewSubject,setOverviewSubject]=useState<string|null>(null);
@@ -46,12 +47,14 @@ export default function ClassHome({library,selected,onSelect,onBack,onOpenLegacy
    <button type="button" onClick={()=>setTool('sessions')}>Academic Sessions<small>Select or create a school year</small></button>
    <button type="button" onClick={()=>setTool('classes')}>Manage Classes<small>Rename, reorder, add or hide classes</small></button>
    <button type="button" onClick={()=>setTool('backup')}>Backups &amp; Recovery<small>Protect or restore curriculum</small></button>
+   <button type="button" onClick={()=>setTool('templates')}>Lesson Templates<small>Create and manage reusable lesson-note layouts</small></button>
    <button type="button" onClick={()=>setTool('migration')}>Migrate Old Lessons<small>Organize lessons made previously</small></button>
    <button type="button" onClick={onOpenLegacy}>Open Legacy Editor<small>{legacyCount} saved projects</small></button>
   </div>
    {tool==='sessions'&&<SessionManager library={library} onChange={onLibraryChange} classId={selected}/>}
    {tool==='classes'&&<ClassManager library={library} onChange={onLibraryChange}/>}
    {tool==='backup'&&<CurriculumBackup library={library} onChange={onLibraryChange} legacyCount={legacyCount}/>}
+   {tool==='templates'&&<TemplateManager/>}
    {tool==='migration'&&<LegacyMigration projects={legacyProjects} library={library} onMigrate={onMigrate}/>}
   </section>:area==='curriculum'?<><div className="academic-intro"><span className="studio-eyebrow">CURRICULUM LIBRARY</span><h1>Available Schemes of Work</h1><p>Browse bundled topics and content. Import reviewed schemes as drafts; existing work is preserved.</p></div><CurriculumInstaller library={library} onChange={onLibraryChange} initialClassId={curriculumFilter?.classId} initialSubject={curriculumFilter?.subject}/></>:!selected?<><div className="academic-intro"><span className="studio-eyebrow">ACADEMIC WORKSPACE</span><h1>Classes &amp; Subjects</h1><p>Choose a class to see available subjects, schemes of work and lesson notes.</p></div>
    <div className="studio-overview"><div><strong>{classes.filter(c=>c.active).length}</strong><span>Active classes</span></div><div><strong>{preloaded.schemes.length}</strong><span>Bundled term schemes</span></div><div><strong>{library.subjects.filter(s=>s.active).length}</strong><span>Installed subjects</span></div></div>
