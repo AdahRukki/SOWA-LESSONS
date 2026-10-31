@@ -5917,6 +5917,528 @@
           "source_page": 94
         }
       ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "First Term",
+      "source_page": 95,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Citizenship",
+          "content": "Meaning; Acquisition (birth, registration, naturalisation)",
+          "source_page": 95
+        },
+        {
+          "week": "2",
+          "topic": "Rights and Responsibilities",
+          "content": "Interdependence of rights and duties",
+          "source_page": 95
+        },
+        {
+          "week": "3",
+          "topic": "Constitution",
+          "content": "Meaning; Features; Importance in governance",
+          "source_page": 95
+        },
+        {
+          "week": "4",
+          "topic": "Government Institutions",
+          "content": "Executive, legislature, judiciary; Functions",
+          "source_page": 95
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 95
+        },
+        {
+          "week": "6",
+          "topic": "Civic Virtues",
+          "content": "Honesty, discipline, integrity, cooperation, tolerance",
+          "source_page": 95
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 95
+        },
+        {
+          "week": "8",
+          "topic": "Public Service",
+          "content": "Meaning; Importance; Challenges",
+          "source_page": 95
+        },
+        {
+          "week": "9",
+          "topic": "Democracy in Practice",
+          "content": "Elections, political parties, voting process",
+          "source_page": 95
+        },
+        {
+          "week": "10",
+          "topic": "Human Trafficking",
+          "content": "Meaning; Causes; Consequences; Prevention",
+          "source_page": 95
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 95
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 95
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 95
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "source_page": 96,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Population and Society",
+          "content": "Population growth; Effects on resources and development",
+          "source_page": 96
+        },
+        {
+          "week": "2",
+          "topic": "Social Problems",
+          "content": "Drug abuse, cultism, prostitution, terrorism",
+          "source_page": 96
+        },
+        {
+          "week": "3",
+          "topic": "Crime and National Security",
+          "content": "Types of crime; Effects; Security agencies",
+          "source_page": 96
+        },
+        {
+          "week": "4",
+          "topic": "Human Rights Abuse",
+          "content": "Examples in Nigeria; Remedies",
+          "source_page": 96
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 96
+        },
+        {
+          "week": "6",
+          "topic": "Electoral Malpractices",
+          "content": "Meaning; Examples; Effects on democracy",
+          "source_page": 96
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 96
+        },
+        {
+          "week": "8",
+          "topic": "Media and Society",
+          "content": "Roles of media; Influence on citizenship",
+          "source_page": 96
+        },
+        {
+          "week": "9",
+          "topic": "International Organisations",
+          "content": "UN, AU, ECOWAS; Roles in peace and security",
+          "source_page": 96
+        },
+        {
+          "week": "10",
+          "topic": "Global Citizenship",
+          "content": "Meaning; Qualities of a good global citizen",
+          "source_page": 96
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 96
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 96
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 96
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Third Term",
+      "source_page": 97,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Economic Values",
+          "content": "Thrift, saving, investment, entrepreneurship",
+          "source_page": 97
+        },
+        {
+          "week": "2",
+          "topic": "Taxation and Civic Duty",
+          "content": "Importance of paying tax for national development",
+          "source_page": 97
+        },
+        {
+          "week": "3",
+          "topic": "Environmental Citizenship",
+          "content": "Sanitation, waste management, protection of environment",
+          "source_page": 97
+        },
+        {
+          "week": "4",
+          "topic": "Human Rights Institutions",
+          "content": "NHRC, Legal Aid Council, NGOs; Roles",
+          "source_page": 97
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 97
+        },
+        {
+          "week": "6",
+          "topic": "Corruption and Accountability",
+          "content": "Transparency; Whistleblowing; Anti-corruption agencies",
+          "source_page": 97
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 97
+        },
+        {
+          "week": "8",
+          "topic": "National Development",
+          "content": "Meaning; Indicators; Citizens’ roles",
+          "source_page": 97
+        },
+        {
+          "week": "9",
+          "topic": "Social Institutions",
+          "content": "Family, religion, education; Their civic functions",
+          "source_page": 97
+        },
+        {
+          "week": "10",
+          "topic": "Civic Challenges in Nigeria",
+          "content": "Poverty, illiteracy, unemployment",
+          "source_page": 97
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 97
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 97
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 97
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "First Term",
+      "source_page": 98,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Elements of Design/Art",
+          "content": "Meaning of elements of design; Elements of design (line, shape, colour, texture, space, form, value); Applications of elements of design.",
+          "source_page": 98
+        },
+        {
+          "week": "2",
+          "topic": "Principles of Design/Art",
+          "content": "Meaning of principles of design; Principles of design (balance, contrast, harmony, rhythm, proportion, unity); Uses of principles of design.",
+          "source_page": 98
+        },
+        {
+          "week": "3",
+          "topic": "Crafts: Materials, Tools and Equipment",
+          "content": "Meaning of crafts; Materials/tools/equipment for making crafts; Craft locations in Nigeria.",
+          "source_page": 98
+        },
+        {
+          "week": "4",
+          "topic": "The Study of Colours (Part 1)",
+          "content": "Meaning of colour; Classification and mixing of colours; Importance of colour in painting and design.",
+          "source_page": 98
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "—",
+          "source_page": 98
+        },
+        {
+          "week": "6",
+          "topic": "The Study of Colours (Part 2)",
+          "content": "Local colours and their sources; Attributes/characteristics of colour; Uses of colour.",
+          "source_page": 98
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 98
+        },
+        {
+          "week": "8",
+          "topic": "The Study of Colours (Part 3)",
+          "content": "Making a colour wheel (practical).",
+          "source_page": 98
+        },
+        {
+          "week": "9",
+          "topic": "Colour Application in Crafts",
+          "content": "Colour production; Application of colour in craft works; Why we apply colours on crafts.",
+          "source_page": 98
+        },
+        {
+          "week": "10",
+          "topic": "Drawing",
+          "content": "Meaning of drawing; Types of drawing; Materials/media for drawing; Shading techniques in drawing; Purpose of drawing.",
+          "source_page": 98
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Revision of all topics.",
+          "source_page": 98
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "First Term Exam.",
+          "source_page": 98
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "End of term activities.",
+          "source_page": 98
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Second Term",
+      "source_page": 99,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Painting (Part 1)",
+          "content": "Meaning of painting; Steps in painting objects from observation.",
+          "source_page": 99
+        },
+        {
+          "week": "2",
+          "topic": "Painting (Part 2)",
+          "content": "Using colours; Types of paint; Types of painting.",
+          "source_page": 99
+        },
+        {
+          "week": "3",
+          "topic": "Production of Patterns/Design (Part 1)",
+          "content": "What is pattern/design?; Processes involved in making patterns/designs.",
+          "source_page": 99
+        },
+        {
+          "week": "4",
+          "topic": "Production of Patterns/Design (Part 2)",
+          "content": "Sources of motifs for patterns/designs; Types of patterns/designs; Differences between types of patterns.",
+          "source_page": 99
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "—",
+          "source_page": 99
+        },
+        {
+          "week": "6",
+          "topic": "Bead Work",
+          "content": "Meaning of bead work; Production of different forms of beads in different media of jewellery; Uses of beads as creative objects.",
+          "source_page": 99
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 99
+        },
+        {
+          "week": "8",
+          "topic": "History of Music",
+          "content": "Circumstances that led to the origin of music; Examples of early forms of music around the world.",
+          "source_page": 99
+        },
+        {
+          "week": "9",
+          "topic": "Musical Practices: Listening (Part 1)",
+          "content": "Listening and appreciating popular music in Nigeria; Some popular music in Nigeria’s transition period.",
+          "source_page": 99
+        },
+        {
+          "week": "10",
+          "topic": "Musical Practices: Listening (Part 2)",
+          "content": "Music styles; Musical instruments; Early forms of music.",
+          "source_page": 99
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Revision of all topics.",
+          "source_page": 99
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "Second Term Exam.",
+          "source_page": 99
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "End of term activities.",
+          "source_page": 99
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Third Term",
+      "source_page": 100,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Singing (Part 1)",
+          "content": "Meaning of singing; Running scale; Pitch identification.",
+          "source_page": 100
+        },
+        {
+          "week": "2",
+          "topic": "Singing (Part 2)",
+          "content": "Types of singing voices; Uses of breathing exercises for voice training.",
+          "source_page": 100
+        },
+        {
+          "week": "3",
+          "topic": "Singing (Part 3)",
+          "content": "Solfa notes of the National Anthem.",
+          "source_page": 100
+        },
+        {
+          "week": "4",
+          "topic": "Design in the Theatre",
+          "content": "Meaning of theatre design; Areas of theatre design; Elements of design in the theatre; Importance of theatre design.",
+          "source_page": 100
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "—",
+          "source_page": 100
+        },
+        {
+          "week": "6",
+          "topic": "Rehearsal",
+          "content": "Meaning of rehearsal; Activities involved in rehearsals; Stages of rehearsal; Uses of rehearsal.",
+          "source_page": 100
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 100
+        },
+        {
+          "week": "8",
+          "topic": "Types of Dance",
+          "content": "Types of dance (traditional, modern, creative, etc.).",
+          "source_page": 100
+        },
+        {
+          "week": "9",
+          "topic": "Dance as a Career",
+          "content": "Meaning of dance as a career; Career prospects of studying dance; Some dance artists in Nigeria.",
+          "source_page": 100
+        },
+        {
+          "week": "10",
+          "topic": "Self-Control",
+          "content": "Meaning of self-control; How to exercise self-control; Benefits of self-control; How to practise self-control.",
+          "source_page": 100
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Revision of all topics.",
+          "source_page": 100
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "Third Term Exam.",
+          "source_page": 100
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "End of session activities.",
+          "source_page": 100
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
