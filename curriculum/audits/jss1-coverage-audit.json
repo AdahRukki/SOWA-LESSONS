@@ -1,34 +1,15 @@
 {
   "format": "sowa-jss1-coverage-audit-v1",
   "source": "New curriculum for secondary sch.pdf",
-  "review_status": "subject-and-term coverage checked; weekly content not fully verified",
+  "review_status": "all 18 JSS1 subjects now have 3 terms; weekly wording not fully verified",
   "source_subjects": 18,
-  "bundled_subjects": 16,
+  "bundled_subjects": 18,
   "expected_term_schemes": 54,
-  "bundled_term_schemes": 48,
-  "missing_subjects": [
-    {
-      "subject": "ENGLISH STUDIES",
-      "terms": [
-        "First Term",
-        "Second Term",
-        "Third Term"
-      ],
-      "source_pages": "4–9"
-    },
-    {
-      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
-      "terms": [
-        "First Term",
-        "Second Term",
-        "Third Term"
-      ],
-      "source_pages": "19–21"
-    }
-  ],
+  "bundled_term_schemes": 54,
+  "missing_subjects": [],
   "notes": [
-    "All other 16 identified JSS1 subjects have three bundled terms.",
-    "Some imported weekly entries are condensed; full text fidelity still needs checking.",
-    "Do not interpret this coverage audit as curriculum approval."
+    "English Studies weekly entries summarize five parallel strands from PDF pages 4–9; original full text must be reviewed before approval.",
+    "Islamic Religious Studies entries cover 13 weeks per term from PDF pages 19–21, with condensed breakdown wording.",
+    "All bundled schemes are review-pending; this is coverage completion, not curriculum approval."
   ]
 }
