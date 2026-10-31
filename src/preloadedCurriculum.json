@@ -4120,6 +4120,267 @@
           "source_page": 72
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
+      "term": "First Term",
+      "source_page": 19,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to the Qur’an",
+          "content": "Meaning and importance of the Qur’an; revelation and preservation; difference between Qur’an and Hadith",
+          "source_page": 19
+        },
+        {
+          "week": "2",
+          "topic": "Qur’anic Recitation: Suratul Tariq (Q86:1–17)",
+          "content": "Recitation and memorization; translation and interpretation; lessons on Allah’s power and accountability",
+          "source_page": 19
+        },
+        {
+          "week": "3",
+          "topic": "Qur’anic Recitation: Suratul Buruj (Q85:1–22)",
+          "content": "Recitation and memorization; explanation of meanings; patience and steadfastness",
+          "source_page": 19
+        },
+        {
+          "week": "4",
+          "topic": "Qur’anic Recitation: Suratul Inshiqaq (Q84:1–25)",
+          "content": "Recitation, memorization, meanings; judgment and the Hereafter",
+          "source_page": 19
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Qur’anic Recitation and Interpretation (Surahs 84–86)",
+          "source_page": 19
+        },
+        {
+          "week": "6",
+          "topic": "Introduction to Tajwid",
+          "content": "Meaning, importance, pronunciation rules, fluency and recitation errors",
+          "source_page": 19
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 19
+        },
+        {
+          "week": "8",
+          "topic": "Rules of Nun Sakinah and Tanwin",
+          "content": "Idgham, Ikhfa, Izhar, Iqlab; Qur’anic examples and class recitation",
+          "source_page": 19
+        },
+        {
+          "week": "9",
+          "topic": "Rules of Mim Sakinah",
+          "content": "Idgham Shafawi, Ikhfa Shafawi, Izhar Shafawi; selected verses",
+          "source_page": 19
+        },
+        {
+          "week": "10",
+          "topic": "Importance of Tajwid",
+          "content": "Correct recitation and preservation of the Qur’an",
+          "source_page": 19
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review Surahs and Tajwid rules",
+          "source_page": 19
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 19
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 19
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
+      "term": "Second Term",
+      "source_page": 20,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Hadith",
+          "content": "Meaning, significance, difference between Hadith and Sunnah, preservation",
+          "source_page": 20
+        },
+        {
+          "week": "2",
+          "topic": "Hadith No. 11 (An-Nawawi Collection)",
+          "content": "Text, translation, interpretation; good manners and sincerity",
+          "source_page": 20
+        },
+        {
+          "week": "3",
+          "topic": "Hadith Nos. 12–13",
+          "content": "Purity, faith, humility and moral lessons",
+          "source_page": 20
+        },
+        {
+          "week": "4",
+          "topic": "Hadith Nos. 14–15",
+          "content": "Translation, daily application, discipline and honesty",
+          "source_page": 20
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment on Hadith Nos. 11–15",
+          "source_page": 20
+        },
+        {
+          "week": "6",
+          "topic": "Healthy Social Relationships in Islam",
+          "content": "Meaning, importance, kindness, cooperation and unity",
+          "source_page": 20
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 20
+        },
+        {
+          "week": "8",
+          "topic": "Corruption in Islam",
+          "content": "Meaning, forms, dangers, Islamic stance, honesty and accountability",
+          "source_page": 20
+        },
+        {
+          "week": "9",
+          "topic": "Spirituality and Essence of Man’s Creation",
+          "content": "Purpose of creation, spiritual growth, worship and duties",
+          "source_page": 20
+        },
+        {
+          "week": "10",
+          "topic": "Application of Islamic Ethics",
+          "content": "Honesty, justice and compassion",
+          "source_page": 20
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review Hadith and Tahdhib",
+          "source_page": 20
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 20
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 20
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
+      "term": "Third Term",
+      "source_page": 21,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Fiqh",
+          "content": "Meaning, sources of Islamic Law and importance",
+          "source_page": 21
+        },
+        {
+          "week": "2",
+          "topic": "Supererogatory Prayers (Nawafil)",
+          "content": "Meaning, examples and benefits of voluntary prayers",
+          "source_page": 21
+        },
+        {
+          "week": "3",
+          "topic": "Prohibited Prayer Times",
+          "content": "Times when prayer is prohibited; exceptions and significance",
+          "source_page": 21
+        },
+        {
+          "week": "4",
+          "topic": "Fundamental Principles of Iman",
+          "content": "Meaning, six Articles of Faith, importance",
+          "source_page": 21
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment on Fiqh and Iman",
+          "source_page": 21
+        },
+        {
+          "week": "6",
+          "topic": "Faith and Good Deeds",
+          "content": "Relationship between belief and actions; avoiding hypocrisy",
+          "source_page": 21
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 21
+        },
+        {
+          "week": "8",
+          "topic": "Application of Faith",
+          "content": "Honesty, prayer and service",
+          "source_page": 21
+        },
+        {
+          "week": "9",
+          "topic": "Review of Qur’an and Hadith",
+          "content": "Integration of faith and practice; recitation",
+          "source_page": 21
+        },
+        {
+          "week": "10",
+          "topic": "Ethical Conduct in Islam",
+          "content": "Modesty, patience and truthfulness",
+          "source_page": 21
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review Fiqh, Iman and ethics",
+          "source_page": 21
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 21
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 21
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
