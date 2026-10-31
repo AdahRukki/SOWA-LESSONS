@@ -2,11 +2,11 @@ import {useState} from 'react';
 import SchemeImport from './SchemeImport';
 import {reviewScheme,canApproveScheme,setSchemeReviewStatus} from './schemeReview';
 import {TERMS,createScheme,addTopic,type AcademicLibrary,type AcademicSubject,type Term,type SchemeTopic,type SchemeOfWork} from './academic';
-type Props={library:AcademicLibrary;subject:AcademicSubject;onChange:(next:AcademicLibrary)=>void;onBack:()=>void;onGenerate:(scheme:SchemeOfWork,subject:AcademicSubject)=>void};
+type Props={library:AcademicLibrary;subject:AcademicSubject;onChange:(next:AcademicLibrary)=>void;onBack:()=>void;onGenerate:(scheme:SchemeOfWork,subject:AcademicSubject)=>void;initialTerm?:Term};
 const fields=[['subtopics','Subtopics'],['learningObjectives','Learning objectives'],['contentOutline','Content outline'],['activities','Suggested activities'],['resources','Teaching resources']] as const;
 const split=(value:string)=>value.split('\n');
-export default function SchemeEditor({library,subject,onChange,onBack,onGenerate}:Props){
- const [term,setTerm]=useState<Term>('First Term');
+export default function SchemeEditor({library,subject,onChange,onBack,onGenerate,initialTerm='First Term'}:Props){
+ const [term,setTerm]=useState<Term>(initialTerm);
  const [newTitle,setNewTitle]=useState<Record<string,string>>({});
  const [openWeeks,setOpenWeeks]=useState<Record<string,boolean>>({});
  const [weekCount,setWeekCount]=useState(12);
