@@ -6700,6 +6700,180 @@
           "source_page": 103
         }
       ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "MATHEMATICS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 619,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Whole Numbers 1–99 (Part 1: 11–20)",
+          "content": "Counting, recognizing and writing 11–20; tens and ones; ordering 11–20.",
+          "source_page": 619
+        },
+        {
+          "week": "2",
+          "topic": "Whole Numbers 1–99 (Part 2: 21–50)",
+          "content": "Counting and writing 21–50; skip counting by 10s; number patterns; ordering and comparison.",
+          "source_page": 619
+        },
+        {
+          "week": "3",
+          "topic": "Whole Numbers 1–99 (Part 3: 51–99)",
+          "content": "Counting and writing 51–99; skip counting by 10s; tens and ones; ascending and descending order.",
+          "source_page": 619
+        },
+        {
+          "week": "4",
+          "topic": "Whole Numbers: Quantitative Aptitude on Ordering of Numbers",
+          "content": "Greater than, less than and equal to; ascending and descending order; before, after and between; number lines.",
+          "source_page": 619
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4.",
+          "source_page": 619
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 619
+        },
+        {
+          "week": "7",
+          "topic": "Whole Numbers: Quantitative Aptitude on Addition and Subtraction",
+          "content": "Addition and subtraction within 20 without regrouping; word problems, mental mathematics and practical applications.",
+          "source_page": 619
+        },
+        {
+          "week": "8",
+          "topic": "Open Sentences (1)",
+          "content": "Missing numbers in addition sentences; missing addends using objects; number sentence gaps and open sentences within 10.",
+          "source_page": 620
+        },
+        {
+          "week": "9",
+          "topic": "Open Sentences (2)",
+          "content": "Missing numbers in subtraction; missing subtrahends; mixed open sentences and problems within 20.",
+          "source_page": 620
+        },
+        {
+          "week": "10",
+          "topic": "Money (Introduction)",
+          "content": "Nigerian coins ₦1 and ₦2, notes ₦5 ₦10 ₦20 ₦50; value, counting money and transactions within ₦50.",
+          "source_page": 620
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of numbers 1–99, ordering, open sentences and money.",
+          "source_page": 620
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment.",
+          "source_page": 620
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 620
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "MATHEMATICS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 621,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Fractions (Introduction)",
+          "content": "Halves and quarters; equal parts; shading half of shapes; sharing objects equally.",
+          "source_page": 621
+        },
+        {
+          "week": "2",
+          "topic": "Length (Measurement)",
+          "content": "Long and short; comparisons; non-standard units; arranging objects by length; awareness of metres and centimetres.",
+          "source_page": 621
+        },
+        {
+          "week": "3",
+          "topic": "Weight",
+          "content": "Heavy and light; comparing weights; balance scales; non-standard measures and practical comparisons.",
+          "source_page": 621
+        },
+        {
+          "week": "4",
+          "topic": "Time",
+          "content": "Day and night; parts of the day; days of the week; yesterday, today and tomorrow; clock face; o'clock times.",
+          "source_page": 621
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4.",
+          "source_page": 621
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 621
+        },
+        {
+          "week": "7",
+          "topic": "Three Dimensional Shapes",
+          "content": "Cubes, cuboids, spheres, cylinders and cones; faces, edges and corners; sorting and real objects.",
+          "source_page": 621
+        },
+        {
+          "week": "8",
+          "topic": "Two Dimensional Shapes",
+          "content": "Circles, triangles, squares, rectangles and ovals; sides, corners, drawing and sorting shapes.",
+          "source_page": 622
+        },
+        {
+          "week": "9",
+          "topic": "Two Dimensional Shapes (Continued) & Patterns",
+          "content": "Patterns; 2D and 3D relationship; combining shapes, symmetry and practical art activities.",
+          "source_page": 622
+        },
+        {
+          "week": "10",
+          "topic": "Data Collection (Introduction)",
+          "content": "Gathering class data; tally marks; simple tables; pictographs and bar charts.",
+          "source_page": 622
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of fractions, length, weight, time, shapes and data collection.",
+          "source_page": 622
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment.",
+          "source_page": 622
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 622
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
