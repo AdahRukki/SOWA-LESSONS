@@ -1807,6 +1807,267 @@
           "source_page": 34
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "INTERMEDIATE SCIENCE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 35,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Intermediate Science",
+          "content": "Meaning and importance of science; Branches and scope of science; Role of science in everyday life; Attitudes of a good scientist",
+          "source_page": 35
+        },
+        {
+          "week": "2",
+          "topic": "Environmental Degradation: Erosion",
+          "content": "Meaning and types of erosion; Causes and effects; Preventive measures (terracing, tree planting, contour ridges); Demonstration of soil erosion",
+          "source_page": 35
+        },
+        {
+          "week": "3",
+          "topic": "Environmental Degradation: Flooding",
+          "content": "Meaning and causes; Effects on environment and human life; Flood control measures; Community prevention roles",
+          "source_page": 35
+        },
+        {
+          "week": "4",
+          "topic": "Environmental Degradation: Bush Burning",
+          "content": "Meaning; Causes and effects on soil, air and organisms; Alternatives to bush burning; Environmental conservation",
+          "source_page": 35
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 35
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 35
+        },
+        {
+          "week": "7",
+          "topic": "Climate and Weather",
+          "content": "Difference between climate and weather; Factors affecting weather; Measuring weather elements; Effects on farming and human activities",
+          "source_page": 35
+        },
+        {
+          "week": "8",
+          "topic": "Environmental Protection",
+          "content": "Meaning and importance; Individual and community roles; Government agencies (NESREA, FEPA, etc.); Sustainability activities",
+          "source_page": 35
+        },
+        {
+          "week": "9",
+          "topic": "Sanitation and Waste Management",
+          "content": "Meaning of sanitation and waste; Types and sources; Disposal methods; Recycling and reusing waste materials",
+          "source_page": 35
+        },
+        {
+          "week": "10",
+          "topic": "Review on Environmental Degradation",
+          "content": "Summary of erosion, flooding and bush burning; Preventive measures; Project drawing an eroded area or floodplain",
+          "source_page": 35
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in Term 1",
+          "source_page": 35
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 35
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 35
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "INTERMEDIATE SCIENCE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 36,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Matter – Basic Concepts",
+          "content": "Meaning of matter; States: solid, liquid, gas; Properties; Changes in states: melting, freezing, evaporation and condensation",
+          "source_page": 36
+        },
+        {
+          "week": "2",
+          "topic": "Living Matter",
+          "content": "Meaning and characteristics of living things; Plants and animals; Growth, respiration and reproduction; Differences between living and non-living matter",
+          "source_page": 36
+        },
+        {
+          "week": "3",
+          "topic": "Non-Living Matter",
+          "content": "Meaning and examples; Physical and chemical properties; Importance; Relationship between living and non-living matter",
+          "source_page": 36
+        },
+        {
+          "week": "4",
+          "topic": "Energy",
+          "content": "Meaning and forms (light, heat, sound, kinetic, potential); Transformations; Sources and uses; Everyday importance",
+          "source_page": 36
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 36
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 36
+        },
+        {
+          "week": "7",
+          "topic": "Renewable Energy",
+          "content": "Meaning and examples: solar, wind, hydro, biomass; Advantages; Local sources and demonstrations; Limitations",
+          "source_page": 36
+        },
+        {
+          "week": "8",
+          "topic": "Non-Renewable Energy",
+          "content": "Meaning and examples: coal, petroleum, natural gas; Uses; Environmental effects; Conservation measures",
+          "source_page": 36
+        },
+        {
+          "week": "9",
+          "topic": "Energy Conversion and Conservation",
+          "content": "Mechanical-to-electrical conversion and other examples; Law of conservation of energy; Saving energy; Demonstration",
+          "source_page": 36
+        },
+        {
+          "week": "10",
+          "topic": "Review on Matter and Energy",
+          "content": "Matter, living and non-living things; Renewable versus non-renewable energy; Practical revision",
+          "source_page": 36
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in Term 2",
+          "source_page": 36
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 36
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 36
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "INTERMEDIATE SCIENCE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 37,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Skill Acquisition",
+          "content": "Meaning and importance; Vocational skills: technical, agricultural, home economics and ICT; National development; Entrepreneurship",
+          "source_page": 37
+        },
+        {
+          "week": "2",
+          "topic": "Ethical Issues in Science and Development",
+          "content": "Meaning of ethics; Positive and negative uses of science; Responsible technology; Pollution, cloning and genetic modification",
+          "source_page": 37
+        },
+        {
+          "week": "3",
+          "topic": "Familiarisation Tour of the Laboratory and Workshop",
+          "content": "Purpose of laboratories and workshops; Regulations; Identifying areas; Symbols and safety signs",
+          "source_page": 37
+        },
+        {
+          "week": "4",
+          "topic": "Workshop Accidents and Safety",
+          "content": "Causes of accidents; Rules; First aid; Basic protective equipment demonstration",
+          "source_page": 37
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4",
+          "source_page": 37
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 37
+        },
+        {
+          "week": "7",
+          "topic": "Materials: Wood, Metals, Ceramics, and Building Materials",
+          "content": "Types and properties; Uses; Advantages and disadvantages; Identification by observation",
+          "source_page": 37
+        },
+        {
+          "week": "8",
+          "topic": "Workshop Processes: Drawing Practice",
+          "content": "Meaning; Freehand and technical drawing; Instruments and uses; Lines and shapes",
+          "source_page": 37
+        },
+        {
+          "week": "9",
+          "topic": "Workshop Processes: Board Practice",
+          "content": "Meaning; Tools and materials; Layout and lettering on drawing boards; Safe handling",
+          "source_page": 37
+        },
+        {
+          "week": "10",
+          "topic": "Machines and Tools: Woodwork & Metalwork Hand Tools",
+          "content": "Identifying tools; Functions; Maintenance and storage; Demonstrations",
+          "source_page": 37
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered in Term 3",
+          "source_page": 37
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 38
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 38
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
