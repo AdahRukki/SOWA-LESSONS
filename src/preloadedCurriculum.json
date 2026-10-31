@@ -226,6 +226,181 @@
           "source_page": 12
         }
       ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "MATHEMATICS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 617,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Whole Numbers 1–5",
+          "content": "Counting objects 1–5; recognizing, identifying and writing numbers 1–5; matching numbers to quantities; ordering 1–5.",
+          "source_page": 617
+        },
+        {
+          "week": "2",
+          "topic": "Whole Number 0 (Zero)",
+          "content": "Zero as nothing or an empty set; recognizing and writing 0; counting 0–5.",
+          "source_page": 617
+        },
+        {
+          "week": "3",
+          "topic": "Whole Numbers 6–9",
+          "content": "Counting, recognizing and writing 6–9; matching numbers to quantities; ordering 1–9.",
+          "source_page": 617
+        },
+        {
+          "week": "4",
+          "topic": "Whole Number 10",
+          "content": "Counting to 10; identifying and writing 10; recognizing a complete set of ten; ordering 0–10.",
+          "source_page": 617
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4.",
+          "source_page": 617
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest.",
+          "source_page": 617
+        },
+        {
+          "week": "7",
+          "topic": "Addition (Introduction)",
+          "content": "Addition as putting together or adding more; objects, plus and equals signs; addition within 5 in vertical and horizontal formats; word problems.",
+          "source_page": 617
+        },
+        {
+          "week": "8",
+          "topic": "Addition (Continued)",
+          "content": "Addition within 10 with objects and pictures; adding zero; addition facts and word problems; practical activities with everyday objects.",
+          "source_page": 617
+        },
+        {
+          "week": "9",
+          "topic": "Subtraction (Introduction)",
+          "content": "Subtraction as taking away; using objects, minus sign; subtraction within 5 in vertical and horizontal formats; word problems.",
+          "source_page": 618
+        },
+        {
+          "week": "10",
+          "topic": "Subtraction (Continued)",
+          "content": "Subtraction within 10 with objects and pictures; subtracting zero; subtraction facts and word problems; practical activities.",
+          "source_page": 618
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review Numbers 0–10, Addition and Subtraction.",
+          "source_page": 618
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment.",
+          "source_page": 618
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends.",
+          "source_page": 618
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "NIGERIAN HISTORY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 22,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to History",
+          "content": "Meaning; importance; sources of Nigerian history (oral, written, archaeology, artifacts, traditions).",
+          "source_page": 22
+        },
+        {
+          "week": "2",
+          "topic": "Nigerian Peoples and Languages",
+          "content": "Major ethnic groups and their locations; languages and diversity.",
+          "source_page": 22
+        },
+        {
+          "week": "3",
+          "topic": "Early Settlements in Nigeria",
+          "content": "Nok culture, Igbo-Ukwu, Ife, Benin.",
+          "source_page": 22
+        },
+        {
+          "week": "4",
+          "topic": "Origins of Nigerian Societies",
+          "content": "Myths of origin (Yoruba, Hausa, Igbo and others).",
+          "source_page": 22
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 22
+        },
+        {
+          "week": "6",
+          "topic": "Traditional Political Systems I",
+          "content": "Yoruba kingdoms (Oyo, Ife); Igbo village democracy.",
+          "source_page": 22
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 22
+        },
+        {
+          "week": "8",
+          "topic": "Traditional Political Systems II",
+          "content": "Hausa/Fulani emirate system; Kanem-Bornu empire.",
+          "source_page": 22
+        },
+        {
+          "week": "9",
+          "topic": "Nigerian Art and Culture",
+          "content": "Traditional art forms; festivals; cultural identity.",
+          "source_page": 22
+        },
+        {
+          "week": "10",
+          "topic": "Early Trade and Exchange",
+          "content": "Local trade; Trans-Saharan trade; trade routes.",
+          "source_page": 22
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 22
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 22
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 22
+        }
+      ]
     }
-  ]
+  ],
+  "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
 }
