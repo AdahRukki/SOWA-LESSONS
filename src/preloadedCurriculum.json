@@ -4381,6 +4381,270 @@
           "source_page": 21
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "ENGLISH STUDIES",
+      "term": "First Term",
+      "source_page": 4,
+      "review_status": "needs_review",
+      "extraction_note": "Five parallel source strands summarized per week. Verify complete wording against PDF prior to approval.",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Organs of speech; nouns",
+          "content": "Family reading, LSRW; types of composition; meaning of literature",
+          "source_page": 4
+        },
+        {
+          "week": "2",
+          "topic": "Monophthongs; pronouns",
+          "content": "Reading strategies; composition structure; features/types of literature",
+          "source_page": 4
+        },
+        {
+          "week": "3",
+          "topic": "Vowel /i:/; verbs",
+          "content": "SPQ3R, family vocabulary; composition structure; purpose of literature and prose",
+          "source_page": 4
+        },
+        {
+          "week": "4",
+          "topic": "Vowel /i/; verbs continued",
+          "content": "Main/supporting ideas, school subjects; descriptive vs narrative essays; prose elements",
+          "source_page": 4
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Examination across five English strands",
+          "source_page": 4
+        },
+        {
+          "week": "6",
+          "topic": "Vowel /e/; adjectives",
+          "content": "Main/supporting ideas; paragraph writing; introduction to drama",
+          "source_page": 4
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "Break across five strands",
+          "source_page": 4
+        },
+        {
+          "week": "8",
+          "topic": "Vowel /æ/; adverbs",
+          "content": "Interpretation and projection questions; market description; drama elements",
+          "source_page": 5
+        },
+        {
+          "week": "9",
+          "topic": "Vowel /a:/; prepositions",
+          "content": "SPQ3R; letter types; folktales and drama text",
+          "source_page": 5
+        },
+        {
+          "week": "10",
+          "topic": "Vowel /p/; conjunctions",
+          "content": "Comprehension question levels; informal letter; figures of speech",
+          "source_page": 5
+        },
+        {
+          "week": "11",
+          "topic": "Vowel /ɔ:/; adverbials",
+          "content": "Opinion questions; informal letter; drama and figures of speech",
+          "source_page": 5
+        },
+        {
+          "week": "12",
+          "topic": "Revision and Examination",
+          "content": "Review of texts, informal letters and figures of speech",
+          "source_page": 5
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Term closing",
+          "source_page": 5
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "ENGLISH STUDIES",
+      "term": "Second Term",
+      "source_page": 6,
+      "review_status": "needs_review",
+      "extraction_note": "Five parallel source strands summarized per week. Verify complete wording against PDF prior to approval.",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Vowels /u/, /u:/; adverbials",
+          "content": "Conclusion questions; formal letter; African folktales",
+          "source_page": 6
+        },
+        {
+          "week": "2",
+          "topic": "Vowel /u:/; simple present",
+          "content": "Projection questions, library vocabulary; formal letter; poetry introduction",
+          "source_page": 6
+        },
+        {
+          "week": "3",
+          "topic": "Vowel /ɑ:/; simple past",
+          "content": "Recall questions, marriage vocabulary; guided composition; oral/written poetry",
+          "source_page": 6
+        },
+        {
+          "week": "4",
+          "topic": "Vowel /ɜ:/; present continuous",
+          "content": "Author's mood; narrative essay; features of drama",
+          "source_page": 6
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Examination across five English strands",
+          "source_page": 6
+        },
+        {
+          "week": "6",
+          "topic": "Vowel /ə/; past continuous",
+          "content": "Author's attitude, child labour vocabulary; argumentative essay; prose",
+          "source_page": 6
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "Break across five strands",
+          "source_page": 6
+        },
+        {
+          "week": "8",
+          "topic": "Vowel contrasts; present and past",
+          "content": "Author's style; HIV/AIDS expository writing; myths and legends",
+          "source_page": 7
+        },
+        {
+          "week": "9",
+          "topic": "Vowel contrasts; future tense",
+          "content": "Reading diagrams/maps, prefixes; argumentative sequence; myths and legends",
+          "source_page": 7
+        },
+        {
+          "week": "10",
+          "topic": "Diphthongs; past tense",
+          "content": "Interpretation of maps; village festival composition; drama",
+          "source_page": 7
+        },
+        {
+          "week": "11",
+          "topic": "General Revision",
+          "content": "Composition and literature revision",
+          "source_page": 7
+        },
+        {
+          "week": "12",
+          "topic": "End of Term Examination",
+          "content": "Examination",
+          "source_page": 7
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Term closing",
+          "source_page": 7
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "ENGLISH STUDIES",
+      "term": "Third Term",
+      "source_page": 8,
+      "review_status": "needs_review",
+      "extraction_note": "Five parallel source strands summarized per week. Verify complete wording against PDF prior to approval.",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Diphthongs; active and passive voice",
+          "content": "Spatial descriptions, air transport vocabulary; expository essay; prose themes",
+          "source_page": 8
+        },
+        {
+          "week": "2",
+          "topic": "Diphthong identification; active voice",
+          "content": "Introductions/conclusions, fishing vocabulary; writing; prose setting",
+          "source_page": 8
+        },
+        {
+          "week": "3",
+          "topic": "Consonant sounds; passive voice",
+          "content": "Keywords, kitchen vocabulary; Ebola essay; poetry language",
+          "source_page": 8
+        },
+        {
+          "week": "4",
+          "topic": "Syllables; active voice",
+          "content": "Spatial descriptions, sick-bay vocabulary; argumentative writing; myths and legends",
+          "source_page": 8
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "Examination across five English strands",
+          "source_page": 8
+        },
+        {
+          "week": "6",
+          "topic": "Syllables continued; passive voice",
+          "content": "Comprehension, cooking vocabulary; argumentative essay; poetry and figures of speech",
+          "source_page": 8
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "Break across five strands",
+          "source_page": 8
+        },
+        {
+          "week": "8",
+          "topic": "Consonant clusters; tag questions",
+          "content": "Topic sentences, teaching vocabulary; argumentative versus expository essay; drama",
+          "source_page": 9
+        },
+        {
+          "week": "9",
+          "topic": "Linking sounds; polar and tag questions",
+          "content": "Comprehension and spelling; tree-planting essay; similes/metaphors",
+          "source_page": 9
+        },
+        {
+          "week": "10",
+          "topic": "Contrasting diphthongs; adverbials",
+          "content": "Comprehension and spelling; oral composition on school rules; drama",
+          "source_page": 9
+        },
+        {
+          "week": "11",
+          "topic": "Contrasting diphthongs; grammar revision",
+          "content": "Reading for evaluation; essay revision; euphemism and pun",
+          "source_page": 9
+        },
+        {
+          "week": "12",
+          "topic": "End of Term Examination",
+          "content": "Examination",
+          "source_page": 9
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Term closing",
+          "source_page": 9
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
