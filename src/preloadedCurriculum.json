@@ -2329,6 +2329,231 @@
           "source_page": 44
         }
       ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "BUSINESS STUDIES",
+      "term": "First Term",
+      "source_page": 45,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Overview of Business Studies",
+          "content": "Meaning of Business Studies; Components of Business Studies; Importance/Benefits of Business Studies; Career opportunities",
+          "source_page": 45
+        },
+        {
+          "week": "2",
+          "topic": "Effective Office Practice I",
+          "content": "The office: meaning, types, and functions",
+          "source_page": 45
+        },
+        {
+          "week": "3",
+          "topic": "Effective Office Practice II",
+          "content": "The office staff – clerical staff, functions, qualities",
+          "source_page": 45
+        },
+        {
+          "week": "4",
+          "topic": "Right Attitude to Work",
+          "content": "Punctuality and regularity; Rewards and punishment; Devotion to duty; Effects on productivity and development",
+          "source_page": 45
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 45
+        },
+        {
+          "week": "6",
+          "topic": "Departments in an Office/Organisation",
+          "content": "Various departments in an organisation and their functions",
+          "source_page": 45
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 45
+        },
+        {
+          "week": "8",
+          "topic": "Commerce – The Heart of Business I",
+          "content": "Introduction, meaning, importance of commerce; Activities that aid commerce (aids to trade)",
+          "source_page": 45
+        },
+        {
+          "week": "9",
+          "topic": "Commerce – The Heart of Business II",
+          "content": "Divisions of commerce – Home trade, foreign trade (imports, exports, entrepôt)",
+          "source_page": 45
+        },
+        {
+          "week": "10",
+          "topic": "Production I",
+          "content": "Meaning and stages (types) of production; Effects on society and environment",
+          "source_page": 45
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision / Examination / Closing",
+          "content": "—",
+          "source_page": 45
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "BUSINESS STUDIES",
+      "term": "Second Term",
+      "source_page": 46,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Production II",
+          "content": "Factors of production – meaning, types, rewards, features, importance",
+          "source_page": 46
+        },
+        {
+          "week": "2",
+          "topic": "Types of Occupation",
+          "content": "Meaning of occupation; Types – direct and indirect services; Factors influencing occupation",
+          "source_page": 46
+        },
+        {
+          "week": "3",
+          "topic": "Honesty in Business",
+          "content": "Meaning of truthfulness; Attributes; Causes of dishonesty; Rewards/consequences",
+          "source_page": 46
+        },
+        {
+          "week": "4",
+          "topic": "Fairplay and Ethics of Business",
+          "content": "Fairplay; Meaning of ethics; Ethics guiding sourcing of chemicals; Meaning and facts about chemicals; Safe handling, distribution, and disposal",
+          "source_page": 46
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 46
+        },
+        {
+          "week": "6",
+          "topic": "Entrepreneurship",
+          "content": "Meaning of entrepreneurship, enterprise, self-employment; Successful entrepreneurs (local, national, international); Importance",
+          "source_page": 46
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 46
+        },
+        {
+          "week": "8",
+          "topic": "Forms of Business Organisation I",
+          "content": "Sole proprietorship; Partnership",
+          "source_page": 46
+        },
+        {
+          "week": "9",
+          "topic": "Forms of Business Organisation II",
+          "content": "Limited liability companies; Co-operative societies; Advantages and disadvantages",
+          "source_page": 46
+        },
+        {
+          "week": "10",
+          "topic": "Consumer, Market and Society",
+          "content": "Meaning of consumer, market, society; Consumer education – meaning, need, importance, consequences of lack of it",
+          "source_page": 46
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision / Examination / Closing",
+          "content": "—",
+          "source_page": 46
+        }
+      ]
+    },
+    {
+      "class_id": "jss-1",
+      "subject": "BUSINESS STUDIES",
+      "term": "Third Term",
+      "source_page": 47,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Book-keeping as a Tool in Business I",
+          "content": "Introduction to book-keeping; Meaning; Importance; Qualities of a good book-keeper; Common practices",
+          "source_page": 47
+        },
+        {
+          "week": "2",
+          "topic": "Source Documents and Special Journals I",
+          "content": "Meaning/Uses of source documents; Types of source documents",
+          "source_page": 47
+        },
+        {
+          "week": "3",
+          "topic": "Source Documents and Special Journals II",
+          "content": "Journals: meaning, types; Format of a sales journal",
+          "source_page": 47
+        },
+        {
+          "week": "4",
+          "topic": "Double Entry Book-keeping",
+          "content": "Meaning; Treatment of assets, liabilities, expenses; Meaning and format of ledger; Classification of accounts",
+          "source_page": 47
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Examination",
+          "content": "—",
+          "source_page": 47
+        },
+        {
+          "week": "6",
+          "topic": "Keyboarding as a Communication Tool I",
+          "content": "Introduction to keyboarding; Meaning; Importance; Correct sitting posture",
+          "source_page": 47
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "—",
+          "source_page": 47
+        },
+        {
+          "week": "8",
+          "topic": "Keyboarding as a Communication Tool II",
+          "content": "The typewriter – meaning, types, parts; Computer keyboard – meaning, uses, similarities with typewriter",
+          "source_page": 47
+        },
+        {
+          "week": "9",
+          "topic": "Keyboarding as a Communication Tool III",
+          "content": "Care of the computer; Items used; Getting ready to keyboard (paper sizes, techniques, rows, divisions)",
+          "source_page": 47
+        },
+        {
+          "week": "10",
+          "topic": "Keyboarding as a Communication Tool IV",
+          "content": "Alphanumeric keys; Service keys; Function keys; Control keys; Special keys and their functions; Spacing and punctuation marks; Short forms",
+          "source_page": 47
+        },
+        {
+          "week": "11–13",
+          "topic": "Revision / Examination / Closing",
+          "content": "—",
+          "source_page": 47
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
