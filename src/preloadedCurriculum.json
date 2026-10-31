@@ -5395,6 +5395,528 @@
           "source_page": 88
         }
       ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
+      "term": "First Term",
+      "source_page": 89,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Revision of JSS1 Qur’anic Recitations",
+          "content": "Review of Surahs: Tariq, Buruj, Inshiqaq; Pronunciation and Tajwid practice",
+          "source_page": 89
+        },
+        {
+          "week": "2",
+          "topic": "Qur’anic Recitation: Suratul A’la (Q87:1–19)",
+          "content": "Recitation and memorization; Translation and moral lessons; Lessons on glorifying Allah",
+          "source_page": 89
+        },
+        {
+          "week": "3",
+          "topic": "Qur’anic Recitation: Suratul Ghashiyah (Q88:1–26)",
+          "content": "Meaning and interpretation; Lessons on the Hereafter",
+          "source_page": 89
+        },
+        {
+          "week": "4",
+          "topic": "Qur’anic Recitation: Suratul Fajr (Q89:1–30)",
+          "content": "Recitation and memorization; Explanation of moral messages on patience and obedience",
+          "source_page": 89
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment on Surahs and Tajwid Rules",
+          "source_page": 89
+        },
+        {
+          "week": "6",
+          "topic": "Rules of Madd (Prolongation)",
+          "content": "Meaning and types of Madd; Application during recitation",
+          "source_page": 89
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 89
+        },
+        {
+          "week": "8",
+          "topic": "Rules of Qalqalah",
+          "content": "Meaning and letters of Qalqalah; Examples and practical application",
+          "source_page": 89
+        },
+        {
+          "week": "9",
+          "topic": "Rules of Idgham and Ikhfa (Revision and Practice)",
+          "content": "Review of previous Tajwid rules; Recitation drills",
+          "source_page": 89
+        },
+        {
+          "week": "10",
+          "topic": "The Importance of Perfecting Recitation",
+          "content": "Role of Tajwid in Qur’anic understanding and preservation",
+          "source_page": 89
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of Surahs and Tajwid",
+          "source_page": 89
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 89
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 89
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
+      "term": "Second Term",
+      "source_page": 89,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to the Hadith of the Prophet (SAW)",
+          "content": "Review of Hadith meaning; Transmission and preservation of Hadith",
+          "source_page": 89
+        },
+        {
+          "week": "2",
+          "topic": "Selected Hadith on Good Character",
+          "content": "Importance of honesty, humility, and patience; Moral lessons from Hadith",
+          "source_page": 90
+        },
+        {
+          "week": "3",
+          "topic": "Hadith on Brotherhood and Unity",
+          "content": "Concept of brotherhood in Islam; The Prophet’s teachings on peace and unity",
+          "source_page": 90
+        },
+        {
+          "week": "4",
+          "topic": "Hadith on Justice and Equality",
+          "content": "Islamic view on fairness and equality; Applications in daily life",
+          "source_page": 90
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment on Hadith Studies",
+          "source_page": 90
+        },
+        {
+          "week": "6",
+          "topic": "Tahdhib: Good Manners and Social Conduct",
+          "content": "Islamic etiquette in speech, dress, and behavior",
+          "source_page": 90
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 90
+        },
+        {
+          "week": "8",
+          "topic": "Tahdhib: Respect for Parents and Elders",
+          "content": "Importance of filial piety; Lessons from the Prophet’s examples",
+          "source_page": 90
+        },
+        {
+          "week": "9",
+          "topic": "Avoidance of Corruption and Dishonesty",
+          "content": "Islamic teachings on truth and integrity",
+          "source_page": 90
+        },
+        {
+          "week": "10",
+          "topic": "The Role of the Muslim in Society",
+          "content": "Living as a good Muslim in community and school",
+          "source_page": 90
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of Hadith and Tahdhib",
+          "source_page": 90
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 90
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 90
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "ISLAMIC RELIGIOUS STUDIES (IRS)",
+      "term": "Third Term",
+      "source_page": 91,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Review of Fiqh from JSS1",
+          "content": "Overview of prayers and Iman",
+          "source_page": 91
+        },
+        {
+          "week": "2",
+          "topic": "The Pillars of Islam (Arkan al-Islam)",
+          "content": "Shahadah, Salah, Sawm, Zakah, Hajj; Significance of each pillar",
+          "source_page": 91
+        },
+        {
+          "week": "3",
+          "topic": "Types of Fasting (Sawm)",
+          "content": "Obligatory, voluntary, and prohibited fasting; Rules and benefits",
+          "source_page": 91
+        },
+        {
+          "week": "4",
+          "topic": "Zakah and Charity",
+          "content": "Meaning, purpose, and recipients; Social benefits of giving",
+          "source_page": 91
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment on Pillars of Islam and Fiqh",
+          "source_page": 91
+        },
+        {
+          "week": "6",
+          "topic": "Faith in Angels and Prophets",
+          "content": "Roles and responsibilities of Angels; Importance of Prophets as guides",
+          "source_page": 91
+        },
+        {
+          "week": "7",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 91
+        },
+        {
+          "week": "8",
+          "topic": "Faith in the Day of Judgment",
+          "content": "Description of life after death; Preparation for accountability",
+          "source_page": 91
+        },
+        {
+          "week": "9",
+          "topic": "Faith in Divine Decree (Qadar)",
+          "content": "Meaning and acceptance of destiny; Balancing belief and effort",
+          "source_page": 91
+        },
+        {
+          "week": "10",
+          "topic": "Applying Iman in Daily Life",
+          "content": "Living in obedience and submission to Allah",
+          "source_page": 91
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of Fiqh and Iman",
+          "source_page": 91
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 91
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 91
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "NIGERIAN HISTORY",
+      "term": "First Term",
+      "source_page": 92,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Independence of Nigeria",
+          "content": "Events of October 1, 1960; Prime Minister and Governor-General",
+          "source_page": 92
+        },
+        {
+          "week": "2",
+          "topic": "First Republic (1963–1966)",
+          "content": "Leaders; Political parties; Achievements and problems",
+          "source_page": 92
+        },
+        {
+          "week": "3",
+          "topic": "Military Rule in Nigeria I",
+          "content": "Causes of the January 1966 coup",
+          "source_page": 92
+        },
+        {
+          "week": "4",
+          "topic": "Military Rule in Nigeria II",
+          "content": "Counter-coup of July 1966; Gowon’s regime",
+          "source_page": 92
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 92
+        },
+        {
+          "week": "6",
+          "topic": "Nigerian Civil War I",
+          "content": "Causes of the war (1967–1970)",
+          "source_page": 92
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 92
+        },
+        {
+          "week": "8",
+          "topic": "Nigerian Civil War II",
+          "content": "Major events; End of war; \"No victor, no vanquished\" policy",
+          "source_page": 92
+        },
+        {
+          "week": "9",
+          "topic": "Post-Civil War Nigeria",
+          "content": "Reconstruction, reconciliation, rehabilitation",
+          "source_page": 92
+        },
+        {
+          "week": "10",
+          "topic": "Oil Boom of the 1970s",
+          "content": "Discovery of crude oil; Effects on economy",
+          "source_page": 92
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 92
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 92
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 92
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Second Term",
+      "source_page": 93,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Second Republic (1979–1983)",
+          "content": "Leaders; Achievements; Problems",
+          "source_page": 93
+        },
+        {
+          "week": "2",
+          "topic": "Military Rule in the 1980s",
+          "content": "Buhari/Idiagbon regime; Babangida regime",
+          "source_page": 93
+        },
+        {
+          "week": "3",
+          "topic": "Military Rule in the 1990s",
+          "content": "Abacha regime; Abdulsalami Abubakar",
+          "source_page": 93
+        },
+        {
+          "week": "4",
+          "topic": "Return to Democracy",
+          "content": "1999 transition to civilian rule",
+          "source_page": 93
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 93
+        },
+        {
+          "week": "6",
+          "topic": "Democratic Governance",
+          "content": "Fourth Republic; Presidents since 1999",
+          "source_page": 93
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 93
+        },
+        {
+          "week": "8",
+          "topic": "Challenges of Democracy",
+          "content": "Corruption, elections, insecurity",
+          "source_page": 93
+        },
+        {
+          "week": "9",
+          "topic": "Human Rights in Nigeria",
+          "content": "Abuses and remedies",
+          "source_page": 93
+        },
+        {
+          "week": "10",
+          "topic": "Nigerian Foreign Policy",
+          "content": "Principles; Relations with ECOWAS, AU, UN",
+          "source_page": 93
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 93
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 93
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 93
+        }
+      ]
+    },
+    {
+      "class_id": "jss-2",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Third Term",
+      "source_page": 94,
+      "review_status": "needs_review",
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Women in Nigerian History",
+          "content": "Funmilayo Ransome-Kuti, Margaret Ekpo, Queen Amina",
+          "source_page": 94
+        },
+        {
+          "week": "2",
+          "topic": "Youths in Nigerian History",
+          "content": "Students’ unionism; Role in independence and democracy",
+          "source_page": 94
+        },
+        {
+          "week": "3",
+          "topic": "Workers in Nigerian History",
+          "content": "Trade unions; Nigerian Labour Congress",
+          "source_page": 94
+        },
+        {
+          "week": "4",
+          "topic": "Education and Development",
+          "content": "UPE, UBE, tertiary education",
+          "source_page": 94
+        },
+        {
+          "week": "5",
+          "topic": "Midterm Test",
+          "content": "–",
+          "source_page": 94
+        },
+        {
+          "week": "6",
+          "topic": "Nigerian Economy",
+          "content": "Agriculture, oil, manufacturing",
+          "source_page": 94
+        },
+        {
+          "week": "7",
+          "topic": "Midterm Break",
+          "content": "–",
+          "source_page": 94
+        },
+        {
+          "week": "8",
+          "topic": "Science and Technology in Nigeria",
+          "content": "Growth and challenges",
+          "source_page": 94
+        },
+        {
+          "week": "9",
+          "topic": "Sports and National Unity",
+          "content": "Notable Nigerian sports achievements",
+          "source_page": 94
+        },
+        {
+          "week": "10",
+          "topic": "Culture and Tourism",
+          "content": "Nigerian cultural heritage; Tourism development",
+          "source_page": 94
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "–",
+          "source_page": 94
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "–",
+          "source_page": 94
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "–",
+          "source_page": 94
+        }
+      ]
     }
   ],
   "notes": "Primary 1 Mathematics entries are concise editorial paraphrases of PDF pages 617–618; inspect source before accepting. JSS1 Nigerian History transcribed from extracted PDF table page 22. All remain unreviewed."
