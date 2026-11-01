@@ -1865,84 +1865,6 @@
           "topic": "Collection of results; Distribution of report cards; Closing ceremony 3 SOCIAL AND CITIZENSHIP TERM Topic Content",
           "content": "STUDIES SCHEME OF WORK",
           "source_page": 764
-        },
-        {
-          "week": "1",
-          "topic": "National Identity I What is meaning);",
-          "content": "national identity? Nigerian flag (colors and Nigerian coat of arms; National anthem",
-          "source_page": 764
-        },
-        {
-          "week": "2",
-          "topic": "National Identity and Nigerian Symbols II Independence 12th)",
-          "content": "pledge; National symbols (eagle, horse); Day (October 1st); Democracy Day (June",
-          "source_page": 764
-        },
-        {
-          "week": "3",
-          "topic": "People, Places and Respecting Objects to Respect I Respecting",
-          "content": "our parents and elders; Respecting teachers; community leaders; Why respect is important",
-          "source_page": 764
-        },
-        {
-          "week": "4",
-          "topic": "People, Places and Respecting Objects to Respect II (church, national",
-          "content": "our school; Respecting places of worship mosque); Respecting public property; Respecting monuments",
-          "source_page": 765
-        },
-        {
-          "week": "5",
-          "topic": "Assessment of weeks 1-4 topics",
-          "content": "",
-          "source_page": 765
-        },
-        {
-          "week": "6",
-          "topic": "Midterm Break",
-          "content": "",
-          "source_page": 765
-        },
-        {
-          "week": "7",
-          "topic": "Marriage What is (traditional, Respect",
-          "content": "marriage? Types of marriage in Nigeria religious, court); Why people get married; for married couples",
-          "source_page": 765
-        },
-        {
-          "week": "8",
-          "topic": "Responsible Parenting Who are education, Appreciating",
-          "content": "parents? Duties of parents (feeding, clothing, love, care); How parents care for children; our parents",
-          "source_page": 765
-        },
-        {
-          "week": "9",
-          "topic": "Roles of Members of Father's the Family Children's family members",
-          "content": "role in the family; Mother's role in the family; role in the family; Grandparents' role; Extended",
-          "source_page": 765
-        },
-        {
-          "week": "10",
-          "topic": "Culture I What is festivals;",
-          "content": "culture? Our way of life; Food, clothing, language, Nigerian cultures are different but important",
-          "source_page": 765
-        },
-        {
-          "week": "11",
-          "topic": "Revision Review",
-          "content": "of all topics covered in third term and entire year",
-          "source_page": 765
-        },
-        {
-          "week": "12",
-          "topic": "Examination End of year",
-          "content": "assessment",
-          "source_page": 765
-        },
-        {
-          "week": "13",
-          "topic": "Closing Collection ceremony",
-          "content": "of results; Distribution of report cards; Closing",
-          "source_page": 765
         }
       ]
     },
@@ -2117,84 +2039,6 @@
           "topic": "Closing 3 CULTURAL AND TERM Topic",
           "content": "Collection of results; Distribution of report cards; Closing ceremony CREATIVE ARTS SCHEME OF WORK Content",
           "source_page": 767
-        },
-        {
-          "week": "1",
-          "topic": "Introduction to Modelling",
-          "content": "What is modelling? Materials for modelling (clay, plasticine, playdough); Properties of modelling materials (soft, moldable, flexible)",
-          "source_page": 767
-        },
-        {
-          "week": "2",
-          "topic": "Methods of Modelling",
-          "content": "I Basic techniques: Rolling (making balls, cylinders); Pinching; Flattening; Joining pieces together; Making simple shapes",
-          "source_page": 767
-        },
-        {
-          "week": "3",
-          "topic": "Methods of Modelling",
-          "content": "II Modelling fruits and vegetables (banana, orange, carrot, tomato); Step-by-step process; Smoothing and finishing; Displaying work",
-          "source_page": 767
-        },
-        {
-          "week": "4",
-          "topic": "Methods of Modelling",
-          "content": "III Modelling animals (simple animals like snail, tortoise, fish); Building with basic shapes; Adding details; Painting modelled objects",
-          "source_page": 768
-        },
-        {
-          "week": "5",
-          "topic": "Assessment of weeks 1-4 topics",
-          "content": "",
-          "source_page": 768
-        },
-        {
-          "week": "6",
-          "topic": "",
-          "content": "",
-          "source_page": 768
-        },
-        {
-          "week": "7",
-          "topic": "Introduction to Drama",
-          "content": "What is drama? Acting and pretending; Elements of drama (character, action, dialogue); Importance of drama",
-          "source_page": 768
-        },
-        {
-          "week": "8",
-          "topic": "Creating Drama from Stories I",
-          "content": "Choosing a simple story or folktale; Identifying characters in the story; Understanding the story plot (beginning, middle, end)",
-          "source_page": 768
-        },
-        {
-          "week": "9",
-          "topic": "Creating Drama from Stories II",
-          "content": "Writing simple dialogue; Assigning roles; Practicing expressions and voice; Rehearsing the drama sketch",
-          "source_page": 768
-        },
-        {
-          "week": "10",
-          "topic": "Staging a Drama",
-          "content": "What is staging? Simple props and costumes; Stage directions (entrance, exit); Performing before an audience; Stage confidence",
-          "source_page": 768
-        },
-        {
-          "week": "11",
-          "topic": "Revision",
-          "content": "Review of all topics covered in third term and entire year",
-          "source_page": 768
-        },
-        {
-          "week": "12",
-          "topic": "Examination",
-          "content": "End of year assessment",
-          "source_page": 768
-        },
-        {
-          "week": "13",
-          "topic": "Closing",
-          "content": "Collection of results; Distribution of report cards; Closing ceremony",
-          "source_page": 768
         }
       ]
     },
@@ -2282,6 +2126,180 @@
           "topic": "Closing PRIMARY Studies Science and Technology and Health Education Religious Studies Studies History and Citizenship Studies and Creative Arts Digital Literacy Studies",
           "content": "Collection of results; Distribution of report cards; Closing ceremony 4 SCHEME OF WORK TABLE OF CONTENT (CCA)",
           "source_page": 769
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 764,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "National Identity I What is meaning);",
+          "content": "national identity? Nigerian flag (colors and Nigerian coat of arms; National anthem",
+          "source_page": 764
+        },
+        {
+          "week": "2",
+          "topic": "National Identity and Nigerian Symbols II Independence 12th)",
+          "content": "pledge; National symbols (eagle, horse); Day (October 1st); Democracy Day (June",
+          "source_page": 764
+        },
+        {
+          "week": "3",
+          "topic": "People, Places and Respecting Objects to Respect I Respecting",
+          "content": "our parents and elders; Respecting teachers; community leaders; Why respect is important",
+          "source_page": 764
+        },
+        {
+          "week": "4",
+          "topic": "People, Places and Respecting Objects to Respect II (church, national",
+          "content": "our school; Respecting places of worship mosque); Respecting public property; Respecting monuments",
+          "source_page": 765
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 765
+        },
+        {
+          "week": "6",
+          "topic": "Midterm Break",
+          "content": "",
+          "source_page": 765
+        },
+        {
+          "week": "7",
+          "topic": "Marriage What is (traditional, Respect",
+          "content": "marriage? Types of marriage in Nigeria religious, court); Why people get married; for married couples",
+          "source_page": 765
+        },
+        {
+          "week": "8",
+          "topic": "Responsible Parenting Who are education, Appreciating",
+          "content": "parents? Duties of parents (feeding, clothing, love, care); How parents care for children; our parents",
+          "source_page": 765
+        },
+        {
+          "week": "9",
+          "topic": "Roles of Members of Father's the Family Children's family members",
+          "content": "role in the family; Mother's role in the family; role in the family; Grandparents' role; Extended",
+          "source_page": 765
+        },
+        {
+          "week": "10",
+          "topic": "Culture I What is festivals;",
+          "content": "culture? Our way of life; Food, clothing, language, Nigerian cultures are different but important",
+          "source_page": 765
+        },
+        {
+          "week": "11",
+          "topic": "Revision Review",
+          "content": "of all topics covered in third term and entire year",
+          "source_page": 765
+        },
+        {
+          "week": "12",
+          "topic": "Examination End of year",
+          "content": "assessment",
+          "source_page": 765
+        },
+        {
+          "week": "13",
+          "topic": "Closing Collection ceremony",
+          "content": "of results; Distribution of report cards; Closing",
+          "source_page": 765
+        }
+      ]
+    },
+    {
+      "class_id": "basic-3",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 767,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Introduction to Modelling",
+          "content": "What is modelling? Materials for modelling (clay, plasticine, playdough); Properties of modelling materials (soft, moldable, flexible)",
+          "source_page": 767
+        },
+        {
+          "week": "2",
+          "topic": "Methods of Modelling",
+          "content": "I Basic techniques: Rolling (making balls, cylinders); Pinching; Flattening; Joining pieces together; Making simple shapes",
+          "source_page": 767
+        },
+        {
+          "week": "3",
+          "topic": "Methods of Modelling",
+          "content": "II Modelling fruits and vegetables (banana, orange, carrot, tomato); Step-by-step process; Smoothing and finishing; Displaying work",
+          "source_page": 767
+        },
+        {
+          "week": "4",
+          "topic": "Methods of Modelling",
+          "content": "III Modelling animals (simple animals like snail, tortoise, fish); Building with basic shapes; Adding details; Painting modelled objects",
+          "source_page": 768
+        },
+        {
+          "week": "5",
+          "topic": "Assessment of weeks 1-4 topics",
+          "content": "",
+          "source_page": 768
+        },
+        {
+          "week": "6",
+          "topic": "",
+          "content": "",
+          "source_page": 768
+        },
+        {
+          "week": "7",
+          "topic": "Introduction to Drama",
+          "content": "What is drama? Acting and pretending; Elements of drama (character, action, dialogue); Importance of drama",
+          "source_page": 768
+        },
+        {
+          "week": "8",
+          "topic": "Creating Drama from Stories I",
+          "content": "Choosing a simple story or folktale; Identifying characters in the story; Understanding the story plot (beginning, middle, end)",
+          "source_page": 768
+        },
+        {
+          "week": "9",
+          "topic": "Creating Drama from Stories II",
+          "content": "Writing simple dialogue; Assigning roles; Practicing expressions and voice; Rehearsing the drama sketch",
+          "source_page": 768
+        },
+        {
+          "week": "10",
+          "topic": "Staging a Drama",
+          "content": "What is staging? Simple props and costumes; Stage directions (entrance, exit); Performing before an audience; Stage confidence",
+          "source_page": 768
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "Review of all topics covered in third term and entire year",
+          "source_page": 768
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "End of year assessment",
+          "source_page": 768
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "Collection of results; Distribution of report cards; Closing ceremony",
+          "source_page": 768
         }
       ]
     }
