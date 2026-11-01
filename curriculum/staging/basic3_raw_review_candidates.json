@@ -31,7 +31,8 @@
           "week": "4",
           "topic": "",
           "content": "name is...”, “This is my friend…”); use of articles a/an. Assessment on phonics, reading, and sentence building.",
-          "source_page": 743
+          "source_page": 743,
+          "source_blank": true
         },
         {
           "week": "5",
@@ -73,7 +74,8 @@
           "week": "11",
           "topic": "",
           "content": "correct punctuation. Review of all topics covered in the term.",
-          "source_page": 743
+          "source_page": 743,
+          "source_blank": true
         },
         {
           "week": "12",
@@ -130,7 +132,8 @@
           "week": "6",
           "topic": "",
           "content": "—",
-          "source_page": 744
+          "source_page": 744,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -217,7 +220,8 @@
           "week": "6",
           "topic": "",
           "content": "travel tomorrow.” —",
-          "source_page": 745
+          "source_page": 745,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -535,7 +539,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 749
+          "source_page": 749,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -622,7 +627,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 750
+          "source_page": 750,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -709,7 +715,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 751
+          "source_page": 751,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -796,7 +803,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 752
+          "source_page": 752,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -883,7 +891,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 753
+          "source_page": 753,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -970,7 +979,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 754
+          "source_page": 754,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1057,7 +1067,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 755
+          "source_page": 755,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1144,7 +1155,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 756
+          "source_page": 756,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1231,7 +1243,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 757
+          "source_page": 757,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1318,7 +1331,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 758
+          "source_page": 758,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1405,7 +1419,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 759
+          "source_page": 759,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1492,7 +1507,8 @@
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 760
+          "source_page": 760,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1573,13 +1589,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 761
+          "source_page": 761,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 761
+          "source_page": 761,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1609,19 +1627,22 @@
           "week": "11",
           "topic": "Review of all topics covered in first term",
           "content": "",
-          "source_page": 761
+          "source_page": 761,
+          "source_blank": true
         },
         {
           "week": "12",
           "topic": "End of first term assessment",
           "content": "",
-          "source_page": 761
+          "source_page": 761,
+          "source_blank": true
         },
         {
           "week": "13",
           "topic": "Collection of results; Distribution of report cards; Closing ceremony",
           "content": "",
-          "source_page": 761
+          "source_page": 761,
+          "source_blank": true
         }
       ]
     },
@@ -1660,13 +1681,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 762
+          "source_page": 762,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 762
+          "source_page": 762,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1747,13 +1770,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 763
+          "source_page": 763,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 763
+          "source_page": 763,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1834,13 +1859,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 764
+          "source_page": 764,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 764
+          "source_page": 764,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -1870,13 +1897,15 @@
           "week": "11",
           "topic": "Review of all topics covered in first term",
           "content": "",
-          "source_page": 764
+          "source_page": 764,
+          "source_blank": true
         },
         {
           "week": "12",
           "topic": "End of first term assessment",
           "content": "",
-          "source_page": 764
+          "source_page": 764,
+          "source_blank": true
         },
         {
           "week": "13",
@@ -1921,13 +1950,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 766
+          "source_page": 766,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 766
+          "source_page": 766,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -2008,13 +2039,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 767
+          "source_page": 767,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "",
           "content": "",
-          "source_page": 767
+          "source_page": 767,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -2095,13 +2128,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 769
+          "source_page": 769,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "",
           "content": "",
-          "source_page": 769
+          "source_page": 769,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -2182,13 +2217,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 765
+          "source_page": 765,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "Midterm Break",
           "content": "",
-          "source_page": 765
+          "source_page": 765,
+          "source_blank": true
         },
         {
           "week": "7",
@@ -2269,13 +2306,15 @@
           "week": "5",
           "topic": "Assessment of weeks 1-4 topics",
           "content": "",
-          "source_page": 768
+          "source_page": 768,
+          "source_blank": true
         },
         {
           "week": "6",
           "topic": "",
           "content": "",
-          "source_page": 768
+          "source_page": 768,
+          "source_blank": true
         },
         {
           "week": "7",
