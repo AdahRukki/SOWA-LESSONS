@@ -35,10 +35,16 @@ for (const s of data.schemes) {
     }
     if (row.source_page === undefined || row.source_page === null || !Number.isInteger(Number(row.source_page))) warn('Missing source page: '+name+' week '+week);
   }
-  const numeric=Array.from(weeks).map(Number);
-  if (numeric.every(Number.isInteger)) {
-    for (let w=1;w<=Math.max(...numeric);w++) if (!weeks.has(String(w))) warn('Missing week '+w+' in '+name);
-  } else warn('Non-numeric week identifiers require review: '+name);
+  // Expand printed week ranges (e.g. 11–13) for completeness checks.
+  const covered=new Set();
+  for (const token of weeks) {
+    const match=token.match(/^(\\d+)(?:\\s*[-–—]\\s*(\\d+))?$/);
+    if (!match) {warn('Unrecognized week token '+token+' in '+name);continue;}
+    const start=Number(match[1]),end=Number(match[2]||match[1]);
+    if (start<1||end>24||end<start) {fail('Invalid week range '+token+' in '+name);continue;}
+    for(let w=start;w<=end;w++){if(covered.has(w))fail('Overlapping week '+w+' in '+name);covered.add(w);}
+  }
+  for(let w=1;w<=Math.max(0,...covered);w++)if(!covered.has(w))warn('Missing week '+w+' in '+name);
   counts[s.class_id] = (counts[s.class_id]||0)+1;
 }
 console.log('Schemes:',data.schemes.length);
