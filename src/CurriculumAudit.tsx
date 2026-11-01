@@ -1,4 +1,5 @@
 import {useState} from 'react';
+import './CurriculumAudit.css';
 import preloaded from './preloadedCurriculum.json';
 import {getClasses,type AcademicLibrary} from './academic';
 import {canApproveScheme,setSchemeReviewStatus} from './schemeReview';
