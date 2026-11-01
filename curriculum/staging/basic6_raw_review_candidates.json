@@ -10,6 +10,12 @@
       "source_page": 895,
       "rows": [
         {
+          "week": "1",
+          "topic": "Reading: Phonics I & Concepts of Print I",
+          "content": "Advanced phonics - complex consonant blends (str, spr, thr, scr); Digraphs and trigraphs review (ch, sh, th, ph, tch, dge); Print concepts - title page, table of contents, index, glossary; Understanding book organization; Text features - headings, subheadings, captions, labels; Using text features for comprehension",
+          "source_page": 895
+        },
+        {
           "week": "2",
           "topic": "Writing: Writing Paragraphs - Introductory, Middle and Concluding",
           "content": "Structure of a paragraph - topic sentence, supporting details, concluding sentence; Types of paragraphs - narrative, descriptive, expository; Unity and coherence in paragraphs; Transition words and phrases; Indent and spacing; Writing well-developed paragraphs; Practice with different paragraph types",
@@ -91,6 +97,12 @@
       "source_page": 897,
       "rows": [
         {
+          "week": "1",
+          "topic": "Reading: Phonics II & Fluency",
+          "content": "Advanced phonics patterns - silent letters (kn, gn, wr, mb, gh); Vowel combinations and diphthongs; Fluency development - accuracy, speed, expression; Reading rate appropriate for Primary 6; Prosody - rhythm and expression in reading; Repeated reading strategies; Partner reading; Performance reading",
+          "source_page": 897
+        },
+        {
           "week": "2",
           "topic": "Writing: Writing Simple Compositions - Letters, Accounts, Stories (Consumer Protection Agencies)",
           "content": "Formal letter format - heading, salutation, body, closing, signature; Informal/friendly letters; Letter of complaint; Account writing - event reports, incident reports; Story writing - plot, characters, setting, dialogue; Writing about consumer protection agencies; Complaint letters to agencies; Proper formatting and conventions",
@@ -171,6 +183,12 @@
       "review_status": "needs_review",
       "source_page": 899,
       "rows": [
+        {
+          "week": "1",
+          "topic": "Reading: Comprehension III - Author's Tone, Mood, and Point of View",
+          "content": "Identifying author's tone - formal, informal, humorous, serious, sarcastic; Mood in literature - happy, sad, tense, mysterious; First person vs third person point of view; Narrator reliability; How point of view affects story; Recognizing bias; Author's attitude toward subject; Practice with various texts",
+          "source_page": 899
+        },
         {
           "week": "2",
           "topic": "Writing: Writing E-mails and Text Messages",
