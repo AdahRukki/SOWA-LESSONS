@@ -38,7 +38,7 @@ for (const s of data.schemes) {
   // Expand printed week ranges (e.g. 11–13) for completeness checks.
   const covered=new Set();
   for (const token of weeks) {
-    const match=token.match(/^(\\d+)(?:\\s*[-–—]\\s*(\\d+))?$/);
+    const match=token.match(/^(\d+)(?:\s*[-–—]\s*(\d+))?$/);
     if (!match) {warn('Unrecognized week token '+token+' in '+name);continue;}
     const start=Number(match[1]),end=Number(match[2]||match[1]);
     if (start<1||end>24||end<start) {fail('Invalid week range '+token+' in '+name);continue;}
