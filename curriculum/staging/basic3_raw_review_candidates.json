@@ -272,60 +272,66 @@
       "rows": [
         {
           "week": "1",
-          "topic": "to 999 Whole Numbers up",
-          "content": "(hundreds, tens, and ones). Comparing and ordering numbers; use of symbols (<, >, =)",
+          "topic": "Whole Numbers up to 999",
+          "content": "Reading and writing numbers up to 999; place value (hundreds, tens, and ones).",
           "source_page": 746
         },
         {
           "week": "2",
-          "topic": "to 999 Whole Numbers up",
-          "content": "and number patterns. Rounding numbers to the nearest ten and hundred; number",
+          "topic": "Whole Numbers up to 999",
+          "content": "Comparing and ordering numbers; use of symbols (<, >, =) and number patterns.",
           "source_page": 746
         },
         {
           "week": "3",
-          "topic": "to 999 Fractions",
-          "content": "sequences. Introduction to fractions as parts of a whole (½, ¼, ¾).",
+          "topic": "Whole Numbers up to 999",
+          "content": "Rounding numbers to the nearest ten and hundred; number sequences.",
           "source_page": 746
         },
         {
           "week": "4",
-          "topic": "",
-          "content": "Identifying fractions in everyday objects. —",
+          "topic": "Fractions",
+          "content": "Introduction to fractions as parts of a whole (½, ¼, ¾). Identifying fractions in everyday objects.",
           "source_page": 746
         },
         {
           "week": "5",
-          "topic": "Midterm Test Fractions",
-          "content": "Comparing and arranging simple fractions; addition and",
+          "topic": "Midterm Test",
+          "content": "—",
           "source_page": 746
         },
         {
           "week": "6",
-          "topic": "",
-          "content": "subtraction of fractions with the same denominator. —",
+          "topic": "Fractions",
+          "content": "Comparing and arranging simple fractions; addition and subtraction of fractions with the same denominator.",
           "source_page": 746
         },
         {
           "week": "7",
-          "topic": "Midterm Break Fractions",
-          "content": "Word problems involving fractions in real-life situations.",
+          "topic": "Midterm Break",
+          "content": "—",
           "source_page": 746
         },
         {
           "week": "8",
           "topic": "Fractions",
-          "content": "Fraction representation on number lines and shapes.",
+          "content": "Word problems involving fractions in real-life situations.",
           "source_page": 746
         },
         {
           "week": "9",
+          "topic": "Fractions",
+          "content": "Fraction representation on number lines and shapes.",
+          "source_page": 746
+        },
+        {
+          "week": "10",
           "topic": "Revision",
           "content": "Review of whole numbers and fractions.",
           "source_page": 746
         },
         {
-          "week": "10",
+          "week": "11–13",
           "topic": "Examination / Closing",
           "content": "—",
           "source_page": 746
@@ -342,59 +348,65 @@
         {
           "week": "1",
           "topic": "Addition",
-          "content": "carrying. Addition of 2-digit and 3-digit numbers with carrying;",
+          "content": "Addition of 2-digit and 3-digit numbers without carrying.",
           "source_page": 747
         },
         {
           "week": "2",
-          "topic": "Subtraction",
-          "content": "solving addition word problems. Subtraction of 2-digit and 3-digit numbers without",
+          "topic": "Addition",
+          "content": "Addition of 2-digit and 3-digit numbers with carrying; solving addition word problems.",
           "source_page": 747
         },
         {
           "week": "3",
           "topic": "Subtraction",
-          "content": "borrowing. Subtraction with borrowing; solving subtraction word",
+          "content": "Subtraction of 2-digit and 3-digit numbers without borrowing.",
           "source_page": 747
         },
         {
           "week": "4",
-          "topic": "",
-          "content": "problems. —",
+          "topic": "Subtraction",
+          "content": "Subtraction with borrowing; solving subtraction word problems.",
           "source_page": 747
         },
         {
           "week": "5",
-          "topic": "Midterm Test Multiplication",
-          "content": "Multiplication as repeated addition; times tables (2×,",
+          "topic": "Midterm Test",
+          "content": "—",
           "source_page": 747
         },
         {
           "week": "6",
-          "topic": "",
-          "content": "3×, 4×, 5×). —",
+          "topic": "Multiplication",
+          "content": "Multiplication as repeated addition; times tables (2×, 3×, 4×, 5×).",
           "source_page": 747
         },
         {
           "week": "7",
-          "topic": "Midterm Break Multiplication",
-          "content": "Multiplying 2-digit numbers by 1-digit numbers; solving",
+          "topic": "Midterm Break",
+          "content": "—",
           "source_page": 747
         },
         {
           "week": "8",
-          "topic": "Division",
-          "content": "multiplication word problems. Division as sharing equally; relationship between",
+          "topic": "Multiplication",
+          "content": "Multiplying 2-digit numbers by 1-digit numbers; solving multiplication word problems.",
           "source_page": 747
         },
         {
           "week": "9",
           "topic": "Division",
-          "content": "multiplication and division. Solving simple division problems with remainders.",
+          "content": "Division as sharing equally; relationship between multiplication and division.",
           "source_page": 747
         },
         {
           "week": "10",
+          "topic": "Division",
+          "content": "Solving simple division problems with remainders.",
+          "source_page": 747
+        },
+        {
+          "week": "11–13",
           "topic": "Revision / Examination / Closing",
           "content": "—",
           "source_page": 747
@@ -410,68 +422,74 @@
       "rows": [
         {
           "week": "1",
-          "topic": "Money",
-          "content": "sentences (e.g., 12 + __ = 20). Identifying Nigerian coins and notes; counting, adding",
+          "topic": "Open Sentences",
+          "content": "Completing missing numbers in addition and subtraction sentences (e.g., 12 + __ = 20).",
           "source_page": 748
         },
         {
           "week": "2",
-          "topic": "Length I",
-          "content": "and subtracting money. Measuring objects using non-standard units (hand span,",
+          "topic": "Money",
+          "content": "Identifying Nigerian coins and notes; counting, adding and subtracting money.",
           "source_page": 748
         },
         {
           "week": "3",
-          "topic": "Length II",
-          "content": "sticks). Measuring using standard units (metres, centimetres);",
+          "topic": "Length I",
+          "content": "Measuring objects using non-standard units (hand span, sticks).",
           "source_page": 748
         },
         {
           "week": "4",
-          "topic": "",
-          "content": "comparing lengths. —",
+          "topic": "Length II",
+          "content": "Measuring using standard units (metres, centimetres); comparing lengths.",
           "source_page": 748
         },
         {
           "week": "5",
-          "topic": "Midterm Test Time",
-          "content": "Reading time to the hour, half-hour, and quarter-hour on",
+          "topic": "Midterm Test",
+          "content": "—",
           "source_page": 748
         },
         {
           "week": "6",
-          "topic": "",
-          "content": "clocks. —",
+          "topic": "Time",
+          "content": "Reading time to the hour, half-hour, and quarter-hour on clocks.",
           "source_page": 748
         },
         {
           "week": "7",
-          "topic": "Midterm Break Weight",
-          "content": "Measuring objects using standard units (grams,",
+          "topic": "Midterm Break",
+          "content": "—",
           "source_page": 748
         },
         {
           "week": "8",
-          "topic": "Capacity",
-          "content": "kilograms); comparing weights. Measuring liquids using standard units (litres, millilitres).",
+          "topic": "Weight",
+          "content": "Measuring objects using standard units (grams, kilograms); comparing weights.",
           "source_page": 748
         },
         {
           "week": "9",
-          "topic": "Symmetry",
-          "content": "Identifying and drawing symmetrical shapes; folding to",
+          "topic": "Capacity",
+          "content": "Measuring liquids using standard units (litres, millilitres).",
           "source_page": 748
         },
         {
           "week": "10",
-          "topic": "Pictograms",
-          "content": "find lines of symmetry. Collecting data, representing data using pictograms,",
+          "topic": "Symmetry",
+          "content": "Identifying and drawing symmetrical shapes; folding to find lines of symmetry.",
           "source_page": 748
         },
         {
           "week": "11",
+          "topic": "Pictograms",
+          "content": "Collecting data, representing data using pictograms, interpreting simple pictographs.",
+          "source_page": 748
+        },
+        {
+          "week": "12–13",
           "topic": "Revision / Examination / Closing",
-          "content": "interpreting simple pictographs. —",
+          "content": "—",
           "source_page": 748
         }
       ]
