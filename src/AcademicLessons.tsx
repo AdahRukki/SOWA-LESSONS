@@ -11,7 +11,7 @@ export default function AcademicLessons({library,classId,subjectId,lessons,onOpe
    (p.sessionId===session?.id&&p.classId===classId&&p.subjectId===subjectId)||
    (p.sessionId===session?.id&&!p.classId&&!p.subjectId&&p.className.toLowerCase()===(getClasses(library).find(c=>c.id===classId)?.name??classId).toLowerCase()&&p.subject.toLowerCase()===subject?.name.toLowerCase())
  ));
- return <section className="academic-lessons"><h3>Lesson notes — {session?.label}</h3><p>Open an existing lesson document, or approve a term scheme to create a new one. Existing lesson notes are not overwritten.</p>
+ return <section className="academic-lessons"><h3>Lesson notes — {session?.label}</h3><p>Open an existing lesson document, or create a new one from the term topics. Existing lesson notes are not overwritten.</p>
  {TERMS.map(term=>{const scheme=activeSchemes.find(s=>s.term===term);const docs=matching.filter(p=>p.term===term);
  return <div className="academic-lesson-term" key={term}><h4>{term} <small>Scheme: {scheme?.status??'Not created'}</small></h4>{docs.length?docs.map(p=><button type="button" key={p.id} onClick={()=>onOpen(p.id)}>{p.name} · {p.weeks.length} weeks · Open editor</button>):<p>No lesson notes saved for this term.</p>}</div>})}
  <small>Unclassified legacy documents remain available in the existing lesson editor and migration tool.</small></section>

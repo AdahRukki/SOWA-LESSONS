@@ -7,7 +7,6 @@ export type GeneratedDocument={id:string;name:string;className:string;subject:st
 const escapeHtml=(value:string)=>value.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 const list=(items:string[])=>items.filter(x=>x.trim()).map(x=>'<li>'+escapeHtml(x)+'</li>').join('');
 export function documentFromScheme(scheme:SchemeOfWork,subject:AcademicSubject,library:AcademicLibrary):GeneratedDocument{
- if(scheme.status!=='approved')throw Error('Approve the Scheme of Work before generating lesson notes.');
  if(subject.id!==scheme.subjectId||subject.classId!==scheme.classId)throw Error('Subject does not match this scheme.');
  const className=getClasses(library).find(c=>c.id===scheme.classId)?.name??scheme.classId;
  return {

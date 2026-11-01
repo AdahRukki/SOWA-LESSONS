@@ -19,14 +19,10 @@ export default function CurriculumAudit({library,onChange}:Props){
  function approveAll(){
   if(!session||!eligible.length)return;
   const count=eligible.length;
-  const prompt='Approve all '+count+' structurally valid scheme'+(count===1?'':'s')+' for '+session.label+'?\n\n'+
-   'This unlocks lesson-note generation for those schemes. '+(skipped?skipped+' scheme(s) with errors will be skipped.\n\n':'')+
-   'Approval does NOT mean the curriculum content has been checked against the original source. Continue?';
-  if(!window.confirm(prompt))return;
   const ids=new Set(eligible.map(s=>s.id));
   const updated=library.schemes.map(s=>ids.has(s.id)?setSchemeReviewStatus(s,'approved'):s);
   onChange({...library,schemes:updated});
-  setMessage('Approved '+count+' scheme'+(count===1?'':'s')+' for '+session.label+'. '+skipped+' skipped due to errors. Changes are saving locally.');
+  setMessage('Approved '+count+' scheme'+(count===1?'':'s')+' for '+session.label+' in one action. '+skipped+' with structural errors were skipped. This does not verify content against the source PDF; changes are saving locally.');
  }
  const summary=classes.map(c=>{
   const entries=preloaded.schemes.filter(s=>s.class_id===c.id);
@@ -43,7 +39,7 @@ export default function CurriculumAudit({library,onChange}:Props){
     <p><strong>{eligible.length}</strong> ready to approve · <strong>{skipped}</strong> blocked by structural errors · <strong>{approved}</strong> already approved.</p>
     <small>Only affects the active academic session and schemes that pass structural checks. Warnings are permitted, but errors must be fixed. Content accuracy is not automatically verified.</small>
    </div>
-   <button type="button" disabled={!session||!eligible.length} onClick={approveAll}>Approve All Schemes ({eligible.length})</button>
+    <button type="button" disabled={!session||!eligible.length} onClick={approveAll}>Approve all pending schemes ({eligible.length})</button>
   </div>
   {message&&<p role="status" className="curriculum-bulk-result">{message}</p>}
   {skipped>0&&<p className="studio-hint">{skipped} scheme(s) have structural errors and must be corrected before approval.</p>}
