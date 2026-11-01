@@ -27,14 +27,26 @@ export function parseCurriculumBackup(text:string):AcademicLibrary{
  return lib;
 }
 export function mergeCurriculum(current:AcademicLibrary,incoming:AcademicLibrary):{library:AcademicLibrary;added:{sessions:number;subjects:number;schemes:number}}{
+ // Merge by semantic identity, not just UUID: preloaded and user-created subjects
+ // may have different IDs for the same class/subject pair.
  const sessions=[...current.sessions],subjects=[...current.subjects],schemes=[...current.schemes];
- const classes=getClasses(current);for(const c of getClasses(incoming))if(!classes.some(x=>x.id===c.id))classes.push({...c,rank:classes.length+1});
+ const classes=getClasses(current);
+ for(const c of getClasses(incoming))if(!classes.some(x=>x.id===c.id))classes.push({...c});
  for(const s of incoming.sessions)if(!sessions.some(x=>x.id===s.id))sessions.push({...s,active:false});
- for(const s of incoming.subjects)if(!subjects.some(x=>x.id===s.id)&&!subjects.some(x=>x.classId===s.classId&&x.name.trim().toLowerCase()===s.name.trim().toLowerCase()))subjects.push(s);
+ const subjectIds=new Map<string,string>();
+ for(const s of incoming.subjects){
+  const matching=subjects.find(x=>x.id===s.id||x.classId===s.classId&&x.name.trim().toLowerCase()===s.name.trim().toLowerCase());
+  if(matching){subjectIds.set(s.id,matching.id);continue}
+  subjects.push({...s});subjectIds.set(s.id,s.id);
+ }
  const schemeKeys=new Set(schemes.map(s=>[s.sessionId,s.classId,s.subjectId,s.term].join('|')));
  for(const s of incoming.schemes){
-  const key=[s.sessionId,s.classId,s.subjectId,s.term].join('|');
-  if(!schemeKeys.has(key)&&subjects.some(x=>x.id===s.subjectId&&x.classId===s.classId)&&sessions.some(x=>x.id===s.sessionId)){schemes.push(s);schemeKeys.add(key)}
+  const subjectId=subjectIds.get(s.subjectId);
+  if(!subjectId||!sessions.some(x=>x.id===s.sessionId))continue;
+  const key=[s.sessionId,s.classId,subjectId,s.term].join('|');
+  if(schemeKeys.has(key))continue; // Always preserve an existing user's version.
+  schemes.push({...s,subjectId,status:'draft'});
+  schemeKeys.add(key);
  }
  return {library:{version:1,sessions,subjects,schemes,classes},added:{sessions:sessions.length-current.sessions.length,subjects:subjects.length-current.subjects.length,schemes:schemes.length-current.schemes.length}};
 }
