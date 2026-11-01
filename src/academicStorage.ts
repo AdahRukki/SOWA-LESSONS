@@ -3,7 +3,8 @@ import {mergeCurriculum} from './academicBackupUtils';
 const DB_NAME='sowa-lessons-academic';
 const STORE='curriculum';
 const KEY='master';
-const AUTO_SEED_KEY='bulk-primary-curriculum-2026-2027-v1';
+const PRIMARY_SEED_KEY='bulk-primary-curriculum-2026-2027-v1';
+const SECONDARY_SEED_KEY='secondary-curriculum-2026-2027-v1';
 const VERSION=1;
 function openAcademicDB():Promise<IDBDatabase>{
  return new Promise((resolve,reject)=>{
@@ -15,7 +16,8 @@ function openAcademicDB():Promise<IDBDatabase>{
 }
 /** Independent storage: never replaces or migrates legacy lesson projects implicitly. */
 /**
- * Install the source-derived primary curriculum automatically on first launch.
+ * Install the bundled school curriculum automatically on first launch, and
+ * merge later curriculum tranches into existing libraries without replacement.
  * The input is bundled with the deployed app, never taken from untrusted user
  * uploads. Existing academic records and lesson-note projects are preserved.
  * Installation is atomic; a failed/offline fetch is retried on a later launch.
@@ -23,31 +25,45 @@ function openAcademicDB():Promise<IDBDatabase>{
 export async function readAcademicLibrary():Promise<AcademicLibrary>{
  const db=await openAcademicDB();
  let current:AcademicLibrary|undefined;
- let alreadySeeded=false;
+ let primarySeeded=false;
+ let secondarySeeded=false;
  try{
   await new Promise<void>((resolve,reject)=>{
    const tx=db.transaction(STORE,'readonly');
    const store=tx.objectStore(STORE);
    const existing=store.get(KEY);
-   const marker=store.get(AUTO_SEED_KEY);
+   const primaryMarker=store.get(PRIMARY_SEED_KEY);
+   const secondaryMarker=store.get(SECONDARY_SEED_KEY);
    existing.onsuccess=()=>{current=existing.result as AcademicLibrary|undefined};
-   marker.onsuccess=()=>{alreadySeeded=Boolean(marker.result)};
+   primaryMarker.onsuccess=()=>{primarySeeded=Boolean(primaryMarker.result)};
+   secondaryMarker.onsuccess=()=>{secondarySeeded=Boolean(secondaryMarker.result)};
    tx.oncomplete=()=>resolve();
    tx.onerror=()=>reject(tx.error);
    tx.onabort=()=>reject(tx.error);
   });
  }finally{db.close()}
  const library=current??createAcademicLibrary();
- if(alreadySeeded)return library;
+ if(primarySeeded&&secondarySeeded)return library;
  try{
-  const url=import.meta.env.BASE_URL+'curriculum/preprimary-primary-2026-2027.json';
-  const response=await fetch(url);
-  if(!response.ok)throw Error('Curriculum source HTTP '+response.status);
-  const incoming=await response.json() as AcademicLibrary;
-  if(incoming.version!==1||!Array.isArray(incoming.classes)||!Array.isArray(incoming.subjects)||!Array.isArray(incoming.schemes)||incoming.schemes.length!==282)throw Error('Incomplete curriculum source');
-  const problems=validateAcademicLibrary(incoming);
-  if(problems.length)throw Error(problems[0]);
-  const merged=mergeCurriculum(library,incoming).library;
+  let merged=library;
+  if(!primarySeeded){
+   const response=await fetch(import.meta.env.BASE_URL+'curriculum/preprimary-primary-2026-2027.json');
+   if(!response.ok)throw Error('Primary curriculum source HTTP '+response.status);
+   const incoming=await response.json() as AcademicLibrary;
+   if(incoming.version!==1||!Array.isArray(incoming.classes)||!Array.isArray(incoming.subjects)||!Array.isArray(incoming.schemes)||incoming.schemes.length!==282)throw Error('Incomplete primary curriculum source');
+   const problems=validateAcademicLibrary(incoming);
+   if(problems.length)throw Error(problems[0]);
+   merged=mergeCurriculum(merged,incoming).library;
+  }
+  if(!secondarySeeded){
+   const response=await fetch(import.meta.env.BASE_URL+'curriculum/secondary-2026-2027.json');
+   if(!response.ok)throw Error('Secondary curriculum source HTTP '+response.status);
+   const incoming=await response.json() as AcademicLibrary;
+   if(incoming.version!==1||!Array.isArray(incoming.classes)||!Array.isArray(incoming.subjects)||!Array.isArray(incoming.schemes)||incoming.schemes.length!==145)throw Error('Incomplete secondary curriculum source');
+   const problems=validateAcademicLibrary(incoming);
+   if(problems.length)throw Error(problems[0]);
+   merged=mergeCurriculum(merged,incoming).library;
+  }
   const validation=validateAcademicLibrary(merged);
   if(validation.length)throw Error(validation[0]);
   const writeDb=await openAcademicDB();
@@ -56,7 +72,8 @@ export async function readAcademicLibrary():Promise<AcademicLibrary>{
     const tx=writeDb.transaction(STORE,'readwrite');
     const store=tx.objectStore(STORE);
     store.put(merged,KEY);
-    store.put({source:'complete-preprimary-primary',schemeCount:incoming.schemes.length},AUTO_SEED_KEY);
+    if(!primarySeeded)store.put({source:'preprimary-primary-2026-2027',schemeCount:282},PRIMARY_SEED_KEY);
+    if(!secondarySeeded)store.put({source:'secondary-2026-2027',schemeCount:145},SECONDARY_SEED_KEY);
     tx.oncomplete=()=>resolve();
     tx.onerror=()=>reject(tx.error);
     tx.onabort=()=>reject(tx.error);
