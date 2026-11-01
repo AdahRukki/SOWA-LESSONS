@@ -1,0 +1,2355 @@
+{
+  "format": "sowa-preloaded-review-library-v1",
+  "review_status": "needs_review",
+  "schemes": [
+    {
+      "class_id": "basic-2",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 668,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Revision and Review of Year One’s Work",
+          "content": "• Recall of sounds and simple words learnt in Primary 1 • Reading simple sentences aloud • Listening to and identifying rhyming words • Review of basic punctuation and capitalization • Oral exercises in simple present tense",
+          "source_page": 668
+        },
+        {
+          "week": "2",
+          "topic": "Phonemic Awareness I (Identifying and Producing Sounds)",
+          "content": "• Listening to and repeating consonant and vowel sounds • Blending and segmenting sounds in simple CVC words (cat, dog, sun) • Rhyming words and sound matching • Songs and activities for sound recognition",
+          "source_page": 668
+        },
+        {
+          "week": "3",
+          "topic": "Using Sounds and Combinations of Sounds to Spell and Pronounce Words",
+          "content": "• Short and long vowel sounds • Word families (cat, bat, mat; pen, hen, men) • Practice spelling and pronunciation drills • Sound games and tongue twisters",
+          "source_page": 668
+        },
+        {
+          "week": "4",
+          "topic": "Comprehension I (Short Stories and Rhymes)",
+          "content": "• Listening to short stories • Answering factual questions (who, what, where) • Retelling stories in own words • Identifying main idea and characters •",
+          "source_page": 668
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4 •",
+          "source_page": 668
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 668
+        },
+        {
+          "week": "7",
+          "topic": "Adjectives: Describing Words",
+          "content": "• Introduction to adjectives • Describing people, animals, and objects (tall, short, big, small, red, blue) • Matching adjectives to pictures • Constructing sentences using adjectives",
+          "source_page": 668
+        },
+        {
+          "week": "8",
+          "topic": "Phonics II (Consonant Blends and Digraphs)",
+          "content": "• Two-letter blends (bl, cl, fl, tr, sp, st) • Digraphs (sh, ch, th, wh) • Reading and spelling words with blends • Dictation and oral blending exercises",
+          "source_page": 668
+        },
+        {
+          "week": "9",
+          "topic": "Listening and Speaking: Asking and Answering Questions",
+          "content": "• Practice using “who,” “what,” “where,” “when,” “why” questions • Role-play conversations • Responding to simple oral comprehension • Forming and answering questions about daily activities",
+          "source_page": 668
+        },
+        {
+          "week": "10",
+          "topic": "Simple Present and Past Tense of Common Verbs",
+          "content": "• Introduction to action words • Simple present tense (I play, she sings) • Simple past tense (I played, she sang) • Oral practice and short written exercises",
+          "source_page": 669
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "• Review of phonics, comprehension, grammar, and speaking skills • Group reading activities • Oral language games and practice exercises •",
+          "source_page": 669
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment •",
+          "source_page": 669
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 669
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 670,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Phonemic Awareness II (Sound Patterns and Word Families)",
+          "content": "• Review of short vowel sounds • Long vowel sounds (a_e, i_e, o_e, u_e) • Word families: gate, late, mate; bike, like, hike • Phoneme blending and segmentation games",
+          "source_page": 670
+        },
+        {
+          "week": "2",
+          "topic": "Listening to and Telling Stories",
+          "content": "• Listening attentively to short folktales and moral stories • Identifying main characters and setting • Retelling stories using sequencing words (first, next, finally) • Discussing moral lessons from stories",
+          "source_page": 670
+        },
+        {
+          "week": "3",
+          "topic": "Phonics Practice (Consonant Clusters and Word Building)",
+          "content": "• Reading and writing words with blends (cr, dr, fr, gr, pl, sl) • Identifying beginning and ending blends • Building new words using given clusters • Word dictation and spelling practice",
+          "source_page": 670
+        },
+        {
+          "week": "4",
+          "topic": "Comprehension II (Short Passages and Rhymes)",
+          "content": "• Reading short passages aloud • Answering simple factual questions • Identifying new words and their meanings • Practice reading fluently and with correct intonation •",
+          "source_page": 670
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4 •",
+          "source_page": 670
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 670
+        },
+        {
+          "week": "7",
+          "topic": "Using Plurals of Nouns (Regular and Irregular Forms)",
+          "content": "• Formation of plurals by adding -s, -es • Irregular plurals (child – children, man – men, tooth – teeth) • Using plurals in simple sentences • Oral and written exercises",
+          "source_page": 670
+        },
+        {
+          "week": "8",
+          "topic": "Fluency and Reading Aloud (Short Paragraphs)",
+          "content": "• Reading sentences and short paragraphs fluently • Observing punctuation marks while reading • Practicing stress and intonation • Paired reading and correction exercises",
+          "source_page": 670
+        },
+        {
+          "week": "9",
+          "topic": "Songs, Rhymes and Simple Oral Games",
+          "content": "• Reciting familiar songs and nursery rhymes • Identifying rhyming words • Acting out rhymes or chants • Using rhymes to improve pronunciation and rhythm",
+          "source_page": 671
+        },
+        {
+          "week": "10",
+          "topic": "Introducing Adverbs (Action Describers)",
+          "content": "• Understanding adverbs (quickly, slowly, loudly, quietly) • Difference between adjectives and adverbs • Using adverbs in sentences • Oral exercises and games using adverbs",
+          "source_page": 671
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "• Review of all phonics, reading, grammar, and oral lessons • Practice exercises and group discussions • Spelling and dictation activities •",
+          "source_page": 671
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment •",
+          "source_page": 671
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 671
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "ENGLISH LANGUAGE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 672,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Phonics (Consonant Digraphs: ch, sh, th, wh, ph)",
+          "content": "• Introducing digraphs and their sounds • Word practice: chair, ship, thin, when, phone • Sorting words based on digraphs • Word building and spelling activities",
+          "source_page": 672
+        },
+        {
+          "week": "2",
+          "topic": "Comprehension III (Short Stories and Poems)",
+          "content": "• Reading and understanding short passages • Identifying characters, actions, and setting • Discussing the lesson/moral of the story • Answering comprehension questions orally and in writing",
+          "source_page": 672
+        },
+        {
+          "week": "3",
+          "topic": "Asking and Answering Questions on Past and Future Actions",
+          "content": "• Using simple past tense (went, played, danced) • Using simple future tense (will go, will play) • Practice forming questions and answers • Role-play: “What did you do yesterday?” “What will you do tomorrow?”",
+          "source_page": 672
+        },
+        {
+          "week": "4",
+          "topic": "Use of Adjectives in Sentences",
+          "content": "• Describing objects, people, and animals • Opposite adjectives: big/small, tall/short, hot/cold • Adjective-noun agreement • Writing short descriptive sentences •",
+          "source_page": 672
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4 •",
+          "source_page": 672
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 672
+        },
+        {
+          "week": "7",
+          "topic": "Listening Comprehension (Short Paragraphs)",
+          "content": "• Listening carefully to short passages • Answering simple factual questions • Identifying main ideas and key words • Note-taking practice using keywords",
+          "source_page": 672
+        },
+        {
+          "week": "8",
+          "topic": "Comprehension IV (Everyday Situations)",
+          "content": "• Reading about daily routines (school, home, market) • Matching sentences with pictures • Identifying verbs and nouns in context • Summarizing passages in one or two sentences",
+          "source_page": 672
+        },
+        {
+          "week": "9",
+          "topic": "Using the Present Continuous Tense",
+          "content": "• Understanding -ing words (running, singing, eating) • Forming present continuous with “is/am/are” • Oral drills and sentence practice • Writing short paragraphs using the tense",
+          "source_page": 673
+        },
+        {
+          "week": "10",
+          "topic": "Vocabulary Building and Spelling Practice",
+          "content": "• Learning new words from familiar themes (school, food, animals, home) • Synonyms and antonyms (happy/sad, near/far) • Sentence construction with new words • Spelling games and competitions",
+          "source_page": 673
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "• Review of all phonics, comprehension, grammar, and speaking topics • Reading and spelling drills • Practice comprehension and grammar quizzes •",
+          "source_page": 673
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment •",
+          "source_page": 673
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 673
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "MATHEMATICS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 674,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Whole Numbers (1–100)",
+          "content": "• Revision of Primary 1 work • Counting numbers 1–100 • Reading and writing numbers 1–100 in figures and words • Comparing numbers using place values (tens and units) • Ordering numbers from smallest to largest and vice versa • Skip counting in 2s, 3s, 5s, and 10s • Identifying odd and even numbers",
+          "source_page": 674
+        },
+        {
+          "week": "2",
+          "topic": "Whole Numbers (101–200)",
+          "content": "• Counting, reading, and writing numbers 101– 200 • Identifying place values (hundreds, tens, and units) • Writing expanded forms of numbers • Comparing numbers using <, >, = symbols • Skip counting in 2s, 3s, and 5s up to 200",
+          "source_page": 674
+        },
+        {
+          "week": "3",
+          "topic": "Fractions (Part 1)",
+          "content": "• Meaning of fractions • Identifying ½ and ¼ as parts of a whole • Dividing objects into two and four equal parts • Writing simple fractions (½, ¼) • Representing fractions with objects and pictures",
+          "source_page": 674
+        },
+        {
+          "week": "4",
+          "topic": "Fractions (Part 2)",
+          "content": "• Identifying ¾ of given objects • Practical activities on sharing items into four equal parts • Relating fractions to real-life situations (food, toys, etc.) • Comparing simple fractions (½ and ¼) • Word problems involving halves and quarters •",
+          "source_page": 674
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4 •",
+          "source_page": 674
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday / Rest",
+          "source_page": 674
+        },
+        {
+          "week": "7",
+          "topic": "Addition (Part 1)",
+          "content": "• Meaning of addition • Identifying the addition sign (+) • Adding single-digit numbers (without carrying) • Addition using number lines and real objects • Word problems on addition • Real-life applications: total number of items",
+          "source_page": 674
+        },
+        {
+          "week": "8",
+          "topic": "Addition (Part 2)",
+          "content": "• Addition of 2-digit numbers (with and without carrying) • Addition of three or more numbers • Mental addition of small numbers • Word problems on addition • Checking addition using subtraction",
+          "source_page": 674
+        },
+        {
+          "week": "9",
+          "topic": "Subtraction (Part 1)",
+          "content": "• Meaning of subtraction (−) • Identifying subtraction sign • Subtraction as “take away” and “difference between” • Subtracting single-digit and 2-digit numbers without borrowing • Real-life subtraction problems (items remaining)",
+          "source_page": 675
+        },
+        {
+          "week": "10",
+          "topic": "Subtraction (Part 2)",
+          "content": "• Subtracting 2-digit numbers with borrowing • Checking subtraction using addition • Word problems on subtraction • Real-life activities involving subtraction (money, distance, items) •",
+          "source_page": 675
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of: Whole numbers, fractions, addition, and subtraction •",
+          "source_page": 675
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment •",
+          "source_page": 675
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 675
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "MATHEMATICS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 676,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Multiplication (Part 1)",
+          "content": "• Meaning of multiplication as repeated addition • Introduction to multiplication tables of 2, 3, 4, and 5 • Multiplying using groups and arrays • Solving simple multiplication problems • Real-life examples (2 bags of 5 oranges each)",
+          "source_page": 676
+        },
+        {
+          "week": "2",
+          "topic": "Multiplication (Part 2)",
+          "content": "• Multiplication tables of 6, 7, 8, 9, 10 • Commutative property of multiplication • Multiplying 2-digit by 1-digit numbers • Word problems involving multiplication • Practical multiplication games",
+          "source_page": 676
+        },
+        {
+          "week": "3",
+          "topic": "Open Sentences (Algebraic Expressions)",
+          "content": "• Meaning of open sentences • Finding missing numbers: □+ 4 = 7 • Using inverse operations to find missing values • Completing number sentences with +, −, ×, ÷ • Word problems with missing numbers",
+          "source_page": 676
+        },
+        {
+          "week": "4",
+          "topic": "Money (Part 1)",
+          "content": "• Identifying Nigerian currency: coins and notes • Denominations of Naira and Kobo • Counting money (coins and notes) • Adding and subtracting money • Making change in buying and selling situations •",
+          "source_page": 676
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4 •",
+          "source_page": 676
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday / Rest",
+          "source_page": 676
+        },
+        {
+          "week": "7",
+          "topic": "Money (Part 2)",
+          "content": "• Word problems involving money • Shopping activities and budgeting • Real-life applications of money handling • Understanding saving and spending",
+          "source_page": 676
+        },
+        {
+          "week": "8",
+          "topic": "Length",
+          "content": "• Meaning of length • Measuring length with non-standard and standard units (cm, m) • Tools for measuring length (ruler, tape) • Comparing lengths: longer, shorter, equal • Estimating and recording length",
+          "source_page": 676
+        },
+        {
+          "week": "9",
+          "topic": "Time (Part 1)",
+          "content": "• Reading time to the hour and half hour • Clock features: face, hands, numbers • Morning, afternoon, evening • Days of the week and months of the year • Activities related to time (daily schedule)",
+          "source_page": 676
+        },
+        {
+          "week": "10",
+          "topic": "Time (Part 2)",
+          "content": "• Reading and writing time to quarter past and quarter to • Identifying a.m. and p.m. • Simple duration problems (how long an activity takes) • Word problems on time •",
+          "source_page": 677
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of: Multiplication, open sentences, money, length, time •",
+          "source_page": 677
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment •",
+          "source_page": 677
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 677
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "MATHEMATICS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 678,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Weight",
+          "content": "• Meaning of weight (how heavy something is) • Units of weight: gram (g), kilogram (kg) • Measuring using a scale • Comparing objects: heavier, lighter, same weight • Real-life weight estimation activities",
+          "source_page": 678
+        },
+        {
+          "week": "2",
+          "topic": "Capacity",
+          "content": "• Meaning of capacity (how much a container holds) • Measuring capacity using cups, bottles, and jugs • Units of capacity: millilitre (ml), litre (L) • Comparing capacities: full, half-full, empty • Word problems on capacity",
+          "source_page": 678
+        },
+        {
+          "week": "3",
+          "topic": "Area (Introduction)",
+          "content": "• Meaning of area (space covered by a surface) • Measuring area using square units • Comparing areas of objects (bigger/smaller) • Practical activities: measuring table or book covers • Word problems on area",
+          "source_page": 678
+        },
+        {
+          "week": "4",
+          "topic": "2-Dimensional Shapes",
+          "content": "• Identifying and naming 2D shapes: circle, square, rectangle, triangle • Properties of 2D shapes (sides, corners) • Drawing and tracing shapes • Sorting and grouping shapes • Shapes in our environment •",
+          "source_page": 678
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1–4 •",
+          "source_page": 678
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday / Rest",
+          "source_page": 678
+        },
+        {
+          "week": "7",
+          "topic": "3-Dimensional Shapes",
+          "content": "• Identifying and naming 3D shapes: cube, cuboid, cylinder, sphere, cone • Properties of 3D shapes: faces, edges, vertices • Relationship between 2D and 3D shapes • Finding 3D shapes in our environment",
+          "source_page": 678
+        },
+        {
+          "week": "8",
+          "topic": "Data Collection (Everyday Statistics)",
+          "content": "• Meaning of data (information) • Collecting and recording simple data • Using tally marks and pictograms • Reading and interpreting pictorial data • Word problems on data",
+          "source_page": 678
+        },
+        {
+          "week": "9",
+          "topic": "Review of Geometry Concepts",
+          "content": "• Comparing 2D and 3D shapes • Revision of weight, capacity, and area • Applying geometry concepts in real-life contexts • Hands-on measuring and drawing activities",
+          "source_page": 679
+        },
+        {
+          "week": "10",
+          "topic": "Applied Problem Solving (All Concepts)",
+          "content": "• Mixed operations with money, measurement, and time • Real-life scenarios combining different mathematical concepts • Solving practical quantitative reasoning problems •",
+          "source_page": 679
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of all third-term topics •",
+          "source_page": 679
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment •",
+          "source_page": 679
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 679
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "BASIC SCIENCE",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 680,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "The Senses (Part 1): Sense of Sight",
+          "content": "• Understanding our five senses • The sense of sight: using our eyes • Parts of the eye: eyelids, eyelashes, eyeball, pupil • What we can see: colors, shapes, sizes, people, animals, objects • Taking care of our eyes: washing face, not rubbing with dirty hands, enough light when reading • Things that can harm our eyes: dust, sharp objects, too much sunlight • Activity: Identifying objects by sight",
+          "source_page": 680
+        },
+        {
+          "week": "2",
+          "topic": "The Senses (Part 2): Sense of Hearing and Touch",
+          "content": "• Sense of hearing: using our ears • Sounds we hear: loud, soft, pleasant, unpleasant • Taking care of our ears: cleaning gently, avoiding loud sounds, not putting objects in ears • Sense of touch: using our skin • What we feel: hot, cold, soft, hard, rough, smooth, wet, dry • Activity: Touch box - identifying objects by touch • Matching sounds to objects",
+          "source_page": 680
+        },
+        {
+          "week": "3",
+          "topic": "The Senses (Part 3): Sense of Smell and Taste",
+          "content": "• Sense of smell: using our nose • Things we smell: nice smells (flowers, food), bad smells (rubbish, smoke) • How smell helps us: knowing if food is good or bad, enjoying flowers • Sense of taste: using our tongue • Different tastes: sweet, sour, bitter, salty • Parts of the tongue that taste different things • Safety: Never taste unknown substances • Activity: Identifying foods by smell and taste (with safe items)",
+          "source_page": 680
+        },
+        {
+          "week": "4",
+          "topic": "Soil Types (Part 1)",
+          "content": "• Understanding what soil is: ground we walk on, where plants grow • Where we find soil: gardens, farms, roads, forests • Uses of soil: growing plants, making pots, building houses (mud) • Types of soil: sandy soil, clay soil, loamy soil • Sandy soil: rough, does not hold water well, feels grainy • Observing and touching different soil types • Activity: Collecting soil samples from different places",
+          "source_page": 680
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 681
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 681
+        },
+        {
+          "week": "7",
+          "topic": "Soil Types (Part 2)",
+          "content": "• Clay soil: smooth, sticky when wet, holds water well, cracks when dry • Making things with clay soil: pots, bricks • Loamy soil: mixture of sand and clay, best for growing plants, dark colored • Comparing the three soil types: color, texture, water holding • Which soil is best for farming: loamy soil • Activity: Simple experiment - pouring water through different soils • Drawing and coloring different soil types",
+          "source_page": 681
+        },
+        {
+          "week": "8",
+          "topic": "Air (Part 1)",
+          "content": "• Understanding air: all around us, we cannot see it but we can feel it • How we know air exists: we breathe it, we feel wind, balloons inflate • Air is important: we need it to breathe and live • Things that need air: people, animals, plants • Feeling air: waving hand, fanning, blowing • Moving air is called wind • Activity: Blowing balloons, making paper fans",
+          "source_page": 681
+        },
+        {
+          "week": "9",
+          "topic": "Air (Part 2)",
+          "content": "• Properties of air: has no color (transparent), has no smell, has no taste • Air has weight: can be felt when moving • Air occupies space: fills balloons, bubbles in water • Uses of air: breathing, flying kites, drying clothes, winnowing grains • Wind helps: moving windmills, sailing boats, spreading seeds • Clean air vs. dirty air (smoke, dust) • Activity: Observing bubbles in water, flying light objects with air",
+          "source_page": 681
+        },
+        {
+          "week": "10",
+          "topic": "Water (Part 1)",
+          "content": "• Understanding water: liquid we drink, use for washing, cooking • Where we get water: rain, rivers, streams, wells, boreholes, taps • Uses of water: drinking, cooking, bathing, washing clothes/dishes, watering plants, swimming • Clean water vs. dirty water: color, smell, particles • Importance of clean water for health • Activity: Observing clean and dirty water samples (looking only)",
+          "source_page": 681
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: The five senses, soil types, air, water",
+          "source_page": 682
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 682
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 682
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "BASIC SCIENCE",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 683,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Water (Part 2)",
+          "content": "• States of water: liquid (water we drink), solid (ice), gas (steam from boiling water) • Water becomes ice when very cold (in freezer) • Ice becomes water when warm (melting) • Water becomes steam when boiled (evaporation - simple concept) • Water cycle (very simple): rain falls, forms rivers, sun dries water, rain falls again • Activity: Observing ice melting, watching steam from hot water (teacher demonstration)",
+          "source_page": 683
+        },
+        {
+          "week": "2",
+          "topic": "Colours (Part 1)",
+          "content": "• Understanding colors: what we see with our eyes • Primary colors: red, blue, yellow (cannot be made by mixing) • Identifying primary colors in the environment: red flower, blue sky, yellow sun • Naming objects by their colors: red apple, blue car, yellow banana • Activity: Coloring with primary colors, color sorting game",
+          "source_page": 683
+        },
+        {
+          "week": "3",
+          "topic": "Colours (Part 2)",
+          "content": "• Secondary colors: green, orange, purple (made by mixing primary colors) • Mixing colors: - Red + Yellow = Orange - Blue + Yellow = Green - Red + Blue = Purple • Other colors: black, white, brown, pink, grey • Colors in nature: rainbow colors • Activity: Mixing paint/water colors to make new colors",
+          "source_page": 683
+        },
+        {
+          "week": "4",
+          "topic": "Plants (Part 1): Parts of a Plant",
+          "content": "• Understanding plants: living things that grow from soil • Major parts of a plant: - Roots: under the ground, hold plant in soil, take in water - Stem: above ground, holds plant upright, carries water to leaves - Leaves: green parts, make food for plant - Flowers: colorful parts, some plants have them - Fruits: some plants have fruits with seeds inside • Activity: Observing real plants, drawing and labeling plant parts",
+          "source_page": 683
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 684
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 684
+        },
+        {
+          "week": "7",
+          "topic": "Plants (Part 2): Types and Uses of Plants",
+          "content": "• Types of plants: trees (big, tall, woody stem), shrubs (smaller than trees), herbs (small, soft stem) • Examples: mango tree, hibiscus shrub, tomato plant • Uses of plants: - Food: fruits, vegetables, grains - Shelter: wood for building houses - Clothing: cotton for clothes - Medicine: herbs for treating sickness - Oxygen: plants give us fresh air to breathe • Activity: Plant walk - identifying plants in school compound",
+          "source_page": 684
+        },
+        {
+          "week": "8",
+          "topic": "Plants (Part 3): How Plants Grow",
+          "content": "• What plants need to grow: soil, water, air, sunlight • Stages of plant growth: seed →young plant (seedling) →adult plant • Seeds come from fruits and flowers • Caring for plants: watering, removing weeds, protecting from animals • Activity: Planting seeds in pots (beans or maize), observing growth daily",
+          "source_page": 684
+        },
+        {
+          "week": "9",
+          "topic": "Animals (Part 1): Types of Animals",
+          "content": "• Understanding animals: living things that can move from place to place • Animals around us: pets, farm animals, wild animals, insects, birds, fish • Domestic animals (pets): dog, cat, rabbit, parrot • Farm animals: goat, sheep, cow, chicken, duck, pig • Wild animals: lion, elephant, monkey, snake, crocodile • Activity: Sorting animal pictures by groups, animal sounds game",
+          "source_page": 684
+        },
+        {
+          "week": "10",
+          "topic": "Animals (Part 2): Body Parts and Uses of Animals",
+          "content": "• Body parts of animals: head, eyes, ears, legs, tail, wings (for birds) • Different animals have different body parts: fish have fins, birds have wings, snakes have no legs • Uses of animals: - Food: meat, milk, eggs - Work: donkeys carry loads, oxen plow farms - Protection: dogs guard homes - Clothing: leather from cow skin, wool from sheep • Caring for animals: feeding, giving water, shelter, treating when sick • Activity: Matching animals to their uses, drawing favorite animal",
+          "source_page": 684
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Water states, colors, plants, animals",
+          "source_page": 685
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 685
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 685
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "BASIC SCIENCE",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 686,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Clay (Part 1): What is Clay?",
+          "content": "• Understanding clay: special type of soil that is sticky when wet • Where clay is found: near rivers, in some farms, clay pits • Properties of clay: - Soft and moldable when wet - Can be shaped into different forms - Becomes hard when dry - Smooth texture • Difference between clay and other soils • Activity: Touching and feeling wet clay, observing dry clay",
+          "source_page": 686
+        },
+        {
+          "week": "2",
+          "topic": "Clay (Part 2): Uses of Clay",
+          "content": "• What we make with clay: - Pots for cooking and storing water - Plates and bowls for serving food - Bricks for building houses - Tiles for floors and walls - Decorative items: vases, sculptures - Children's toys • People who work with clay: potters • Traditional pottery in Nigeria: different ethnic groups' pottery styles • Activity: Visiting a potter (if possible) or watching video of pottery making",
+          "source_page": 686
+        },
+        {
+          "week": "3",
+          "topic": "Clay (Part 3): Working with Clay",
+          "content": "• How to prepare clay for molding: adding water, kneading • Simple clay modeling techniques: - Rolling: making ropes and balls - Pinching: making small pots - Flattening: making flat shapes - Joining pieces together • Drying clay objects: leaving in sun or shade • Safety with clay: washing hands before and after, not eating clay • Activity: Simple clay modeling - making balls, ropes, simple pots, animals",
+          "source_page": 686
+        },
+        {
+          "week": "4",
+          "topic": "Clay (Part 4): Clay Art and Projects",
+          "content": "• Decorating clay objects: making patterns, adding textures • Painting dried clay objects • Creating clay models: fruits, animals, simple shapes • Appreciating traditional Nigerian pottery • Caring for clay objects: handling gently, keeping dry • Activity: Creating clay art project (individual or group), decorating clay objects",
+          "source_page": 686
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 687
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 687
+        },
+        {
+          "week": "7",
+          "topic": "Forms of Energy: Sound (Part 1)",
+          "content": "• Understanding energy: what makes things work, move, or change • Introduction to sound: what we hear with our ears • How sound is made: by vibrations (things shaking/moving quickly) • Sources of sound: - Our voice: vocal cords vibrate - Musical instruments: drums, bells, whistles - Animals: dogs bark, birds sing, cats meow - Things around us: doors closing, car engines, rain • Activity: Making sounds with our voices, identifying sounds",
+          "source_page": 687
+        },
+        {
+          "week": "8",
+          "topic": "Forms of Energy: Sound (Part 2)",
+          "content": "• Types of sounds: - Loud sounds: drum, thunder, car horn, shouting - Soft/quiet sounds: whisper, breeze, tiptoe - Pleasant sounds: music, singing, birds - Unpleasant sounds: noise, screaming, grinding • High and low sounds (pitch): bird singing (high), drum beating (low) • Fast and slow sounds • Activity: Creating loud and soft sounds, identifying pleasant and unpleasant sounds",
+          "source_page": 687
+        },
+        {
+          "week": "9",
+          "topic": "Forms of Energy: Sound (Part 3)",
+          "content": "• How sound travels: through air, can travel through water and solid objects • Sound travels from source to our ears • Sounds can be near (close) or far (distant) • Echo: hearing sound again (like in empty room or mountain) • Uses of sound: - Communication: talking, telephone, school bell - Warning: alarm, siren, car horn - Entertainment: music, songs, stories • Activity: Sound experiments - sounds through different materials",
+          "source_page": 687
+        },
+        {
+          "week": "10",
+          "topic": "Forms of Energy: Sound (Part 4) - Musical Instruments and Sound Safety",
+          "content": "• Making musical instruments: - Shakers: containers with beans/stones - Drums: containers with stretched material - Bells: metal objects that ring - Whistles: blowing instruments • Traditional Nigerian instruments: drums, gong, shekere, flute • Sound safety: - Very loud sounds can hurt our ears - Don't shout in people's ears - Cover ears when near very loud sounds • Activity: Making simple musical instruments from recycled materials, class orchestra",
+          "source_page": 687
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Clay (properties, uses, modeling), Sound (sources, types, uses, safety)",
+          "source_page": 688
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 688
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 688
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 689,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Moving Our Body Parts (Part 1): Head and Upper Body",
+          "content": "• Identifying body parts: head, neck, shoulders, arms, hands • Moving the head: nodding (yes), shaking (no), turning left and right, up and down • Moving shoulders: shrugging up and down, rolling forward and backward • Moving arms: swinging, stretching up, sideways, circling • Moving hands: waving, clapping, opening and closing fists • Simple coordination: head and arm movements together • Activity: \"Simon Says\" with upper body movements",
+          "source_page": 689
+        },
+        {
+          "week": "2",
+          "topic": "Moving Our Body Parts (Part 2): Lower Body",
+          "content": "• Identifying lower body parts: waist, hips, legs, knees, feet, toes • Bending at the waist: forward, sideways, backward (carefully) • Moving hips: side to side, circular motions • Moving legs: lifting knees, kicking gently, stepping • Moving feet: tiptoeing, stamping, standing on one foot • Moving toes: wiggling, curling • Balance activities: standing on one leg, walking on a line • Activity: Follow-the-leader movement game",
+          "source_page": 689
+        },
+        {
+          "week": "3",
+          "topic": "Moving Our Body Parts (Part 3): Whole Body Movements",
+          "content": "• Combining upper and lower body movements • Basic locomotor movements: - Walking: forward, backward, sideways - Running: in place, short distances - Jumping: two feet together, hopping on one foot - Skipping: combining step and hop - Galloping: like a horse • Stretching exercises: reaching high, bending low, stretching wide • Activity: Movement stations, obstacle course",
+          "source_page": 689
+        },
+        {
+          "week": "4",
+          "topic": "Moving Our Body Parts (Part 4): Movement Patterns and Coordination",
+          "content": "• Movement directions: forward, backward, sideways, up, down • Movement speeds: fast and slow, starting and stopping • Movement pathways: straight lines, curves, zigzag • Body shapes: tall/stretched, wide/spread, small/curled, twisted • Coordinating movements: marching (arms and legs together), crawling • Simple rhythmic movements: clapping to beat, moving to music • Activity: Movement to music, creative movement exploration",
+          "source_page": 689
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Practical assessment of body movements and coordination",
+          "source_page": 690
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 690
+        },
+        {
+          "week": "7",
+          "topic": "Athletics: Running (Part 1)",
+          "content": "• Understanding running: faster than walking, both feet off ground • Proper running posture: body slightly forward, arms swinging, looking ahead • Running techniques: lifting knees, landing on balls of feet • Starting position: ready position, listening for signal • Running in straight lines: staying in lane/path • Short-distance running: 20-30 meters • Activity: Running races, relay races (simple)",
+          "source_page": 690
+        },
+        {
+          "week": "8",
+          "topic": "Athletics: Running (Part 2) and Jumping",
+          "content": "• Running games: chase games, tag, \"What's the time, Mr. Wolf?\" • Starting and stopping on command • Introduction to jumping: taking off and landing on two feet • Types of jumps: jumping in place, jumping forward, jumping over low objects • Jumping techniques: bending knees, swinging arms, soft landing • Hopping: jumping on one foot • Activity: Jumping games, hopscotch, jumping rope (introduction)",
+          "source_page": 690
+        },
+        {
+          "week": "9",
+          "topic": "Games: Traditional/Local Games (Part 1)",
+          "content": "• Understanding games: activities with rules, played for fun • Nigerian traditional games: - \"Suwe\" (Hopscotch): drawing pattern, hopping in squares - \"Catcher\" (Tag): one person chases others - \"Hide and Seek\" (Oga): hiding and finding • Rules of each game: how to play, how to win, fair play • Taking turns and sharing • Activity: Playing traditional games in small groups",
+          "source_page": 690
+        },
+        {
+          "week": "10",
+          "topic": "Games: Traditional/Local Games (Part 2)",
+          "content": "• More Nigerian games: - \"Ten-Ten\" (Clapping game): rhythmic hand clapping - \"Tinko-Tinko\" (Ball bouncing game) - \"Ayo\" or \"Ludo\" (Board games - introduction) - Skipping rope games • Simple ball games: throwing and catching, rolling • Importance of playing games: exercise, fun, making friends • Being a good sport: not fighting, congratulating winners, trying again • Activity: Class game tournament, rotating through different games",
+          "source_page": 691
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review and practice: Body movements, running, jumping, local games",
+          "source_page": 691
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Practical assessment: Demonstrate movements, participate in games",
+          "source_page": 691
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 691
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 692,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Swimming: Water Safety and Introduction (Part 1)",
+          "content": "• Understanding swimming: moving through water • Importance of swimming: exercise, water safety skill, fun • Water safety rules: - Never swim alone, always with adult - Only swim in safe places: pools, shallow areas - Don't run near water - Listen to lifeguard/adult instructions • Dangers of deep water • What to do if someone is drowning: call for help, don't jump in • Activity: Water safety posters, discussing safety rules",
+          "source_page": 692
+        },
+        {
+          "week": "2",
+          "topic": "Swimming: Water Familiarization (Part 2)",
+          "content": "• Getting comfortable with water (if pool available): - Splashing face with water - Wetting hair and body gradually - Walking in shallow water - Sitting in shallow water • If no pool: Simulating movements on land • Overcoming fear of water: gradual exposure, games • Water games: splashing gently, catching objects in shallow water • Floating aids: arm bands, kickboards, life jackets • Activity: Water play activities (supervised), land-based swimming movements",
+          "source_page": 692
+        },
+        {
+          "week": "3",
+          "topic": "Swimming: Basic Water Skills (Part 3)",
+          "content": "• Blowing bubbles: in water, making bubbles with mouth • Holding breath: taking deep breath, underwater for few seconds (if pool available) • Floating practice: lying on back with support, relaxing in water • Kicking movements: sitting on edge, kicking legs in water • Arm movements: paddling, scooping water • If no pool available: Practicing movements on benches/mats • Activity: Water confidence activities, movement practice",
+          "source_page": 692
+        },
+        {
+          "week": "4",
+          "topic": "Swimming: Swimming Safety Review and Fun (Part 4)",
+          "content": "• Review of all water safety rules • Swimming pool rules: no pushing, no running, shower before entering • Recognizing dangerous situations near water • Emergency procedures: calling for help, throwing floatation device • Swimming as exercise: good for whole body • Fun water activities and games (supervised) • Activity: Water safety quiz, safe swimming practices demonstration",
+          "source_page": 692
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4 (Written water safety, practical if pool available)",
+          "source_page": 693
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 693
+        },
+        {
+          "week": "7",
+          "topic": "Health and Hygiene (Part 1): Personal Cleanliness",
+          "content": "• Understanding hygiene: keeping our body clean and healthy • Daily hygiene practices: - Bathing daily: morning and/or evening - Washing hands: before eating, after toilet, after playing - Brushing teeth: morning and night, after meals - Washing face: morning and evening - Cutting nails: keeping them short and clean • Proper handwashing steps: wet, soap, scrub (20 seconds), rinse, dry • Activity: Handwashing practice, demonstrating hygiene routines",
+          "source_page": 693
+        },
+        {
+          "week": "8",
+          "topic": "Health and Hygiene (Part 2): Body Care",
+          "content": "• Hair care: washing regularly, combing, keeping tidy • Ear care: cleaning outer ear gently, not putting objects inside • Nose care: blowing nose with tissue, keeping clean • Clothing hygiene: wearing clean clothes daily, changing underwear • Foot care: washing feet, wearing clean socks, proper shoes • Why hygiene is important: staying healthy, smelling good, preventing diseases • Diseases from poor hygiene: stomach ache, skin infections, lice • Activity: Hygiene checklist, role-playing daily hygiene routines",
+          "source_page": 693
+        },
+        {
+          "week": "9",
+          "topic": "Health and Hygiene (Part 3): Food and Environmental Hygiene",
+          "content": "• Food hygiene: - Washing hands before eating - Eating clean, well-cooked food - Washing fruits and vegetables - Not eating food that has fallen on ground - Covering food from flies and insects • Drinking clean water: boiled or filtered water • Environmental hygiene: - Keeping surroundings clean - Using dustbins for rubbish - Not littering • Activity: Clean-up exercise in classroom/school compound",
+          "source_page": 693
+        },
+        {
+          "week": "10",
+          "topic": "Health and Hygiene (Part 4): Toilet Hygiene and Healthy Habits",
+          "content": "• Proper use of toilet: sitting properly, flushing, cleaning • Handwashing after using toilet (review and emphasis) • Keeping toilet clean: not throwing paper everywhere, telling adult if problems • Healthy habits: - Getting enough sleep: 9-10 hours for children - Eating healthy food: fruits, vegetables, balanced meals - Drinking enough water - Exercising/playing daily • Activity: Creating \"Healthy Habits\" poster, daily routine planning",
+          "source_page": 694
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Swimming safety, hygiene practices, healthy habits",
+          "source_page": 694
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Written and oral assessment on health and hygiene",
+          "source_page": 694
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 694
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "PHYSICAL AND HEALTH EDUCATION",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 695,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "First Aid: Understanding First Aid",
+          "content": "• What is first aid? Help given immediately when someone is hurt or sick • Why first aid is important: stops pain, prevents worse injury, helps until doctor comes • When we need first aid: cuts, bruises, nose bleeding, burns, insect bites, sprains • Who can give first aid: adults, trained people, teachers, school nurse • First aid rule: Always call an adult for help • Staying calm when someone is hurt • Activity: Role-play calling for help, discussing emergency scenarios",
+          "source_page": 695
+        },
+        {
+          "week": "2",
+          "topic": "First Aid: The First Aid Box",
+          "content": "• What is a first aid box? Box with items for treating injuries • Contents of first aid box: - Bandages and plasters (for covering cuts) - Cotton wool (for cleaning wounds) - Antiseptic liquid/cream (for cleaning cuts) - Scissors (for cutting bandages) - Thermometer (for checking temperature) - Safety pins • Where to find first aid boxes: school clinic, home, car • Never play with first aid items • Activity: Identifying first aid items, creating class first aid poster",
+          "source_page": 695
+        },
+        {
+          "week": "3",
+          "topic": "First Aid: Treating Minor Injuries (Part 1)",
+          "content": "• Treating small cuts and scrapes: 1. Tell an adult immediately 2. Clean with clean water 3. Apply antiseptic (adult does this) 4. Cover with plaster or bandage • Treating bruises: - Apply cold compress (ice pack or cold cloth) - Rest the hurt part • What NOT to do: - Don't touch wound with dirty hands - Don't remove bandage too soon • Activity: Demonstrating on dolls, practicing calling for help",
+          "source_page": 695
+        },
+        {
+          "week": "4",
+          "topic": "First Aid: Treating Minor Injuries (Part 2)",
+          "content": "• Treating nose bleeding: - Sit upright, don't lie down - Lean forward slightly - Pinch soft part of nose - Breathe through mouth - Get adult help • Treating insect bites/stings: - Don't scratch - Wash with soap and water - Apply cream (adult does this) - Tell adult if swelling or pain • Treating minor burns (from hot water, sun): - Run cool water over burn - Don't apply ice directly - Cover with clean cloth - Get adult help immediately • Activity: First aid scenarios, what would you do?",
+          "source_page": 695
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4 (First aid knowledge and procedures)",
+          "source_page": 696
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 696
+        },
+        {
+          "week": "7",
+          "topic": "Safety Education: Home Safety",
+          "content": "• Safety in the home: - Kitchen: don't touch hot stove, sharp knives, don't play near fire - Bathroom: careful on wet floor, don't play with medicine - Bedroom: don't jump on bed, keep floor clear of toys - Living room: don't play with electrical sockets, careful with sharp corners • Dangers at home: fire, electricity, sharp objects, poisonous substances • What to do in emergency: call adult, know parents' phone numbers • Activity: Home safety picture identification, creating safety rules poster",
+          "source_page": 696
+        },
+        {
+          "week": "8",
+          "topic": "Safety Education: School Safety",
+          "content": "• Safety at school: - Classroom: sit properly, don't run, keep bags under desk - Playground: play gently, don't push, use equipment properly - Stairs: hold handrail, walk don't run, one step at a time - Toilets: careful on wet floor, close doors properly • Playing safely: no rough play, no fighting, take turns • Reporting dangers: broken equipment, spills, strangers • Assembly safety: walk in line, don't push • Activity: School safety walk, identifying hazards and solutions",
+          "source_page": 696
+        },
+        {
+          "week": "9",
+          "topic": "Safety Education: Road Safety",
+          "content": "• Understanding roads: where vehicles move • Dangers on roads: moving cars, motorcycles, bicycles • Road safety rules: - Always hold adult's hand near roads - Look left, right, left before crossing - Use pedestrian crossing (zebra crossing) - Walk on pavement/sidewalk, not on road - Never play on or near roads • Traffic lights: red (stop), yellow (get ready), green (go) • Activity: Road safety role-play, crossing practice (in safe area)",
+          "source_page": 697
+        },
+        {
+          "week": "10",
+          "topic": "Safety Education: Personal Safety and Emergency Numbers",
+          "content": "• Stranger danger: - Don't talk to strangers - Don't follow strangers - Don't accept gifts from strangers - Don't go anywhere with strangers - Scream and run if stranger tries to take you • Safe adults: parents, teachers, police, trusted family members • Getting lost: stay where you are, find police/security, know your name and parents' names • Emergency numbers in Nigeria: - 112 (general emergency) - 767 (police - in some states) - 199 (fire service) • Activity: Practicing emergency calls (pretend), memorizing important information",
+          "source_page": 697
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review: First aid, home safety, school safety, road safety, personal safety",
+          "source_page": 697
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment (Written and oral on safety and first aid)",
+          "source_page": 697
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends - End of Primary 2",
+          "source_page": 697
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 698,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "The Meaning of Prayer (Part 1)",
+          "content": "• What is prayer? Talking to God • Prayer is like talking to our parent or friend • God listens when we pray • We can pray anywhere: home, school, church, playground • We can pray anytime: morning, afternoon, night • God loves it when we pray • Simple explanation: Prayer is our conversation with God • Activity: Discussing who we talk to and how prayer is talking to God",
+          "source_page": 698
+        },
+        {
+          "week": "2",
+          "topic": "The Meaning of Prayer (Part 2)",
+          "content": "• Different ways to pray: - Speaking out loud - Praying silently in our hearts - Singing songs to God - Reading prayers from the Bible • Prayer positions: standing, sitting, kneeling, bowing head • Folding hands and closing eyes helps us concentrate • God hears all our prayers, however we pray • Activity: Practicing different prayer positions, singing prayer songs",
+          "source_page": 698
+        },
+        {
+          "week": "3",
+          "topic": "When to Pray (Part 1)",
+          "content": "• We can pray anytime we want • Special times to pray: - Morning prayers: thanking God for the night, asking for protection - Before meals: thanking God for food (saying grace) - Night prayers: thanking God for the day, asking for peaceful sleep • The Bible says \"Pray without ceasing\" (1 Thessalonians 5:17 - simple) • Activity: Learning morning, meal, and bedtime prayers",
+          "source_page": 698
+        },
+        {
+          "week": "4",
+          "topic": "When to Pray (Part 2)",
+          "content": "• Other times to pray: - Before going to school: asking God for wisdom and safety - When we are happy: thanking God - When we are sad or afraid: asking God for help and comfort - When we need something: asking God - When someone is sick: praying for healing - Before exams/tests: asking for understanding • We should pray every day • Activity: Creating a daily prayer schedule, discussing when we pray at home",
+          "source_page": 698
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 699
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 699
+        },
+        {
+          "week": "7",
+          "topic": "How to Pray (Part 1): The Lord's Prayer Introduction",
+          "content": "• Jesus taught us how to pray • The Lord's Prayer: \"Our Father who art in heaven...\" • Learning the Lord's Prayer line by line (first part): - \"Our Father who art in heaven\" (God is our loving Father in heaven) - \"Hallowed be thy name\" (God's name is holy and special) - \"Thy kingdom come\" (We want God to rule) - \"Thy will be done on earth as it is in heaven\" (We want to obey God) • Simple explanation of each line • Activity: Memorizing first part of Lord's Prayer with actions",
+          "source_page": 699
+        },
+        {
+          "week": "8",
+          "topic": "How to Pray (Part 2): The Lord's Prayer Continued",
+          "content": "• Learning the Lord's Prayer (second part): - \"Give us this day our daily bread\" (Asking God for what we need) - \"And forgive us our trespasses\" (Asking God to forgive our sins) - \"As we forgive those who trespass against us\" (We must forgive others) - \"And lead us not into temptation\" (Help us not to do wrong) - \"But deliver us from evil\" (Protect us from bad things) - \"For thine is the kingdom, the power, and the glory, forever. Amen\" • Activity: Reciting complete Lord's Prayer, drawing prayer scenes",
+          "source_page": 699
+        },
+        {
+          "week": "9",
+          "topic": "How to Pray (Part 3): Parts of Prayer",
+          "content": "• Four main parts of prayer (ACTS): - Adoration: Praising God (God, you are great and wonderful!) - Confession: Saying sorry for wrong things we did - Thanksgiving: Thanking God for His blessings - Supplication: Asking God for what we need • We can pray for ourselves and for others • Being honest with God: He knows everything • Activity: Creating simple prayers using ACTS format",
+          "source_page": 699
+        },
+        {
+          "week": "10",
+          "topic": "How to Pray (Part 4): Prayer in Action",
+          "content": "• Examples of people who prayed in the Bible: - Jesus prayed often - David prayed and wrote psalms - Daniel prayed three times a day • God answers prayers: Yes, No, or Wait • We must have faith when we pray (believe God hears us) • Praying for others: family, friends, teachers, leaders • Activity: Writing simple prayers, class prayer time, prayer chain",
+          "source_page": 700
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Meaning of prayer, when to pray, how to pray, Lord's Prayer",
+          "source_page": 700
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessmen",
+          "source_page": 700
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 700
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 701,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Jesus' Power Over Natural Forces (Part 1): Jesus Calms the Storm",
+          "content": "• Story: Jesus and disciples in a boat on the sea (Mark 4:35-41) • A big storm came: strong wind, big waves, boat filling with water • Disciples were afraid: \"We are going to drown!\" • Jesus was sleeping in the boat • They woke Jesus: \"Teacher, don't you care that we are dying?\" • Jesus stood up and said to the storm: \"Peace! Be still!\" • The wind stopped, the sea became calm • Jesus asked: \"Why are you afraid? Do you have no faith?\" • Lesson: Jesus has power over nature (wind and waves) • Activity: Acting out the story, drawing the scene, discussing what we learn",
+          "source_page": 701
+        },
+        {
+          "week": "2",
+          "topic": "Jesus' Power Over Natural Forces (Part 2): Jesus Walks on Water",
+          "content": "• Story: Jesus walks on water (Matthew 14:22-33) • Disciples in boat at night, Jesus on land praying • Jesus walked on the water toward the boat • Disciples were frightened: \"It's a ghost!\" • Jesus said: \"It is I. Don't be afraid.\" • Peter wanted to walk on water too • Peter walked on water but got scared and started to sink • Jesus saved Peter • Lesson: Jesus can do what is impossible for us; we must have faith • Activity: Retelling story, discussing miracles, water experiments (things that float/sink)",
+          "source_page": 701
+        },
+        {
+          "week": "3",
+          "topic": "Jesus' Power Over Natural Forces (Part 3): Jesus Feeds 5,000 People",
+          "content": "• Story: Jesus feeds 5,000 people (John 6:1-14) • Many people followed Jesus to hear Him teach • It was late, people were hungry • A boy had 5 loaves of bread and 2 fish • Jesus took the food, prayed, and gave thanks to God • Jesus gave the food to disciples to share • Everyone ate and was satisfied • There were 12 baskets of leftovers! • Lesson: Jesus can multiply what we have; sharing is important • Activity: Counting exercise (5 loaves, 2 fish, 12 baskets), discussing sharing",
+          "source_page": 701
+        },
+        {
+          "week": "4",
+          "topic": "Jesus' Power Over Diseases (Part 1): Jesus Heals the Sick",
+          "content": "• Jesus healed many sick people • Story: Jesus heals a man with leprosy (Matthew 8:1- 4) - Man with leprosy came to Jesus - He said: \"Lord, if you want, you can make me clean\" - Jesus touched him and said: \"I am willing. Be clean!\" - The man was healed immediately • Story: Jesus heals Peter's mother-in-law (fever) • Lesson: Jesus cares about sick people and can heal them • Activity: Role-playing healing stories, making get- well cards",
+          "source_page": 702
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 702
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 702
+        },
+        {
+          "week": "7",
+          "topic": "Jesus' Power Over Diseases (Part 2): More Healing Miracles",
+          "content": "• Story: Jesus heals a paralyzed man (Mark 2:1-12) - Four friends brought paralyzed man to Jesus - House was too crowded - They made a hole in the roof and lowered their friend - Jesus said: \"Your sins are forgiven. Get up and walk!\" - The man stood up, picked up his mat, and walked • Story: Jesus heals blind Bartimaeus (Mark 10:46-52) • Lesson: Faith in Jesus brings healing; good friends help each other • Activity: Discussing importance of friends, acting out stories",
+          "source_page": 702
+        },
+        {
+          "week": "8",
+          "topic": "Jesus' Power Over Death (Part 1): Jesus Raises Jairus' Daughter",
+          "content": "• Story: Jairus' daughter raised from the dead (Mark 5:21-43) • Jairus was a synagogue leader, his daughter was very sick • He asked Jesus to come and heal her • While they were going, news came: \"Your daughter is dead\" • Jesus said: \"Don't be afraid, just believe\" • They went to the house, people were crying • Jesus said: \"She is not dead, she is sleeping\" • Jesus said: \"Little girl, get up!\" and she got up • Lesson: Jesus has power over death; nothing is impossible for Jesus • Activity: Storytelling with pictures, discussing Jesus' power",
+          "source_page": 702
+        },
+        {
+          "week": "9",
+          "topic": "Jesus' Power Over Death (Part 2): Jesus Raises Lazarus",
+          "content": "• Story: Jesus raises Lazarus from the dead (John 11:1- 44) • Lazarus was Jesus' friend, he was very sick • Lazarus died and was buried for four days • Jesus came to Bethany • Martha and Mary were sad • Jesus said: \"I am the resurrection and the life\" • Jesus went to the tomb and said: \"Lazarus, come out!\" • Lazarus came out, alive! • Lesson: Jesus gives life; Jesus cares about our sadness • Activity: Retelling story, discussing how Jesus comforts us",
+          "source_page": 702
+        },
+        {
+          "week": "10",
+          "topic": "Jesus' Power Over Evil People",
+          "content": "• Story: Jesus cleanses the temple (Matthew 21:12-13) - People were buying and selling in God's temple - They were cheating people - Jesus was angry at the wrong behavior - He drove them out and said: \"My house shall be called a house of prayer\" • Jesus stood against evil and wrong behavior • Jesus was strong but also kind • Lesson: Jesus wants us to respect God's house; do what is right • Activity: Discussing right and wrong behavior, respecting church/places of worship",
+          "source_page": 703
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Jesus' power over nature, sickness, death, and evil",
+          "source_page": 703
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment (Story retelling, questions on Jesus' miracles)",
+          "source_page": 703
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 703
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 704,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Abraham (Part 1): God's Promise to Abraham",
+          "content": "• Who was Abraham? A man who loved and obeyed God • Abraham lived in a place called Ur • God spoke to Abraham: \"Leave your country and go to a land I will show you\" • God's promises to Abraham: - \"I will make you a great nation\" - \"I will bless you\" - \"You will be a blessing to others\" - \"I will give this land to your descendants\" • Abraham obeyed God and left his home • Lesson: God makes promises and keeps them; we should obey God • Activity: Drawing Abraham's journey, map activity",
+          "source_page": 704
+        },
+        {
+          "week": "2",
+          "topic": "Abraham (Part 2): The Birth of Isaac",
+          "content": "• Abraham and Sarah had no children, they were old • God promised them a son • Sarah laughed because she was too old • But God said: \"Nothing is impossible with God\" • When Abraham was 100 years old, Isaac was born! • God kept His promise • Isaac means \"laughter\" - they were so happy • Lesson: God keeps His promises even when it seems impossible; God's timing is perfect • Activity: Discussing waiting for promises, celebrating with drawing/songs",
+          "source_page": 704
+        },
+        {
+          "week": "3",
+          "topic": "Abraham (Part 3): God Tests Abraham's Faith",
+          "content": "• Story: Abraham and Isaac (Genesis 22:1-18 - age- appropriate version) • God tested Abraham's faith • God asked Abraham to offer Isaac • Abraham loved Isaac but he loved and trusted God more • Abraham obeyed and took Isaac to the mountain • When Abraham was about to obey, God stopped him • God provided a ram instead • God said: \"Now I know you fear God\" • God blessed Abraham for his obedience • Lesson: True faith means obeying God completely; God provides what we need • Activity: Discussing obedience, trust in God",
+          "source_page": 704
+        },
+        {
+          "week": "4",
+          "topic": "Deliverance from Egypt (Part 1): The Israelites in Egypt",
+          "content": "• Abraham's family grew into a large nation (Israelites) • They went to Egypt because of famine • At first, Egyptians were kind to them • Later, a new Pharaoh made them slaves • The Israelites worked hard: making bricks, building • They were treated badly • The Israelites cried to God for help • God heard their prayers and remembered His promise to Abraham • Lesson: God hears our prayers when we cry to Him • Activity: Discussing how God helps people in trouble, prayer time",
+          "source_page": 704
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 705
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 705
+        },
+        {
+          "week": "7",
+          "topic": "Deliverance from Egypt (Part 2): Moses and the Burning Bush",
+          "content": "• God chose Moses to deliver the Israelites • Moses was keeping sheep in the wilderness • He saw a bush on fire but it didn't burn up • God spoke to Moses from the bush • God said: \"I have seen my people suffering in Egypt\" • \"I am sending you to Pharaoh to bring my people out\" • Moses was afraid but God promised to be with him • Lesson: God calls people to help others; God is always with us • Activity: Acting out the burning bush scene, discussing being brave",
+          "source_page": 705
+        },
+        {
+          "week": "8",
+          "topic": "Deliverance from Egypt (Part 3): The Passover and Crossing the Red Sea",
+          "content": "• Moses went to Pharaoh: \"Let my people go!\" • Pharaoh refused many times • God sent plagues (troubles) on Egypt • The last plague: Passover (God protected Israelites) • Finally, Pharaoh let them go • The Israelites left Egypt (the Exodus) • Pharaoh changed his mind and chased them • They reached the Red Sea - trapped! • Moses stretched his hand, God parted the sea • The Israelites walked through on dry ground • The Egyptian army was defeated • Lesson: God delivers His people; God is more powerful than any enemy • Activity: Creating Red Sea crossing scene, retelling with actions",
+          "source_page": 705
+        },
+        {
+          "week": "9",
+          "topic": "Entry into the Promised Land (Part 1): Journey to Canaan",
+          "content": "• God led the Israelites through the wilderness • They were going to Canaan, the Promised Land • God provided for them: - Manna (bread from heaven) every morning - Quail (birds) for meat - Water from a rock - Cloud by day, fire by night (God's presence) • The journey was long (40 years) because of disobedience • Moses led them but Joshua took over later • Lesson: God provides for His people; obedience is important • Activity: Discussing God's provision, creating wilderness journey poster",
+          "source_page": 705
+        },
+        {
+          "week": "10",
+          "topic": "Entry into the Promised Land (Part 2): Crossing the Jordan and Entering Canaan",
+          "content": "• Joshua became the new leader • God spoke to Joshua: \"Be strong and courageous\" • The Israelites reached the Jordan River • God made the water stop flowing • They walked across on dry ground (like the Red Sea) • They entered the Promised Land - Canaan! • God kept His promise to Abraham • Jerusalem became their special city later • Story: The walls of Jericho fell down (God's power) • Lesson: God always keeps His promises; be strong and trust God • Activity: Building and knocking down Jericho walls (blocks), celebrating God's faithfulness",
+          "source_page": 706
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Abraham, deliverance from Egypt, entry into Promised Land, God's promises",
+          "source_page": 706
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment (Comprehensive assessment on all stories)",
+          "source_page": 706
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "End of Primary 2",
+          "source_page": 706
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "ISLAMIC STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 707,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Suratul-Lahab",
+          "content": "• Introduction to Suratul-Lahab (Surah 111) • Story: Who was Abu Lahab? • Why Allah revealed this Surah • Learning and reciting verses 1-3 • Simple meaning of verses 1-3 • Pronouncing Arabic words correctly • Practice: Saying the verses together • - Lesson: Being kind even to unkind people",
+          "source_page": 707
+        },
+        {
+          "week": "2",
+          "topic": "Suratul-Lahab",
+          "content": "• Review verses 1-3 • Learning and reciting verses 4-5 • Simple meaning of verses 4-5 • Reciting complete Surah from memory • Main lesson: Money cannot buy Paradise • When to recite this Surah • Fun activity: Recitation in groups • - Writing practice: Key words from the Surah",
+          "source_page": 707
+        },
+        {
+          "week": "3",
+          "topic": "Significance of the Names of Allah (11-20)",
+          "content": "• Quick review: Allah's names 1-10 • Learning names 11-15 with meanings • Al-Qawiyy (The Strong One) • Al-Mateen (The Firm One) • Al-Waliyy (The Protector) • Al-Hameed (The Praised One) • Al-Muhsee (The Counter) • Simple stories showing Allah's power • Memory games with the names • - Saying short prayers using these names",
+          "source_page": 707
+        },
+        {
+          "week": "4",
+          "topic": "Significance of the Names of Allah (11-20)",
+          "content": "• Review names 11-15 • Learning names 16-20 with meanings • Al-Mubdi (The Beginner) • Al-Mu'eed (The Repeater) • Al-Muhyi (The Life Giver) • Al-Mumeet (The Death Giver) • Al-Hayy (The Ever-Living) • How Allah controls life and death • Matching games: Names and meanings • - Simple duas with Allah's beautiful names",
+          "source_page": 707
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 707
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 707
+        },
+        {
+          "week": "7",
+          "topic": "The Five Daily Prayers (Salat)",
+          "content": "• What is Salat? (Prayer) • Why do Muslims pray? • The five prayers and their names • Fajr (morning), Zuhr (afternoon), Asr (late afternoon) • Maghrib (sunset), Isha (night) • When we pray each prayer • Number of rak'ats in each prayer • Listening to the Adhan (call to prayer) • - Why praying on time is important",
+          "source_page": 707
+        },
+        {
+          "week": "8",
+          "topic": "The Five Daily Prayers (Salat)",
+          "content": "• Prayer times using the sun • Praying together in the mosque • Praying at home with family • Benefits of praying five times daily • Friday prayer (Jumu'ah) - brief introduction • Making a prayer timetable • Stories about Prophets who loved to pray • - Practice: Saying \"It's time for Salat!\"",
+          "source_page": 708
+        },
+        {
+          "week": "9",
+          "topic": "Ethics of Observance of Salat in Islam",
+          "content": "• Getting ready for prayer • What is Wudu? (Washing before prayer) • Why we need to be clean for Salat • Simple steps of Wudu for children • Washing hands, mouth, nose, face, arms • Wiping head and ears, washing feet • Things that break Wudu • Using clean water and saving water • Wearing clean clothes for prayer • - Using a clean prayer mat",
+          "source_page": 708
+        },
+        {
+          "week": "10",
+          "topic": "Ethics of Observance of Salat in Islam",
+          "content": "• Facing the Qiblah (toward Makkah) • Why we all face one direction • How to behave during prayer • Standing still and quiet • Not talking or playing during Salat • Paying attention to Allah • Being quiet when others are praying • Simple duas after finishing prayer • Saying Subhanallah, Alhamdulillah, Allahu Akbar • - Asking Allah for good things",
+          "source_page": 708
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in First Term",
+          "source_page": 708
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of First Term Assessment",
+          "source_page": 708
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 708
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 712,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Brief History of Prophet Muhammad (SAW) - Childhood",
+          "content": "• Muhammad's mother Aminah dies (he is 6 years old) • Muhammad becomes an orphan • His grandfather takes care of him • Abdul-Muttalib loves Muhammad very much • Grandfather dies (Muhammad is 8 years old) • His uncle Abu Talib takes care of him • Abu Talib is kind and loving • Young Muhammad works as a shepherd • He looks after sheep and goats • Muhammad is honest and kind • Everyone trusts him • - People call him \"Al-Ameen\" (The Trustworthy)",
+          "source_page": 712
+        },
+        {
+          "week": "2",
+          "topic": "Brief History of Prophet Muhammad (SAW) - Youth to Marriage",
+          "content": "• Muhammad grows up to be a young man • He is known for being honest • He never lies or cheats • He helps people solve problems • Muhammad becomes a trader • He travels to buy and sell goods • A rich woman named Khadijah • Khadijah needs someone to trade for her • Muhammad works for Khadijah • He is very honest and hardworking • Khadijah is impressed by Muhammad • Khadijah wants to marry Muhammad • Muhammad marries Khadijah • They love each other very much • - They have children together",
+          "source_page": 712
+        },
+        {
+          "week": "3",
+          "topic": "Suratul-Kafirun",
+          "content": "• Introduction to Suratul-Kafirun (Surah 109) • What does \"Kafirun\" mean? (Those who don't believe) • Learning and reciting verses 1-3 • Simple meaning: \"I don't worship what you worship\" • Pronouncing Arabic words correctly • Understanding: We have our religion • Practice: Reciting verses 1-3 together • - Being respectful to others",
+          "source_page": 712
+        },
+        {
+          "week": "4",
+          "topic": "Suratul-Kafirun",
+          "content": "• Review verses 1-3 • Learning and reciting verses 4-6 • Simple meaning: \"You have your religion, I have mine\" • Reciting complete Surah from memory • Main lesson: Respect other people's beliefs • Stay firm in your own faith • Be kind to everyone • When to recite this Surah • Group recitation practice • - Writing key words from the Surah",
+          "source_page": 712
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 713
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 713
+        },
+        {
+          "week": "7",
+          "topic": "Moral Teachings of Islam",
+          "content": "• What is truthfulness? • Always tell the truth • Don't tell lies • Story: Prophet Muhammad (SAW) never lied • Story: The boy who cried wolf • What happens when we lie? • People trust those who tell the truth • Being honest at home • Being honest at school • Allah loves truthful people • - Practice: Promising to always tell the truth",
+          "source_page": 713
+        },
+        {
+          "week": "8",
+          "topic": "Moral Teachings of Islam",
+          "content": "• Being kind to your parents • Why parents are special • Obeying your mother and father • Helping parents at home • Saying nice words to parents • Never shouting at parents • Respecting older people (grandparents, teachers, elders) • Saying \"please\" and \"thank you\" • Listening when adults speak • Stories about children who were kind to parents • - Allah rewards those who respect parents",
+          "source_page": 713
+        },
+        {
+          "week": "9",
+          "topic": "Moral Teachings of Islam",
+          "content": "• Being kind to everyone • Helping people who need help • Sharing your toys and food • Giving charity (Sadaqah) • Being a good friend • Not fighting or hurting others • Forgiving those who say sorry • Smiling at people • Good manners at school • Good manners in the community • Stories of kind people • - Practice: Doing one kind act each day",
+          "source_page": 713
+        },
+        {
+          "week": "10",
+          "topic": "Moral Teachings of Islam",
+          "content": "• Keeping yourself clean (body, clothes, teeth) • Washing hands before eating • Taking a bath regularly • Brushing teeth • Wearing clean clothes • Keeping your room tidy • Keeping the classroom clean • Throwing rubbish in the bin • Not littering outside • Cleanliness makes Allah happy • Being patient when things are hard • Not giving up easily • - Asking Allah for help",
+          "source_page": 714
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Third Term and entire year",
+          "source_page": 714
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Third Term/Annual Assessment",
+          "source_page": 714
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 714
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "NIGERIAN HISTORY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 715,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "What is History?",
+          "content": "• What is history? • History tells us about the past • Things that happened long ago • Learning about people who lived before us • Why we study history • History helps us understand today • Learning from the past • Stories of our ancestors • Activity: Sharing family stories • - Discussion: What do we want to know about the past?",
+          "source_page": 715
+        },
+        {
+          "week": "2",
+          "topic": "Sources of History",
+          "content": "• What are sources of history? • How we learn about the past • Oral sources (stories told by elders, songs, poems) • Written sources (books, letters, newspapers) • Physical sources (old buildings, monuments, artifacts) • Pictures and photographs • Museums and what we find there • Visiting historical places • Activity: Bringing old family photos to class • - Creating a simple class timeline",
+          "source_page": 715
+        },
+        {
+          "week": "3",
+          "topic": "Our Personal History",
+          "content": "• Everyone has a history • My birth and birth certificate • Growing from baby to now • Important events in my life • My family's history • Where my parents come from • My family tree (simple) • Remembering special occasions • Activity: Creating \"My Life Story\" book • - Drawing pictures of important moments",
+          "source_page": 715
+        },
+        {
+          "week": "4",
+          "topic": "Early People in Nigeria",
+          "content": "• Long ago, people lived in Nigeria • How early people lived • Living in caves and under trees • Hunting animals for food • Gathering fruits and vegetables • Making fire for cooking and warmth • Making simple tools from stone and wood • Living in groups for safety • Activity: Drawing pictures of early people • - Story: A day in the life of early people",
+          "source_page": 715
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 716
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 716
+        },
+        {
+          "week": "7",
+          "topic": "How People Came to Nigeria",
+          "content": "• People moved from place to place • Migration (moving to new places) • Why people migrated (looking for food, water, safety) • People settled in different parts of Nigeria • The Nok people (very old civilization) • They made beautiful clay pots • They knew how to use iron • Where people settled (near rivers, forests, grasslands) • Activity: Simple map showing movement of people • - Creating clay models like Nok people",
+          "source_page": 716
+        },
+        {
+          "week": "8",
+          "topic": "Major Ethnic Groups in Nigeria",
+          "content": "• Nigeria has many ethnic groups • Three major ethnic groups: Hausa-Fulani, Igbo, Yoruba • Hausa-Fulani people (mostly in the North) • Igbo people (mostly in the East) • Yoruba people (mostly in the West) • Other ethnic groups (Ijaw, Tiv, Kanuri, Ibibio, Edo, and many more) • Over 250 ethnic groups in Nigeria • Each group has its own language and culture • Activity: Learning \"hello\" in different languages • - Discussion: Celebrating our diversity",
+          "source_page": 716
+        },
+        {
+          "week": "9",
+          "topic": "Early Kingdoms and Empires",
+          "content": "• Long ago, people formed kingdoms • What is a kingdom? (a place ruled by a king or queen) • The Kanem-Bornu Empire (in the North) • The Oyo Empire (Yoruba land) • The Benin Kingdom (Edo land) • The Sokoto Caliphate (Hausa land) • Kings and queens ruled the people • Kingdoms were powerful and rich • Activity: Drawing pictures of kings and palaces • - Story time: Tales from ancient kingdoms",
+          "source_page": 716
+        },
+        {
+          "week": "10",
+          "topic": "Traditional Occupations",
+          "content": "• What people did for work long ago • Farming (growing yam, cassava, millet, corn) • Fishing (in rivers and seas) • Hunting (for animals in the forest) • Trading (selling and buying goods in markets) • Crafts (pottery, weaving, blacksmithing, carving) • Each group was good at different things • Trading between different groups • Activity: Role-play of traditional market • - Drawing people doing traditional work",
+          "source_page": 716
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in First Term",
+          "source_page": 717
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of First Term Assessment",
+          "source_page": 717
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 717
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 718,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Heroes and Heroines in Nigeria: What is a Hero/Heroine?",
+          "content": "• Who is a hero or heroine? • Someone who does something brave and good • People who help their community • People who fight for what is right • Heroes can be men, heroines can be women • Why we remember heroes and heroines • They make our country proud • We learn from their good examples • Activity: Drawing \"My Hero\" • - Discussion: Who are heroes in our lives?",
+          "source_page": 718
+        },
+        {
+          "week": "2",
+          "topic": "Heroes and Heroines in Nigeria: Queen Amina of Zazzau",
+          "content": "• Who was Queen Amina? • A brave Hausa warrior queen • She lived in Zazzau (now Zaria) long ago • She was a great fighter and leader • She led her army to many victories • She expanded her kingdom • She built strong walls around cities • Queen Amina was strong and fearless • Activity: Drawing Queen Amina • - Story: Queen Amina's brave deeds",
+          "source_page": 718
+        },
+        {
+          "week": "3",
+          "topic": "Heroes and Heroines in Nigeria: Moremi of Ile-Ife",
+          "content": "• Who was Moremi? • A brave Yoruba woman • She lived in Ile-Ife long ago • Her people were attacked by enemies • Moremi sacrificed herself to save her people • She learned the enemies' secrets • She helped her people win the war • Moremi was brave and selfless • Activity: Acting out Moremi's story • - Discussion: Sacrificing for others",
+          "source_page": 718
+        },
+        {
+          "week": "4",
+          "topic": "Heroes and Heroines in Nigeria: Oba Ewuare of Benin",
+          "content": "• Who was Oba Ewuare? • A great king of Benin Kingdom • He made Benin Kingdom very strong • He built beautiful palaces • He encouraged art and culture • The famous Benin Bronzes • He was wise and fair • Activity: Looking at pictures of Benin art • - Creating simple bronze-like artwork",
+          "source_page": 718
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 719
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 719
+        },
+        {
+          "week": "7",
+          "topic": "Heroes and Heroines in Nigeria: Usman dan Fodio",
+          "content": "• Who was Usman dan Fodio? • A great Islamic scholar and leader • He lived in Hausa land • He was very learned and religious • He started the Sokoto Caliphate • He promoted education and Islam • He wrote many books • People respected his knowledge • Activity: Drawing books to represent learning • - Discussion: Importance of education",
+          "source_page": 719
+        },
+        {
+          "week": "8",
+          "topic": "Heroes and Heroines in Nigeria: Nana of Itsekiri",
+          "content": "• Who was Nana? • A powerful Itsekiri leader and trader • He controlled trade in the Niger Delta • He was very wealthy and influential • He fought against British control • He defended his people's rights • He was brave and strong • Activity: Drawing trading activities • - Story: Nana's resistance",
+          "source_page": 719
+        },
+        {
+          "week": "9",
+          "topic": "Heroes and Heroines in Nigeria: Funmilayo Ransome-Kuti",
+          "content": "• Who was Funmilayo Ransome-Kuti? • A brave woman who fought for rights • She fought for women's rights • She led protests against unfair taxes • She wanted education for all girls • She traveled to many countries • She was fearless and strong • Activity: Discussing fairness and rights • - Drawing women doing important work",
+          "source_page": 719
+        },
+        {
+          "week": "10",
+          "topic": "Heroes and Heroines in Nigeria: Herbert Macaulay",
+          "content": "• Who was Herbert Macaulay? • Known as the \"Father of Nigerian Nationalism\" • He fought for Nigerian people's rights • He spoke against unfair treatment • He started the first political party in Nigeria • He used newspapers to speak the truth • He wanted Nigeria to be free • Activity: Creating a simple newspaper page • - Discussion: Standing up for what is right",
+          "source_page": 719
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Second Term",
+          "source_page": 720
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Second Term Assessment",
+          "source_page": 720
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 720
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 721,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Political Developments: Colonial Period in Nigeria",
+          "content": "• What does \"colonial\" mean? • When another country rules your country • The British came to Nigeria • They came to trade at first • Later they took control of Nigeria • Nigeria became a British colony • British ruled Nigeria for many years • Nigerians were not happy being ruled • Activity: Looking at old colonial pictures • - Discussion: How people felt",
+          "source_page": 721
+        },
+        {
+          "week": "2",
+          "topic": "Political Developments: Nigerian Leaders Who Fought for Freedom",
+          "content": "• Many Nigerians wanted freedom • Leaders fought against British rule • Dr. Nnamdi Azikiwe (Zik of Africa) • Chief Obafemi Awolowo • Sir Ahmadu Bello (Sardauna of Sokoto) • Sir Abubakar Tafawa Balewa • They asked for Nigeria's independence • They used words, not weapons • Activity: Drawing our founding fathers • - Learning their names",
+          "source_page": 721
+        },
+        {
+          "week": "3",
+          "topic": "Political Developments: Nigeria's Independence",
+          "content": "• What is independence? • Being free to rule yourself • Nigeria gained independence on October 1, 1960 • We celebrate Independence Day every year • Princess Alexandra came from Britain • The British flag was lowered • The Nigerian flag was raised • People celebrated with joy • Nigeria became a free country • Activity: Making Nigerian flags • - Singing the national anthem",
+          "source_page": 721
+        },
+        {
+          "week": "4",
+          "topic": "Political Developments: First Leaders of Independent Nigeria",
+          "content": "• Sir Abubakar Tafawa Balewa (first Prime Minister) • Dr. Nnamdi Azikiwe (first President) • They led the new Nigeria • They worked to build the country • Nigeria had many states • People were proud to be Nigerian • Challenges of a new nation • Activity: Drawing our first leaders • - Creating independence day cards",
+          "source_page": 721
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 722
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 722
+        },
+        {
+          "week": "7",
+          "topic": "Political Developments: Nigerian Symbols and Identity",
+          "content": "• Our national flag (green-white-green) • Green means agriculture and forests • White means peace and unity • Our national anthem • Our national pledge • Our coat of arms • The eagle represents strength • The black shield represents good soil • These symbols unite all Nigerians • Activity: Coloring national symbols • - Memorizing anthem and pledge",
+          "source_page": 722
+        },
+        {
+          "week": "8",
+          "topic": "Political Developments: Unity Nigeria",
+          "content": "in • Nigeria has many ethnic groups • We speak different languages • We have different cultures • But we are all Nigerians • Unity means being together • Working together for progress • Respecting all tribes and religions • One Nigeria, one people • Activity: Unity poster making • - Holding hands in unity circle",
+          "source_page": 722
+        },
+        {
+          "week": "9",
+          "topic": "Political Developments: Important Places in Nigerian History",
+          "content": "• Places where important things happened • Independence House (Lagos) - where independence was declared • Aso Rock (Abuja) - where our President lives • National Museum (Lagos) - keeps historical items • Old palaces and monuments • These places remind us of our history • We should protect historical places • Activity: Looking at pictures of historical places • - Drawing our favorite historical place",
+          "source_page": 722
+        },
+        {
+          "week": "10",
+          "topic": "Political Developments: Being Good Nigerian Citizen",
+          "content": "a • We are all Nigerians • Being proud of our country • Respecting our flag and anthem • Learning about our history • Loving all Nigerians regardless of tribe • Obeying our country's laws • Helping to make Nigeria better • We are the future of Nigeria • Activity: \"I am Nigerian\" presentation • - Pledging to be good citizens",
+          "source_page": 722
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Third Term and entire year",
+          "source_page": 723
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Third Term/Annual Assessment",
+          "source_page": 723
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 723
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 724,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Being a Good Citizen",
+          "content": "• What does it mean to be a citizen? • We are all citizens of Nigeria • Being a good person in our community • Understanding our rights: Right to learn, play, be safe, be treated fairly • Understanding our responsibilities: Being kind, helping others, following rules, respecting everyone • Making good choices every day • Treating everyone fairly (social justice) • Speaking up when something is wrong • Taking care of our community • Being proud to be Nigerian • Activity: \"What makes a good citizen?\" class discussion • - Drawing: \"Me as a good citizen\"",
+          "source_page": 724
+        },
+        {
+          "week": "2",
+          "topic": "Our Community",
+          "content": "• What is a community? • People living and working together • Our community is part of who we are (identity) • Types of communities: Urban (city/town) - busy, many buildings, markets • Rural (village) - farms, quiet, close to nature • How communities are different but connected • Appreciating diversity in communities • How different communities help each other • Our role in making community better • Community values: Sharing, helping, cooperating • Social responsibility in our community • Activity: Drawing and describing our community • Discussion: What makes our community special? • - Sharing: Special things about our community",
+          "source_page": 724
+        },
+        {
+          "week": "3",
+          "topic": "Leaders in our Community",
+          "content": "• What is leadership? • Leaders help guide and serve people • Qualities of good leaders: Honest, kind, fair, brave, helpful, good listener • Types of community leaders: Traditional leaders (Oba, Emir, Chief, Village Head) • Religious leaders (Pastor, Imam) • Community leaders (Baale, Chairman) • School leaders (Head Teacher, Class Captain, Prefects) • Family leaders (Parents, Grandparents) • How leaders serve the community (civic responsibility) • Respecting and supporting our leaders • Everyone can be a leader in small ways • Leadership skills for children: Speaking clearly, listening to others, being fair, helping solve problems • Activity: Class leadership roles assignment • - Practice: Leading a group activity",
+          "source_page": 724
+        },
+        {
+          "week": "4",
+          "topic": "Understanding Our World",
+          "content": "• Learning about people and places • Understanding ourselves and others • Why we study about communities and cultures • Learning about our environment • Learning about families and relationships • Understanding our country Nigeria • Nigeria has many cultures and languages • Learning about other countries too • We are all part of the world (global citizenship) • Appreciating differences and similarities • Building social skills and values • Critical thinking: Asking questions and finding answers • Activity: Exploring different cultures through pictures • - Discussion: What we want to learn about the world",
+          "source_page": 725
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 725
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 725
+        },
+        {
+          "week": "7",
+          "topic": "Our Physical Environment",
+          "content": "• What is our physical environment? • Everything around us we can see and touch • Natural features: Mountains, rivers, trees, plants, animals • Man-made features: Houses, roads, schools, bridges, markets • How environment affects how we live • People adapting to different environments • Taking care of our environment (sustainability) • Not destroying trees and plants • Protecting animals and nature • What is sustainability? Using resources wisely so they last • Our actions affect the environment • Being responsible environmental citizens • Activity: Identifying natural and man-made things • - Project: Simple environment care plan for our class",
+          "source_page": 725
+        },
+        {
+          "week": "8",
+          "topic": "Foods We Eat in our Culture",
+          "content": "• What is culture? Our way of life and traditions • Food is part of our cultural identity • Nigerian foods we eat: Jollof rice, fried rice, beans, yam, plantain • Soups: Egusi, okro, ogbono, efo riro, pepper soup • Swallow foods: Eba, fufu, amala, tuwo, pounded yam • Breakfast foods: Akara, moi-moi, pap, bread and tea • Snacks: Chin-chin, puff-puff, plantain chips, groundnut • Fruits: Orange, mango, banana, pawpaw, watermelon • Different foods from Nigerian cultures (Yoruba, Igbo, Hausa, others) • Appreciating cultural diversity through food • Respecting others' food choices and cultures • Sharing meals brings people together • Activity: Sharing our family's special meals • - Discussion: How food connects us to our culture",
+          "source_page": 726
+        },
+        {
+          "week": "9",
+          "topic": "Importance of Good Nutrition",
+          "content": "• Why we need to eat good food • Food gives us energy to learn and play • Food helps us grow strong and healthy • Types of food nutrients (simple): Body-building foods (protein) - fish, meat, eggs, beans • Energy foods (carbohydrates) - rice, yam, bread, garri • Protective foods (vitamins) - fruits and vegetables • Making healthy food choices (decision-making) • Eating balanced meals • Drinking clean water for health • Consequences of poor eating habits • Global issue: Some children don't have enough food • Being grateful and not wasting food • Social responsibility: Sharing with those who need • Activity: Creating a balanced meal plate • - Sorting foods into nutrient groups",
+          "source_page": 726
+        },
+        {
+          "week": "10",
+          "topic": "Greetings and Respect in our Culture",
+          "content": "• Culture shapes how we interact with others • Social values: Respect, courtesy, kindness • Importance of greeting others • Greetings show respect and build relationships • Nigerian cultural greetings: Yoruba (prostrating for boys, kneeling for girls) • Igbo (bowing slightly with respect) • Hausa (handshake and bowing) • Other ethnic greetings in Nigeria • Using respectful words: \"Sir\", \"Ma\", \"Please\", \"Thank you\" • Why respecting elders matters in our culture • Interpersonal skills: Listening when others speak • Helping elders and being obedient • Appreciating cultural diversity in Nigeria • Respecting different cultures and traditions • Global citizenship: Respect is valued everywhere • Activity: Practicing greetings from different cultures • - Role-play: Showing respect in various situations",
+          "source_page": 726
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in First Term",
+          "source_page": 727
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of First Term Assessment",
+          "source_page": 727
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 727
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 728,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Keeping our Environment Clean",
+          "content": "• What is our environment? • Home, school, and community surroundings • Why environmental cleanliness matters • Clean environment = healthy people • Sustainability: Taking care so environment lasts • Dirty environment causes diseases • Our civic responsibility to keep environment clean • Ways to maintain cleanliness: Using dustbins, sweeping, no littering • Proper waste disposal • Reducing waste (using less) • Reusing items when possible • Recycling materials • Working together for clean community • Leadership in environmental care • Activity: Classroom cleaning project organization • - Creating recycling bins for class",
+          "source_page": 728
+        },
+        {
+          "week": "2",
+          "topic": "Environmental Health and Protection",
+          "content": "• How dirty environment affects health • Diseases from unclean environment: Malaria, cholera, typhoid • How diseases spread in dirty places • Preventing diseases through cleanliness • Community sanitation and cooperation • Taking initiative in keeping things clean • Making our environment beautiful • Planting trees and flowers (sustainability) • Protecting water sources from pollution • Not throwing waste in drains and gutters • Global environmental issues (simple): Pollution, too much waste • Being responsible global citizens • Social justice: Everyone deserves clean environment • Activity: Environmental awareness poster making • - Project: \"Keep it Clean\" campaign planning",
+          "source_page": 728
+        },
+        {
+          "week": "3",
+          "topic": "Safety at Home and School",
+          "content": "• Understanding safety and why it matters • What are accidents? • Common accidents: Falls, burns, cuts, injuries • Identifying dangerous situations (critical thinking) • Accidents at home: Slippery floors, hot objects, sharp items, electricity • Accidents at school: Playground injuries, running in class, fighting • Causes of accidents: Carelessness, not following rules, not paying attention • Personal responsibility in staying safe • Making safe choices (decision-making skill) • Being aware of surroundings (mindfulness) • Looking out for others' safety (empathy) • Social responsibility: Warning others of danger • Activity: Safety inspection in classroom • - Identifying potential hazards",
+          "source_page": 728
+        },
+        {
+          "week": "4",
+          "topic": "Accident Prevention and Response",
+          "content": "• How to prevent accidents (problem-solving) • Safety rules at home: Walk don't run, be careful with heat, keep sharp things away, don't touch electrical outlets • Safety rules at school: Follow teacher's instructions, don't push or fight, play carefully and safely • Self-discipline in following safety rules • Taking care of ourselves and others • What to do when accidents happen: Stay calm (emotional control), call for help immediately, tell an adult, don't move injured person • Basic first aid awareness: Cleaning small cuts, applying bandages • Communication skills in emergencies • Being responsible and helpful in crisis • Compassion for accident victims • Activity: Creating classroom safety rules chart • - Practice: Emergency response role-play",
+          "source_page": 729
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 729
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 729
+        },
+        {
+          "week": "7",
+          "topic": "Understanding Medicines",
+          "content": "• What are medicines/drugs? • Medicines help cure sickness and reduce pain • Types of medicines: Tablets, syrups, injections, capsules • Where medicines come from: Doctors, pharmacies, hospitals • Who gives us medicines: Doctors, nurses, parents • Common medicines children know: Paracetamol, cough syrup • Proper use of medicines • Following instructions carefully (discipline) • Only adults should give children medicine • Never taking medicine without permission • Trusting medical professionals • Decision-making: Asking when unsure • Social responsibility: Not sharing medicines • Activity: Identifying medicine containers safely • - Discussion: Why we need adult permission",
+          "source_page": 729
+        },
+        {
+          "week": "8",
+          "topic": "Drug Abuse and Making Good Choices",
+          "content": "• What is drug abuse? • Using medicines wrongly or dangerously • Taking medicine without permission • Taking too much medicine • Taking someone else's medicine • Understanding consequences (critical thinking) • Why drug abuse is very dangerous: Serious sickness, poisoning, death • Peer pressure: When friends ask you to do wrong things • Emotional intelligence: Recognizing dangerous situations • Self-control and making good choices • Assertiveness: Saying \"No\" confidently • Being brave to refuse wrong things • Reporting concerning behavior to adults • Social responsibility: Helping friends make good choices • Activity: \"Just Say No\" practice scenarios • - Building confidence in refusing",
+          "source_page": 730
+        },
+        {
+          "week": "9",
+          "topic": "Identifying Harmful Substances",
+          "content": "• What are harmful substances? • Dangerous things that can hurt or kill us • Types of harmful substances: Poisons (rat poison, insecticides), Cleaning products (bleach, detergent) • Chemicals (kerosene, petrol, spirits) • Unknown plants and berries • Expired or spoiled food and drinks • Understanding dangers (risk awareness) • Why accidents happen with harmful substances • Critical thinking: Identifying dangerous items • Warning labels and danger symbols • Skull and crossbones means poison • Consequences of taking harmful substances • Personal responsibility in safety • Being cautious and careful • Activity: Identifying warning symbols on products • - Creating safety warning posters",
+          "source_page": 730
+        },
+        {
+          "week": "10",
+          "topic": "Avoiding Harmful Substances",
+          "content": "• How to avoid harmful substances (decision-making) • Never eat or drink anything unknown • Always ask an adult first • Don't smell, taste, or touch chemicals • Stay away from cleaning products • Don't pick and eat unknown berries or plants • Wash fruits and vegetables before eating • Check food expiry dates with adults • Drink only clean, safe water • What to do if you swallow harmful substance: Tell adult immediately (don't hide it), Go to hospital quickly, Stay calm • Communication skills in emergencies • Courage to speak up when scared • Social responsibility: Helping siblings stay safe • Leadership: Teaching younger children safety • Activity: Safety rules poster competition • - Role-play: Responding to dangerous situations",
+          "source_page": 730
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Second Term",
+          "source_page": 731
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Second Term Assessment",
+          "source_page": 731
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 731
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 732,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Understanding Danger and Security",
+          "content": "• What is security? Being safe and protected • What is danger? Things that can harm us • What is insecurity? When we are not safe • Understanding personal safety (critical thinking) • Sources of danger at home: Fire, electricity, sharp objects, hot things, strangers • Sources of danger at school: Bullies, broken equipment, unsafe play areas • Sources of danger in community: Bad roads, open gutters, fast vehicles, crime • Natural dangers: Floods, storms, lightning • Emotional intelligence: Recognizing when you feel unsafe • Trusting your instincts about danger • Civic responsibility: Reporting dangers to adults • Activity: Creating a danger awareness map • Discussion: What makes us feel safe or unsafe?",
+          "source_page": 732
+        },
+        {
+          "week": "2",
+          "topic": "Personal Safety Strategies",
+          "content": "• How to stay safe (problem-solving skills) • Fire safety: Don't play with matches, know exit routes, \"stop-drop-roll\" if clothes catch fire • Electrical safety: Don't touch outlets, keep away from wires • Stranger danger awareness: Never follow strangers, Don't accept gifts from strangers, Don't enter stranger's car or house, Scream \"Help!\" and run if approached • Road safety: Look left-right-left before crossing, Use zebra crossings, Don't play on the road • Dealing with bullies (conflict resolution): Tell a teacher or parent, Don't fight back, Stay with friends, Walk away calmly • Emotional intelligence: Managing fear appropriately • Assertiveness: Speaking up for yourself • Decision-making under pressure • Knowing important information: Full name, parents' phone numbers, home address • Activity: Safety scenario practice • Role-play: What to do in emergencies",
+          "source_page": 732
+        },
+        {
+          "week": "3",
+          "topic": "People Who Protect Us - Police",
+          "content": "• Understanding security agencies • People whose job is to keep us safe • Why we need people to protect us • The Nigeria Police Force • Police uniform: Black or blue • What police do: Catch criminals and thieves, Protect people and property, Control traffic and maintain order, Help people in danger and emergencies • Police maintain law and order • Police stations in our community • Police emergency numbers: 112, 767 • When to call the police • Social values: Respecting police officers • Civic responsibility: Cooperating with police • Obeying laws and rules • Being honest with police • Activity: Drawing police officers at work • How police help our community Discussion:",
+          "source_page": 732
+        },
+        {
+          "week": "4",
+          "topic": "People Who Protect Us - Armed Forces",
+          "content": "• Nigerian Army: Uniform (camouflage - green and brown) • Army duties: Protect our country from enemies, Defend Nigeria's borders, Fight wars if needed, Help during emergencies and disasters • Nigerian Navy: Uniform (white) • Navy duties: Protect our seas and rivers, Stop pirates and criminals on water, Patrol coastlines • Nigerian Air Force: Uniform (blue-grey) • Air Force duties: Protect our skies, Fly military planes, Watch over Nigeria from the air • Understanding national security • Why protecting our country matters • Courage and sacrifice of military personnel • Appreciating those who serve (gratitude) • National pride and patriotism • Social justice: Everyone deserves to be safe • Activity: Matching uniforms to agencies • - Discussion: Why people serve their country",
+          "source_page": 733
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 733
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "•",
+          "source_page": 733
+        },
+        {
+          "week": "7",
+          "topic": "People Who Protect Us - Safety Services",
+          "content": "• Nigerian Civil Defence Corps (NSCDC): Uniform (green), Duties: Protect government buildings, Help during disasters, Protect important facilities • Federal Road Safety Corps (FRSC): Uniform (white and green), Duties: Keep roads safe, Control traffic on highways, Check vehicles for safety, Help accident victims, Teach road safety • Our responsibility as road users • Following traffic rules as pedestrians • Being careful on the road • Civic duty in promoting safety • Cooperation with safety officials • Respect for authority and rules • Understanding rules protect everyone • Activity: Road safety role-play • - Creating road safety awareness materials",
+          "source_page": 733
+        },
+        {
+          "week": "8",
+          "topic": "People Who Protect Us - Emergency Services",
+          "content": "• Fire Service: Uniform (yellow or red), Duties: Put out fires, Rescue people from burning buildings, Teach fire safety, Respond to disasters • Fire safety education • What to do if there's a fire: Get out quickly, Call for help, Don't go back inside • Ambulance/Emergency Medical Services: Help sick and injured people, Take people to hospital quickly, Provide emergency medical care • Importance of emergency response • How to call for help: Stay calm, Speak clearly, Give correct location, Explain the emergency • Working together in emergencies (teamwork) • Social responsibility in emergencies • Compassion for people in danger • Activity: Mock emergency call practice • - Discussion: How we can help during emergencies",
+          "source_page": 734
+        },
+        {
+          "week": "9",
+          "topic": "Understanding Money",
+          "content": "• What is money? • Money is what we use to buy things (₦) • Nigerian currency: Naira and Kobo ₦1, ₦2 • Nigerian coins: 50 kobo, ₦5, ₦10, ₦20, ₦50, ₦100, ₦200, • Nigerian notes: ₦500, ₦1000 • Why we need money: To buy food, clothes, pay for school, buy things we need • Where money comes from: Parents work to earn money • Different jobs people do to earn money • Simple buying and selling: Going to the market, paying for items, receiving change • Being careful with money • Not wasting money on unnecessary things • Saving money for future needs • Financial responsibility (life skill) • Activity: Identifying Nigerian currency • Simple money counting games • - Role-play: Buying and selling in a pretend shop",
+          "source_page": 734
+        },
+        {
+          "week": "10",
+          "topic": "Using Money Wisely",
+          "content": "• Making smart choices with money (decision- making) • Needs vs. wants: Things we need (food, clothes, books), Things we want (toys, sweets) • Prioritizing needs over wants • Saving money in a piggy bank or savings box • Why saving is important: For emergencies, For future goals, To buy important things later • Not begging for everything we see • Being grateful for what we have • Sharing and giving to those in need (charity) • Introduction to digital money (simple): Some people use cards or phones to pay, Money can be kept in banks • Banks keep money safe • Financial literacy as life skill • Social responsibility with money • Global citizenship: Using resources wisely • Activity: Creating a simple savings goal • Making a \"needs and wants\" chart • Discussion: How to be responsible with money",
+          "source_page": 735
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Third Term and entire year",
+          "source_page": 735
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Third Term/Annual Assessment",
+          "source_page": 735
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 735
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 736,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Shapes and Sizes",
+          "content": "• Identification of basic shapes (circle, square, triangle, rectangle, oval) • Recognition of shapes in our environment • Drawing basic shapes freehand • Understanding big and small sizes",
+          "source_page": 736
+        },
+        {
+          "week": "2",
+          "topic": "Shapes and Sizes (Continued)",
+          "content": "• Comparing sizes: bigger, smaller, biggest, smallest • Sorting objects by shapes and sizes • Creating simple pictures using basic shapes • Cutting and pasting shapes",
+          "source_page": 736
+        },
+        {
+          "week": "3",
+          "topic": "Colouring Functional Art Works",
+          "content": "• Introduction to primary colours (red, yellow, blue) • Proper use of crayons and coloring pencils • Colouring within borders/lines • Colouring simple objects (balls, fruits, flowers)",
+          "source_page": 736
+        },
+        {
+          "week": "4",
+          "topic": "Colouring Functional Art Works (Continued)",
+          "content": "• Introduction to secondary colours (green, orange, purple) • Colour mixing activities • Colouring functional items (plates, cups, books, bags) • Creating colourful patterns",
+          "source_page": 736
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "• Assessment of Weeks 1-4",
+          "source_page": 736
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "• Rest and Relaxation",
+          "source_page": 736
+        },
+        {
+          "week": "7",
+          "topic": "Introduction to Craft Making",
+          "content": "• Meaning of craft • Types of simple crafts children can make • Materials used in craft making (paper, glue, scissors, cardboard) • Safety rules when using craft materials",
+          "source_page": 736
+        },
+        {
+          "week": "8",
+          "topic": "Introduction to Craft Making (Continued)",
+          "content": "• Making simple paper fans • Creating paper hats • Making simple greeting cards • Decorating craft items with colours",
+          "source_page": 736
+        },
+        {
+          "week": "9",
+          "topic": "Designing Patterns of Basic Shapes",
+          "content": "• Understanding what patterns are • Creating repeating patterns with shapes (circle-square-circle-square) • Drawing border patterns using basic shapes • Stamping patterns using cut shapes",
+          "source_page": 736
+        },
+        {
+          "week": "10",
+          "topic": "Designing Patterns of Basic Shapes (Continued)",
+          "content": "• Creating patterns with different colours • Making checkerboard patterns • Designing patterns on paper strips • Decorating name tags with shape patterns",
+          "source_page": 737
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "• Review of all topics covered in First Term",
+          "source_page": 737
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "• End of Term Assessment",
+          "source_page": 737
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "• Term Ends",
+          "source_page": 737
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 738,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Paper Craft Making and Decorations",
+          "content": "• Types of paper for craft (colored paper, cardboard, newspaper) • Tearing paper to create pictures • Paper folding activities (folding in half, quarters) • Making simple paper boats",
+          "source_page": 738
+        },
+        {
+          "week": "2",
+          "topic": "Paper Craft Making and Decorations (Continued)",
+          "content": "• Creating paper chains for decoration • Making paper flowers • Creating paper masks • Decorating the classroom with paper crafts",
+          "source_page": 738
+        },
+        {
+          "week": "3",
+          "topic": "Pattern Making using Motifs and Colours",
+          "content": "• Understanding motifs (repeated designs) • Identifying simple Nigerian motifs • Creating patterns with dots and lines • Using two colours to create simple motifs",
+          "source_page": 738
+        },
+        {
+          "week": "4",
+          "topic": "Pattern Making using Motifs and Colours (Continued)",
+          "content": "• Drawing and coloring simple traditional motifs • Creating border designs with motifs • Making patterned bookmarks • Decorating paper with motifs and colours",
+          "source_page": 738
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "• Assessment of Weeks 1-4",
+          "source_page": 738
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "• Rest and Relaxation",
+          "source_page": 738
+        },
+        {
+          "week": "7",
+          "topic": "Traditional Songs/Folk Songs",
+          "content": "• Meaning of traditional/folk songs • Characteristics of traditional songs (passed down from ancestors) • Learning simple traditional children's songs • Singing traditional counting songs and game songs",
+          "source_page": 738
+        },
+        {
+          "week": "8",
+          "topic": "Traditional Songs/Folk Songs (Continued)",
+          "content": "• Learning traditional lullabies • Traditional songs from different Nigerian cultures • Actions and movements to traditional songs • Clapping and rhythms in traditional songs",
+          "source_page": 738
+        },
+        {
+          "week": "9",
+          "topic": "Melodic Patterns of Traditional Songs",
+          "content": "• Understanding high and low sounds in songs • Identifying when voices go up and down in songs • Singing simple melodies repeatedly • Echo singing (teacher sings, students repeat)",
+          "source_page": 738
+        },
+        {
+          "week": "10",
+          "topic": "Melodic Patterns of Traditional Songs (Continued)",
+          "content": "• Recognizing repeated melodic patterns in songs • Call and response in traditional songs • Creating simple melodic patterns with voices • Singing games with melodic patterns",
+          "source_page": 738
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "• Review of all topics covered in Second Term",
+          "source_page": 739
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "• End of Term Assessment",
+          "source_page": 739
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "• Term Ends",
+          "source_page": 739
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 740,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Traditional Dances",
+          "content": "• Meaning of traditional dance • Why people perform traditional dances • Simple traditional dance movements (jumping, stamping, clapping) • Watching videos/demonstrations of traditional dances",
+          "source_page": 740
+        },
+        {
+          "week": "2",
+          "topic": "Traditional Dances (Continued)",
+          "content": "• Learning basic steps of a local traditional dance • Dance formations (circle, lines, pairs) • Costumes used in traditional dances • Practicing simple traditional dance routines",
+          "source_page": 740
+        },
+        {
+          "week": "3",
+          "topic": "Traditional Dances (Continued)",
+          "content": "• Music and instruments used in traditional dances • Dancing to traditional drum rhythms • Group dancing activities • Creating simple dance movements",
+          "source_page": 740
+        },
+        {
+          "week": "4",
+          "topic": "Dramatization of Story Telling",
+          "content": "• Meaning of dramatization • Difference between telling a story and acting it out • Simple acting exercises (showing emotions: happy, sad, angry) • Role-playing familiar characters (animals, family members)",
+          "source_page": 740
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "• Assessment of Weeks 1-4",
+          "source_page": 740
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "• Rest and Relaxation",
+          "source_page": 740
+        },
+        {
+          "week": "7",
+          "topic": "Dramatization of Story Telling (Continued)",
+          "content": "• Acting out simple folktales (e.g., The Tortoise and the Birds) • Using voices to portray different characters • Simple costume creation for dramatization • Props and their uses in drama",
+          "source_page": 740
+        },
+        {
+          "week": "8",
+          "topic": "Dramatization of Story Telling (Continued)",
+          "content": "• Group dramatization activities • Creating simple dialogues for characters • Movement and gestures in storytelling • Presenting short dramatized stories to classmates",
+          "source_page": 740
+        },
+        {
+          "week": "9",
+          "topic": "Traditional Festivals",
+          "content": "• Meaning of traditional festivals • Examples of festivals in Nigeria (Durbar, New Yam Festival, Eyo Festival, Argungu Fishing Festival) • Why we celebrate festivals • Activities that take place during festivals",
+          "source_page": 740
+        },
+        {
+          "week": "10",
+          "topic": "Traditional Festivals (Continued)",
+          "content": "• Dresses and costumes worn during festivals • Food eaten during festivals • Songs and dances performed at festivals • Drawing and coloring festival scenes",
+          "source_page": 741
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "• Review of all topics covered in Third Term",
+          "source_page": 741
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "• End of Term Assessment",
+          "source_page": 741
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION PRIMARY 3 SCHEME TABLE Studies Science and Health Education Religious Studies Studies History and Citizenship Studies and Creative Arts (CCA)",
+          "content": "• End of Academic Session OF WORK OF CONTENT",
+          "source_page": 741
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 708,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Suratun-Nasr",
+          "content": "• Introduction to Suratun-Nasr (Surah 110) • What does \"Nasr\" mean? (Help and Victory) • When this Surah was revealed • Learning and reciting verse 1 • Simple meaning: Allah's help and victory • Learning and reciting verse 2 • Simple meaning: People joining Islam • Pronouncing Arabic words correctly • - Practice: Reciting verses 1-2 together",
+          "source_page": 708
+        },
+        {
+          "week": "2",
+          "topic": "Suratun-Nasr",
+          "content": "• Review verses 1-2 • Learning and reciting verse 3 • Simple meaning: Praising Allah and asking forgiveness • Reciting complete Surah from memory • Main lessons: Thank Allah for victory, always say sorry to Allah • Stay humble when you win or succeed • When to recite this Surah • Recitation practice and competition • - Writing key words from the Surah",
+          "source_page": 709
+        },
+        {
+          "week": "3",
+          "topic": "Brief History of Prophet Musa (AS)",
+          "content": "• Who was Prophet Musa (Moses)? • The bad king: Fir'awn (Pharaoh) • Pharaoh was mean to the people • Baby Musa is born • Pharaoh wanted to kill baby boys • Musa's mother puts him in a basket • The basket floats on the river • Allah protects baby Musa • Pharaoh's wife finds the basket • She wants to keep baby Musa • Baby Musa goes back to his mother • - Allah's wonderful plan",
+          "source_page": 709
+        },
+        {
+          "week": "4",
+          "topic": "Brief History of Prophet Musa (AS)",
+          "content": "• Musa grows up in the palace • Musa leaves Egypt and goes to Madyan • Musa helps two girls at a well • Musa becomes a shepherd • Allah speaks to Musa from a burning bush • Allah tells Musa: \"Go to Pharaoh\" • Musa gets help from his brother Harun • Musa's special miracles: Staff turns into snake, shining hand • Musa goes to Pharaoh: \"Let my people go\" • Pharaoh says \"No!\" • The contest with magicians • - Magicians believe in Allah",
+          "source_page": 709
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 709
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 709
+        },
+        {
+          "week": "7",
+          "topic": "Brief History of Prophet Musa (AS)",
+          "content": "• Musa leads people out of Egypt • Pharaoh chases them with his army • They reach the Red Sea • People are scared • Musa says: \"Allah will help us\" • The sea splits into two! • People walk through safely • Pharaoh tries to follow • The sea closes and Pharaoh drowns • Allah saves Musa and the people • - Lessons: Trust Allah, be brave, Allah helps good people",
+          "source_page": 710
+        },
+        {
+          "week": "8",
+          "topic": "Brief History of Prophet Isa (AS)",
+          "content": "• Who was Prophet Isa (Jesus)? • Maryam (Mary): A very good woman • Maryam loved to pray • Angel Jibreel visits Maryam • Allah gives Maryam a baby (miracle - no father) • Baby Isa is born • Allah sends dates and water for Maryam • People ask questions • Baby Isa speaks from the cradle! • Baby Isa says: \"I am Allah's servant\" • Everyone is amazed • - Lesson: Allah can do anything",
+          "source_page": 710
+        },
+        {
+          "week": "9",
+          "topic": "Brief History of Prophet Isa (AS)",
+          "content": "• Isa grows up as a good boy • Isa loves his mother Maryam • Isa becomes a Prophet • Isa's message: Worship only Allah • Isa's miracles (with Allah's permission): o Making clay birds come alive o Healing sick people o Helping blind people see • Many people believe in Isa • Some people didn't like Isa • Allah protects Prophet Isa • - Lessons: Be kind, help others, listen to Prophets",
+          "source_page": 710
+        },
+        {
+          "week": "10",
+          "topic": "Brief History of Prophet Muhammad (SAW) - Birth",
+          "content": "• Arabia before Prophet Muhammad (SAW) • The Year of the Elephant • Prophet Muhammad is born in Makkah • His father Abdullah (died before he was born) • His mother Aminah • Special signs on the night he was born • His grandfather Abdul-Muttalib • Baby Muhammad goes to live in the desert • His nurse Halima looks after him • Blessings come to Halima's family • - Young Muhammad returns to his mother",
+          "source_page": 710
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Second Term",
+          "source_page": 711
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Second Term Assessment",
+          "source_page": 711
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 711
+        }
+      ]
+    }
+  ]
+}

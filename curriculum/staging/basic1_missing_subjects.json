@@ -1,0 +1,1311 @@
+{
+  "format": "sowa-preloaded-review-library-v1",
+  "review_status": "needs_review",
+  "schemes": [
+    {
+      "class_id": "basic-1",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 637,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "God the Creator (Part 1)",
+          "content": "Understanding who God is (God is the Supreme Being, the Almighty); God created the world and everything in it; The creation story: Day 1 - Light and darkness (day and night); Day 2 - Sky and clouds; Appreciating God's beautiful creation around us",
+          "source_page": 637
+        },
+        {
+          "week": "2",
+          "topic": "God the Creator (Part 2)",
+          "content": "Day 3 - Land, seas, plants, trees, and flowers; Day 4 - Sun, moon, and stars; Day 5 - Fish in the sea and birds in the sky; Naming and identifying God's creatures; Songs and rhymes about creation",
+          "source_page": 637
+        },
+        {
+          "week": "3",
+          "topic": "God the Creator (Part 3)",
+          "content": "Day 6 - Animals on land and human beings (man and woman); God created us in His own image; Day 7 - God rested (importance of rest and worship); We are special because God made us; Thanking God for creating us and everything around us",
+          "source_page": 637
+        },
+        {
+          "week": "4",
+          "topic": "God, the Giver of Good Things (Part 1)",
+          "content": "Understanding that God gives us good things; God gives us life and breath; God gives us families: parents, siblings, relatives; God gives us homes to live in; Expressing gratitude to God for our families and homes",
+          "source_page": 637
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 637
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 637
+        },
+        {
+          "week": "7",
+          "topic": "God, the Giver of Good Things (Part 2)",
+          "content": "God gives us food to eat: fruits, vegetables, rice, yam, etc.; God gives us water to drink; God gives us clothes to wear; God gives us schools and teachers to learn from; Thanking God for daily provisions",
+          "source_page": 637
+        },
+        {
+          "week": "8",
+          "topic": "God, the Giver of Good Things (Part 3)",
+          "content": "God gives us friends to play with; God gives us health and strength; God gives us the sun, rain, and good weather; God protects us from danger; Learning to say \"Thank you, God\" in prayers",
+          "source_page": 637
+        },
+        {
+          "week": "9",
+          "topic": "God's Gift of His Son (Part 1)",
+          "content": "God loves the world so much; God sent His Son Jesus to the world; The story of Jesus' birth: Mary and Joseph; Jesus was born in Bethlehem in a manger; Angels announced Jesus' birth to shepherds",
+          "source_page": 638
+        },
+        {
+          "week": "10",
+          "topic": "God's Gift of His Son (Part 2)",
+          "content": "Jesus is God's greatest gift to us; Wise men brought gifts to baby Jesus: gold, frankincense, myrrh; Why God sent Jesus: to save us and show us God's love; Jesus came to teach us how to live; Celebrating Jesus' birth (Christmas story)",
+          "source_page": 638
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: God the Creator, God the Giver, God's Gift of Jesus",
+          "source_page": 638
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 638
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 638
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 639,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "God is Our Father (Part 1)",
+          "content": "Understanding God as our Heavenly Father; God loves us as a father loves his children; God cares for us and provides for our needs; Difference between earthly father and Heavenly Father; God's love is perfect and everlasting",
+          "source_page": 639
+        },
+        {
+          "week": "2",
+          "topic": "God is Our Father (Part 2)",
+          "content": "God listens to us when we pray (prayer as talking to God); God answers our prayers; God forgives us when we say sorry; God protects us like a father protects his children; Learning the Lord's Prayer: \"Our Father who art in heaven...\" (introduction)",
+          "source_page": 639
+        },
+        {
+          "week": "3",
+          "topic": "God is Our Father (Part 3)",
+          "content": "We are all children of God (God's family); God wants us to call Him \"Father\"; God knows everything about us: our names, our thoughts, our needs; God is always with us, we are never alone; Trusting God as our loving Father",
+          "source_page": 639
+        },
+        {
+          "week": "4",
+          "topic": "Things We Must Do as Children of God (Part 1)",
+          "content": "Praying to God every day: morning prayers, night prayers, meal prayers; Thanking God for everything He gives us; Asking God for help when we need it; Saying sorry to God when we do wrong things; Learning simple prayers",
+          "source_page": 639
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 639
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 639
+        },
+        {
+          "week": "7",
+          "topic": "Things We Must Do as Children of God (Part 2)",
+          "content": "Obeying our parents and elders; Respecting and honouring our parents; Being kind to our brothers and sisters; Helping with chores at home; The Bible says: \"Children, obey your parents\" (Ephesians 6:1)",
+          "source_page": 639
+        },
+        {
+          "week": "8",
+          "topic": "Things We Must Do as Children of God (Part 3)",
+          "content": "Being truthful and honest (not telling lies); Sharing our things with others; Being friendly and playing nicely with others; Forgiving those who offend us; Saying sorry when we hurt others",
+          "source_page": 640
+        },
+        {
+          "week": "9",
+          "topic": "Things We Must Do as Children of God (Part 4)",
+          "content": "Going to church to worship God; Listening to Bible stories and learning about God; Singing songs of praise to God; Giving offerings to God (cheerful giving); Keeping Sundays special for God (the Lord's Day)",
+          "source_page": 640
+        },
+        {
+          "week": "10",
+          "topic": "Things We Must Do as Children of God (Part 5)",
+          "content": "Taking care of the things God created; Being kind to animals; Not destroying plants and trees; Keeping our environment clean; Showing love to everyone around us",
+          "source_page": 640
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: God as Father, things children of God must do",
+          "source_page": 640
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 640
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 640
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "CHRISTIAN RELIGIOUS STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 641,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Discovering God Through Jesus Christ (Part 1)",
+          "content": "Jesus shows us what God is like; Jesus is God's Son who came to earth; Jesus teaches us about God's love; Jesus performed miracles to show God's power; Learning about Jesus helps us know God better",
+          "source_page": 641
+        },
+        {
+          "week": "2",
+          "topic": "Discovering God Through Jesus Christ (Part 2)",
+          "content": "Jesus was a teacher who taught about God; Jesus taught using stories (parables); Jesus was kind to everyone: children, adults, sick people, poor people; Jesus loved children and blessed them; Jesus said: \"Let the little children come to me\" (Mark 10:14)",
+          "source_page": 641
+        },
+        {
+          "week": "3",
+          "topic": "Jesus Christ Our Saviour (Part 1)",
+          "content": "Understanding what a Saviour is (someone who saves/rescues us); We all do wrong things (sin) that separate us from God; Jesus came to save us from our sins; Jesus died on the cross for us; Jesus' death shows how much God loves us",
+          "source_page": 641
+        },
+        {
+          "week": "4",
+          "topic": "Jesus Christ Our Saviour (Part 2)",
+          "content": "Jesus rose from the dead after three days (Easter story); Jesus is alive in heaven today; Because Jesus died and rose again, we can be God's children; Jesus saves us so we can live with God forever; Accepting Jesus as our Saviour",
+          "source_page": 641
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 641
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 641
+        },
+        {
+          "week": "7",
+          "topic": "Jesus Christ Calls Us Brothers, Sisters and Friends",
+          "content": "Jesus calls us His friends; Jesus said: \"I call you friends\" (John 15:15); We are brothers and sisters in God's family; Jesus wants us to love one another; We show we are Jesus' friends by obeying Him",
+          "source_page": 641
+        },
+        {
+          "week": "8",
+          "topic": "Jesus Commands Us to Love (Part 1)",
+          "content": "Jesus' greatest commandment: Love God with all your heart; How to show love to God: praying, obeying, worshipping, thanking Him; Jesus' second commandment: Love your neighbour as yourself; Who is our neighbour? Everyone around us; Love is the most important thing Jesus teaches",
+          "source_page": 642
+        },
+        {
+          "week": "9",
+          "topic": "Jesus Commands Us to Love (Part 2)",
+          "content": "Showing love to our family members; Showing love to our friends and classmates; Showing love to strangers and people who are different from us; Showing love through actions: helping, sharing, caring, being kind; Jesus said: \"Love one another as I have loved you\" (John 13:34)",
+          "source_page": 642
+        },
+        {
+          "week": "10",
+          "topic": "Jesus Wants Us to Obey and Keep God's Commandments",
+          "content": "Understanding what commandments are (God's rules for living); The Ten Commandments (simplified for children): Love God, respect parents, don't steal, don't lie, don't be jealous; Why we should obey God's commandments: because God loves us and knows what's best; Jesus obeyed God perfectly and wants us to do the same; Obeying God makes us happy and pleases Him; Asking Jesus to help us obey God every day",
+          "source_page": 642
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Jesus our Saviour, Brother, Friend; Love and Obedience",
+          "source_page": 642
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 642
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 642
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "ISLAMIC STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 643,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Arabic Alphabet (Part 1)",
+          "content": "Introduction to Arabic letters:أ ب ت ث ج ح خ; Pronunciation and recognition of letters; Writing practice of the first seven letters; Sound formation and articulation points",
+          "source_page": 643
+        },
+        {
+          "week": "2",
+          "topic": "Arabic Alphabet (Part 2)",
+          "content": "Continuation:د ذ ر ز س ش ص; Pronunciation and recognition of letters; Writing practice; Differentiation between similar letters (د/ذ,ر/ز,س/ش)",
+          "source_page": 643
+        },
+        {
+          "week": "3",
+          "topic": "Arabic Alphabet (Part 3)",
+          "content": "Continuation:ض ط ظ ع غ ف ق; Pronunciation and recognition of letters; Writing practice; Distinguishing between heavy and light letters",
+          "source_page": 643
+        },
+        {
+          "week": "4",
+          "topic": "Arabic Alphabet (Part 4)",
+          "content": "Final letters:ك ل م ن ه و ي; Complete alphabet review; Connecting letters in words; Simple Arabic words formation",
+          "source_page": 643
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "- Assessment on Arabic Alphabet (Recognition, Writing, and Pronunciation)",
+          "source_page": 643
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "-",
+          "source_page": 643
+        },
+        {
+          "week": "7",
+          "topic": "Surat Al-Fatihah (Part 1)",
+          "content": "Introduction to Surat Al-Fatihah (سورة الفاتحة); Meaning and significance of the chapter; Recitation with proper Tajwid (verses 1-4); Memorization of first four verses",
+          "source_page": 643
+        },
+        {
+          "week": "8",
+          "topic": "Surat Al-Fatihah (Part 2)",
+          "content": "Recitation of complete Surah (verses 5-7); Complete memorization; Translation and basic meanings; Application in daily Salah",
+          "source_page": 643
+        },
+        {
+          "week": "9",
+          "topic": "Iman (Faith) - Part 1",
+          "content": "Definition and meaning of Iman; The Six Articles of Faith (Arkan al-Iman); Belief in Allah (SWT); Belief in Angels",
+          "source_page": 643
+        },
+        {
+          "week": "10",
+          "topic": "Iman (Faith) - Part 2",
+          "content": "Belief in the Books of Allah; Belief in the Prophets of Allah; Belief in the Day of Judgment; Belief in Divine Decree (Al-Qadr)",
+          "source_page": 643
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of all topics covered; Practice recitation of Surat Al-Fatihah; Review of Arabic Alphabet; Revision of the Six Articles of Faith",
+          "source_page": 643
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 643
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Result distribution and vacation announcement",
+          "source_page": 643
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 644,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Surat An-Nas",
+          "content": "Introduction to Surat An-Nas (سورة الناس); Meaning and significance; Recitation with proper Tajwid; Memorization and translation; Lessons on seeking protection from Allah",
+          "source_page": 644
+        },
+        {
+          "week": "2",
+          "topic": "Surat Al-Falaq",
+          "content": "Introduction to Surat Al-Falaq (سورة الفلق); Meaning and significance; Recitation with proper Tajwid; Memorization and translation; Understanding protection from evil",
+          "source_page": 644
+        },
+        {
+          "week": "3",
+          "topic": "Surat Al-Ikhlas",
+          "content": "Introduction to Surat Al-Ikhlas (سورة اخالص); Meaning and significance (Oneness of Allah); Recitation with proper Tajwid; Memorization and translation; Understanding Tawhid (monotheism)",
+          "source_page": 644
+        },
+        {
+          "week": "4",
+          "topic": "Review of Qur'anic Surahs",
+          "content": "Comprehensive recitation of all learned Surahs; Al-Fatihah, An-Nas, Al-Falaq, Al-Ikhlas; Group and individual recitation; Tajwid rules application",
+          "source_page": 644
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "- Assessment on Surahs learned and their meanings",
+          "source_page": 644
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "-",
+          "source_page": 644
+        },
+        {
+          "week": "7",
+          "topic": "Al-Wudu' (Ablution) - Part 1",
+          "content": "Definition and importance of Wudu; Prerequisites of Wudu (water purity, intention); Obligatory acts (Fara'id) of Wudu; Steps 1-4: Intention, washing face, washing arms, wiping head",
+          "source_page": 644
+        },
+        {
+          "week": "8",
+          "topic": "Al-Wudu' (Ablution) - Part 2",
+          "content": "Remaining steps of Wudu; Wiping ears and washing feet; Sunnah acts of Wudu; Things that nullify Wudu; Practical demonstration",
+          "source_page": 644
+        },
+        {
+          "week": "9",
+          "topic": "Prophets of Allah (SWT) - Part 1",
+          "content": "Introduction to Prophethood (Nubuwwah); Prophet Adam (AS) - The first Prophet; Prophet Nuh (AS) - The Ark and the Flood; Lessons from their lives",
+          "source_page": 644
+        },
+        {
+          "week": "10",
+          "topic": "Prophets of Allah (SWT) - Part 2",
+          "content": "Prophet Ibrahim (AS) - Father of Prophets; Prophet Musa (AS) - Liberation of Bani Israel; Prophet Isa (AS) - Miracles and teachings; Prophet Muhammad (SAW) - The final Prophet; Key lessons from Prophets' lives",
+          "source_page": 644
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all Surahs with Tajwid; Practical revision of Wudu steps; Stories of Prophets review; Q&A session",
+          "source_page": 644
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "- End of Term Assessment",
+          "source_page": 645
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "- Result distribution and vacation announcement",
+          "source_page": 645
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 646,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Moral Conduct - Obedience to Allah (Part 1)",
+          "content": "Definition of obedience (Ta'ah); Importance of obeying Allah (SWT); Ways of showing obedience to Allah; Performing Salah as obedience; Qur'anic verses on obedience",
+          "source_page": 646
+        },
+        {
+          "week": "2",
+          "topic": "Moral Conduct - Obedience to Allah (Part 2)",
+          "content": "Obedience to parents (Birr al-Walidayn); Obedience to teachers and elders; Following the Sunnah of Prophet Muhammad (SAW); Rewards of obedience; Consequences of disobedience",
+          "source_page": 646
+        },
+        {
+          "week": "3",
+          "topic": "Islamic Moral Values - Part 1",
+          "content": "Truthfulness (Sidq); Honesty (Amanah); Kindness (Ihsan); Stories and examples from Prophet's life",
+          "source_page": 646
+        },
+        {
+          "week": "4",
+          "topic": "Islamic Moral Values - Part 2",
+          "content": "Patience (Sabr); Gratitude (Shukr); Cleanliness (Taharah); Good manners (Akhlaq); Respect for others",
+          "source_page": 646
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "- Assessment on moral conduct and Islamic values",
+          "source_page": 646
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "-",
+          "source_page": 646
+        },
+        {
+          "week": "7",
+          "topic": "Comprehensive Review - Qur'an and Tajwid",
+          "content": "Recitation of all learned Surahs; Arabic Alphabet review; Tajwid rules application; Group recitation and individual assessment",
+          "source_page": 646
+        },
+        {
+          "week": "8",
+          "topic": "Comprehensive Review - Tauhid and Fiqh",
+          "content": "Articles of Faith (Iman) review; Practical demonstration of Wudu; Q&A on purification; Importance of correct beliefs",
+          "source_page": 646
+        },
+        {
+          "week": "9",
+          "topic": "Comprehensive Review - Sirah",
+          "content": "Stories of all Prophets learned; Lessons from Prophets' lives; Application to daily life; Role models in Islam",
+          "source_page": 646
+        },
+        {
+          "week": "10",
+          "topic": "Comprehensive Review - Tahdhib",
+          "content": "All moral values review; Obedience to Allah, parents, and teachers; Islamic character building; Practical scenarios and role play",
+          "source_page": 646
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Complete syllabus review; Practice tests and mock examinations; Focus on weak areas; Final memorization checks",
+          "source_page": 647
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "- End of Term/Year Assessment",
+          "source_page": 647
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "- Result distribution and vacation announcement",
+          "source_page": 647
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "NIGERIAN HISTORY",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 648,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Meaning and Importance of History - Part 1",
+          "content": "Introduction to History: What is History?; History as a story of the past; Simple examples of history (yesterday, last week, last year); Why we study history; History helps us know about our families",
+          "source_page": 648
+        },
+        {
+          "week": "2",
+          "topic": "Meaning and Importance of History - Part 2",
+          "content": "History and family identity; Knowing where we come from; Learning from the past; History helps us make good decisions; Simple activities: Drawing family tree",
+          "source_page": 648
+        },
+        {
+          "week": "3",
+          "topic": "Peoples and Places in the Community - Part 1",
+          "content": "Introduction to community; What is a community?; Different people in our community; Our neighbors and friends; People who help us in the community",
+          "source_page": 648
+        },
+        {
+          "week": "4",
+          "topic": "Peoples and Places in the Community - Part 2",
+          "content": "Different ethnic groups in Nigeria; Major ethnic groups: Hausa, Igbo, Yoruba; Other ethnic groups in our community; Learning to respect different people; We are all Nigerians",
+          "source_page": 648
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "- Assessment on Meaning of History and Peoples in the Community",
+          "source_page": 648
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "-",
+          "source_page": 648
+        },
+        {
+          "week": "7",
+          "topic": "Places in the Community - Part 1",
+          "content": "Important places in our community; Schools, hospitals, and markets; Religious centers (Churches, Mosques); Police stations and fire stations; Parks and playgrounds",
+          "source_page": 648
+        },
+        {
+          "week": "8",
+          "topic": "Places in the Community - Part 2",
+          "content": "Traditional places in our community; The palace of traditional rulers; Community halls and meeting places; Historical monuments in our area; Field trip discussion or picture study",
+          "source_page": 648
+        },
+        {
+          "week": "9",
+          "topic": "Living Together in Peace",
+          "content": "Importance of tolerance; Respecting people from other ethnic groups; Playing and learning together; Sharing and caring for one another; We are stronger together",
+          "source_page": 648
+        },
+        {
+          "week": "10",
+          "topic": "National Unity and Diversity",
+          "content": "Nigeria: One country, many people; Different languages, one nation; Different foods, clothes, and cultures; Celebrating our diversity; The Nigerian flag and what it represents",
+          "source_page": 648
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Meaning and importance of History; Peoples and places in the community; National unity and tolerance; Question and answer sessions",
+          "source_page": 649
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "- End of Term Assessment",
+          "source_page": 649
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "- Result distribution and vacation announcement",
+          "source_page": 649
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 650,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Heroes and Heroines in the Community - Part 1",
+          "content": "Introduction: What is a hero/heroine?; Qualities of heroes and heroines; Bravery, kindness, and selfless service; Heroes help other people; Simple stories of helpful people",
+          "source_page": 650
+        },
+        {
+          "week": "2",
+          "topic": "Heroes and Heroines in the Community - Part 2",
+          "content": "Local heroes in our community; Teachers as heroes (they help us learn); Doctors and nurses as heroes (they heal the sick); Police officers and firefighters; Parents and guardians as everyday heroes",
+          "source_page": 650
+        },
+        {
+          "week": "3",
+          "topic": "Nigerian National Heroes - Part 1",
+          "content": "Introduction to Nigerian heroes; Herbert Macaulay (Father of Nigerian Nationalism); Simple story of his contributions; Why we remember him; Picture study and discussion",
+          "source_page": 650
+        },
+        {
+          "week": "4",
+          "topic": "Nigerian National Heroes - Part 2",
+          "content": "Dr. Nnamdi Azikiwe (Zik of Africa); Simple story of his life and contributions; First President of Nigeria; His love for education and Nigeria; Lessons from his life",
+          "source_page": 650
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "- Assessment on Heroes and Heroines",
+          "source_page": 650
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "-",
+          "source_page": 650
+        },
+        {
+          "week": "7",
+          "topic": "Nigerian National Heroines - Part 1",
+          "content": "Introduction to Nigerian heroines; Queen Amina of Zazzau (Warrior Queen); Simple story of her bravery; Women can be heroes too; Lessons from her life",
+          "source_page": 650
+        },
+        {
+          "week": "8",
+          "topic": "Nigerian National Heroines - Part 2",
+          "content": "Funmilayo Ransome-Kuti (Women's rights activist); Simple story of how she helped women; Margaret Ekpo and her contributions; Other notable Nigerian women; Celebrating our heroines",
+          "source_page": 650
+        },
+        {
+          "week": "9",
+          "topic": "Developing the Attitude of Selfless Service - Part 1",
+          "content": "What is selfless service?; Helping others without expecting rewards; Being kind to classmates and friends; Sharing our things with others; Simple acts of kindness at home and school",
+          "source_page": 651
+        },
+        {
+          "week": "10",
+          "topic": "Developing the Attitude of Selfless Service - Part 2",
+          "content": "Volunteering and helping in the community; Keeping our environment clean; Helping elderly people; Being a good citizen; Role-play activities on helping others",
+          "source_page": 651
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all heroes and heroines learned; Stories and contributions review; Qualities of heroes and heroines; Selfless service and helping others; Interactive revision activities",
+          "source_page": 651
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "- End of Term Assessment",
+          "source_page": 651
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "- Result distribution and vacation announcement",
+          "source_page": 651
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "NIGERIAN HISTORY",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 652,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Traditional Rulers - Part 1",
+          "content": "Introduction to traditional rulers; Who is a traditional ruler?; The role of traditional rulers in our community; Traditional rulers as custodians of culture; Respect for traditional authority",
+          "source_page": 652
+        },
+        {
+          "week": "2",
+          "topic": "Traditional Rulers - Part 2",
+          "content": "Different types of traditional rulers in Nigeria; Emirs (in the North); Obas (in the Southwest); Igwes and Ezes (in the Southeast); Other traditional titles; Pictures and identification",
+          "source_page": 652
+        },
+        {
+          "week": "3",
+          "topic": "Traditional Title Holders - Part 1",
+          "content": "Introduction to traditional title holders; Chiefs and their roles; How people become title holders; Traditional titles in different communities; Importance of traditional titles",
+          "source_page": 652
+        },
+        {
+          "week": "4",
+          "topic": "Traditional Title Holders - Part 2",
+          "content": "Examples of traditional titles: Baale, Iyaloja, Otunba; Responsibilities of title holders; Helping the community; Working with traditional rulers; Respecting traditional institutions",
+          "source_page": 652
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "- Assessment on Traditional Rulers and Title Holders",
+          "source_page": 652
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "-",
+          "source_page": 652
+        },
+        {
+          "week": "7",
+          "topic": "The Local Government Chairperson - Part 1",
+          "content": "Introduction to Local Government; What is Local Government?; The Local Government Chairperson; Role of the Chairperson in our community; How Chairpersons are chosen (elected)",
+          "source_page": 652
+        },
+        {
+          "week": "8",
+          "topic": "The Local Government Chairperson - Part 2",
+          "content": "Responsibilities of the LG Chairperson; Providing services: roads, schools, healthcare; Leadership qualities of a good Chairperson; Difference between traditional rulers and LG Chairperson; Both work together for the community",
+          "source_page": 652
+        },
+        {
+          "week": "9",
+          "topic": "Leadership Qualities - Part 1",
+          "content": "What makes a good leader?; Honesty and truthfulness; Kindness and fairness; Listening to others; Being responsible and hardworking",
+          "source_page": 653
+        },
+        {
+          "week": "10",
+          "topic": "Leadership Qualities - Part 2",
+          "content": "Leadership in our daily lives; Being a class monitor/prefect; Leading by example; Respecting others; Developing leadership skills early; Role-play and activities",
+          "source_page": 653
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Comprehensive review of the year's work; History: meaning and importance; Peoples, places, heroes, and heroines; Traditional rulers and government leaders; Leadership qualities; Interactive games and quizzes",
+          "source_page": 653
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "- End of Term/Year Assessment",
+          "source_page": 653
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "- Result distribution and vacation announcement",
+          "source_page": 653
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 654,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Leadership",
+          "content": "Understanding what leadership means (someone who guides others); Leaders in our lives: parents, teachers, headteacher, class captain; Qualities of a good leader: kind, fair, honest, helpful; Why we need leaders: to guide us, keep order, help us; Respecting our leaders",
+          "source_page": 654
+        },
+        {
+          "week": "2",
+          "topic": "Leadership at Home",
+          "content": "Parents as leaders at home: father and mother; Responsibilities of parents: providing food, shelter, education, love; Grandparents and elder siblings as leaders; How children can help at home: tidying up, running errands, caring for younger siblings; Obeying parents and family leaders",
+          "source_page": 654
+        },
+        {
+          "week": "3",
+          "topic": "Community Mobilization (Part 1)",
+          "content": "Understanding what a community is (people living together in an area); Our communities: village, town, neighborhood, street; Different people in our community: neighbors, shopkeepers, doctors, teachers; Community leaders: chiefs, imams, pastors, baale, community heads; Identifying our own community",
+          "source_page": 654
+        },
+        {
+          "week": "4",
+          "topic": "Community Mobilization (Part 2)",
+          "content": "Working together in the community (cooperation); Community activities: clean-up exercises, festivals, meetings; How communities help each other: sharing, supporting in times of need; Children's role in community: being respectful, not littering, greeting elders; Benefits of a strong community: safety, unity, progress",
+          "source_page": 654
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 654
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 654
+        },
+        {
+          "week": "7",
+          "topic": "Civic Responsibilities (Part 1)",
+          "content": "Understanding responsibilities (things we must do); Responsibilities at home: cleaning our room, washing plates, helping with chores; Responsibilities at school: coming on time, doing homework, keeping classroom clean; Being responsible with our belongings; Consequences of not being responsible",
+          "source_page": 654
+        },
+        {
+          "week": "8",
+          "topic": "Civic Responsibilities (Part 2)",
+          "content": "Respecting others: elders, peers, younger ones; Saying \"please,\" \"thank you,\" \"sorry,\" \"excuse me\"; Not fighting or bullying others; Taking turns and sharing; Helping those in need",
+          "source_page": 655
+        },
+        {
+          "week": "9",
+          "topic": "National Identity and Symbols (Part 1)",
+          "content": "Understanding Nigeria as our country; Nigeria is in Africa; Green, white, green: colors of Nigerian flag; Meaning of flag colors: Green = agriculture/forests, White = peace and unity; Respecting our national flag",
+          "source_page": 655
+        },
+        {
+          "week": "10",
+          "topic": "National Identity and Symbols (Part 2)",
+          "content": "Nigerian National Anthem (first stanza - learning and understanding); Nigerian Coat of Arms: eagle, horses, Y- shape; Nigerian currency: Naira (₦) - notes and coins; National Independence Day: October 1st; Being proud to be Nigerian",
+          "source_page": 655
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Leadership, community, civic responsibilities, national symbols",
+          "source_page": 655
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 655
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 655
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 656,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "People, Places and Objects to Respect (Part 1)",
+          "content": "Respecting elders: parents, grandparents, teachers, community leaders; How to show respect: greeting properly, listening, obeying, using respectful titles; Respecting people of all ages and backgrounds; Treating everyone with kindness; Why respect is important in society",
+          "source_page": 656
+        },
+        {
+          "week": "2",
+          "topic": "People, Places and Objects to Respect (Part 2)",
+          "content": "Sacred places: churches, mosques, shrines, traditional sites; Respecting religious places: quiet behavior, proper dressing, no littering; Respecting national monuments and symbols; Objects to respect: flags, religious books, elders' belongings; Public places: schools, hospitals, government buildings - how to behave",
+          "source_page": 656
+        },
+        {
+          "week": "3",
+          "topic": "Marriage",
+          "content": "Understanding what marriage is (when a man and woman become husband and wife); Marriage creates families; Different types of marriage ceremonies: traditional, religious (church/mosque), court; Roles in marriage: husband and wife work together, love and respect each other; Children come from married parents (family structure)",
+          "source_page": 656
+        },
+        {
+          "week": "4",
+          "topic": "Responsible Parenting",
+          "content": "Understanding parenting (taking care of children); Responsibilities of parents: feeding, clothing, educating, loving children; What makes a good parent: caring, patient, provides for needs, teaches right from wrong; Children should obey and respect their parents; Appreciation for parents' efforts",
+          "source_page": 656
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 656
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 656
+        },
+        {
+          "week": "7",
+          "topic": "Roles of Members of the Family",
+          "content": "Father's role: provides for family, protects, guides children; Mother's role: cares for children, cooks, manages home, teaches children; Children's role: obey parents, help with chores, study hard, respect siblings; Grandparents' role: wisdom, advice, storytelling, cultural knowledge; Extended family members: uncles, aunts, cousins - support system",
+          "source_page": 656
+        },
+        {
+          "week": "8",
+          "topic": "Culture (Part 1)",
+          "content": "Understanding culture (the way of life of people); Nigerian culture is rich and diverse; Elements of culture: language, food, dressing, festivals, greetings; Different ethnic groups in Nigeria: Hausa, Igbo, Yoruba, and others; Learning about our own culture",
+          "source_page": 657
+        },
+        {
+          "week": "9",
+          "topic": "Culture (Part 2)",
+          "content": "Traditional dressing: wrapper, buba, iro, gele, caftan, agbada; Nigerian foods: jollof rice, pounded yam, egusi soup, tuwo, akara, moi-moi; Traditional greetings: prostrating (Yoruba boys), kneeling (Yoruba girls), handshakes; Cultural festivals and celebrations in our community; Preserving our culture",
+          "source_page": 657
+        },
+        {
+          "week": "10",
+          "topic": "Introduction to Nigeria",
+          "content": "Nigeria is our country (located in West Africa); Nigeria has 36 states and Federal Capital Territory (Abuja); Our national language: English; Major ethnic groups: Hausa, Igbo, Yoruba (and over 250 others); Major religions: Christianity, Islam, Traditional religions; Nigeria's motto: \"Unity and Faith, Peace and Progress\"; Identifying our own state and local government",
+          "source_page": 657
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Respect, marriage, family, culture, Nigeria",
+          "source_page": 657
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 657
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 657
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 658,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Attitudes and Values",
+          "content": "Understanding attitudes (how we think and feel about things); Understanding values (what we believe is important); Good attitudes: positive thinking, cheerfulness, willingness to help; Bad attitudes: complaining, laziness, selfishness; Nigerian core values: honesty, hard work, respect, integrity, patriotism",
+          "source_page": 658
+        },
+        {
+          "week": "2",
+          "topic": "Finding Help in Danger (Part 1)",
+          "content": "Understanding danger (situations that can harm us); Types of danger: fire, accidents, getting lost, strangers, bad weather; Emergency situations: accidents, illness, natural disasters; People who can help: parents, teachers, police, doctors, firefighters; Importance of staying calm in dangerous situations",
+          "source_page": 658
+        },
+        {
+          "week": "3",
+          "topic": "Finding Help in Danger (Part 2)",
+          "content": "Emergency numbers in Nigeria: 112 (emergency), 767 (police in Lagos), 199 (fire service); What information to give: name, location, type of emergency; Trusted adults to run to for help; Safety rules: don't talk to strangers, don't follow strangers, don't accept gifts from strangers; Knowing your parents' phone numbers and home address; \"Stranger Danger\" awareness",
+          "source_page": 658
+        },
+        {
+          "week": "4",
+          "topic": "Secure Environment (Part 1)",
+          "content": "Understanding a secure environment (a place where we are safe); What makes a place secure: locks on doors, fences, lights, security guards; Feeling safe at home, school, and community; Dangers in our environment: open wells, busy roads, sharp objects, fire; How to stay safe: following rules, staying alert, reporting dangers",
+          "source_page": 658
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 659
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 659
+        },
+        {
+          "week": "7",
+          "topic": "Secure Environment (Part 2) & Climate Change and the Environment",
+          "content": "Keeping our environment clean and safe: proper waste disposal, not littering; Reporting broken or dangerous things to adults; Understanding weather and climate (sun, rain, wind, hot, cold); Climate change (simple introduction): changes in weather patterns; Effects of climate change: too much heat, floods, droughts; Our role: planting trees, not wasting water, keeping environment clean",
+          "source_page": 659
+        },
+        {
+          "week": "8",
+          "topic": "Local Wildlife and Conservation",
+          "content": "Understanding wildlife (animals living in nature); Nigerian animals: monkeys, antelopes, birds, lizards, snakes, butterflies; Where animals live: forests, rivers, grasslands; Why we should protect animals: they are part of nature, some are endangered; Conservation means protecting nature; Not harming animals, not destroying their homes; Visiting zoos to learn about animals",
+          "source_page": 659
+        },
+        {
+          "week": "9",
+          "topic": "Money (Part 1)",
+          "content": "Understanding money (what we use to buy things); Nigerian currency: Naira (₦); Coins: ₦1, ₦2 (if still in circulation); Notes: ₦5, ₦10, ₦20, ₦50, ₦100, ₦200, ₦500, ₦1000; Identifying different denominations; Money has value - we work to earn money",
+          "source_page": 659
+        },
+        {
+          "week": "10",
+          "topic": "Money (Part 2)",
+          "content": "Uses of money: buying food, clothes, toys, paying for school, transportation; Earning money: parents work to earn money; Spending wisely: buying what we need, not wasting money; Saving money: keeping money for future use (piggy bank, savings box); Not stealing money - honesty with money; Simple buying and selling activities (role-play); Appreciating what parents buy with money",
+          "source_page": 659
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics: Values, safety, environment, wildlife, money",
+          "source_page": 660
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of Term Assessment",
+          "source_page": 660
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 660
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "First Term",
+      "review_status": "needs_review",
+      "source_page": 661,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Art: Introduction to Art",
+          "content": "Understanding what art is (creating beautiful things); Different types of art: drawing, painting, coloring, crafts; Art materials: pencils, crayons, colors, paper, brushes; Looking at simple artworks and pictures; Expressing feelings through art",
+          "source_page": 661
+        },
+        {
+          "week": "2",
+          "topic": "Scribbling and Drawing",
+          "content": "Free scribbling on paper (motor skill development); Controlled scribbling (staying within boundaries); Drawing simple lines: straight lines, curved lines, zigzag lines; Drawing basic shapes: circles, squares, triangles; Connecting dots to form pictures",
+          "source_page": 661
+        },
+        {
+          "week": "3",
+          "topic": "Letters and Numbers (Artistic Writing)",
+          "content": "Drawing and decorating letters A-Z; Drawing and decorating numbers 1-20; Creating patterns with letters and numbers; Coloring letter and number outlines; Making letter and number collages",
+          "source_page": 661
+        },
+        {
+          "week": "4",
+          "topic": "Colours (Part 1)",
+          "content": "Meaning of colours; Types of colours; Identifying primary colours: red, blue, yellow; Identifying secondary colours: green, orange, purple; Other colours: black, white, brown, pink, grey; Colours in our environment: sky, grass, sun, flowers; Free painting/coloring activities",
+          "source_page": 661
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4 (Practical art activities)",
+          "source_page": 661
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 661
+        },
+        {
+          "week": "7",
+          "topic": "Colours (Part 2)",
+          "content": "Mixing primary colours to make secondary colours: Red + Yellow = Orange; Blue + Yellow = Green; Red + Blue = Purple; Experimenting with colour mixing; Creating colour charts; Painting with mixed colours",
+          "source_page": 661
+        },
+        {
+          "week": "8",
+          "topic": "Crafts (Part 1)",
+          "content": "Understanding what crafts are (making things with our hands); Types of crafts: paper crafts, clay modeling, bead work; Materials for crafts: paper, glue, scissors, cardboard, clay; Safety with craft tools: using scissors carefully; Simple paper folding (folding paper into halves, quarters)",
+          "source_page": 662
+        },
+        {
+          "week": "9",
+          "topic": "Crafts (Part 2): Paper Crafts",
+          "content": "Tearing paper to create pictures; Cutting simple shapes from paper; Pasting cut shapes to make pictures (collage); Making paper chains; Creating greeting cards with paper",
+          "source_page": 662
+        },
+        {
+          "week": "10",
+          "topic": "Decorative Artwork",
+          "content": "Understanding decoration (making things beautiful); Decorating classroom with artworks; Making decorative items: paper flowers, garlands; Creating patterns for decoration: dots, lines, shapes; Decorating borders of drawings; Making name tags with decorations",
+          "source_page": 662
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review and practice: Drawing, colours, crafts, decorative art",
+          "source_page": 662
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Practical assessment: Create artwork using learned skills",
+          "source_page": 662
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 662
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 663,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Lines (Part 1)",
+          "content": "Understanding lines in art; Types of lines: straight lines (horizontal, vertical, diagonal); Drawing straight lines with and without rulers; Creating pictures using only straight lines; Line patterns and designs",
+          "source_page": 663
+        },
+        {
+          "week": "2",
+          "topic": "Lines (Part 2)",
+          "content": "Curved lines: drawing curves, circles, spirals; Wavy lines and zigzag lines; Thick and thin lines; Combining different types of lines; Creating patterns with lines",
+          "source_page": 663
+        },
+        {
+          "week": "3",
+          "topic": "Shapes and Texture (Part 1)",
+          "content": "Identifying basic 2D shapes: circle, square, triangle, rectangle, oval; Drawing shapes freehand and with templates; Combining shapes to create pictures (house, car, robot, etc.); Coloring shapes; Shape patterns and arrangements",
+          "source_page": 663
+        },
+        {
+          "week": "4",
+          "topic": "Shapes and Texture (Part 2)",
+          "content": "Understanding texture (how things feel: rough, smooth, soft, hard); Creating texture in art: dots, lines, scribbles; Rubbing textures (placing paper over textured surfaces and rubbing with crayon); Texture collage using different materials: sandpaper, cloth, leaves; Observing textures in environment",
+          "source_page": 663
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 663
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 663
+        },
+        {
+          "week": "7",
+          "topic": "Art Materials and Tools",
+          "content": "Identifying art materials: pencils, crayons, colored pencils, markers, paints; Drawing tools: pencils, pens, charcoal; Coloring tools: crayons, colored pencils, paints, markers; Cutting and pasting tools: scissors, glue, tape; Modeling tools: clay, plasticine, play dough; Proper care and storage of art materials",
+          "source_page": 663
+        },
+        {
+          "week": "8",
+          "topic": "Culture: Introduction to Nigerian Culture",
+          "content": "Understanding culture (the way of life of people); Nigerian cultural diversity: many ethnic groups; Elements of culture: language, food, dressing, festivals, art; Major Nigerian ethnic groups: Hausa, Igbo, Yoruba (and others); Appreciating our cultural heritage",
+          "source_page": 664
+        },
+        {
+          "week": "9",
+          "topic": "Ceremonies in Nigeria (Part 1)",
+          "content": "Understanding ceremonies (special celebrations/events); Naming ceremonies: welcoming babies into the family; How different ethnic groups celebrate naming ceremonies; Traditional items used: kola nut, palm wine, special foods; Role-playing a naming ceremony",
+          "source_page": 664
+        },
+        {
+          "week": "10",
+          "topic": "Ceremonies in Nigeria (Part 2): Body Beautification",
+          "content": "Traditional body beautification in Nigerian cultures; Hairstyles: threading, cornrows, tribal marks (historical context); Body decorations: henna/lalli designs, beads, jewelry; Traditional makeup: local black eyeliner (tiro/kwalli), camwood; Face painting activities (cultural patterns); Creating bead necklaces/bracelets (craft activity)",
+          "source_page": 664
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review: Lines, shapes, textures, art materials, Nigerian culture and ceremonies",
+          "source_page": 664
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Practical and oral assessment",
+          "source_page": 664
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends",
+          "source_page": 664
+        }
+      ]
+    },
+    {
+      "class_id": "basic-1",
+      "subject": "CULTURAL AND CREATIVE ARTS",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 665,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Performing Arts: Introduction",
+          "content": "Understanding performing arts (acting, dancing, singing, storytelling); Types of performing arts we'll learn: rhymes, folktales, songs; Importance of performing arts: entertainment, education, cultural preservation; Expressing ourselves through performance; Overcoming shyness: it's okay to perform!",
+          "source_page": 665
+        },
+        {
+          "week": "2",
+          "topic": "Cultural Rhymes (Part 1)",
+          "content": "Understanding rhymes (words that sound similar at the end); Learning Nigerian action rhymes: \"Que Que\" (clapping game); \"Who stole my chicken?\"; \"Tinko Tinko\"; Reciting rhymes with actions; Clapping patterns in rhymes",
+          "source_page": 665
+        },
+        {
+          "week": "3",
+          "topic": "Cultural Rhymes (Part 2)",
+          "content": "Learning more Nigerian rhymes and chants; Creating simple rhymes together as a class; Rhymes in different Nigerian languages (basic exposure); Group recitation of rhymes; Rhyme competition/performance",
+          "source_page": 665
+        },
+        {
+          "week": "4",
+          "topic": "Folktales (Part 1)",
+          "content": "Understanding folktales (traditional stories passed down through generations); Importance of folktales: teaching lessons, entertainment, preserving culture; Listening to Nigerian folktales:; \"The Tortoise and the Birds\"; \"Why the Sky is Far Away\"; Identifying characters in folktales; Discussing the moral lessons",
+          "source_page": 665
+        },
+        {
+          "week": "5",
+          "topic": "MID-TERM EXAMINATION",
+          "content": "Assessment of Weeks 1-4",
+          "source_page": 665
+        },
+        {
+          "week": "6",
+          "topic": "MID-TERM BREAK",
+          "content": "Holiday/Rest",
+          "source_page": 665
+        },
+        {
+          "week": "7",
+          "topic": "Folktales (Part 2)",
+          "content": "More Nigerian folktales: \"The Lion and the Mouse\" (African version); \"Anansi the Spider\" stories; Local folktales from pupils' ethnic groups; Retelling folktales in our own words; Acting out folktales (simple drama); Drawing scenes from folktales",
+          "source_page": 665
+        },
+        {
+          "week": "8",
+          "topic": "Songs (Part 1): Traditional Nigerian Songs",
+          "content": "Learning traditional Nigerian children's songs: \"Agolo\" (counting song); \"A ram sam sam\"; Local songs from different Nigerian cultures; Singing in different Nigerian languages (basic); Understanding meanings of songs; Singing with actions and movements",
+          "source_page": 666
+        },
+        {
+          "week": "9",
+          "topic": "Songs (Part 2): Action Songs and Movement",
+          "content": "Learning action songs with body movements; Creating simple dance moves to songs; Group singing activities; Call and response songs; Learning about rhythm in songs (clapping, drumming); Mini concert: performing songs for classmates",
+          "source_page": 666
+        },
+        {
+          "week": "10",
+          "topic": "Creative Performance: Putting It All Together",
+          "content": "Combining rhymes, folktales, and songs; Creating a simple class performance:; Opening song; Rhyme recitation; Folktale dramatization; Closing song; Practice and rehearsal; Building confidence in performing; Class performance showcase for other classes or parents",
+          "source_page": 666
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review and final rehearsals: Rhymes, folktales, songs, performances",
+          "source_page": 666
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "Performance assessment: Individual and group performances",
+          "source_page": 666
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING/VACATION",
+          "content": "Term ends - End-of-year performance (optional)",
+          "source_page": 666
+        }
+      ]
+    }
+  ]
+}
