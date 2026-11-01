@@ -1,0 +1,19 @@
+.curriculum-bulk-approval{
+ display:flex;align-items:center;justify-content:space-between;gap:18px;
+ padding:18px 20px;margin:16px 0 18px;
+ background:#f0f7fc;border:1px solid #c7dce9;border-radius:12px;
+}
+.curriculum-bulk-approval h3{font-size:16px;margin:0 0 8px;color:#133e59}
+.curriculum-bulk-approval p{margin:0 0 8px;color:#27485e}
+.curriculum-bulk-approval small{display:block;max-width:690px;color:#536b7c;line-height:1.5}
+.curriculum-bulk-approval button{
+ flex-shrink:0;border:0;border-radius:9px;background:#14527d;color:#fff;
+ padding:12px 17px;font-weight:700;cursor:pointer;
+}
+.curriculum-bulk-approval button:hover:not(:disabled){background:#0c3d5e}
+.curriculum-bulk-approval button:disabled{opacity:.5;cursor:not-allowed}
+.curriculum-bulk-result{margin:10px 0;padding:10px 14px;background:#e9f7ee;border-radius:8px;color:#195a37}
+@media(max-width:680px){
+ .curriculum-bulk-approval{flex-direction:column;align-items:stretch}
+ .curriculum-bulk-approval button{width:100%}
+}
