@@ -2783,84 +2783,6 @@
           "topic": "CLOSING 5 PREVOCATIONAL STUDIES TERM Topic Content",
           "content": "Report card distribution; Vacation assignment SCHEME OF WORK",
           "source_page": 888
-        },
-        {
-          "week": "1",
-          "topic": "Home Economics Tools Kitchen and Equipment I measuring scissors,",
-          "content": "equipment - pots, pans, knives, cutting boards, cups; Sewing equipment - needles, thread, measuring tape",
-          "source_page": 888
-        },
-        {
-          "week": "2",
-          "topic": "Home Economics Tools Cleaning and Equipment II dusters; drying",
-          "content": "equipment - brooms, mops, vacuum cleaners, Laundry equipment - washing machine, iron, rack; Uses of each equipment",
-          "source_page": 888
-        },
-        {
-          "week": "3",
-          "topic": "Safety in Handling Home Kitchen Economics Tools I appliances;",
-          "content": "safety - knife handling, hot surfaces, electrical Prevention of cuts and burns; Fire safety",
-          "source_page": 889
-        },
-        {
-          "week": "4",
-          "topic": "Safety in Handling Home Sewing Economics Tools II Electrical cleaning",
-          "content": "safety - needle and scissors safety, iron safety; safety; Chemical safety - detergents and agents",
-          "source_page": 889
-        },
-        {
-          "week": "5",
-          "topic": "MIDTERM Assessment EXAMINATION",
-          "content": "of topics covered in weeks 1-4",
-          "source_page": 889
-        },
-        {
-          "week": "6",
-          "topic": "MIDTERM BREAK Rest",
-          "content": "and relaxation period",
-          "source_page": 889
-        },
-        {
-          "week": "7",
-          "topic": "Maintenance of Home Cleaning Economics Tools Caring Regular",
-          "content": "kitchen equipment; Sharpening knives safely; for sewing equipment; Storing tools properly; checks",
-          "source_page": 889
-        },
-        {
-          "week": "8",
-          "topic": "Personal Grooming and Advanced Use of Basic Cosmetics I care;",
-          "content": "personal grooming; Skin care basics; Hair Nail care; Age-appropriate grooming",
-          "source_page": 889
-        },
-        {
-          "week": "9",
-          "topic": "Personal Grooming and Safe Use of Basic Cosmetics II Personal Self-esteem",
-          "content": "use of simple cosmetics; Natural beauty products; hygiene products; Making informed choices; and appearance",
-          "source_page": 889
-        },
-        {
-          "week": "10",
-          "topic": "Introduction to Meaning Entrepreneurship Turning Economics",
-          "content": "of entrepreneurship; Young entrepreneurs; skills into business; Agriculture and Home businesses; Creativity and innovation",
-          "source_page": 889
-        },
-        {
-          "week": "11",
-          "topic": "REVISION Review Question",
-          "content": "of all topics covered; Practice exercises; and answer sessions",
-          "source_page": 889
-        },
-        {
-          "week": "12",
-          "topic": "EXAMINATION End",
-          "content": "of term assessment",
-          "source_page": 889
-        },
-        {
-          "week": "13",
-          "topic": "CLOSING Report",
-          "content": "card distribution; Vacation assignment",
-          "source_page": 889
         }
       ]
     },
@@ -3122,6 +3044,93 @@
           "topic": "CLÔTURE PRIMARY Studies Science and Technology and Health Education Religious Studies Studies History and Citizenship and Creative Digital Literacy Studies",
           "content": "Report card distribution; Vacation assignment; French culture celebration; Preparation for Primary 6 6 SCHEME OF WORK TABLE OF CONTENT Studies Arts (CCA)",
           "source_page": 893
+        }
+      ]
+    },
+    {
+      "class_id": "basic-5",
+      "subject": "PREVOCATIONAL STUDIES",
+      "term": "Third Term",
+      "review_status": "needs_review",
+      "source_page": 888,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Home Economics Tools Kitchen and Equipment I measuring scissors,",
+          "content": "equipment - pots, pans, knives, cutting boards, cups; Sewing equipment - needles, thread, measuring tape",
+          "source_page": 888
+        },
+        {
+          "week": "2",
+          "topic": "Home Economics Tools Cleaning and Equipment II dusters; drying",
+          "content": "equipment - brooms, mops, vacuum cleaners, Laundry equipment - washing machine, iron, rack; Uses of each equipment",
+          "source_page": 888
+        },
+        {
+          "week": "3",
+          "topic": "Safety in Handling Home Kitchen Economics Tools I appliances;",
+          "content": "safety - knife handling, hot surfaces, electrical Prevention of cuts and burns; Fire safety",
+          "source_page": 889
+        },
+        {
+          "week": "4",
+          "topic": "Safety in Handling Home Sewing Economics Tools II Electrical cleaning",
+          "content": "safety - needle and scissors safety, iron safety; safety; Chemical safety - detergents and agents",
+          "source_page": 889
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM Assessment EXAMINATION",
+          "content": "of topics covered in weeks 1-4",
+          "source_page": 889
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK Rest",
+          "content": "and relaxation period",
+          "source_page": 889
+        },
+        {
+          "week": "7",
+          "topic": "Maintenance of Home Cleaning Economics Tools Caring Regular",
+          "content": "kitchen equipment; Sharpening knives safely; for sewing equipment; Storing tools properly; checks",
+          "source_page": 889
+        },
+        {
+          "week": "8",
+          "topic": "Personal Grooming and Advanced Use of Basic Cosmetics I care;",
+          "content": "personal grooming; Skin care basics; Hair Nail care; Age-appropriate grooming",
+          "source_page": 889
+        },
+        {
+          "week": "9",
+          "topic": "Personal Grooming and Safe Use of Basic Cosmetics II Personal Self-esteem",
+          "content": "use of simple cosmetics; Natural beauty products; hygiene products; Making informed choices; and appearance",
+          "source_page": 889
+        },
+        {
+          "week": "10",
+          "topic": "Introduction to Meaning Entrepreneurship Turning Economics",
+          "content": "of entrepreneurship; Young entrepreneurs; skills into business; Agriculture and Home businesses; Creativity and innovation",
+          "source_page": 889
+        },
+        {
+          "week": "11",
+          "topic": "REVISION Review Question",
+          "content": "of all topics covered; Practice exercises; and answer sessions",
+          "source_page": 889
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION End",
+          "content": "of term assessment",
+          "source_page": 889
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING Report",
+          "content": "card distribution; Vacation assignment",
+          "source_page": 889
         }
       ]
     }
