@@ -4,11 +4,15 @@ on:
     paths:
       - 'src/preloadedCurriculum.json'
       - 'scripts/validate-curriculum.cjs'
+      - 'scripts/validate-staged-curriculum.cjs'
+      - 'curriculum/staging/**'
       - '.github/workflows/curriculum-integrity.yml'
   pull_request:
     paths:
       - 'src/preloadedCurriculum.json'
       - 'scripts/validate-curriculum.cjs'
+      - 'scripts/validate-staged-curriculum.cjs'
+      - 'curriculum/staging/**'
       - '.github/workflows/curriculum-integrity.yml'
 jobs:
   validate:
@@ -19,3 +23,4 @@ jobs:
         with:
           node-version: '22'
       - run: node scripts/validate-curriculum.cjs
+      - run: node scripts/validate-staged-curriculum.cjs
