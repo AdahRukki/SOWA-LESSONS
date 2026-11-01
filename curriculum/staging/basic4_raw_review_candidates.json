@@ -1913,84 +1913,6 @@
           "topic": "CLOSING 4 SOCIAL AND CITIZENSHIP TERM Topic",
           "content": "Report card distribution; Vacation assignment STUDIES SCHEME OF WORK Content",
           "source_page": 817
-        },
-        {
-          "week": "1",
-          "topic": "Civic Activities",
-          "content": "Meaning of civic activities; Keeping the environment clean; Obeying traffic rules; Helping others; Being a good citizen",
-          "source_page": 817
-        },
-        {
-          "week": "2",
-          "topic": "Civic Activity (Volunteerism) I",
-          "content": "What is volunteerism; Importance of helping without pay; Volunteer work at school; Helping neighbors and community; Benefits of volunteering",
-          "source_page": 817
-        },
-        {
-          "week": "3",
-          "topic": "Civic Activity (Volunteerism) II",
-          "content": "Simple volunteer activities for children; Cleaning the school compound; Visiting the sick; Helping elderly people; Community service",
-          "source_page": 817
-        },
-        {
-          "week": "4",
-          "topic": "The Value of Money",
-          "content": "Meaning of money; Nigerian currency - Naira and Kobo; Coins and notes we use; Denominations of Nigerian money; Taking care of money",
-          "source_page": 818
-        },
-        {
-          "week": "5",
-          "topic": "MIDTERM EXAMINATION",
-          "content": "Assessment of topics covered in weeks 1-4",
-          "source_page": 818
-        },
-        {
-          "week": "6",
-          "topic": "MIDTERM BREAK",
-          "content": "Rest and relaxation period",
-          "source_page": 818
-        },
-        {
-          "week": "7",
-          "topic": "Using Money Wisely",
-          "content": "Needs and wants; Saving money; Spending wisely; Avoiding waste; Simple budgeting for children",
-          "source_page": 818
-        },
-        {
-          "week": "8",
-          "topic": "Important Phone Numbers and Their Uses",
-          "content": "Emergency phone numbers in Nigeria; Police I (emergency numbers); Fire service; Ambulance; When to call emergency numbers",
-          "source_page": 818
-        },
-        {
-          "week": "9",
-          "topic": "Important Phone Numbers and Their Uses II",
-          "content": "Calling for help safely; Giving clear information; Parents' phone numbers; School contact numbers; Stranger danger",
-          "source_page": 818
-        },
-        {
-          "week": "10",
-          "topic": "Finding Help and Protection",
-          "content": "Who can help you - parents, teachers, police; Places to find help; Right to protection; Speaking up when unsafe; Trusted adults",
-          "source_page": 818
-        },
-        {
-          "week": "11",
-          "topic": "REVISION",
-          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
-          "source_page": 818
-        },
-        {
-          "week": "12",
-          "topic": "EXAMINATION",
-          "content": "End of term assessment",
-          "source_page": 818
-        },
-        {
-          "week": "13",
-          "topic": "CLOSING",
-          "content": "Report card distribution; Vacation assignment",
-          "source_page": 818
         }
       ]
     },
@@ -3122,6 +3044,93 @@
           "topic": "CLOSING/VACATION PRIMARY 5 SCHEME TABLE OF Studies Science and Technology and Health Education Religious Studies Studies History and Citizenship Studies and Creative Arts (CCA) Digital Literacy Studies",
           "content": "Term ends OF WORK CONTENT",
           "source_page": 843
+        }
+      ]
+    },
+    {
+      "class_id": "basic-4",
+      "subject": "SOCIAL AND CITIZENSHIP STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 817,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Civic Activities",
+          "content": "Meaning of civic activities; Keeping the environment clean; Obeying traffic rules; Helping others; Being a good citizen",
+          "source_page": 817
+        },
+        {
+          "week": "2",
+          "topic": "Civic Activity (Volunteerism) I",
+          "content": "What is volunteerism; Importance of helping without pay; Volunteer work at school; Helping neighbors and community; Benefits of volunteering",
+          "source_page": 817
+        },
+        {
+          "week": "3",
+          "topic": "Civic Activity (Volunteerism) II",
+          "content": "Simple volunteer activities for children; Cleaning the school compound; Visiting the sick; Helping elderly people; Community service",
+          "source_page": 817
+        },
+        {
+          "week": "4",
+          "topic": "The Value of Money",
+          "content": "Meaning of money; Nigerian currency - Naira and Kobo; Coins and notes we use; Denominations of Nigerian money; Taking care of money",
+          "source_page": 818
+        },
+        {
+          "week": "5",
+          "topic": "MIDTERM EXAMINATION",
+          "content": "Assessment of topics covered in weeks 1-4",
+          "source_page": 818
+        },
+        {
+          "week": "6",
+          "topic": "MIDTERM BREAK",
+          "content": "Rest and relaxation period",
+          "source_page": 818
+        },
+        {
+          "week": "7",
+          "topic": "Using Money Wisely",
+          "content": "Needs and wants; Saving money; Spending wisely; Avoiding waste; Simple budgeting for children",
+          "source_page": 818
+        },
+        {
+          "week": "8",
+          "topic": "Important Phone Numbers and Their Uses",
+          "content": "Emergency phone numbers in Nigeria; Police I (emergency numbers); Fire service; Ambulance; When to call emergency numbers",
+          "source_page": 818
+        },
+        {
+          "week": "9",
+          "topic": "Important Phone Numbers and Their Uses II",
+          "content": "Calling for help safely; Giving clear information; Parents' phone numbers; School contact numbers; Stranger danger",
+          "source_page": 818
+        },
+        {
+          "week": "10",
+          "topic": "Finding Help and Protection",
+          "content": "Who can help you - parents, teachers, police; Places to find help; Right to protection; Speaking up when unsafe; Trusted adults",
+          "source_page": 818
+        },
+        {
+          "week": "11",
+          "topic": "REVISION",
+          "content": "Review of all topics covered; Practice exercises; Question and answer sessions",
+          "source_page": 818
+        },
+        {
+          "week": "12",
+          "topic": "EXAMINATION",
+          "content": "End of term assessment",
+          "source_page": 818
+        },
+        {
+          "week": "13",
+          "topic": "CLOSING",
+          "content": "Report card distribution; Vacation assignment",
+          "source_page": 818
         }
       ]
     }
