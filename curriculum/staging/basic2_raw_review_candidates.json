@@ -1388,87 +1388,9 @@
         },
         {
           "week": "13",
-          "topic": "Closing 2 ISLAMIC STUDIES TERM Topic",
-          "content": "• - SCHEME OF WORK Breakdown/Subtopics",
-          "source_page": 708
-        },
-        {
-          "week": "1",
-          "topic": "Suratun-Nasr",
-          "content": "• Introduction to Suratun-Nasr (Surah 110) • What does \"Nasr\" mean? (Help and Victory) • When this Surah was revealed • Learning and reciting verse 1 • Simple meaning: Allah's help and victory • Learning and reciting verse 2 • Simple meaning: People joining Islam • Pronouncing Arabic words correctly • - Practice: Reciting verses 1-2 together",
-          "source_page": 708
-        },
-        {
-          "week": "2",
-          "topic": "Suratun-Nasr",
-          "content": "• Review verses 1-2 • Learning and reciting verse 3 • Simple meaning: Praising Allah and asking forgiveness • Reciting complete Surah from memory • Main lessons: Thank Allah for victory, always say sorry to Allah • Stay humble when you win or succeed • When to recite this Surah • Recitation practice and competition • - Writing key words from the Surah",
-          "source_page": 709
-        },
-        {
-          "week": "3",
-          "topic": "Brief History of Prophet Musa (AS)",
-          "content": "• Who was Prophet Musa (Moses)? • The bad king: Fir'awn (Pharaoh) • Pharaoh was mean to the people • Baby Musa is born • Pharaoh wanted to kill baby boys • Musa's mother puts him in a basket • The basket floats on the river • Allah protects baby Musa • Pharaoh's wife finds the basket • She wants to keep baby Musa • Baby Musa goes back to his mother • - Allah's wonderful plan",
-          "source_page": 709
-        },
-        {
-          "week": "4",
-          "topic": "Brief History of Prophet Musa (AS)",
-          "content": "• Musa grows up in the palace • Musa leaves Egypt and goes to Madyan • Musa helps two girls at a well • Musa becomes a shepherd • Allah speaks to Musa from a burning bush • Allah tells Musa: \"Go to Pharaoh\" • Musa gets help from his brother Harun • Musa's special miracles: Staff turns into snake, shining hand • Musa goes to Pharaoh: \"Let my people go\" • Pharaoh says \"No!\" • The contest with magicians • - Magicians believe in Allah",
-          "source_page": 709
-        },
-        {
-          "week": "5",
-          "topic": "Mid-Term Examination",
-          "content": "• Assessment of Topics covered in Weeks 1-4",
-          "source_page": 709
-        },
-        {
-          "week": "6",
-          "topic": "Mid-Term Break",
-          "content": "• -",
-          "source_page": 709
-        },
-        {
-          "week": "7",
-          "topic": "Brief History of Prophet Musa (AS)",
-          "content": "• Musa leads people out of Egypt • Pharaoh chases them with his army • They reach the Red Sea • People are scared • Musa says: \"Allah will help us\" • The sea splits into two! • People walk through safely • Pharaoh tries to follow • The sea closes and Pharaoh drowns • Allah saves Musa and the people • - Lessons: Trust Allah, be brave, Allah helps good people",
-          "source_page": 710
-        },
-        {
-          "week": "8",
-          "topic": "Brief History of Prophet Isa (AS)",
-          "content": "• Who was Prophet Isa (Jesus)? • Maryam (Mary): A very good woman • Maryam loved to pray • Angel Jibreel visits Maryam • Allah gives Maryam a baby (miracle - no father) • Baby Isa is born • Allah sends dates and water for Maryam • People ask questions • Baby Isa speaks from the cradle! • Baby Isa says: \"I am Allah's servant\" • Everyone is amazed • - Lesson: Allah can do anything",
-          "source_page": 710
-        },
-        {
-          "week": "9",
-          "topic": "Brief History of Prophet Isa (AS)",
-          "content": "• Isa grows up as a good boy • Isa loves his mother Maryam • Isa becomes a Prophet • Isa's message: Worship only Allah • Isa's miracles (with Allah's permission): o Making clay birds come alive o Healing sick people o Helping blind people see • Many people believe in Isa • Some people didn't like Isa • Allah protects Prophet Isa • - Lessons: Be kind, help others, listen to Prophets",
-          "source_page": 710
-        },
-        {
-          "week": "10",
-          "topic": "Brief History of Prophet Muhammad (SAW) - Birth",
-          "content": "• Arabia before Prophet Muhammad (SAW) • The Year of the Elephant • Prophet Muhammad is born in Makkah • His father Abdullah (died before he was born) • His mother Aminah • Special signs on the night he was born • His grandfather Abdul-Muttalib • Baby Muhammad goes to live in the desert • His nurse Halima looks after him • Blessings come to Halima's family • - Young Muhammad returns to his mother",
-          "source_page": 710
-        },
-        {
-          "week": "11",
-          "topic": "Revision",
-          "content": "• Comprehensive review of all topics covered in Second Term",
-          "source_page": 711
-        },
-        {
-          "week": "12",
-          "topic": "Examination",
-          "content": "• End of Second Term Assessment",
-          "source_page": 711
-        },
-        {
-          "week": "13",
           "topic": "Closing",
           "content": "• -",
-          "source_page": 711
+          "source_page": 708
         }
       ]
     },
@@ -2339,6 +2261,93 @@
           "topic": "CLOSING/VACATION PRIMARY 3 SCHEME TABLE Studies Science and Health Education Religious Studies Studies History and Citizenship Studies and Creative Arts (CCA)",
           "content": "• End of Academic Session OF WORK OF CONTENT",
           "source_page": 741
+        }
+      ]
+    },
+    {
+      "class_id": "basic-2",
+      "subject": "ISLAMIC STUDIES",
+      "term": "Second Term",
+      "review_status": "needs_review",
+      "source_page": 708,
+      "rows": [
+        {
+          "week": "1",
+          "topic": "Suratun-Nasr",
+          "content": "• Introduction to Suratun-Nasr (Surah 110) • What does \"Nasr\" mean? (Help and Victory) • When this Surah was revealed • Learning and reciting verse 1 • Simple meaning: Allah's help and victory • Learning and reciting verse 2 • Simple meaning: People joining Islam • Pronouncing Arabic words correctly • - Practice: Reciting verses 1-2 together",
+          "source_page": 708
+        },
+        {
+          "week": "2",
+          "topic": "Suratun-Nasr",
+          "content": "• Review verses 1-2 • Learning and reciting verse 3 • Simple meaning: Praising Allah and asking forgiveness • Reciting complete Surah from memory • Main lessons: Thank Allah for victory, always say sorry to Allah • Stay humble when you win or succeed • When to recite this Surah • Recitation practice and competition • - Writing key words from the Surah",
+          "source_page": 709
+        },
+        {
+          "week": "3",
+          "topic": "Brief History of Prophet Musa (AS)",
+          "content": "• Who was Prophet Musa (Moses)? • The bad king: Fir'awn (Pharaoh) • Pharaoh was mean to the people • Baby Musa is born • Pharaoh wanted to kill baby boys • Musa's mother puts him in a basket • The basket floats on the river • Allah protects baby Musa • Pharaoh's wife finds the basket • She wants to keep baby Musa • Baby Musa goes back to his mother • - Allah's wonderful plan",
+          "source_page": 709
+        },
+        {
+          "week": "4",
+          "topic": "Brief History of Prophet Musa (AS)",
+          "content": "• Musa grows up in the palace • Musa leaves Egypt and goes to Madyan • Musa helps two girls at a well • Musa becomes a shepherd • Allah speaks to Musa from a burning bush • Allah tells Musa: \"Go to Pharaoh\" • Musa gets help from his brother Harun • Musa's special miracles: Staff turns into snake, shining hand • Musa goes to Pharaoh: \"Let my people go\" • Pharaoh says \"No!\" • The contest with magicians • - Magicians believe in Allah",
+          "source_page": 709
+        },
+        {
+          "week": "5",
+          "topic": "Mid-Term Examination",
+          "content": "• Assessment of Topics covered in Weeks 1-4",
+          "source_page": 709
+        },
+        {
+          "week": "6",
+          "topic": "Mid-Term Break",
+          "content": "• -",
+          "source_page": 709
+        },
+        {
+          "week": "7",
+          "topic": "Brief History of Prophet Musa (AS)",
+          "content": "• Musa leads people out of Egypt • Pharaoh chases them with his army • They reach the Red Sea • People are scared • Musa says: \"Allah will help us\" • The sea splits into two! • People walk through safely • Pharaoh tries to follow • The sea closes and Pharaoh drowns • Allah saves Musa and the people • - Lessons: Trust Allah, be brave, Allah helps good people",
+          "source_page": 710
+        },
+        {
+          "week": "8",
+          "topic": "Brief History of Prophet Isa (AS)",
+          "content": "• Who was Prophet Isa (Jesus)? • Maryam (Mary): A very good woman • Maryam loved to pray • Angel Jibreel visits Maryam • Allah gives Maryam a baby (miracle - no father) • Baby Isa is born • Allah sends dates and water for Maryam • People ask questions • Baby Isa speaks from the cradle! • Baby Isa says: \"I am Allah's servant\" • Everyone is amazed • - Lesson: Allah can do anything",
+          "source_page": 710
+        },
+        {
+          "week": "9",
+          "topic": "Brief History of Prophet Isa (AS)",
+          "content": "• Isa grows up as a good boy • Isa loves his mother Maryam • Isa becomes a Prophet • Isa's message: Worship only Allah • Isa's miracles (with Allah's permission): o Making clay birds come alive o Healing sick people o Helping blind people see • Many people believe in Isa • Some people didn't like Isa • Allah protects Prophet Isa • - Lessons: Be kind, help others, listen to Prophets",
+          "source_page": 710
+        },
+        {
+          "week": "10",
+          "topic": "Brief History of Prophet Muhammad (SAW) - Birth",
+          "content": "• Arabia before Prophet Muhammad (SAW) • The Year of the Elephant • Prophet Muhammad is born in Makkah • His father Abdullah (died before he was born) • His mother Aminah • Special signs on the night he was born • His grandfather Abdul-Muttalib • Baby Muhammad goes to live in the desert • His nurse Halima looks after him • Blessings come to Halima's family • - Young Muhammad returns to his mother",
+          "source_page": 710
+        },
+        {
+          "week": "11",
+          "topic": "Revision",
+          "content": "• Comprehensive review of all topics covered in Second Term",
+          "source_page": 711
+        },
+        {
+          "week": "12",
+          "topic": "Examination",
+          "content": "• End of Second Term Assessment",
+          "source_page": 711
+        },
+        {
+          "week": "13",
+          "topic": "Closing",
+          "content": "• -",
+          "source_page": 711
         }
       ]
     }
